@@ -23,6 +23,6 @@ export class AppComponent implements OnInit{
   }
 
   getScript():void {
-    this.script = this.scriptProviderService.getScript();
+    this.scriptProviderService.getScript().then(MOCKSCRIPT => this.script = MOCKSCRIPT);
   }
 }

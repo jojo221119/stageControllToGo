@@ -24,8 +24,8 @@ export class ScriptProviderService {
 
   constructor() { }
 
-  getScript():Line[] {
-    return MOCKSCRIPT;
+  getScript():Promise<Line[]> {
+    return Promise.resolve(MOCKSCRIPT);
   }
 
 }
