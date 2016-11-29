@@ -5,12 +5,9 @@ export class StageDirection extends Line{
   stageDirection:string;
 
   constructor(id:number, stageDirection:string) {
-    super(id);
+    super(id, 'stageDirection');
 
     this.stageDirection = stageDirection;
   }
 
-  getHTML():string {
-    return "<p>StageDirection "+ this.id + "<p>";
-  }
 }

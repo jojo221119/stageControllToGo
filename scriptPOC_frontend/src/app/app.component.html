@@ -2,4 +2,12 @@
   {{title}}
 </h1>
 
-<div *ngFor="let line of script" [innerHTML]=line.getHTML()></div>
+<div *ngFor="let line of script" [ngSwitch]="line.type">
+
+  <button *ngSwitchCase="'effect'" id='effect{{line.id}}' (click)="line.startEffect()"> {{line.effectName}}</button>
+
+  <p *ngSwitchCase="'dialog'" id='dialog{{line.id}}'><span class='speaker'> {{line.speaker}}: </span>{{line.text}}</p>
+
+  <p *ngSwitchCase="'stageDirection'" id='stageDirection{{line.id}}' class='stageDirection'> {{line.stageDirection}}</p>
+
+</div>

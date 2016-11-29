@@ -1,3 +1,7 @@
 span.speaker {
   font-weight: bold;
 }
+
+.stageDirection{
+  font-style: italic;
+}

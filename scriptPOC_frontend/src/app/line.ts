@@ -2,10 +2,11 @@
 
 export abstract class Line {
   id: number;
+  type: string;
 
-  constructor(id:number){
+  constructor(id:number, type:string){
     this.id = id;
+    this.type = type;
   }
 
-  abstract getHTML():string;
 }
