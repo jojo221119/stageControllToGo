@@ -1,0 +1,5984 @@
+
+\Seite{8}
+
+\begin{Regie}
+Der tollste Tag --
+Frei nach Beaumarchais von Peter Turrini
+
+
+Personen
+
+	Figaro:	ein Bediensteter --
+	Karl Friedrich
+
+	Susanne:	eine Zofe --
+	Konni
+
+	Graf Almaviva:	ein Schlossherr --
+	Donatus
+
+	Gräfin Almaviva:	seine Gemahlin --
+	Bärbel
+
+	Bazillus:	die Intrigantin des Grafen --
+	Christa
+
+	Bartholo:	ein Schlossbewohner --
+	Peter
+
+	Marcelline:	eine Schlossbewohnerin --
+	Angelika O.
+
+	Cherubin:	ein gehobener Diener --
+	Chris
+
+	Don Guzmann di Stibizia:	ein Richter --
+	Chris
+
+	Zettelkopf:	sein Schreiber --
+	Angelika Baur
+
+	ein gräflicher Diener:  -- Peter
+
+	Gärtner: -- Peter
+
+Etwa 20 Minuten vor Beginn:
+Musik ab Titel 2 leise (ST auf etwa 1/8, etwa 8 Uhr-Stellung) anschalten. 
+\end{Regie}
+
+\Seite{9}
+
+\AudioEinstellung{Telefon}
+\Einstellung{Dunkel mit Musik leise}
+\begin{Regie}
+Zuschauer nehmen Platz.
+
+Jetzt geht es los:
+\end{Regie}
+
+\Einstellung{Aufbau}
+\begin{Regie}
+Donatus macht Ansage.
+\end{Regie}
+\Einstellung{Dunkel}
+\begin{Regie}
+Titel 1 sehr laut (ST etwa auf weniger als 1/2 oder 11 Uhr-Stellung) anschalten. 
+\end{Regie}
+\LangsameEinstellung{Titel 1 (45s laut)}
+\begin{Regie}
+Cherubin und Susanne rennen hinter die Bühne.
+Figaro tritt auf.
+Figaro kniet am Boden, mit dem Hintern zum Publikum. 
+Er mißt den Boden aus.
+Bei Sekunde 45 Musik ausschalten
+d.h. ST auf dem Mischer ganz nach links drehen (aus).
+\end{Regie}
+
+\begin{FIGARO}
+Ja, mein Herr ist gütig. Von seinen 
+siebenundsechzig Betten schenkt er mir ein ganzes. Wie 
+kann so ein erlauchter Hintern nur siebenundsechzig Betten durchwetzen?
+ \begin{Regie}Figaro greift sich auf den eigenen und dreht sich blitzschnell um.\end{Regie} 
+Selbst wenn ich die sämtlichen Hintern unserer 
+Küchen-, Kammer- und Kellerzofen in Rechnung stelle, 
+ist der Verschleiß beträchtlich. Nur das Maßlose ist 
+aristokratisch, sagt mein Herr immer, wenn er mich 
+schlägt. Ja, mein Herr ist gütig. Selbst mit seiner Hände 
+Arbeit sorgt er für das verschärfte Wohl seiner Untergebenen.
+ \begin{Regie}Figaro mißt den Boden aus.\end{Regie} 
+Siebenundvierzig auf elf ...
+\end{FIGARO}
+
+\LangsameEinstellung{Es wird langsam hell}
+
+\begin{SUSANNE}
+ \begin{Regie}Susanne schleicht von hinten heran und setzt sich auf Figaros Rücken.\end{Regie} 
+\end{SUSANNE}
+
+\Seite{10}
+
+\begin{FIGARO}
+Oh, was für eine willkommene Last. Das ist Susanne, 
+meine Braut, mein Engel. Die Göttin von Sevilla und Umgebung ...
+\end{FIGARO}
+
+\begin{SUSANNE}
+... die auf einem Esel reitet.
+\end{SUSANNE}
+
+\begin{FIGARO}
+Dann bin ich der glücklichste Esel ...
+\end{FIGARO}
+
+\begin{SUSANNE}
+... von Sevilla und Umgebung ...
+\end{SUSANNE}
+
+\begin{FIGARO}
+Noch nie hat ein zarteres Gewicht das Ende seiner 
+Wirbelsäule umschmeichelt. Noch nie haben sich 
+Backen so willig an Backen geschmiegt...
+\end{FIGARO}
+
+\begin{SUSANNE}
+Bleib sachlich! Was machst du hier am Boden? 
+Du kniest in einem wildfremden Zimmer und murmelst 
+Zahlen vor dich hin.
+\end{SUSANNE}
+
+\begin{FIGARO}
+Primo ist dies kein wildfremdes, sondern unser 
+Zimmer. Und secondo murmle ich nicht Zahlen, sondern 
+vermesse den Standort unseres Bettes. Und terzo 
+knie ich, weil du auf mir sitzt.
+\end{FIGARO}
+
+\begin{SUSANNE}
+ \begin{Regie}springt auf\end{Regie}  Unser Zimmer? Unser Bett?
+\end{SUSANNE}
+
+\begin{FIGARO}
+ \begin{Regie}steht auf und nimmt eine pathetische Haltung an\end{Regie}  
+So höre, Schimpfende! Seine wohlweisliche Exzellenz, 
+der Graf von Almaviva, haben uns in seiner gnädigen 
+Güte dieses, sein siebenhundertvierundzwanzigstes 
+Zimmer, und jenes, sein siebenundsechzigstes Bett, 
+zum familiären Gebrauche überlassen. Was sagst du nun?
+\end{FIGARO}
+
+\begin{SUSANNE}
+Ich sage ... nun.
+\end{SUSANNE}
+
+\begin{FIGARO}
+Nun?
+\end{FIGARO}
+
+\begin{SUSANNE}
+Nun, ja.
+\end{SUSANNE}
+
+\begin{FIGARO}
+Ja?
+\end{FIGARO}
+
+\begin{SUSANNE}
+Nein.
+\end{SUSANNE}
+
+\begin{FIGARO}
+Wieso nein?
+\end{FIGARO}
+
+\begin{SUSANNE}
+Wieso ja?
+\end{SUSANNE}
+
+\begin{FIGARO}
+Weil zwischen nein und ja ein Grund liegt.
+\end{FIGARO}
+
+\begin{SUSANNE}
+Und wenn ich Grund genug hätte, den Grund 
+nicht zu nennen? 
+\end{SUSANNE}
+
+\begin{FIGARO}
+Das wären zwei Gründe. Um so mehr Grund, sie 
+zu nennen. Nun?
+
+
+\end{FIGARO}
+
+\Seite{11}
+
+
+\begin{SUSANNE}
+Nein.
+\end{SUSANNE}
+
+\begin{FIGARO}
+Susannchen, ich überrede den Grafen, daß er uns 
+auch seinen zweihundertvierundvierzigsten Teppich 
+schenkt. Und die fehlende Einrichtung werden wir in 
+unauffälligen Raten aus der Dachkammer 
+herbeischaffen.
+\end{FIGARO}
+
+\begin{SUSANNE}
+Figarino, dieses Zimmer ist schön durch deine 
+Gegenwart.
+\end{SUSANNE}
+
+\begin{FIGARO}
+Dann lassen wir die Möbel!
+\end{FIGARO}
+
+\begin{SUSANNE}
+Und das Zimmer!
+\end{SUSANNE}
+
+\begin{FIGARO}
+Was hast du bloß gegen dieses Zimmer? 
+Die Abstellkammer der Herrschaften ist ein nobler Zufluchtsort 
+für die Liebe der Bediensteten. Und außerdem liegt 
+es genau zwischen den Gemächern der Brotgeber.
+\end{FIGARO}
+
+\begin{SUSANNE}
+Eben.
+\end{SUSANNE}
+
+\begin{FIGARO}
+Eben das ist ein weiterer Vorteil dieses geglückten 
+Raumes. Nachts, wenn die Herrin wegen Bauchweh 
+läutet, schon setzt du hurtig ins feine Gemach über. 
+Und ist dem Herrn was dringend Unnötiges gefällig, 
+schon donnere ich diensteifrig zu seiner Verfügung. Du 
+siehst, das Zimmer garantiert uns den kürzesten 
+Dienstweg.
+\end{FIGARO}
+
+\begin{SUSANNE}
+Und dem Herrn Grafen den kürzesten Schleichweg.
+\end{SUSANNE}
+
+\begin{FIGARO}
+Was willst du damit sagen?
+\end{FIGARO}
+
+\begin{SUSANNE}
+Daß der Weg, den du davondonnerst, vom Grafen 
+jederzeit beschlichen werden kann.
+\end{SUSANNE}
+
+\begin{FIGARO}
+Wenn er mich weit genug wegschickt!
+\end{FIGARO}
+
+\begin{SUSANNE}
+Wenn er dich weit genug wegschickt.
+\end{SUSANNE}
+
+\begin{FIGARO}
+Wenn er mich weit genug wegschickt? Heiliges 
+Osterei von Kastilien, ein fürchterlicher Verdacht 
+klemmt sich in meiner Brust.
+\end{FIGARO}
+
+\begin{SUSANNE}
+Trotz alledem ein schönes Zimmer.
+\end{SUSANNE}
+
+\begin{FIGARO}
+Es verliert zusehends. Glaubst du wirklich, daß 
+mir der Graf Hörner aufsetzen will? Ich und ein 
+Geweih?
+\end{FIGARO}
+
+\begin{SUSANNE}
+Ich weiß, was ich glaube. Bazillus übermittelt 
+mir die Liebe seines Herrn am laufenden Meter.
+
+
+\end{SUSANNE}
+
+\Seite{12}
+
+
+\begin{FIGARO}
+Bazillus, diese walische Schraube. Dieser 
+Leichenbriefträger gräflicher Gefühle ... Ich werde ihn 
+prügeln, daß er seinen Vornamen bis auf weiteres 
+vergißt.
+\end{FIGARO}
+
+\begin{SUSANNE}
+Er ist ein treuer Schurke seines Herrn.
+\end{SUSANNE}
+
+\begin{FIGARO}
+Der Herr Graf, hat er nicht selbst dieses Vorrecht 
+der ersten Nacht abgeschafft?
+\end{FIGARO}
+
+\begin{SUSANNE}
+Um es bei mir wieder anzuschaffen.
+\end{SUSANNE}
+
+\begin{FIGARO}
+Diese Anschaffung wird ihn teuer zu stehen kommen.
+\end{FIGARO}
+
+\begin{SUSANNE}
+Die erste Anzahlung hat er schon geleistet. Meine Ausstattung.
+\end{SUSANNE}
+
+\begin{FIGARO}
+Was für ein gnädiger Vorschuß auf die Gunst meiner 
+Geliebten! Und ich dachte, es sei der wohlverdiente 
+Lohn meiner Treue! So viel Dummheit ist schmerzlich.
+\end{FIGARO}
+
+\begin{SUSANNE}
+Figaro denkt, der Graf lenkt.
+\end{SUSANNE}
+
+\begin{FIGARO}
+Nicht mehr lange. Die Klugheit der Großen ist die 
+Falschheit der Kleinen. Küsse mich, o Muse aller 
+Schurken. Ein Himmelreich für eine gute Intrige. Ich 
+könnte ihn als Ehrenmann fordern, 
+\end{FIGARO}
+
+\begin{SUSANNE}
+aber die Ehre beginnt leider erst beim Baron. 
+\end{SUSANNE}
+
+\begin{FIGARO}
+Ich könnte ihn aus rasender Eifersucht töten, 
+\end{FIGARO}
+
+\begin{SUSANNE}
+aber auch dieses Motiv gilt nur für Edelleute. 
+\end{SUSANNE}
+
+\begin{FIGARO}
+Ich könnte ihn wegen ungebührlicher Nachstellerei verklagen, 
+\end{FIGARO}
+
+\begin{SUSANNE}
+aber leider beginnt die 
+Gerechtigkeit erst bei hundert Goldstücken.
+\end{SUSANNE}
+
+\begin{FIGARO}
+Da ist guter Rat teuer. 	 
+
+\end{FIGARO}
+
+\begin{Regie}
+Es läutet.
+\end{Regie}
+
+\begin{SUSANNE}
+Das ist die Gräfin. Ich verschwinde.
+\end{SUSANNE}
+
+\begin{FIGARO}
+Entschwinde nicht so flugs, mein Täubchen. Küß 
+mich. Ein Kuß auf die Vorderlippe erhöht das Denkvermögen, 
+wie die Professoren sagen.
+\end{FIGARO}
+
+\begin{SUSANNE}
+Und was wird morgen mein Mann sagen, wenn 
+ich heute den Bräutigam küsse?
+\end{SUSANNE}
+
+\begin{FIGARO}
+Ich erlaube es. Ausnahmsweise. 	 
+\end{FIGARO}
+
+\begin{SUSANNE}
+ \begin{Regie}Susanne küßt ihn kurz.\end{Regie}  Ausnahmsweise.	 
+
+
+\end{SUSANNE}
+
+\Seite{13}
+
+
+\begin{Regie}
+Es läutet stärker.
+\end{Regie}
+
+\begin{FIGARO}
+Was für ein Kuß. Ich höre vor Seligkeit die Glocken läuten.
+\end{FIGARO}
+
+\begin{SUSANNE}
+ \begin{Regie}entsetzt\end{Regie}  Die Gräfin.  \begin{Regie}ab\end{Regie} 
+
+\end{SUSANNE}
+
+\begin{FIGARO}
+ \begin{Regie}allein\end{Regie} 
+Weg ist sie, die honigsüße Biene. Daß hier der 
+Graf den Mitschlecker spielen will, ist wider die Regeln 
+meines Herzens. Jetzt geht mir ein Ballon auf. Mich befördert 
+er zum Depeschenreiter, und während ich voll 
+Schweiß und Treue dahinreite, reitet er voll Schweiß 
+und Lust mein Susannchen. Während ich seinen 
+Befehlen nachkomme, sorgt er für meine 
+Nachkommenschaft. Würde doch nicht nur die Armut, 
+sondern auch die Geilheit vor dem Adelsstande 
+haltmachen. Diese Leidenschaft wird Ihnen noch leid 
+tun, mein gnädiger Herr. Figaro, was macht ein Diener, 
+dem weder Eifersucht noch Ehre noch Gerechtigkeit 
+zugebilligt werden? Er wird schlecht, intrigant, falsch 
+und verzeiht sich diese Eigenschaften zu besseren 
+Zeiten. Mit der Glut seiner Leidenschaft werde ich dem 
+Grafen das eigene Fell verbrennen und mit feuriger 
+Bosheit die Mitgift in meine Taschen praktizieren. Das 
+nenne ich Gerechtigkeit. 	 
+
+\end{FIGARO}
+
+\begin{Regie}
+Bartholo, ein etwas heruntergekommener Medikus, und 
+Marcelline, eine Dame in den mehr als besten Jahren, 
+treten auf.
+\end{Regie}
+
+\begin{BARTHOLO}
+ \begin{Regie}zu Figaro\end{Regie}  Natternkopf und Otternschwanz! Ist 
+dieser ungebildete Schweinskopf auch hier?
+\end{BARTHOLO}
+
+\begin{FIGARO}
+Otternkopf und Natternschwanz! Ist dieses gebildete 
+Schweinshaupt auch hier?
+\end{FIGARO}
+
+\begin{BARTHOLO}
+Wenn Sie nichts Klügeres zwischen Ihren Zähnen 
+hervorpressen, mein Herr.
+\end{BARTHOLO}
+
+\begin{FIGARO}
+Ich will Sie nicht überfordern, mein Herr.
+\end{FIGARO}
+
+\begin{BARTHOLO}
+Das gelingt Ihnen bereits durch Ihre Gegenwart, mein Herr!
+\end{BARTHOLO}
+
+\begin{FIGARO}
+Auch die Ihre lastet schwer auf mir, mein Herr!
+
+
+
+\end{FIGARO}
+
+\Seite{14}
+
+
+\begin{BARTHOLO}
+Mein Herr!
+\end{BARTHOLO}
+
+\begin{FIGARO}
+ \begin{Regie}äfft ihn nach\end{Regie}  Mein Herr!
+\end{FIGARO}
+
+\begin{MARCELLINE}
+Meine Herren! Ihre Höflichkeit übersteigt 
+das Maß des Erlaubten.
+\end{MARCELLINE}
+
+\begin{FIGARO}
+Madame, ich überlasse Euch gerne seine unerträgliche Gegenwart. 
+Adieu, mein Herr, und denken Sie 
+sich ein teures Hochzeitsgeschenk aus.
+\end{FIGARO}
+
+\begin{BARTHOLO}
+Worauf du mein Gift nehmen kannst! 
+\end{BARTHOLO}
+
+\begin{FIGARO}
+ \begin{Regie}ab\end{Regie} 
+\end{FIGARO}
+
+\begin{BARTHOLO}
+Verfluchte Mutter Gottes, dieser Kerl ist mir 
+widerlicher als ein kranker Steinklopfer. Ein 
+Geschwülst von Adel ist mir lieber als das Gesicht 
+eines Dieners. Was sind die kranken, blassen, zarten 
+Lippen einer Komtesse gegen den stinkenden Mund 
+einer gesunden Magd? Pestilenz und Petrus, warum 
+darf das Volk krank werden, da uns schon vor seiner 
+Gesundheit ekelt?
+\end{BARTHOLO}
+
+\begin{MARCELLINE}
+Ihr habt nichts als Eure Profession im gebildeten Kopf.
+\end{MARCELLINE}
+
+\begin{BARTHOLO}
+Weil die Profession die Bildung macht, meine 
+Dame. Aber zur Sache. Warum haben Sie mich herbestellt? Ist jemand krank?
+\end{BARTHOLO}
+
+\begin{MARCELLINE}
+Der Graf.
+\end{MARCELLINE}
+
+\begin{BARTHOLO}
+Der Graf?
+\end{BARTHOLO}
+
+\begin{MARCELLINE}
+Eine schreckliche Krankheit. Sie befällt ihn 
+beim Anblick eines schönen Mädchens.
+\end{MARCELLINE}
+
+\begin{BARTHOLO}
+Infiscation!
+\end{BARTHOLO}
+
+\begin{MARCELLINE}
+Steigert sich mit Einbruch der Dämmerung.
+\end{MARCELLINE}
+
+\begin{BARTHOLO}
+Convulsion!
+\end{BARTHOLO}
+
+\begin{MARCELLINE}
+Und tobt die halbe Nacht.
+\end{MARCELLINE}
+
+\begin{BARTHOLO}
+Explosion! Alles klario! Ich diagnostiziere auf 
+Fleckfieber.
+\end{BARTHOLO}
+
+\begin{MARCELLINE}
+Ich diagnostiziere auf Untreue.
+\end{MARCELLINE}
+
+\begin{BARTHOLO}
+Diese Krankheit kommt bei Standespersonen 
+offiziell nicht vor.
+\end{BARTHOLO}
+
+\begin{MARCELLINE}
+Inoffiziell schleicht sich der Graf jede Nacht 
+in die Kammern der Weiber.
+
+
+\end{MARCELLINE}
+
+\Seite{15}
+
+
+\begin{BARTHOLO}
+Sagen wir, er inspiziert seinen Besitz durch 
+Nachtarbeit.
+\end{BARTHOLO}
+
+\begin{MARCELLINE}
+Schon morgen wird er dieses Zimmer inspizieren.
+\end{MARCELLINE}
+
+\begin{BARTHOLO}
+Ein fleißiger Graf.
+\end{BARTHOLO}
+
+\begin{MARCELLINE}
+Und Susannes Bett.
+\end{MARCELLINE}
+
+\begin{BARTHOLO}
+Vortrefflich! Dann bekommt Figaro einen 
+Denkzettel, der Graf sein Vergnügen und Susanne den 
+Grafen.
+\end{BARTHOLO}
+
+\begin{MARCELLINE}
+Und ich bleibe übrig.
+\end{MARCELLINE}
+
+\begin{BARTHOLO}
+Tragen Sie es mit Würde, die Ihrem Alter entspricht.
+\end{BARTHOLO}
+
+\begin{MARCELLINE}
+Diese Bemerkung entspräche einer Ohrfeige, 
+Sie ungehobelter Mediziner: Bin ich nicht allein, weil 
+Sie mich in diesem Zustande belassen haben? Haben 
+Sie nicht Ihr damaliges Heiratsversprechen gebrochen ...
+\end{MARCELLINE}
+
+\begin{BARTHOLO}
+Zores und Mores! Müssen Sie jede schlechte 
+Gelegenheit dazu benutzen, mir diese albernen Grillen 
+unter die Weste zu jubeln? Was wollen Sie? Daß wir 
+hundertjähriges Jubiläum einer verflossenen Liebschaft feiern?
+\end{BARTHOLO}
+
+\begin{MARCELLINE}
+Ich brauche Ihre Hilfe, Doktor.
+\end{MARCELLINE}
+
+\begin{BARTHOLO}
+Wenn sie nicht gegen das Gesetz und meinen Vorteil ist ...
+\end{BARTHOLO}
+
+\begin{MARCELLINE}
+Ich liebe einen Mann.
+\end{MARCELLINE}
+
+\begin{BARTHOLO}
+Die Krankheit ist häufig.
+\end{BARTHOLO}
+
+\begin{MARCELLINE}
+Es ist Figaro.
+\end{MARCELLINE}
+
+\begin{BARTHOLO}
+Die Dummheit ist selten! Was treibt eine reife 
+Frau in die Arme dieses jungen Flegels?
+\end{BARTHOLO}
+
+\begin{MARCELLINE}
+Die Reife, mein Herr.
+\end{MARCELLINE}
+
+\begin{BARTHOLO}
+Dann treten Sie mit ihm in den Stand der Ehe.
+\end{BARTHOLO}
+
+\begin{MARCELLINE}
+In denselben tritt er noch heute mit Susanne.
+\end{MARCELLINE}
+
+\begin{BARTHOLO}
+Dann treten Sie wieder zurück.
+\end{BARTHOLO}
+
+\begin{MARCELLINE}
+Mehr als diese dumme Treterei haben Sie 
+mir nicht zu raten, Doktor?
+
+
+\end{MARCELLINE}
+
+\Seite{16}
+
+
+\begin{BARTHOLO}
+Da ist guter Rat teuer.
+\end{BARTHOLO}
+
+\begin{MARCELLINE}
+ \begin{Regie}macht sich an ihn heran\end{Regie}  Früher war Ihnen 
+meine Gunst etwas wert.
+\end{MARCELLINE}
+
+\begin{BARTHOLO}
+Ihr Wert ist gesunken, Madame.
+\end{BARTHOLO}
+
+\begin{MARCELLINE}
+ \begin{Regie}Marcelline zählt Geldstücke in die offene Hand Bartholos. 
+Er läßt sie möglichst lange offen.\end{Regie} 
+Ihre Preise sind gestiegen, mein Herr. Nun 
+reden Sie schon, gieriger Frosch.
+\end{MARCELLINE}
+
+\begin{BARTHOLO}
+ \begin{Regie}läßt die Goldstücke in den geschlossenen Händen klimpern\end{Regie} 
+Gemach, gemach. Ein guter Plan braucht 
+Inspiration. Sie lieben Figaro?
+\end{BARTHOLO}
+
+\begin{MARCELLINE}
+So ist es.
+\end{MARCELLINE}
+
+\begin{BARTHOLO}
+Figaro liebt Susanne?
+\end{BARTHOLO}
+
+\begin{MARCELLINE}
+So scheint es.
+\end{MARCELLINE}
+
+\begin{BARTHOLO}
+Interessant.
+\end{BARTHOLO}
+
+\begin{MARCELLINE}
+Bekannt.
+\end{MARCELLINE}
+
+\begin{BARTHOLO}
+Attenzione. Figaro heiratet Susanne, und der 
+Graf ist der lachende Dritte.
+\end{BARTHOLO}
+
+\begin{MARCELLINE}
+Und ich die weinende Vierte.
+\end{MARCELLINE}
+
+\begin{BARTHOLO}
+Attenzione, sage ich, was ist den Weibern 
+wichtiger als die Moral?
+\end{BARTHOLO}
+
+\begin{MARCELLINE}
+Ihr Ruf!
+\end{MARCELLINE}
+
+\begin{BARTHOLO}
+Und was verliert Susanne, wenn wir die Neigungen 
+des Grafen offenbaren?
+\end{BARTHOLO}
+
+\begin{MARCELLINE}
+Ihren Ruf!
+\end{MARCELLINE}
+
+\begin{BARTHOLO}
+Figaro wird sich von ihr abwenden ...
+\end{BARTHOLO}
+
+\begin{MARCELLINE}
+... und mir zuwenden. Doktor, Sie sind ein 
+Genie an Schlechtigkeit.
+\end{MARCELLINE}
+
+\begin{BARTHOLO}
+Man tut, was man kann.
+\end{BARTHOLO}
+
+\begin{MARCELLINE}
+Nehmen Sie diesen Kuß als Draufgabe.  
+\end{MARCELLINE}
+
+\begin{SUSANNE}
+ \begin{Regie}Susanne tritt auf. Räuspert sich\end{Regie}  
+Verzeihung, ich wollte die älteren 
+Herrschaften nicht stören. Ich hab' was übrig für die 
+Glut der späten Jahre.
+\end{SUSANNE}
+
+\begin{MARCELLINE}
+Zwanzig und schon so frech.
+
+
+\end{MARCELLINE}
+
+\Seite{17}
+
+
+\begin{SUSANNE}
+Siebzig und noch so geil.
+\end{SUSANNE}
+
+\begin{MARCELLINE}
+ \begin{Regie}übertrieben freundlich\end{Regie}  Wie geht's dem Grafen?
+\end{MARCELLINE}
+
+\begin{SUSANNE}
+Er geht seiner Wege.
+\end{SUSANNE}
+
+\begin{MARCELLINE}
+Die ihn bald in dieses Zimmer führen werden ...
+\end{MARCELLINE}
+
+\begin{SUSANNE}
+Das ist sein gutes Recht.
+\end{SUSANNE}
+
+\begin{MARCELLINE}
+Und just in Susannes Bettchen.
+\end{MARCELLINE}
+
+\begin{BARTHOLO}
+ \begin{Regie}Susanne nachäffend\end{Regie}  Das ist sein gutes Recht...
+\end{BARTHOLO}
+
+\begin{MARCELLINE}
+... der Jungfer die Ehre zu nehmen.
+\end{MARCELLINE}
+
+\begin{SUSANNE}
+Wie traurig für Euch, daß Ihr sie nicht mehr zu 
+vergeben habt.
+\end{SUSANNE}
+
+\begin{MARCELLINE}
+Grafenliebchen!
+\end{MARCELLINE}
+
+\begin{SUSANNE}
+Keine Ehre und kein Benehmen. Euch sind 
+wirklich nur die Falten geblieben.
+\end{SUSANNE}
+
+\begin{MARCELLINE}
+Hurenkind.
+\end{MARCELLINE}
+
+\begin{SUSANNE}
+Wenn Ihr sprecht, gleicht Euer Gesicht einer 
+Ziehharmonika, auf der man einen Trauermarsch spielt.
+\end{SUSANNE}
+
+\begin{MARCELLINE}
+Doktor, halten Sie mich. Ich stürze mich auf 
+sie.
+\end{MARCELLINE}
+
+\begin{SUSANNE}
+Doktor, halten Sie doch die alte Dame, bevor sie 
+stürzt.
+\end{SUSANNE}
+
+\begin{BARTHOLO}
+Donner und Dolores, halt, sage ich.
+\end{BARTHOLO}
+
+\begin{SUSANNE}
+Donner und Dolores, hinaus, sage ich.
+\end{SUSANNE}
+
+\begin{BARTHOLO}
+Gehen wir, Marcelline. Susannchen brennt darauf, 
+ihrem heißgeliebten Figaro die Hörner aufzusetzen. 
+\end{BARTHOLO}
+
+\begin{Regie}
+Marcelline und Bartholo ab
+\end{Regie}
+
+\begin{SUSANNE}
+ \begin{Regie}ruft ihnen nach\end{Regie}  Die Hölle ist zwei Stock tiefer. 
+ \begin{Regie}Susanne allein\end{Regie} 
+Das ist ein Teufelspaar. Mit ihrer Bosheit könnten sie 
+ganze Landstriche unglücklich machen, warum quälen 
+sie ausgerechnet mich? Ist die Liebe eines Dienstmädchens 
+eine Weide, auf der jeder falsche Ochs 
+herumtrampeln kann? Was habe ich ihnen getan? Ich 
+liebe Figaro, das ist alles. Ja, das ist alles. 
+ \begin{Regie}Sprechgesang\end{Regie}  Die Augen	
+
+
+\end{SUSANNE}
+
+\Seite{18}
+
+
+\begin{SUSANNE}
+meines Geliebten finden alle Schätze meines Herzens, 
+seine Hände heben sie.
+\end{SUSANNE}
+
+\begin{CHERUBIN}
+ \begin{Regie}auf\end{Regie}  Susanne singt?
+\end{CHERUBIN}
+
+\begin{SUSANNE}
+Susanne lacht.
+\end{SUSANNE}
+
+\begin{CHERUBIN}
+Cherubin weint.
+\end{CHERUBIN}
+
+\begin{SUSANNE}
+Das paßt nicht zu einem lustigen Pagen.
+\end{SUSANNE}
+
+\begin{CHERUBIN}
+Aber zu einem entlassenen.
+\end{CHERUBIN}
+
+\begin{SUSANNE}
+Hat dir ein Mädchen den Laufpaß gegeben?
+\end{SUSANNE}
+
+\begin{CHERUBIN}
+Schlimmer.
+\end{CHERUBIN}
+
+\begin{SUSANNE}
+Noch schlimmer?
+\end{SUSANNE}
+
+\begin{CHERUBIN}
+Schlimmstens. Es war ein Herr von Stand. Der 
+Graf hat mich entlassen.
+\end{CHERUBIN}
+
+\begin{SUSANNE}
+Was hat der alte Bock gegen dein junges Blut?
+\end{SUSANNE}
+
+\begin{CHERUBIN}
+Mein junges Blut hat sich ein wenig an der 
+kleinen Blanchette vergriffen. Ich habe ihr sozusagen 
+die Anfangsgründe der Anatomie beigebracht. Eine 
+süße Lektion!
+\end{CHERUBIN}
+
+\begin{SUSANNE}
+Weiter.
+\end{SUSANNE}
+
+\begin{CHERUBIN}
+Ein bitteres Erwachen! Dann plötzlich kommt 
+der Graf dazwischen und brüllt, daß die Stiere fliegen. 
+Er schreit ...
+\end{CHERUBIN}
+
+\begin{SUSANNE}
+Was? 
+\end{SUSANNE}
+
+\begin{CHERUBIN}
+Daß!
+\end{CHERUBIN}
+
+\begin{SUSANNE}
+Was daß?
+\end{SUSANNE}
+
+\begin{CHERUBIN}
+Daß ich der letzte Schwanz von Kastilien sei 
+und ob ich der amtliche Zureiter seiner Mägde wäre 
+und ... 
+\end{CHERUBIN}
+
+\begin{SUSANNE}
+Das genügt. 
+\end{SUSANNE}
+
+\begin{CHERUBIN}
+Für eine Entlassung. Susannchen, hilf mir. 
+Sonst bin ich für immer von deinem Angesicht 
+verbannt. 
+\end{CHERUBIN}
+
+\begin{SUSANNE}
+Es wird mich schmerzen. 
+\end{SUSANNE}
+
+\begin{CHERUBIN}
+Es wird mich töten. 
+\end{CHERUBIN}
+
+\begin{SUSANNE}
+Du wirst auch das überleben. 
+\end{SUSANNE}
+
+\begin{CHERUBIN}
+Aber wie. Ich werde hungrig und zerrissen 
+durch die deutschen Sümpfe waten, meine müden 
+Augen suchen vergeblich nach dem Trost deiner 
+Schönheit.
+
+
+\end{CHERUBIN}
+
+\Seite{19}
+
+
+\begin{SUSANNE}
+Moment, du Schürzenschlingel. Ist nicht die 
+Gräfin deine heimliche Liebe? Hast du nicht sämtlichen 
+Mägden den Hintern verdreht? Jetzt bin wohl ich an der 
+Reihe?
+\end{SUSANNE}
+
+\begin{CHERUBIN}
+Du hast recht. Aber die Gräfin ist so weit entfernt, 
+daß ich nur für sie schwärmen kann. Dich aber kann ich lieben.
+\end{CHERUBIN}
+
+\begin{SUSANNE}
+Gott sei Dank bist du nicht so weit entfernt, daß 
+ich dich nicht ohrfeigen kann. 	 
+ \begin{Regie}läuft ihm nach\end{Regie} 
+\end{SUSANNE}
+
+\begin{CHERUBIN}
+Rette mich, Susanne, sonst bin ich verloren. 
+\end{CHERUBIN}
+
+\begin{SUSANNE}
+ \begin{Regie}lacht und bleibt stehen\end{Regie} 
+Wie soll es mir gelingen, den Grafen umzustimmen?
+\end{SUSANNE}
+
+\begin{CHERUBIN}
+Wie ich höre, hast du seine Gunst.
+\end{CHERUBIN}
+
+\begin{SUSANNE}
+Wie ich höre, hast du deine Frechheit wieder.
+\end{SUSANNE}
+
+\begin{CHERUBIN}
+Leg ein gutes Wort für mich ein.
+\end{CHERUBIN}
+
+\begin{SUSANNE}
+Und mich dazu?
+\end{SUSANNE}
+
+\begin{CHERUBIN}
+Wenn's sein muß.
+\end{CHERUBIN}
+
+\begin{SUSANNE}
+Warum könnt ihr alle über meine Liebe zu Figaro 
+verfügen? Wieviel ist sie euch eigentlich wert? Sie 
+gehört mir. Mir.
+\end{SUSANNE}
+
+\begin{CHERUBIN}
+Ich verstehe dich nicht, Susannchen.
+\end{CHERUBIN}
+
+\begin{SUSANNE}
+Ich verstehe dich auch nicht, Cherubin. 	 
+
+\end{SUSANNE}
+
+\begin{Regie}
+Man hört Schritte und Getöse.
+\end{Regie}
+
+\begin{CHERUBIN}
+Ich höre etwas, Susannchen.
+\end{CHERUBIN}
+
+\begin{SUSANNE}
+O Gott, der Graf!
+\end{SUSANNE}
+
+\begin{CHERUBIN}
+Der Graf? O Gott!	 
+ \begin{Regie}Cherubin verschwindet blitzschnell unterm Lehnstuhl.\end{Regie} 
+
+\end{CHERUBIN}
+
+\Einstellung{Voll Hell}
+
+\begin{Regie}
+Der Graf tritt ein. Vor ihm schreitet ein Diener. Er 
+klopft mit dem Stock dreimal auf den Boden. Alles 
+erstarrt zur Pose.
+\end{Regie}
+
+\begin{DIENER}
+Seine Exzellenz, der besonders wohlgeborene 
+Graf von Almaviva, Herr über zweihundert Rinder und 
+Mägde, Großcomptur von Kastilien und Katalonien, erster 
+
+
+\end{DIENER}
+
+\Seite{20}
+
+
+\begin{DIENER}
+Inquisitionsrat, Hauptaktionär einer Galgenfabrik, Träger 
+und Käufer aller heiligen spanischen Orden, Vorsitzender 
+der heiligen spanischen Liga für Heidenvertilgung, 
+gefürsteter Graf von ...
+\end{DIENER}
+
+\begin{GRAF}
+Das reicht. Ich bin inkognito hier. Susanne, ich bin 
+gekommen, dir meine Gefühle persönlich zu äußern. 
+Ich bin in der glücklichen Lage, über eine gewisse 
+Leidenschaft für dich zu verfügen. Ich werde sie sofort 
+äußern. Wo ist ein Stuhl?
+\end{GRAF}
+
+\begin{SUSANNE}
+Halt, Herr Graf. Mit Verlaub, bleiben Sie 
+stehen.
+\end{SUSANNE}
+
+\begin{GRAF}
+Mit Verlaub, ich will mich setzen.
+\end{GRAF}
+
+\begin{SUSANNE}
+Mit Verlaub, Herr Graf sehen im Stehen besonders vorteilhaft aus.
+\end{SUSANNE}
+
+\begin{GRAF}
+Mit Verlaub, Herr Graf fühlen sich im Sitzen wohler. 	 
+ \begin{Regie}Der Graf setzt sich.\end{Regie} 
+\end{GRAF}
+
+\begin{CHERUBIN}
+ \begin{Regie}jault auf\end{Regie} 
+\end{CHERUBIN}
+
+\begin{GRAF}
+Was jault hier?
+\end{GRAF}
+
+\begin{SUSANNE}
+Es hat gejault?	 
+\end{SUSANNE}
+
+\begin{Regie}
+Der Graf steht auf und läßt sich noch einmal in den 
+Lehnstuhl fallen. Cherubin jault wieder auf.
+\end{Regie}
+
+\begin{GRAF}
+Es hat gejault!
+\end{GRAF}
+
+\begin{SUSANNE}
+Es hat gequietscht. Der Sessel geht aus dem Leim. 	 
+\end{SUSANNE}
+
+\begin{Regie}
+Der Graf steht noch einmal auf und läßt sich in den 
+Lehnstuhl fallen. Cherubin versucht ein Quietschen nachzuahmen.
+\end{Regie}
+
+\begin{GRAF}
+Es hat gequietscht, in der Tat. Man soll den Tischler 
+benachrichtigen. Susanne, ich liebe dich. Bazillus hat 
+dich bereits über meine Leidenschaft in Kenntnis 
+gesetzt. Ich bin persönlich erschienen, um mit dir über 
+die organisatorische Seite der Angelegenheit zu 
+sprechen. Du kannst dich entspannen, mein Kind.
+\end{GRAF}
+
+\begin{SUSANNE}
+ \begin{Regie}eindringlich\end{Regie}  Herr Graf, ich heirate noch heute 
+meinen Figaro.
+\end{SUSANNE}
+
+\begin{GRAF}
+Das ist Punkt eins in meinem Plan. Er ist dann 
+immer der Vater.
+
+
+\end{GRAF}
+
+\Seite{21}
+
+
+\begin{SUSANNE}
+ \begin{Regie}eindringlich, ehrlich\end{Regie}  Figaro ist Euch immer 
+treu gewesen.
+\end{SUSANNE}
+
+\begin{GRAF}
+Das ist Punkt zwei in meinem Plan. Seine Treue 
+wird belohnt. Ich versetze ihn in den Außendienst und 
+ernenne ihn zum ständigen Depeschenreiter.
+\end{GRAF}
+
+\begin{SUSANNE}
+ \begin{Regie}flehentlich\end{Regie}  Figaro hat euch viele gute Dienste 
+erwiesen.
+\end{SUSANNE}
+
+\begin{GRAF}
+Mit seiner Abwesenheit erweist er mir den besten, 
+denn sie garantiert mir deine unbemannte Anwesenheit. 
+Das ist übrigens Punkt drei in meinem Plan.
+\end{GRAF}
+
+\begin{SUSANNE}
+ \begin{Regie}wieder spielerisch\end{Regie}  Da wäre noch ein Punkt.
+\end{SUSANNE}
+
+\begin{GRAF}
+Noch einer? Ich bezahle Bazillus dafür, daß er mir 
+die besten Intrigen ausarbeitet. Hat der Kerl was vergessen?
+\end{GRAF}
+
+\begin{SUSANNE}
+Das Wichtigste. Ich liebe Euch nicht.
+\end{SUSANNE}
+
+\begin{GRAF}
+Das ändert die Sachlage. Bazillus!  \begin{Regie}brüllt\end{Regie}  Bazillus!  
+\end{GRAF}
+
+\begin{Regie}
+Bazillus, ein schäbiger Schurke, steigt unter der Decke, 
+die die Möbel zudeckt, hervor.
+\end{Regie}
+
+\begin{GRAF}
+Bazillus, sie liebt mich nicht. Ich brauche eine neue Intrige. 
+Sei fleißig, Schurkenkopf.
+\end{GRAF}
+
+\begin{BAZILLUS}
+Sei fleißig, Schurkenkopf. Ich hab's. Sie liebt 
+Euch nicht, aber sie liebt. Den alten Weibern sind die 
+Schenkel vertrocknet, und ihre Grube ist voller Schlangen. 
+Die aber ist jung und hat einen Schoß voll Feuer, 
+den Euer Diener löschen soll. Schickt den Diener weg, 
+und Ihr seid dran. Gelöscht muß werden.
+\end{BAZILLUS}
+
+\begin{SUSANNE}
+Der Herr wird sich verbrennen.
+\end{SUSANNE}
+
+\begin{GRAF}
+Der Plan ist schlecht und schon dagewesen. Mach 
+einen anderen.
+\end{GRAF}
+
+\begin{BAZILLUS}
+Sei fleißig, Schurkenkopf. Ich hab's. Was man 
+nicht stehlen kann, Herr Graf, kann man auch kaufen. 
+Die Liebe zu Eurem Diener ist ihr sehr wertvoll. Gebt 
+noch zwanzig Prozent drauf, und Ihr habt sie.
+\end{BAZILLUS}
+
+\begin{GRAF}
+Was bin ich schuldig, Susanne?
+\end{GRAF}
+
+\begin{SUSANNE}
+Ihr wollt Euch meine Liebe erkaufen? Immerzu. 
+Die erste Rate ist fällig.
+
+
+\end{SUSANNE}
+
+\Seite{22}
+
+
+\begin{GRAF}
+Wieviel, mein Kind?
+\end{GRAF}
+
+\begin{SUSANNE}
+Nicht viel, mein Herr. Ihr habt heute den Pagen 
+Cherubin entlassen. Nehmt die Entlassung zurück.
+\end{SUSANNE}
+
+\begin{GRAF}
+Was liegt dir an dem Kerl?
+\end{GRAF}
+
+\begin{SUSANNE}
+Was liegt Euch an der Entlassung?
+\end{SUSANNE}
+
+\begin{GRAF}
+Der Schmutzfink hat sich an Blanchette vergriffen.
+\end{GRAF}
+
+\begin{SUSANNE}
+Was liegt Euch an Blanchette?
+\end{SUSANNE}
+
+\begin{GRAF}
+He, Bazillus! Was liegt mir an Blanchette?
+\end{GRAF}
+
+\begin{BAZILLUS}
+So viel liegt Euch an ihr, als Ihr auf ihr liegen 
+wollt.
+\end{BAZILLUS}
+
+\begin{GRAF}
+Vortrefflich. Der Kerl ist wegen Besitzstörung 
+entlassen. Ich habe ihn selbst ertappt. Erzähl die 
+Geschichte, Bazillus.
+\end{GRAF}
+
+\begin{BAZILLUS}
+ \begin{Regie}wirft sich in Pose\end{Regie}  Unser heißgeliebter Graf Almaviva 
+befindet sich auf Inspektionsreise. Im Zimmer 
+von Blanchette findet er dieselbe in höchster 
+Auflösung. Herr Graf schöpft einen 
+hochwohlgeborenen Verdacht und hebt das Bettuch ...
+\end{BAZILLUS}
+
+\begin{BAZILLUS}
+ \begin{Regie}hebt das Tuch, welches die Seiten des 
+Lehnstuhls verkleidet\end{Regie}  ... und plötzlich sieht er ... 
+ \begin{Regie}Bazillus sieht Cherubin\end{Regie}  ... Oh!
+\end{BAZILLUS}
+
+\begin{SUSANNE}
+Oh!
+\end{SUSANNE}
+
+\begin{BAZILLUS}
+Cherubin!
+\end{BAZILLUS}
+
+\begin{GRAF}
+Unterm Bett!
+\end{GRAF}
+
+\begin{BAZILLUS}
+Unterm Lehnstuhl!
+\end{BAZILLUS}
+
+\begin{GRAF}
+ \begin{Regie}springt auf\end{Regie}  Oh!  \begin{Regie}er sieht selbst nach\end{Regie}  Gestern wie 
+heute! Der Kerl wohnt unter meinen Möbeln! 
+\end{GRAF}
+
+\begin{CHERUBIN}
+Ein Zufall, Herr Graf! 
+\end{CHERUBIN}
+
+\begin{SUSANNE}
+Ein Irrtum, Herr Graf! 
+\end{SUSANNE}
+
+\begin{GRAF}
+Eine Schande, Susanne! 
+\end{GRAF}
+
+\begin{BAZILLUS}
+Abscheulich! 
+\end{BAZILLUS}
+
+\begin{GRAF}
+Greulich!
+\end{GRAF}
+
+\begin{SUSANNE}
+Herr Graf, ein Irrtum ... 
+\end{SUSANNE}
+
+\begin{BAZILLUS}
+Greulich! 
+\end{BAZILLUS}
+
+\begin{GRAF}
+Abscheulich! So kurz vor der Hochzeit, und schon 
+
+
+\end{GRAF}
+
+\Seite{23}
+
+
+\begin{GRAF}
+liegen die Liebhaber unter den Möbeln herum. Was für 
+eine Sittenlosigkeit unter meiner Dienerschaft! Was für 
+ein Verstoß gegen die Moral des Hauses. Der arme 
+Figaro, den ich mehr als ein Reitpferd schätze ... es ist...
+\end{GRAF}
+
+\begin{BAZILLUS}
+Abscheulich!
+\end{BAZILLUS}
+
+\begin{GRAF}
+Unterbrich mich nicht in meiner Erregung. Was 
+wollte ich soeben zornig bemerken?
+\end{GRAF}
+
+\begin{BAZILLUS}
+Dem Pferd sind Hörner aufgesetzt, so wolltet 
+Ihr eben trefflich bemerken.
+\end{BAZILLUS}
+
+\begin{GRAF}
+Ein Pferd mit Hörnern?
+\end{GRAF}
+
+\begin{BAZILLUS}
+... der betrogene Figaro.
+\end{BAZILLUS}
+
+\begin{GRAF}
+Der arme Esel.
+\end{GRAF}
+
+\begin{SUSANNE}
+Weder Pferd noch Esel. Herr Graf, Figaro ist 
+nicht betrogen, und Cherubin ist ...
+\end{SUSANNE}
+
+\begin{CHERUBIN}
+Ein unschuldiger Mensch.
+\end{CHERUBIN}
+
+\begin{GRAF}
+So wie gestern. Der Kerl sammelt die Unschuld.
+\end{GRAF}
+
+\begin{SUSANNE}
+Eben wegen dieses »Gestern« kam er heute zu 
+mir. Nachdem Ihr ihn bei Blanchette erwischt hattet, 
+habt Ihr ihn entlassen. Bevor Ihr ihn bei mir gefunden 
+habt, bat er mich, Euch zu bitten, ihn nicht zu entlassen.
+\end{SUSANNE}
+
+\begin{GRAF}
+Und diese Bitte trug er dir unter dem Lehnstuhl vor?
+\end{GRAF}
+
+\begin{BAZILLUS}
+Greulich!
+\end{BAZILLUS}
+
+\begin{GRAF}
+Genug. Dieses Bordell muß ein anderes werden.
+ \begin{Regie}In Pose\end{Regie}  Ich verfüge ...
+\end{GRAF}
+
+\begin{DIENER}
+ \begin{Regie}klopft mit dem Stock dreimal auf den Boden\end{Regie}  Es 
+verfügt der wohlgeborene Graf von Almaviva, Herr über ...
+\end{DIENER}
+
+\begin{GRAF}
+ \begin{Regie}unterbricht ihn\end{Regie}  Schweig er! Das Zeremoniell reißt 
+mich ganz aus dem Zorn.  \begin{Regie}zu Susanne\end{Regie}  Ich freue mich 
+darauf, Figaro von deinen abscheulichen Taten zu 
+unterrichten.
+\end{GRAF}
+
+\begin{SUSANNE}
+ \begin{Regie}mutig\end{Regie}  Und ich freue mich darauf, der Frau Gräfin 
+von Euren abscheulichen Absichten zu erzählen. 
+Geteilte Freud ist halbes Leid, wenn ich zusätzlich 
+bemerken darf.
+
+
+\end{SUSANNE}
+
+\Seite{24}
+
+
+\begin{GRAF}
+Heilige Madonna in Unterhosen! Das ist...
+\end{GRAF}
+
+\begin{BAZILLUS}
+Greulich ...
+\end{BAZILLUS}
+
+\begin{GRAF}
+Eine Erpressung!!!
+\end{GRAF}
+
+\begin{BAZILLUS}
+Abscheulich. Das Personal wird immer frecher.
+\end{BAZILLUS}
+
+\begin{GRAF}
+Bazillus. Los, los, eine neue Intrige. 
+\end{GRAF}
+
+\begin{Regie}
+Es klopft.
+\end{Regie}
+
+\begin{BAZILLUS}
+Es klopft!
+\end{BAZILLUS}
+
+\begin{GRAF}
+Dann öffne!
+\end{GRAF}
+
+\begin{BAZILLUS}
+Ich eile!
+\end{BAZILLUS}
+
+\begin{GRAF}
+Halt! Zuerst eine Intrige, vorwärts!! 	 
+\end{GRAF}
+
+\begin{Regie}
+Es klopft stärker.
+\end{Regie}
+
+\begin{BAZILLUS}
+Es klopft noch immer. Ich eile wieder.
+\end{BAZILLUS}
+
+\begin{GRAF}
+Halt! Die Intrige, schnell!
+\end{GRAF}
+
+\begin{BAZILLUS}
+Eine Intrige zwischen Tür und Angel? O Gott! Greulich! 	 
+\end{BAZILLUS}
+
+\begin{Regie}
+Die Tür öffnet sich. Die Gräfin und Figaro auf.
+\end{Regie}
+
+\begin{GRAF}
+Abscheulich. Der Auftritt paßt mir wenig.
+\end{GRAF}
+
+\begin{FIGARO}
+ \begin{Regie}zum Grafen, mit tiefster Verbeugung\end{Regie}  O glückliche 
+Dienerschaft, die Euch, Herr Graf, zum Herren weiß.
+\end{FIGARO}
+
+\begin{DIENER}
+ \begin{Regie}klopft mit dem Stock\end{Regie}  Seine Exzellenz, der besonders 
+wohlgeborene Graf von Almaviva ...
+\end{DIENER}
+
+\begin{FIGARO}
+Retter der Jungfernschaft!
+\end{FIGARO}
+
+\begin{DIENER}
+Herr über zweihundert Rinder und Mägde ...
+\end{DIENER}
+
+\begin{FIGARO}
+Hüter der Unschuld!
+\end{FIGARO}
+
+\begin{DIENER}
+Erster Inquisitionsrat...
+\end{DIENER}
+
+\begin{FIGARO}
+Meister der Tugend!
+\end{FIGARO}
+
+\begin{DIENER}
+Hauptaktionär einer Galgenfabrik ...
+\end{DIENER}
+
+\begin{FIGARO}
+ \begin{Regie}zu Susanne\end{Regie}  Mach mit, mein Herz, gleich zappelt 
+der Bock an der Angel!
+\end{FIGARO}
+
+\begin{GRAF}
+Was gibt's da zu flüstern, Figaro?
+\end{GRAF}
+
+\begin{FIGARO}
+Verzeiht, Herr Graf. Die Lobpreisung für Eure 
+Person hat mir die Zunge verschlagen. Ich bin ganz 
+heiser.  \begin{Regie}Mit krächzender Stimme\end{Regie}  Retter der 
+Jungfernschaft! Hüter der Unschuld! Meister der Tugend!
+\end{FIGARO}
+
+\begin{SUSANNE}
+ \begin{Regie}flüsternd zu Figaro\end{Regie}  Treibe es nicht zu weit, 
+mein kühner Figaro.
+
+
+\end{SUSANNE}
+
+\Seite{25}
+
+
+\begin{GRAF}
+Was gibt's da zu flüstern, Susanne?
+\end{GRAF}
+
+\begin{SUSANNE}
+ \begin{Regie}heiser\end{Regie}  Ich teile nur die Verehrung meines 
+Bräutigams für Eure Person.
+\end{SUSANNE}
+
+\begin{GRAF}
+Dieser Ausbruch einer allgemeinen Heiserkeit...
+\end{GRAF}
+
+\begin{GREFIN}
+... ist doch nur der Ausdruck tiefster Rührung. Die 
+guten Leute haben eine Bitte, die ich tiefbegründet finde.
+Sie sind tief gerührt von Ihrer Art, die Tugend zu 
+belohnen und die Unschuld zu schützen.
+\end{GREFIN}
+
+\begin{SUSANNE}
+Zutiefst!
+\end{SUSANNE}
+
+\begin{GREFIN}
+Seit Sie mir zuliebe dieses Vorrecht der ersten Nacht 
+abgeschafft haben, sind Sie das Ziel höchster Bewunderung geworden.
+\end{GREFIN}
+
+\begin{FIGARO}
+Zutiefst!
+\end{FIGARO}
+
+\begin{SUSANNE}
+Zuhöchst!
+\end{SUSANNE}
+
+\begin{GRAF}
+Ich dieses Vorrecht abgeschafft ... ich habe dieses 
+Vorrecht durch Abschaffung ... 	 
+\end{GRAF}
+
+\begin{BAZILLUS}
+ \begin{Regie}reicht dem Grafen einen Zettel\end{Regie} 
+\end{BAZILLUS}
+
+\begin{GRAF}
+ \begin{Regie}liest\end{Regie}  ... abgeschafft, um den sklavischen Tribut der 
+Gewalt durch die süße Pflicht der Hingabe zu ersetzen!
+\end{GRAF}
+
+\begin{FIGARO}
+Ein Triumph der Tugend! Vivat!
+\end{FIGARO}
+
+\begin{DIENER}
+Vivat! Die Tugend unseres Herrn!
+\end{DIENER}
+
+\begin{GRAF}
+Es freut mich, daß meine Einstellung zu Fragen der 
+Sitte und Moral so einstimmig gewürdigt wird.  \begin{Regie}Brüllt\end{Regie}  
+Aber warum ausgerechnet jetzt und so heftig? He? 	 
+\end{GRAF}
+
+\begin{BAZILLUS}
+ \begin{Regie}reicht dem Grafen einen Zettel\end{Regie} 
+\end{BAZILLUS}
+
+\begin{GRAF}
+ \begin{Regie}liest, vornehm\end{Regie}  Was überkam Euch?
+\end{GRAF}
+
+\begin{GREFIN}
+Graf Almaviva, durch Ihre weise Entscheidung 
+wurde dieses Geschöpf  \begin{Regie}wendet sich zu Susanne\end{Regie}  vor 
+Schande bewahrt.
+\end{GREFIN}
+
+\begin{SUSANNE}
+ \begin{Regie}verbeugt sich vor dem Grafen\end{Regie}  Durch ihn bewahrt!
+ \begin{Regie}wendet sich zu Figaro\end{Regie}  Für ihn bewahrt!
+\end{SUSANNE}
+
+\begin{DIENER}
+Vivat! Die Tugend unseres Herrn!
+\end{DIENER}
+
+\begin{GREFIN}
+Durch Ihre sittenreiche Haltung wird dieses Mädchen
+seine Hochzeitsnacht mit dem Herrn ihres Herzens 
+und nicht mit dem des Hauses verbringen. Kein Tribut 
+der Gewalt, nur die süße Pflicht der Hingabe.
+
+
+\end{GREFIN}
+
+\Seite{26}
+
+
+\begin{DIENER}
+Ein Triumph der Tugend! Vivat!
+\end{DIENER}
+
+\begin{GRAF}
+ \begin{Regie}laut\end{Regie}  Halt, sage ich, aus der Hochzeit der beiden wird ...
+\end{GRAF}
+
+\begin{GREFIN}
+Ein würdiges Fest, wenn Sie, mein Gemahl, die 
+Bitte dieser Leutchen erfüllen und der tugendsamen 
+Braut den Schleier aufs jungfräuliche Haupt legen. Wie 
+gut würde diese Handlung zu Ihrer reinen Gesinnung 
+passen.
+\end{GREFIN}
+
+\begin{FIGARO}
+ \begin{Regie}reicht dem Grafen den Schleier\end{Regie} 
+\end{FIGARO}
+
+\begin{DIENER}
+Vivat! Die Reinheit unseres Herrn!
+\end{DIENER}
+
+\begin{SUSANNE}
+Könnt Ihr Euch, Herr Graf, einem Lobe entziehen, 
+das Euch mehr als allen anderen gebührt? Euch, 
+der Ihr so fleißig an die Tugend Eurer Mägde denkt...
+\end{SUSANNE}
+
+\begin{GRAF}
+Bei allen Puffmüttern des Himmels, was mach' ich nur?!
+\end{GRAF}
+
+\begin{FIGARO}
+Seht sie Euch an, Herr Graf. Macht nicht die 
+Schönheit dieses Mädchens Eure Geste doppelt wertvoll?
+\end{FIGARO}
+
+\begin{SUSANNE}
+Nicht von Äußerlichkeiten ist jetzt die Rede, 
+sondern von den inneren Werten des Herrn Grafen.
+\end{SUSANNE}
+
+\begin{DIENER}
+Vivat! Die Tugend unseres Herrn!
+\end{DIENER}
+
+\begin{GRAF}
+Bazillus, schnell, eine blitzartige Intrige. 
+\end{GRAF}
+
+\begin{BAZILLUS}
+ \begin{Regie}reicht dem Grafen einen Zettel\end{Regie} 
+\end{BAZILLUS}
+
+\begin{GRAF}
+ \begin{Regie}liest laut\end{Regie}  Zeit gewinnen! Oh!
+\end{GRAF}
+
+\begin{GREFIN}
+Was sagen Sie?
+\end{GREFIN}
+
+\begin{GRAF}
+ \begin{Regie}verlegen\end{Regie}  Die Zeit, die Zeit sie geht so schnell von hinnen ...
+\end{GRAF}
+
+\begin{GREFIN}
+Drum Ordnung lehrt euch Zeit gewinnen. 
+Überreichen Sie der Braut den Schleier, damit die 
+Hochzeit ihren Lauf nehmen kann. Besiegeln Sie den Bund. 	 
+\end{GREFIN}
+
+\begin{FIGARO}
+ \begin{Regie}Figaro drängt dem Grafen den Schleier auf.\end{Regie} 
+\end{FIGARO}
+
+\begin{GRAF}
+Ich besiegle ...
+\end{GRAF}
+
+\begin{BAZILLUS}
+ \begin{Regie}flüstert\end{Regie}  Zeit gewinnen!
+\end{BAZILLUS}
+
+\begin{GRAF}
+Etwas später.
+\end{GRAF}
+
+\begin{GREFIN}
+Ihr Wort genügt.
+
+
+\end{GREFIN}
+
+\Seite{27}
+
+
+\begin{GRAF}
+Hier ist nicht der richtige Ort für eine so feierliche 
+Zeremonie. Auf! Auf! Das Gesinde soll sich putzen und 
+die Räume schmücken. Dies ist kein gewöhnlicher Tag, 
+vereint er doch zwei Liebende zu einem Bunde ...
+\end{GRAF}
+
+\begin{BAZILLUS}
+ \begin{Regie}flüstert\end{Regie}  Zeit gewinnen!
+\end{BAZILLUS}
+
+\begin{GRAF}
+... zum ewigen Bunde ...
+\end{GRAF}
+
+\begin{BAZILLUS}
+ \begin{Regie}flüstert\end{Regie}  Zeit gewinnen!
+\end{BAZILLUS}
+
+\begin{GRAF}
+... bis in alle Ewigkeit...
+\end{GRAF}
+
+\begin{DIENER}
+Amen!
+\end{DIENER}
+
+\begin{GRAF}
+ \begin{Regie}zu Bazillus\end{Regie}  Jetzt geht es hart auf heiß. Ich brauche 
+eine erstklassige ...
+\end{GRAF}
+
+\begin{BAZILLUS}
+Ich weiß. Prompte Lieferung. Ich eile. 	 
+\end{BAZILLUS}
+
+\begin{Regie}
+Bazillus ab. Graf und Gräfin ab.
+\end{Regie}
+
+\begin{FIGARO}
+ \begin{Regie}zu Susanne\end{Regie}  Na, mein Täubchen, wie haben wir das gedreht?
+\end{FIGARO}
+
+\begin{SUSANNE}
+Wenn du die Ehe auch so klug betreibst wie unsere Hochzeit, 
+sehe ich rosa für die Zukunft.
+\end{SUSANNE}
+
+\begin{FIGARO}
+Wenn ich an die Zukunft mit dir denke, sehe ich alle Farben.
+\end{FIGARO}
+
+\begin{Regie}
+Figaro und Susanne ab. Cherubin kommt hinterm 
+Lehnstuhl hervor.
+\end{Regie}
+
+\begin{CHERUBIN}
+O heilige Mutter Gottes! Gesegnet sei dein 
+jungfräulicher Busen! Mich hat der Graf vergessen. 
+Was für eine Wohltat für mein unschuldiges Gemüt.
+\end{CHERUBIN}
+
+\begin{DIENER}
+ \begin{Regie}von draußen, seine Stimme kommt näher\end{Regie}  Seine 
+Exzellenz, der besonders wohlgeborene Graf von 
+Almaviva, Herr über zweihundert Rinder und Mägde, 
+Großcomptur von Kastilien und Katalonien, erster 
+Inquisitionsrat, Hauptaktionär einer Galgenfabrik ... 	 
+\end{DIENER}
+
+\begin{CHERUBIN}
+ \begin{Regie}verschwindet blitzschnell hinterm Lehnstuhl.\end{Regie} 
+\end{CHERUBIN}
+
+\begin{Regie}
+Graf und Diener auf.
+\end{Regie}
+
+\begin{GRAF}
+Scheiße in aeternam! Verfluchtes Gesindel! Va nella 
+figa della butana che te ha gagata. Endlich kann ich 
+mich ausfluchen! Nicht genug, daß sie mein Brot 
+fressen, meine Teppiche zertrampeln, jetzt bringt man mich auch
+
+
+\end{GRAF}
+
+\Seite{28}
+
+
+\begin{GRAF}
+noch um mein Vergnügen. Diese Hochzeit wird 
+verhindert. Jawohl, ich lasse verhindern.  \begin{Regie}zum Diener\end{Regie}  
+He, du, wirf den Lehnstuhl um. Ich brauche ein 
+sichtbares Zeichen meiner Erregung!	 
+\end{GRAF}
+
+\begin{Regie}
+Der Diener wirft den Lehnstuhl um. Cherubin kommt 
+zum Vorschein.
+\end{Regie}
+
+\begin{GRAF}
+Cherubin? Schon wieder?!
+\end{GRAF}
+
+\begin{CHERUBIN}
+Es, es hat nichts zu bedeuten.
+\end{CHERUBIN}
+
+\begin{GRAF}
+Zum drittenmal! Ich werde wahnsinnig!
+\end{GRAF}
+
+\begin{CHERUBIN}
+Eine ... dumme Gewohnheit, Herr Graf ...
+\end{CHERUBIN}
+
+\begin{GRAF}
+Ich lasse dich auspeitschen!
+\end{GRAF}
+
+\TextTeilEnde
+\TextTeilAnfang
+
+\begin{CHERUBIN}
+Als ich das letztemal unter diesem Lehnstuhl...
+\end{CHERUBIN}
+
+\begin{GRAF}
+Ich hetze dir die Hunde nach!
+\end{GRAF}
+
+\begin{CHERUBIN}
+... Euch mit Susanne sprechen hörte ...
+\end{CHERUBIN}
+
+\begin{GRAF}
+Ich entlasse dich!
+\end{GRAF}
+
+\begin{CHERUBIN}
+... über ein gewisses Thema ...
+\end{CHERUBIN}
+
+\begin{GRAF}
+Ich versetze dich!
+\end{GRAF}
+
+\begin{CHERUBIN}
+... welches die Frau Gräfin ...
+\end{CHERUBIN}
+
+\begin{GRAF}
+Zu meinem Regiment...
+\end{GRAF}
+
+\begin{CHERUBIN}
+... nie erfahren wird!
+\end{CHERUBIN}
+
+\begin{GRAF}
+... als Leutnant! Du reist noch heute ab. Mein letztes 
+Wort.  \begin{Regie}wendet sich zum Gehen\end{Regie}  Ein widerliches Pack! 
+Scheiße in aeternam!
+\end{GRAF}
+
+\begin{DIENER}
+Seine Exzellenz der ...
+\end{DIENER}
+
+\begin{GRAF}
+Halt's Maul! 	 
+\end{GRAF}
+
+\begin{Regie}
+Graf und Diener ab.
+\end{Regie}
+
+\begin{CHERUBIN}
+Ein unflätiger Graf!
+\end{CHERUBIN}
+
+\begin{FIGARO}
+ \begin{Regie}öffnet irgendeine Luke im Karton\end{Regie}  Du sagst es!
+\end{FIGARO}
+
+\begin{CHERUBIN}
+ \begin{Regie}erstaunt\end{Regie}  Figaro?!
+\end{CHERUBIN}
+
+\begin{FIGARO}
+Figaro hier, Figaro dort. Ich habe alles mitgehört. 
+Gratuliere zu deiner Beförderung.
+\end{FIGARO}
+
+\begin{CHERUBIN}
+Kein Ohrenschlecken und Hüftenlutschen 
+mehr. Ade, du holde Weiblichkeit!
+\end{CHERUBIN}
+
+\begin{FIGARO}
+Halt, Cherubin! Komm her, du plumper 
+Damenfreund! Dich brauch ich noch in meinem Plan.
+
+
+\end{FIGARO}
+
+\Seite{29}
+
+
+\begin{CHERUBIN}
+Es hat sich ausgeplant. Statt einer heißen 
+französischen Umarmung blüht mir die kalte Kugel eines 
+Franzosen. Armer Cherubin!
+\end{CHERUBIN}
+
+\begin{FIGARO}
+Dummer Cherubin! So ein leichtfüßiger Kerl wie 
+du soll ein Schweißfuß der Infanterie werden?
+\end{FIGARO}
+
+\begin{CHERUBIN}
+Was soll ich in meinem Schmerze tun, Figaro?
+\end{CHERUBIN}
+
+\begin{FIGARO}
+Paß auf! Mit einer Heldenbrust stolzierst du beim 
+Schloßtor hinaus, und auf leisen Zivilistensohlen 
+schleichst du dich wieder herein.
+\end{FIGARO}
+
+\begin{CHERUBIN}
+Damit mich der Graf mit schweren Fußtritten 
+wieder hinausbefördert.
+\end{CHERUBIN}
+
+\begin{FIGARO}
+Das laß meine Sache sein.
+\end{FIGARO}
+
+\begin{CHERUBIN}
+Wie kann ich meinen Hintern deine Sache sein lassen?
+\end{CHERUBIN}
+
+\begin{FIGARO}
+Dein Hintern ist Sache von Blanchette, denn bei 
+ihr wirst du dich verstecken. Ich werde gleich alles 
+vorbereiten.
+\end{FIGARO}
+
+\begin{CHERUBIN}
+Sei geküßt, Figaro. Du rettest mich vor dem 
+sicheren Heldentum! 	 
+ \begin{Regie}küßt Figaro wild aufs ganze Gesicht\end{Regie} 
+\end{CHERUBIN}
+
+\begin{FIGARO}
+Bei allen schwulen Teufeln, was soll das?
+\end{FIGARO}
+
+\begin{CHERUBIN}
+ Bei allen guten Komödien, warum nicht? 
+Kennst du nicht das Rezept aller Komödien? In der Komödie 
+ist alles möglich, besonders das Gegenteil. Die 
+Armen werden reich, die Reichen werden betrogen, die 
+Unglücklichen werden glücklich, etcetera, etcetera. Und 
+wer nichts anderes im Kopfe hat als das goldene 
+Dreieck der Weiber, auch der treibt beizeiten ... 	 
+ \begin{Regie}Cherubin küßt Figaro\end{Regie}  ... das Gegenteil!
+
+\end{CHERUBIN}
+
+\LangsameEinstellung{Lied Cherubin}
+
+\begin{Regie}
+Cherubin und der Diener singen ein 
+Lied. Den Refrain des Liedes singt Cherubin allein.
+\end{Regie}
+
+\Seite{30}
+
+
+\begin{CHERUBIN}
+ \begin{Regie}mit Diener\end{Regie} 
+Wir ziehen nach Toledo,	 \\
+am Tage vor der Schlacht.	 \\
+Und unsre Mägen knurren,	 \\
+wie der Schakal bei Nacht.	 \\
+Mein Mädchen, wo ist dein Lachen?	 \\
+Dein Alabastergesicht?	 \\
+Du weißt, ich lieb' diese Sachen,	 \\
+verbirg sie doch nicht.	 \\
+Wir ziehen nach Toledo,	 \\
+die Sonne brennt so heiß.	 \\
+Man hört die Felder keuchen	 \\
+und sauft den eigenen Schweiß.	 \\
+Mein Mädchen, wo ist dein Lachen?	 \\
+Dein Alabastergesicht?	 \\
+Du weißt, ich lieb' diese Sachen,	 \\
+verbirg sie doch nicht.	 \\
+Wir ziehen nach Toledo,	 \\
+der Abend hüllt uns ein.	 \\
+Und aus den Gräben steigen	 \\
+die Nebel ins Mark hinein.	 \\
+Mein Mädchen, wo ist dein Lachen?	 \\
+Dein Alabastergesicht?	 \\
+Du weißt, ich lieb' diese Sachen;	 \\
+verbirg sie doch nicht.	 \\
+Wir ziehen nach Toledo,	 \\
+es ist die Nacht vorm Tod.	 \\
+Unsre Augen brennen wie Feuer,	 \\
+und die Stiefel färben sich rot.	 \\
+Mein Mädchen, wo ist dein Lachen?	 \\
+Dein Alabastergesicht?	 \\
+Du weißt' ich lieb' diese Sachen,	 \\
+verbirg sie doch nicht.	 \\
+Jetzt sind wir in Toledo,	 \\
+es ist der Morgen der Schlacht.
+\end{CHERUBIN}
+
+\Seite{31}
+
+
+\begin{CHERUBIN}
+ \begin{Regie}mit Diener\end{Regie} 
+Eine Kugel zerreißt mir den Nacken, 	 \\
+der Rest wird von Schwertern vollbracht. 	 \\
+Ich fahre in den Himmel 	 \\
+am Tage nach der Schlacht. 	 \\
+Dort gibt es lauter Helden, 	 \\
+ich hab' nur an dich gedacht.
+\end{CHERUBIN}
+
+\Einstellung{Dunkel}
+\Einstellung{Umbau mit Musik leise}
+ \begin{Regie}Musik leise ab Titel 2\end{Regie} 
+
+\Seite{32}
+
+
+\begin{Regie}
+Zweiter Akt
+
+Das Zimmer der Gräfin. Schminktisch, Paravent usw. Susanne 
+hilft der Gräfin beim Anziehen.
+
+Musik aus!\end{Regie} 
+
+\Einstellung{Hell}
+
+\begin{GREFIN}
+Was sagst du nun, mein Mädchen? Der Graf hat 
+sein Wort gegeben. Die Hochzeit findet statt.
+\end{GREFIN}
+
+\begin{SUSANNE}
+Ihr kamt im richtigen Augenblick.
+\end{SUSANNE}
+
+\begin{GREFIN}
+Dein Figaro hat mir alles erzählt. Daß dir mein 
+Mann nachstellt...
+\end{GREFIN}
+
+\begin{SUSANNE}
+... zuerst ließ er mir nur durch Bazillus zustellen. 
+Dann kam er selbst und forderte ...
+\end{SUSANNE}
+
+\begin{GREFIN}
+Er liebt mich nicht mehr.
+\end{GREFIN}
+
+\begin{SUSANNE}
+Warum wißt Ihr das so genau?
+\end{SUSANNE}
+
+\begin{GREFIN}
+Die Einsamkeit ist eine gute Lehrmeisterin, Susanne.
+\end{GREFIN}
+
+\begin{SUSANNE}
+Aber seine Eifersucht.
+\end{SUSANNE}
+
+\begin{GREFIN}
+Ist nichts als Eitelkeit. Er liebt mich wie einen 
+Gegenstand, wie seine goldenen Uhren. Zärtlichkeit für 
+eine Uhr?  \begin{Regie}leise\end{Regie}  Ich verroste bei lebendigem Leib. 
+Kein verstecktes Lächeln, kein verliebtes Flüstern holt 
+mich zurück. Ich höre den Stundenschlag und bin allein 
+mit seinem Echo.
+\end{GREFIN}
+
+\begin{SUSANNE}
+Glaubt Ihr, daß Figaro mich immer lieben wird?
+\end{SUSANNE}
+
+\begin{GREFIN}
+Ich glaube, daß die Männer die Liebe nicht verstehen. 
+\end{GREFIN}
+
+\begin{Regie}
+Es klopft.
+\end{Regie}
+
+\begin{FIGARO}
+ \begin{Regie}von draußen\end{Regie}  Es hat geklopft!
+\end{FIGARO}
+
+\begin{SUSANNE}
+Wie meinen Frau Gräfin?
+\end{SUSANNE}
+
+\begin{GREFIN}
+ \begin{Regie}macht die Stimme Figaros nach\end{Regie}  Es hat geklopft! 
+ \begin{Regie}lachend\end{Regie}  Figaro steht vor der Tür.
+\end{GREFIN}
+
+\begin{SUSANNE}
+Figaro steht vor der Tür? Warum sagt er nichts? 
+\end{SUSANNE}
+
+\begin{Regie}
+Susanne eilt zur Tür und öffnet sie. Figaro tritt ein und 
+hält sich die Hand vor die Augen.
+\end{Regie}
+
+\begin{FIGARO}
+Ich bin blind!
+
+
+\end{FIGARO}
+
+\Seite{33}
+
+
+\begin{GREFIN}
+ \begin{Regie}erschrocken\end{Regie}  Bei Gott!
+\end{GREFIN}
+
+\begin{SUSANNE}
+ \begin{Regie}gleichzeitig, erschrocken\end{Regie}  Bei Gott!
+\end{SUSANNE}
+
+\begin{FIGARO}
+ \begin{Regie}nimmt die Hand von den Augen\end{Regie}  Bei Ihrer Schönheit, 
+meine Damen, wer könnte sie ohne Blendung überstehen!
+\end{FIGARO}
+
+\begin{GREFIN}
+Ach so.
+\end{GREFIN}
+
+\begin{SUSANNE}
+Red nicht so geschwollen.
+\end{SUSANNE}
+
+\begin{FIGARO}
+Wohin sonst mit aller Schwellung, wenn nicht in die Sprache?
+\end{FIGARO}
+
+\begin{GREFIN}
+Was gibt's Neues, Figaro? 
+\end{GREFIN}
+
+\begin{FIGARO}
+Ich habe den Grafen belauscht. 
+\end{FIGARO}
+
+\begin{SUSANNE}
+Das ist nicht neu. 
+\end{SUSANNE}
+
+\begin{FIGARO}
+Der Graf hat Cherubin zum Leutnant gemacht und 
+in den Krieg geschickt. 
+\end{FIGARO}
+
+\begin{GREFIN}
+Das ist entsetzlich. 
+\end{GREFIN}
+
+\begin{FIGARO}
+Halb so schrecklich. Ich habe den Bengel im Schloß versteckt.
+\end{FIGARO}
+
+\begin{GREFIN}
+Das ist gefährlich. Du kennst den Zorn des Grafen. 
+\end{GREFIN}
+
+\begin{FIGARO}
+Halb so gefährlich. Ich habe dem Burschen eine 
+Verkleidung ausgedacht, die den Grafen hoch erfreuen wird.
+\end{FIGARO}
+
+\begin{SUSANNE}
+Was meinst du damit, Figaro? 
+\end{SUSANNE}
+
+\begin{GREFIN}
+Du sprichst in Rätseln. 
+\end{GREFIN}
+
+\begin{FIGARO}
+So hört die Lösung. Der Graf ist zornig und wird 
+alles versuchen, die Hochzeit zu verhindern. 
+\end{FIGARO}
+
+\begin{GREFIN}
+Er hat seine Zustimmung gegeben. 
+\end{GREFIN}
+
+\begin{FIGARO}
+Was er gibt, kann er auch wieder nehmen. 
+\end{FIGARO}
+
+\begin{SUSANNE}
+Was ihm nicht gelingen wird. 
+\end{SUSANNE}
+
+\begin{FIGARO}
+Was ihm wohl gelingen könnte. Wir müssen ihn 
+versöhnlich, milde machen, wie eine katalanische 
+Katze. Schnurr! 
+\end{FIGARO}
+
+\begin{GREFIN}
+Schnurr? 
+\end{GREFIN}
+
+\begin{SUSANNE}
+Schnurr? 
+\end{SUSANNE}
+
+\begin{FIGARO}
+Schnurr! 
+\end{FIGARO}
+
+\begin{SUSANNE}
+Du spinnst, Figaro! 
+\end{SUSANNE}
+
+\begin{FIGARO}
+Darf ich ausreden? Susanne wird sich dem Grafen 
+geneigt zeigen und ein Rendezvous vereinbaren.
+
+
+\end{FIGARO}
+
+\Seite{34}
+
+
+\begin{SUSANNE}
+Du bist verrückt, Figaro!
+\end{SUSANNE}
+
+\begin{FIGARO}
+Dein Entgegenkommen macht den Grafen milde 
+und unsere Hochzeit sicher. Und in der Nacht im Park, 
+wenn er mit gierigen Fingern nach meiner Gemahlin 
+grabscht ...
+\end{FIGARO}
+
+\begin{SUSANNE}
+Du bist grausam, Figaro!
+\end{SUSANNE}
+
+\begin{FIGARO}
+... wird Cherubin in ihren Kleidern stecken!
+\end{FIGARO}
+
+\begin{SUSANNE}
+Du bist genial, Figaro!
+\end{SUSANNE}
+
+\begin{FIGARO}
+Wenn man mich ausreden läßt. Der Graf erhält 
+den gerechten Lohn für seine Untreue ...
+\end{FIGARO}
+
+\begin{GREFIN}
+... und Cherubin?
+\end{GREFIN}
+
+\begin{FIGARO}
+Das dreh' ich schon.
+\end{FIGARO}
+
+\begin{SUSANNE}
+Das dreht er schon, Frau Gräfin, bei seiner Begabung!
+\end{SUSANNE}
+
+\begin{GREFIN}
+Der Plan gefällt mir. Aber ist er nicht zu gefährlich?
+\end{GREFIN}
+
+\begin{FIGARO}
+Gefahr, Frau Gräfin, ist ein kleiner Preis für soviel 
+Schönheit, oder wie die Deutschen etwas plumper 
+sagen: Wer wagt, gewinnt!
+\end{FIGARO}
+
+\begin{GREFIN}
+Dann wage, Figaro.
+\end{GREFIN}
+
+\begin{SUSANNE}
+Dann gewinne, Figaro.
+\end{SUSANNE}
+
+\begin{FIGARO}
+Adieu. Ich schicke euch den Cherubin. Macht mit 
+Kleidern und Schminke ein Mädchen aus ihm, daß dem 
+Grafen der Mut in der Hose schwillt, 
+daß seine Lüsternheit die Gipfel der Pyrenäen übersteigt, 
+daß seine Geilheit wie eine Silvesterrakete die Wurmlinger
+Kapelle übersteigt, daß ...
+\end{FIGARO}
+
+\begin{SUSANNE}
+Halt, Figaro, du befindest dich in Gesellschaft von Damen ...
+\end{SUSANNE}
+
+\begin{FIGARO}
+... die ich mit Wehmut verlasse!  \begin{Regie}ab\end{Regie} 
+\end{FIGARO}
+
+\begin{GREFIN}
+Ein Teufelskerl, dein Figaro. Cherubin wird gleich hier sein.
+\end{GREFIN}
+
+\begin{SUSANNE}
+Er ist so mutig.
+\end{SUSANNE}
+
+\begin{GREFIN}
+Und so hübsch.
+\end{GREFIN}
+
+\begin{SUSANNE}
+Und so klug.
+\end{SUSANNE}
+
+\begin{GREFIN}
+Und so jung.
+\end{GREFIN}
+
+\begin{SUSANNE}
+Ach, Figaro.
+
+
+\end{SUSANNE}
+
+\Seite{35}
+
+
+\begin{GREFIN}
+Ach, Cherubin. Schnell, Susanne, hilf mir beim 
+Schminken. Hier fehlen noch zwei Locken. Sind meine 
+Wangen nicht zu blaß? Meine Haare sind ganz durcheinander. 	 
+\end{GREFIN}
+
+\begin{Regie}
+Es klopft.
+\end{Regie}
+
+\begin{SUSANNE}
+So wie Ihr, Madame.
+\end{SUSANNE}
+
+\begin{GREFIN}
+Was willst du damit sagen? 	 
+\end{GREFIN}
+
+\begin{Regie}
+Es klopft.
+\end{Regie}
+
+\begin{SUSANNE}
+Die Antwort steht vor der Tür. 	 
+\end{SUSANNE}
+
+\begin{Regie}
+Susanne öffnet die Tür. Cherubin tritt ein. 	 
+\end{Regie}
+
+\begin{SUSANNE}
+Grüß Gott, Herr General.
+\end{SUSANNE}
+
+\begin{CHERUBIN}
+Grüß Gott, Susanne.
+\end{CHERUBIN}
+
+\begin{GREFIN}
+Grüß Gott, Herr Leutnant.
+\end{GREFIN}
+
+\begin{CHERUBIN}
+Meine Ergebenheit, Frau Gräfin. Oh, ich bin blind!
+\end{CHERUBIN}
+
+\begin{SUSANNE}
+Bei Ihrer Schönheit, meine Dame, wer könnte 
+sie ohne Blendung überstehen? Die Stelle ist schon vorgekommen.
+\end{SUSANNE}
+
+\begin{CHERUBIN}
+ \begin{Regie}zur Gräfin\end{Regie}  Der Graf hat mich zum Krieger 
+gemacht. Helft mir, schöne Dame.
+\end{CHERUBIN}
+
+\begin{SUSANNE}
+Was für eine mutige Anrede.
+\end{SUSANNE}
+
+\begin{GREFIN}
+Wie anmutig er redet. Hat dir Figaro alles erzählt?
+\end{GREFIN}
+
+\begin{CHERUBIN}
+So viel, als daß Ihr mich erwartet.
+\end{CHERUBIN}
+
+\begin{GREFIN}
+Gut, Susanne, sperr die Tür ab. 	 
+\end{GREFIN}
+
+\begin{Regie}
+Susanne sperrt die Tür ab.
+\end{Regie}
+
+\begin{CHERUBIN}
+ \begin{Regie}verwundert\end{Regie}  Frau Gräfin?
+\end{CHERUBIN}
+
+\begin{GREFIN}
+Herr Leutnant? Zieh deinen Rock aus, Cherubin.
+\end{GREFIN}
+
+\begin{CHERUBIN}
+ \begin{Regie}noch mehr verwundert\end{Regie}  Frau Gräfin?
+\end{CHERUBIN}
+
+\begin{GREFIN}
+Herr Leutnant? Zieh dein Kleid aus, Susanne.
+\end{GREFIN}
+
+\begin{CHERUBIN}
+Ich soll mich wirklich ausziehen?
+\end{CHERUBIN}
+
+\begin{GREFIN}
+Du sollst Susannes Kleid anziehen. Eine Maskerade, mein Freund.
+\end{GREFIN}
+
+\begin{CHERUBIN}
+Eine Maskerade?
+\end{CHERUBIN}
+
+\begin{SUSANNE}
+Herr General sollen das hübscheste Mädchen 
+der Umgebung werden. Wie gefällt dir das?
+
+
+\end{SUSANNE}
+
+\Seite{36}
+
+
+\begin{CHERUBIN}
+ \begin{Regie}nach kurzer Überlegung\end{Regie}  Lieber ein falsches 
+Mädchen als ein echter Held.	 
+\end{CHERUBIN}
+
+\begin{Regie}
+Susanne hat ihr Kleid ausgezogen, Cherubin seinen Rock. 
+\end{Regie}
+
+\begin{SUSANNE}
+Hände hoch, Herr Soldat! Niederknien!	 
+\end{SUSANNE}
+
+\begin{Regie}
+Cherubin kniet nieder und hebt seine Arme. Susanne 
+stülpt ihm ihr Kleid über den Kopf. 
+\end{Regie}
+
+\begin{SUSANNE}
+ \begin{Regie}zu Cherubin\end{Regie}  Nun, mein Fräulein, wie paßt die 
+neue Garderobe?
+\end{SUSANNE}
+
+\begin{CHERUBIN}
+Nicht schlecht, mein Fräulein. Die Schultern 
+sind etwas zu eng, und die Brust ist ein bißchen flach. 
+Haben die Damen zufällig einen Busen übrig? 
+\end{CHERUBIN}
+
+\begin{SUSANNE}
+Mein Herr, benehmen Sie sich. 
+\end{SUSANNE}
+
+\begin{CHERUBIN}
+Aber unter Damen ... 
+\end{CHERUBIN}
+
+\begin{SUSANNE}
+Die Rolle gefällt ihm. Um so besser. 
+\end{SUSANNE}
+
+\begin{CHERUBIN}
+ \begin{Regie}übermütig, verbeugt sich vor Susanne\end{Regie}  Will der 
+Herr ein Tänzchen wagen?	 
+ \begin{Regie}Cherubin nimmt Susanne und macht mit ihr ein paar 
+Tanzschritte\end{Regie} 
+\end{CHERUBIN}
+
+\begin{SUSANNE}
+Was für eine zudringliche Frauensperson! 
+\end{SUSANNE}
+
+\begin{CHERUBIN}
+ \begin{Regie}zur Gräfin\end{Regie}  Finden Sie nicht, meine Liebe, dass 
+ich in letzter Zeit blaß aussehe?
+\end{CHERUBIN}
+
+\begin{GREFIN}
+Ich finde, Sie sollten ausspannen, meine Liebe. 
+\end{GREFIN}
+
+\begin{CHERUBIN}
+Sie haben recht, meine Liebe. Diese ständigen 
+Liebschaften ermatten mich zusehends.  \begin{Regie}zu Susanne\end{Regie}  
+Zofe, mein linkes Auge wirkt so ungünstig. 
+\end{CHERUBIN}
+
+\begin{GREFIN}
+Los, Susanne, hol die Perücke.	 
+\end{GREFIN}
+
+\begin{Regie}
+Susanne holt die Perücke. Die Gräfin und Susanne 
+schminken Cherubin. Grimassen, Gelächter.
+\end{Regie}
+
+\begin{CHERUBIN}
+Etwas mehr Sinnlichkeit um den Mund, wenn ich bitten darf.	 
+\end{CHERUBIN}
+
+\begin{Regie}
+Susanne setzt Cherubin die Perücke auf. 	 
+\end{Regie}
+
+\begin{CHERUBIN}
+Schon wieder Dauerwelle. Gibt's keine modernen Frisuren im Fundus? 
+\end{CHERUBIN}
+
+\begin{SUSANNE}
+Sie sind eine Schönheit, Madame.
+
+
+\end{SUSANNE}
+
+\Seite{37}
+
+
+\begin{CHERUBIN}
+Danke, ich bin Komplimente gewohnt.
+\end{CHERUBIN}
+
+\begin{SUSANNE}
+Direkt zum Anbeißen.
+\end{SUSANNE}
+
+\begin{CHERUBIN}
+Sie stehen hier halb in Unterhosen und wagen 
+es, einer Dame ... 
+\end{CHERUBIN}
+
+\begin{SUSANNE}
+Blöder Kerl!  \begin{Regie}wendet sich zum Gehen\end{Regie} 
+Ich ziehe mir nur schnell ein Kleid an. Ein Handkuß den Damen.	 \begin{Regie}ab\end{Regie} 
+\end{SUSANNE}
+
+\begin{Regie}
+Die Gräfin und Cherubin sehen sich verlegen an.	Pause.
+\end{Regie}
+
+\begin{GREFIN}
+Nun, junger Mann? 
+\end{GREFIN}
+
+\begin{CHERUBIN}
+Ja, schöne Dame?	 
+\end{CHERUBIN}
+
+\begin{Regie}
+Pause.
+\end{Regie}
+
+\begin{GREFIN}
+Wie geht's zu Hause? 
+\end{GREFIN}
+
+\begin{CHERUBIN}
+Ich bin Waise.
+\end{CHERUBIN}
+
+\begin{GREFIN}
+Ach So.	 
+\end{GREFIN}
+
+\begin{Regie}
+Pause.
+\end{Regie}
+
+\begin{CHERUBIN}
+Frau Gräfin? 
+\end{CHERUBIN}
+
+\begin{GREFIN}
+Ja, Cherubin? 
+\end{GREFIN}
+
+\begin{CHERUBIN}
+Sind Sie auch verwaist? 
+\end{CHERUBIN}
+
+\begin{GREFIN}
+Ich bin einsam! 
+\end{GREFIN}
+
+\begin{CHERUBIN}
+Bekommen Sie wenig Besuch?	 
+\end{CHERUBIN}
+
+\begin{Regie}
+Pause.
+\end{Regie}
+
+\begin{GREFIN}
+Was denken die einfachen Leute über mich? 
+\end{GREFIN}
+
+\begin{CHERUBIN}
+Sie gehorchen Ihnen, Frau Gräfin.
+\end{CHERUBIN}
+
+\begin{GREFIN}
+Ach So.
+\end{GREFIN}
+
+\begin{CHERUBIN}
+Darf ich etwas sagen?
+\end{CHERUBIN}
+
+\begin{GREFIN}
+Ja, Cherubin?
+\end{GREFIN}
+
+\begin{CHERUBIN}
+Ich kann jetzt nicht.
+\end{CHERUBIN}
+
+\begin{GREFIN}
+Dann sag es später.
+\end{GREFIN}
+
+\begin{CHERUBIN}
+Sie sind sehr schön, Frau Gräfin. Ich ...
+\end{CHERUBIN}
+
+\begin{GREFIN}
+Ja, Cherubin?
+\end{GREFIN}
+
+\begin{CHERUBIN}
+Ich kann jetzt nicht.
+\end{CHERUBIN}
+
+\begin{Regie}
+Pause.
+\end{Regie}
+
+\begin{GREFIN}
+Magst du Oliven, Cherubin?
+
+
+\end{GREFIN}
+
+\Seite{38}
+
+
+\begin{CHERUBIN}
+Die schwarzen oder die grünen?
+\end{CHERUBIN}
+
+\begin{GREFIN}
+Die von den Bauern.
+\end{GREFIN}
+
+\begin{CHERUBIN}
+Ich mag die Bauern, und ich mag die Oliven. 
+Ich ziehe oft über die Felder.
+\end{CHERUBIN}
+
+\begin{GREFIN}
+Tanzen die Burschen noch immer nach der Ernte? 
+\end{GREFIN}
+
+\begin{CHERUBIN}
+Sie tanzen, bis die Mädchen umfallen.	 
+\end{CHERUBIN}
+
+\begin{Regie}
+Pause.
+\end{Regie}
+
+\begin{CHERUBIN}
+Frau Gräfin? 
+\end{CHERUBIN}
+
+\begin{GREFIN}
+Ja, Cherubin? 
+\end{GREFIN}
+
+\begin{CHERUBIN}
+Ich bin ein Diener. 
+\end{CHERUBIN}
+
+\begin{GREFIN}
+Ja, Cherubin? 
+\end{GREFIN}
+
+\begin{CHERUBIN}
+Ich bin ein junger Mensch. 
+\end{CHERUBIN}
+
+\begin{GREFIN}
+Ja, Cherubin? 
+\end{GREFIN}
+
+\begin{CHERUBIN}
+Ich bin ein junger Mann. 
+\end{CHERUBIN}
+
+\begin{GREFIN}
+Ja, Cherubin? 
+\end{GREFIN}
+
+\begin{CHERUBIN}
+Sie sind so weit entfernt. 
+\end{CHERUBIN}
+
+\begin{GREFIN}
+Ja, Cherubin. 
+\end{GREFIN}
+
+\begin{CHERUBIN}
+Kann man mit drei Schritten alles überspringen?	 
+\end{CHERUBIN}
+
+\begin{Regie}
+Es klopft.	 
+Die Gräfin und Cherubin schauen sich ängstlich an. 
+Stille.
+\end{Regie}
+
+\begin{GRAF}
+ \begin{Regie}von draußen\end{Regie}  Warum ist hier abgesperrt?! 
+\end{GRAF}
+
+\begin{GREFIN}
+O Gott, der Graf! 
+\end{GREFIN}
+
+\begin{CHERUBIN}
+Der Graf? O Gott! 
+\end{CHERUBIN}
+
+\begin{GRAF}
+ \begin{Regie}von draußen\end{Regie}  Öffnen Sie sofort die Tür, Madame! 
+Warum sperren Sie sich ein? 
+\end{GRAF}
+
+\begin{GREFIN}
+Weil, weil ich allein bin.  \begin{Regie}Zu Cherubin\end{Regie}  Schnell in 
+meine Garderobe! 
+\end{GREFIN}
+
+\begin{GRAF}
+ \begin{Regie}von draußen\end{Regie}  Weil Sie allein sind? Ich höre Sie doch sprechen! 
+\end{GRAF}
+
+\begin{GREFIN}
+Ich spreche? Natürlich, mit Ihnen.	 
+\end{GREFIN}
+
+\begin{Regie}
+Cherubin verschwindet in die Garderobe. Die Gräfin 
+öffnet die Tür. Der Graf stürzt herein
+\end{Regie}
+
+\Einstellung{Voll Hell}
+
+\begin{GRAF}
+Wo ist er? 
+\end{GRAF}
+
+\begin{GREFIN}
+Wer er?
+
+
+\end{GREFIN}
+
+\Seite{39}
+
+
+\begin{GRAF}
+Er! Ich hörte eine männliche Stimme.
+\end{GRAF}
+
+\begin{GREFIN}
+Ach, Sie meinen Susanne.
+\end{GREFIN}
+
+\begin{GRAF}
+Wollen Sie mir eine Kuh für einen Stier vormachen?
+\end{GRAF}
+
+\begin{GREFIN}
+Sie sehen rot, Herr Graf, zu Unrecht. Ich habe mit 
+Susanne Kleider für die Hochzeit probiert, und als sie 
+Ihre männliche Stimme vernahm, verschwand sie 
+schnell in meiner Garderobe.
+\end{GREFIN}
+
+\begin{GRAF}
+Ich will sie sofort sehen!
+\end{GRAF}
+
+\begin{GREFIN}
+Meine Garderobe?
+\end{GREFIN}
+
+\begin{GRAF}
+Den Inhalt!
+\end{GRAF}
+
+\begin{GREFIN}
+Meine Kleider? Interessieren Sie sich für Damenmode?
+\end{GREFIN}
+
+\begin{GRAF}
+Machen Sie mich nicht rasend, Gräfin! Susanne, 
+komm sofort heraus!
+\end{GRAF}
+
+\begin{GREFIN}
+Halt, Herr Graf! Susanne ist gerade beim Umziehen. 
+Sie wird halb nackt sein.
+\end{GREFIN}
+
+\begin{GRAF}
+Ich will sie sofort sehen!
+\end{GRAF}
+
+\begin{GREFIN}
+Das halbnackte Mädchen? Ein verdächtiges Interesse 
+für meine Zofe, Herr Graf.
+\end{GREFIN}
+
+\begin{GRAF}
+Es geht um die Ehre eines Grafen. Wollen Sie bitte 
+die Dienstboten ausklammern?
+\end{GRAF}
+
+\begin{GREFIN}
+Es geht um die Ehre einer Gräfin. Wollen Sie 
+bitte Ihre Nachstellungen einstellen?
+\end{GREFIN}
+
+\begin{GRAF}
+Nun gut, wenn das Mädchen auch nackt ist, so kann 
+es doch reden. Susanne, bist du in der Garderobe?
+\end{GRAF}
+
+\begin{CHERUBIN}
+Nein ...
+\end{CHERUBIN}
+
+\begin{GREFIN}
+Susanne, ich verbiete dir, zu antworten!
+\end{GREFIN}
+
+\begin{GRAF}
+Sie machen sich höchst verdächtig, Frau Gräfin.
+\end{GRAF}
+
+\begin{GREFIN}
+Das wird sich zeigen.
+\end{GREFIN}
+
+\begin{GRAF}
+Ich lasse die Tür mit Gewalt aufbrechen. Wollen Sie 
+die Güte haben, mich zu begleiten? Ich werde Ihr 
+Zimmer von außen absperren. Alles bleibt, wo es ist!
+\end{GRAF}
+
+\begin{GREFIN}
+Sie gehen zu weit, Graf!
+\end{GREFIN}
+
+\begin{GRAF}
+Sie gehen mit, Gräfin.	 
+\end{GRAF}
+
+\begin{Regie}
+Graf und Gräfin ab. Susanne kommt aus ihrem Zimmer.
+\end{Regie}
+
+\Einstellung{Hell}
+
+\begin{SUSANNE}
+Bei allen Brennesseln der Sierra! Mußte der 
+
+
+\end{SUSANNE}
+
+\Seite{40}
+
+
+\begin{SUSANNE}
+Graf ausgerechnet jetzt kommen? Das ist eine dumme Geschichte.	 
+\end{SUSANNE}
+
+\begin{CHERUBIN}
+ \begin{Regie}wankt zitternd aus der Garderobe\end{Regie}  
+Das überleb' ich nicht. Nein, das überleb' ich 
+nicht. Wenn der Graf mich noch einmal erwischt, ende 
+ich frühzeitig. Ich scheide aus dieser Komödie! 
+\end{CHERUBIN}
+
+\begin{SUSANNE}
+Du mußt verschwinden, Cherubin. 
+\end{SUSANNE}
+
+\begin{CHERUBIN}
+Wohin, Susanne? Den Trick mit dem Lehnstuhl 
+kennt der Graf schon. Hinter den Vorhängen hat er 
+mich auch schon erwischt. In der Garderobe darf er 
+mich nicht finden. Ha! Ich hab's! Ein Sprung aus dem Fenster! 
+\end{CHERUBIN}
+
+\begin{SUSANNE}
+Das ist zu gefährlich, Cherubin. 
+\end{SUSANNE}
+
+\begin{CHERUBIN}
+ \begin{Regie}stellt sich ans Fensterkreuz, etwas pathetisch\end{Regie}  
+Ein bißchen Gefahr, Susanne, ist ein kleiner Preis für 
+ein gewonnenes Leben.
+\end{CHERUBIN}
+
+\begin{SUSANNE}
+Du kannst dir den Hals brechen, Cherubin. 
+\end{SUSANNE}
+
+\begin{CHERUBIN}
+ \begin{Regie}geht zu Susanne, beinahe sachlich\end{Regie}  Sollte es 
+tatsächlich ein Sprung in die Ewigkeit werden, so 
+brauch' ich vorher eine kleine Wegzehrung. 	 
+ \begin{Regie}Er küßt Susanne innig und geht wieder ans Fenster.\end{Regie} 
+Sag der Frau Gräfin ...
+\end{CHERUBIN}
+
+\begin{DIENER}
+ \begin{Regie}von draußen, seine Stimme kommt näher\end{Regie}  Seine 
+Exzellenz, der besonders wohlgeborene Graf von Almaviva ...	 
+\end{DIENER}
+
+\begin{Regie}
+Cherubin springt. Susanne stürzt zum Fenster. 
+\end{Regie}
+
+\SchnelleEinstellung{Schnell Gang}
+
+\begin{Regie}
+Cherubin verschwindet hinter der Bühne.
+\end{Regie}
+
+\begin{SUSANNE}
+Er hat's geschafft. 
+\end{SUSANNE}
+
+\LangsameEinstellung{Es wird langsam hell}
+
+\begin{SUSANNE}
+So ein mutiger Kerl. Herr Graf, 
+jetzt können Sie die Garderobe stürmen! 	 
+\end{SUSANNE}
+
+\begin{Regie}
+Susanne verschwindet in der Garderobe. Der Diener, 
+Graf und Gräfin treten auf.
+\end{Regie}
+
+\Einstellung{Voll Hell}
+
+\begin{DIENER}
+... Herr über zweihundert Rinder und Mägde. Großcomptur von ...
+\end{DIENER}
+
+\begin{GRAF}
+Sie bleiben also bei Ihrer Weigerung, die Tür freiwillig zu öffnen?
+\end{GRAF}
+
+\begin{GREFIN}
+Sie bleiben also bei Ihrer Zumutung, mit Gewalt einzudringen?
+
+
+\end{GREFIN}
+
+\Seite{41}
+
+
+\begin{GRAF}
+ \begin{Regie}zum Diener\end{Regie}  Vorwärts, Brecheisen. Tritt die Tür ein. 
+\end{GRAF}
+
+\begin{Regie}
+Der Diener neigt den Kopf und will gegen die Tür anrennen.
+\end{Regie}
+
+\begin{DIENER}
+Seine Exzellenz, der besonders wohlgeborene Graf...
+\end{DIENER}
+
+\begin{GREFIN}
+Halt, Herr Graf. Hinter dieser Tür befindet sich 
+Susanne. So glauben Sie mir doch.
+\end{GREFIN}
+
+\begin{GRAF}
+Warum so aufgeregt, Frau Gräfin?
+\end{GRAF}
+
+\begin{GREFIN}
+Susanne wirkt vielleicht etwas verändert.
+\end{GREFIN}
+
+\begin{GRAF}
+So, so. Verändert.
+\end{GRAF}
+
+\begin{GREFIN}
+Doch, doch. Etwas herber als sonst.
+\end{GREFIN}
+
+\begin{GRAF}
+So, so. Herb.
+\end{GRAF}
+
+\begin{GREFIN}
+Doch, doch. Vielleicht scheinen Ihnen ihre Schultern etwas breiter ...
+\end{GREFIN}
+
+\begin{GRAF}
+So, so. Breite Schultern.
+\end{GRAF}
+
+\begin{GREFIN}
+... und ihre Stimme etwas tiefer als üblich ...
+\end{GREFIN}
+
+\begin{GRAF}
+So, so. Tiefe Stimme. Das ist die Beschreibung eines 
+Mannes, Madame. Vorwärts, Brecheisen.
+\end{GRAF}
+
+\begin{GREFIN}
+Halt. Dieser Mann ist eine Frau. Ich meine, diese 
+Frau ist ein Mann.
+\end{GREFIN}
+
+\begin{GRAF}
+Was reden Sie?
+\end{GRAF}
+
+\begin{GREFIN}
+Schonen Sie ihn! Er ist unschuldig!
+\end{GREFIN}
+
+\begin{GRAF}
+Also doch! Vorwärts, Brecheisen!	 
+\end{GRAF}
+
+\begin{Regie}
+Der Diener läuft - mit dem Kopf voran - gegen die Tapetentür. 
+Susanne öffnet sie von innen. Der Diener läuft 
+durch und kracht gegen einen Kasten in der Garderobe. 
+Stille. Der Diener wankt aus der Garderobe.
+\end{Regie}
+
+\begin{GRAF}
+Nun? Wer ist im Zimmer?!
+\end{GRAF}
+
+\begin{DIENER}
+ \begin{Regie}wie betrunken\end{Regie}  Seine Exzellenz, der besonders 
+wohlgeborene Graf von Almaviva, Herr über ... 	 
+ \begin{Regie}Der Diener fällt um und torkelt ab.\end{Regie} 
+\end{DIENER}
+
+\begin{GRAF}
+Trottel!	 
+\end{GRAF}
+
+\begin{SUSANNE}
+ \begin{Regie}kommt trällernd aus der Garderobe\end{Regie}  	 
+\end{SUSANNE}
+
+\begin{GRAF}
+Susanne?
+
+
+\end{GRAF}
+
+\Seite{42}
+
+
+\begin{GREFIN}
+Susanne?
+\end{GREFIN}
+
+\begin{SUSANNE}
+ \begin{Regie}mit einem Blick auf den Diener\end{Regie}  Mit Verlaub, 
+Herr Graf, aber Ihr solltet Eure Diener etwas 
+vorsichtiger durch die Gegend werfen.
+\end{SUSANNE}
+
+\begin{GRAF}
+ \begin{Regie}stürzt in die Garderobe\end{Regie}  Hier muß noch jemand versteckt sein.
+\end{GRAF}
+
+\begin{SUSANNE}
+ \begin{Regie}zur Gräfin, leise\end{Regie}  Keine Angst, Frau Gräfin, 
+Cherubin ist aus dem Fenster gesprungen.
+\end{SUSANNE}
+
+\begin{GREFIN}
+Ave Maria, ich danke dir. Mir fällt ein Diamant vom Hals. 	 
+\end{GREFIN}
+
+\begin{GRAF}
+ \begin{Regie}Der Graf kommt aus der Garderobe.\end{Regie} 
+Nichts! Nichts als Mode!  \begin{Regie}Zur Gräfin\end{Regie}  Aber Sie selbst sagten doch ...
+\end{GRAF}
+
+\begin{GREFIN}
+... daß Sie zu weit gegangen sind, mein Herr.
+\end{GREFIN}
+
+\begin{GRAF}
+Ihre Weigerung, die Tür zu öffnen ... die männliche 
+Stimme ... die breiten Schultern ... ich hatte Grund zur Annahme ...
+\end{GRAF}
+
+\begin{GREFIN}
+Sie haben Grund, sich zu entschuldigen. Aber ich 
+werde diese Entschuldigung nicht annehmen.
+\end{GREFIN}
+
+\begin{GRAF}
+Madame, ich bitte Sie. Machen Sie keinen Skandal. 
+Die Sache ist mir selbst sehr peinlich.
+\end{GRAF}
+
+\begin{GREFIN}
+Es ist Ihnen peinlich?
+\end{GREFIN}
+
+\begin{GRAF}
+Es tut mir leid.
+\end{GRAF}
+
+\begin{GREFIN}
+Wie leid, Herr Graf? Werden Sie in Zukunft 
+weniger an Ihre Eitelkeit und mehr an mich denken?
+\end{GREFIN}
+
+\begin{GRAF}
+Habe ich jemals meine Pflicht...
+\end{GRAF}
+
+\begin{GREFIN}
+Von Ihrer Neigung rede ich und nicht von Ihrer 
+Pflicht, mein Gemahl.
+\end{GREFIN}
+
+\begin{GRAF}
+Müssen Sie ausgerechnet jetzt solche privaten ... 	 
+\end{GRAF}
+
+\begin{Regie}
+Es klopft.
+\end{Regie}
+
+\begin{FIGARO}
+ \begin{Regie}von draußen\end{Regie}  Ist alles vorbereitet, meine Damen?  
+\end{FIGARO}
+
+\begin{Regie}
+Der Graf reißt die Tür auf. Figaro erblickt den Grafen.
+\end{Regie}
+
+\begin{GRAF}
+Was soll vorbereitet sein?
+\end{GRAF}
+
+\begin{FIGARO}
+Oh, was muß nicht alles vorbereitet werden für 
+eine Hochzeit? Die Kleidchen und Maidchen, die Grübchen 
+und Zübchen, die Bänder und Fänder ...
+
+
+\end{FIGARO}
+
+\Seite{43}
+
+
+\begin{GRAF}
+Schwätzer! Was hast du in diesem Zimmer zu suchen?
+\end{GRAF}
+
+\begin{FIGARO}
+Oh, was sollte ein Bräutigam am Tage seiner 
+Hochzeit anderes suchen als seine Braut? Susanne geht 
+in jenes Zimmer, tandaradei, ich hinterher. Susanne 
+geht in dieses Gemach, tandaradei, ich nach. Das 
+Glück, Herr Graf, hat mich ganz tandaradei gemacht.
+\end{FIGARO}
+
+\begin{GRAF}
+Schwätzer!
+\end{GRAF}
+
+\begin{GREFIN}
+Der Arme ist ganz durcheinander, mein Gemahl. 
+Eröffnen Sie endlich die Zeremonie. Die Hochzeit soll 
+ihren Lauf nehmen.
+\end{GREFIN}
+
+\begin{GRAF}
+Ich verfüge ...  \begin{Regie}für sich\end{Regie}  ... Zeit gewinnen, Marcelline 
+muß jeden Moment hier sein ... ich verfüge ... 	 
+\end{GRAF}
+
+\begin{Regie}
+Es klopft.
+\end{Regie}
+
+\begin{GRAF}
+ \begin{Regie}für sich\end{Regie}  Das ist sie!  \begin{Regie}laut\end{Regie}  Herein!
+\end{GRAF}
+
+\begin{Regie}
+Antonio, der Gärtner, reißt die Tür auf.
+Antonio ist betrunken und hat die Perücke Cherubins auf.
+\end{Regie}
+
+\begin{ANTONIO}
+Everybody okay? Ein Vivat der Gemütlichkeit!
+\end{ANTONIO}
+
+\begin{GRAF}
+Der Kerl ist von Sinnen!
+\end{GRAF}
+
+\begin{ANTONIO}
+Antonio, mein Beruf. Gärtner, mein Name. Von 
+hinnen und doch nicht von Sinnen. Prost, Frau Gräfin, 
+Prostata, Herr Graf.
+\end{ANTONIO}
+
+\begin{GRAF}
+Abführen!	 
+\end{GRAF}
+
+\begin{ANTONIO}
+ \begin{Regie}singt\end{Regie}  Ein Vivat der Gemütlichkeit!
+\end{ANTONIO}
+
+\begin{GRAF}
+So was ist mir noch nicht vorgekommen!
+
+
+\end{GRAF}
+
+\Seite{44}
+
+
+\begin{ANTONIO}
+Nichttrinker, was? Die Diener zum Fenster 
+hinauswerfen, aber den Alkohol meiden, das hat man gerne. 
+Ich sage immer, Antonio sage ich, du sollst Grafen 
+und Mütter ehren ...
+\end{ANTONIO}
+
+\begin{GRAF}
+Schluß, sage ich!
+\end{GRAF}
+
+\begin{ANTONIO}
+Jawohl, Schluß!  \begin{Regie}Geht zum Fenster.\end{Regie}  Wenn der 
+Kerl ins Unkraut gefallen wäre, bitte, aber sechzehn 
+junge unschuldige Tulpen mit einem Schlag ... platsch, ausgelöscht!
+\end{ANTONIO}
+
+\begin{GRAF}
+Was redet der Trunkenbold?!
+\end{GRAF}
+
+\begin{ANTONIO}
+Du kaltes Herz, fühlst du nicht des Gärtners 
+Schmerz? Was für eine eiskalte Einstellung zum Grünzeug! O Mensch, o Graf!
+\end{ANTONIO}
+
+\begin{GRAF}
+Hinaus!
+\end{GRAF}
+
+\begin{ANTONIO}
+Demnächst! Gestatten Sie, daß ich vorher noch 
+einen letzten tragischen Blick auf die jungen Leichen werfe? 	 
+\end{ANTONIO}
+
+\begin{GRAF}
+ \begin{Regie}Der Graf läuft zum Fenster und schaut in den Garten.\end{Regie} 
+Wer hat die Blumen unter diesem Fenster zerstört?
+\end{GRAF}
+
+\begin{ANTONIO}
+Jetzt fragst du doch, warum mein Herz sich 
+bang in meinem Busen klemmt? Erschüttert, was?
+\end{ANTONIO}
+
+\begin{GRAF}
+Aus dem ist nichts rauszubringen.  \begin{Regie}Zu Susanne\end{Regie}  Was 
+ist hier hinuntergefallen, Susanne?
+\end{GRAF}
+
+\begin{ANTONIO}
+Ich bin zuständig. Es war eine Dame in Frauenkleidern ... 
+vielmehr ein Herr in Damenkleidern ... vielmehr ...
+\end{ANTONIO}
+
+\begin{SUSANNE}
+Jetzt wird's brenzlig.
+\end{SUSANNE}
+
+\begin{FIGARO}
+Glaubt kein Wort, Herr Graf.  \begin{Regie}Zu Antonio\end{Regie} 
+Antonio, wieviel ist drei mal drei?
+\end{FIGARO}
+
+\begin{ANTONIO}
+Siebzehn ... siebzehn und vier.
+\end{ANTONIO}
+
+\begin{FIGARO}
+Ihr seht, Herr Graf, total besoffen!
+\end{FIGARO}
+
+\begin{GRAF}
+Aber der zerstörte Garten ...
+\end{GRAF}
+
+\begin{FIGARO}
+Eine Ente, Herr Graf.
+\end{FIGARO}
+
+\begin{GRAF}
+Eine Ente?
+\end{GRAF}
+
+\begin{FIGARO}
+Ja, eine dicke Ente.
+
+
+\end{FIGARO}
+
+\Seite{45}
+
+
+\begin{GRAF}
+Eine dicke Ente?
+\end{GRAF}
+
+\begin{FIGARO}
+Ja, fast ein Geier.
+\end{FIGARO}
+
+\begin{GRAF}
+Fast ein Geier?
+\end{GRAF}
+
+\begin{FIGARO}
+Abgestürzt!
+\end{FIGARO}
+
+\begin{GRAF}
+Abgestürzt?
+\end{GRAF}
+
+\begin{FIGARO}
+Ja. Schrecklich, was?
+\end{FIGARO}
+
+\begin{ANTONIO}
+Halt! Ein Geier mit Perücke? Wohl besoffen, 
+Herr Figaro? Hier, geben Sie Ihrem Geier seine Haare wieder. 	 
+ \begin{Regie}er gibt Figaro die Perücke\end{Regie}  	 
+Und sagen Sie dem Vogel einen schönen Gruß, und 
+wenn er noch einmal...
+\end{ANTONIO}
+
+\begin{GRAF}
+Wem gehört diese Perücke?
+\end{GRAF}
+
+\begin{GREFIN}
+Sie gehört mir, mein Gemahl. Die Sache ist 
+schnell aufgeklärt. Ich war ihrer überdrüssig und warf 
+sie zum Fenster hinaus.
+\end{GREFIN}
+
+\begin{GRAF}
+Eine Perücke zerstört noch keinen Garten, Frau Gräfin.
+\end{GRAF}
+
+\begin{FIGARO}
+Aber ein betrunkener Gärtner, Herr Graf.
+\end{FIGARO}
+
+\begin{ANTONIO}
+Ich verbitte mir diese Anspielungen auf meine 
+unschuldige Person. Skandalös!
+\end{ANTONIO}
+
+\begin{GRAF}
+Was willst du damit sagen, Figaro?
+\end{GRAF}
+
+\begin{FIGARO}
+Daß alles logisch ist, Herr Graf. Die Frau Gräfin 
+hat die Perücke in den Garten geworfen, der Gärtner hat 
+sie dort gefunden. In seiner Trunkenheit hat er dabei die 
+Blumen zertreten.
+\end{FIGARO}
+
+\begin{ANTONIO}
+Der lügt schneller, als ich denken kann.
+\end{ANTONIO}
+
+\begin{GRAF}
+ \begin{Regie}zu Figaro\end{Regie}  Sagtest du nicht vorher etwas von einem Geier?
+\end{GRAF}
+
+\begin{FIGARO}
+Ein Geier, Herr Graf?
+\end{FIGARO}
+
+\begin{GRAF}
+Ja, eine Ente!
+\end{GRAF}
+
+\begin{FIGARO}
+Eine Ente?
+\end{FIGARO}
+
+\begin{GRAF}
+Ja, eine dicke Ente!
+\end{GRAF}
+
+\begin{FIGARO}
+Eine dicke Ente?
+\end{FIGARO}
+
+\begin{GRAF}
+Abgestürzt!
+\end{GRAF}
+
+\begin{FIGARO}
+Abgestürzt?
+\end{FIGARO}
+
+\begin{GRAF}
+Mein lieber Schwan!
+
+
+\end{GRAF}
+
+\Seite{46}
+
+
+\begin{ANTONIO}
+Halt! Ein abgestürzter Schwan? Das geht zu 
+weit. Hier sind ja alle betrunken.	 
+\end{ANTONIO}
+
+\begin{ANTONIO}
+Komm Antonio, meiden wir diesen Ort der 
+Verwirrung ... ein Geier mit Perücke ... eine abgestürzte 
+Ente ... schrecklich, was die Leute in ihrem Rausch 
+zusammenreden ... Antonio, sage ich immer ... nie über 
+den Durst trinken ... nobody is perfect. 	 
+\end{ANTONIO}
+
+\begin{Regie}
+Antonio und der Diener torkeln ab.
+\end{Regie}
+
+\begin{GRAF}
+Der Kerl wird bestraft. Aufs ärgste.
+\end{GRAF}
+
+\begin{GREFIN}
+Nach der Hochzeit, mein Gemahl. Geben Sie endlich Ihre Zustimmung.	 
+\end{GREFIN}
+
+\begin{Regie}
+Figaro und Susanne knien schnell vor dem Grafen nieder.
+\end{Regie}
+
+\begin{GRAF}
+Ich verfüge ...
+\end{GRAF}
+
+\begin{FIGARO}
+Meine Susanne!
+\end{FIGARO}
+
+\begin{SUSANNE}
+Mein Figaro! 
+\end{SUSANNE}
+
+\begin{Regie}
+Es klopft.
+\end{Regie}
+
+\begin{FIGARO}
+Wieder nichts! Diese Komödie ist eine Tragödie. 
+\end{FIGARO}
+
+\begin{Regie}
+Bazillus tritt ein und schleicht auf den Grafen zu.
+\end{Regie}
+
+\begin{BAZILLUS}
+ \begin{Regie}leise zum Grafen\end{Regie}  Die Intrige ist soeben eingetroffen.
+\end{BAZILLUS}
+
+\begin{GRAF}
+Bestens!  \begin{Regie}laut\end{Regie}  Treten Sie näher, Marcelline! 	 
+\end{GRAF}
+
+\begin{MARCELLINE}
+ \begin{Regie}auf\end{Regie} 
+\end{MARCELLINE}
+
+\begin{SUSANNE}
+Die Großmutter!
+\end{SUSANNE}
+
+\begin{FIGARO}
+Jetzt wird's gefährlich ...
+\end{FIGARO}
+
+\begin{GRAF}
+Liebe Marcelline! Haben Sie etwas gegen die 
+Verbindung meines Dieners Figaro mit der Zofe 
+Susanne vorzubringen?
+\end{GRAF}
+
+\begin{MARCELLINE}
+Ich habe, Herr Graf.
+\end{MARCELLINE}
+
+\begin{GRAF}
+ \begin{Regie}zu Bazillus\end{Regie}  Erstklassige Arbeit, Schurkenkopf.
+\end{GRAF}
+
+\begin{BAZILLUS}
+Wenn Sie die kurzen Liefertermine bedenken ...
+\end{BAZILLUS}
+
+\begin{GRAF}
+Bringen Sie vor, Marcelline.
+\end{GRAF}
+
+\begin{MARCELLINE}
+ \begin{Regie}zeigt auf Figaro\end{Regie}  Ich habe diesem Herrn 
+dreihundert Goldstücke geborgt.
+\end{MARCELLINE}
+
+\TextTeilEnde
+\TextTeilAnfang
+
+
+\Seite{47}
+
+
+\begin{FIGARO}
+Ich weiß.
+\end{FIGARO}
+
+\begin{MARCELLINE}
+Unter der Bedingung ...
+\end{MARCELLINE}
+
+\begin{FIGARO}
+Ich weiß nicht ...
+\end{FIGARO}
+
+\begin{MARCELLINE}
+Mich zu heiraten.
+\end{MARCELLINE}
+
+\begin{FIGARO}
+Keine Ahnung. Herr Graf, es stimmt, diese Dame 
+hat mir dreihundert Goldstücke geborgt.
+\end{FIGARO}
+
+\begin{GRAF}
+Unter der Bedingung?
+\end{GRAF}
+
+\begin{FIGARO}
+Sie wieder zurückzugeben. Ein ganz normaler Handel.
+\end{FIGARO}
+
+\begin{MARCELLINE}
+Er lügt, Herr Graf. Ich habe ein Anrecht...
+\end{MARCELLINE}
+
+\begin{FIGARO}
+Auf dreihundert Goldstücke.
+\end{FIGARO}
+
+\begin{MARCELLINE}
+Auf dich, Figaro! Ich werde dir immer eine 
+liebende Frau und deinen Kindern eine gute Mutter sein.
+\end{MARCELLINE}
+
+\begin{SUSANNE}
+Direkt hemmungslos, diese Person.
+\end{SUSANNE}
+
+\begin{FIGARO}
+Nie, Herr Graf, habe ich derartiges ...
+\end{FIGARO}
+
+\begin{GRAF}
+Wie dem auch sei, die Sache gehört vor ein 
+ordentliches Gericht. Die Hochzeit ist bis auf weiteres 
+verschoben. Ich übernehme den Vorsitz der 
+Verhandlung.  \begin{Regie}zu Bazillus\end{Regie}  Los, Bazillus, präpariere den 
+Audienzsaal und die Zeugen.  \begin{Regie}Zu Marcelline\end{Regie}  Kommen 
+Sie, Marcelline, vertrauen Sie der Gerechtigkeit! 	 
+\end{GRAF}
+
+\begin{Regie}
+Graf, Bazillus und Marcelline ab. Figaro, Susanne und 
+Gräfin allein.
+\end{Regie}
+
+\begin{SUSANNE}
+Eins zu null für den Grafen.
+\end{SUSANNE}
+
+\begin{GREFIN}
+Es tut mir leid für euch.
+\end{GREFIN}
+
+\begin{FIGARO}
+Nicht verzagen, Figaro fragen.
+\end{FIGARO}
+
+\begin{SUSANNE}
+Du weißt einen Ausweg?
+\end{SUSANNE}
+
+\begin{FIGARO}
+Erstens: Noch ist nicht aller Tage Abend, 
+zweitens: der Graf kocht auch nur mit Wasser, und 
+drittens: die Liebe macht erfinderisch.
+\end{FIGARO}
+
+\begin{SUSANNE}
+Sprichwörter, Figaro.
+\end{SUSANNE}
+
+\begin{GREFIN}
+Sprich weiter, Figaro.
+\end{GREFIN}
+
+\begin{FIGARO}
+Erstens: Noch ist nicht aller Tage Abend, noch hat 
+die Verhandlung nicht stattgefunden. Susanne, du gehst 
+sofort zum Grafen und gibst ihm ein Rendezvous, unter 
+der Bedingung ...
+
+
+\end{FIGARO}
+
+\Seite{48}
+
+
+\begin{SUSANNE}
+... daß nichts passiert!
+\end{SUSANNE}
+
+\begin{FIGARO}
+... daß er sich als Richter milde zeigt!
+\end{FIGARO}
+
+\begin{GREFIN}
+Da ihm mehr an Susanne als an Marcelline liegt, 
+wird er drauf eingehen.
+\end{GREFIN}
+
+\begin{FIGARO}
+Und wenn er nachts zur vereinbarten Stelle kommt ...
+\end{FIGARO}
+
+\begin{GREFIN}
+Nach allem, was passiert ist, müssen wir Cherubin 
+aus dem Spiel lassen ...
+\end{GREFIN}
+
+\begin{FIGARO}
+Und Euch ins Spiel nehmen. Frau Gräfin! Ihr 
+müßt in Susannes Kleidern stecken. Stellt Euch die 
+Liebesschwüre des Herrn Grafen vor.  \begin{Regie}Figaro kniet 
+nieder.\end{Regie}  Geliebte, laß mich emporklettern zu den Gipfeln 
+meiner Sehnsucht ... Ihr könnt ihn bei frischer Untreue ertappen!
+\end{FIGARO}
+
+\begin{GREFIN}
+Die Vorstellung gefällt mir ausgezeichnet.
+\end{GREFIN}
+
+\begin{FIGARO}
+Das war Nummer zwei. Der Graf kocht im eigenen Wasser.
+\end{FIGARO}
+
+\begin{SUSANNE}
+Und Nummer drei? Die Liebe macht erfinderisch?
+\end{SUSANNE}
+
+\begin{FIGARO}
+Drei bezieht sich auf eins und zwei.
+\end{FIGARO}
+
+\begin{SUSANNE}
+ \begin{Regie}küßt ihn kurz auf die linke Wange\end{Regie}  Und das bezieht 
+sich auf deinen Mut.  \begin{Regie}küßt ihn kurz auf die rechte 
+Wange\end{Regie}  Und das auf deinen Witz.  \begin{Regie}sie küßt ihn auf die 
+Stirne\end{Regie}  Und das auf deine Klugheit.
+\end{SUSANNE}
+
+\begin{FIGARO}
+ \begin{Regie}küßt Susanne auf die Lippen\end{Regie}  Und das auf deine Schönheit!
+\end{FIGARO}
+
+\begin{GREFIN}
+Was für ein Paar!	 
+\end{GREFIN}
+
+\LangsameEinstellung{Lied Graefin}
+
+\begin{Regie}
+Umbau	 
+Ende des zweiten Aktes. Die Gräfin singt ein Lied.
+\end{Regie}
+
+\begin{GREFIN}
+Ich bin allein und sehe
+\end{GREFIN}
+
+\Seite{49}
+
+
+\begin{GREFIN}
+den Tag und die Nacht und den Tag.\\
+Sie gehen an mir vorüber,\\
+wie Dinge, die ich nicht mag.\\
+Erinnerst du dich an den Morgen?\\
+Dein Lachen floß wie der Wein.\\
+Mein Gesicht war in deinem geborgen;\\
+jetzt bin ich allein.\\
+Erinnerst du dich an den Mittag?\\
+An den heißgebrannten Stein?\\
+Der Fluß nahm ihn auf und lachte;\\
+jetzt bin ich allein.\\
+Erinnerst du dich an den Abend?\\
+Wir trugen die Trauben herein.\\
+Ich biß sie dir aus den Lippen;\\
+jetzt bin ich allein.\\
+Erinnerst du dich an die Nacht?\\
+Mein Mund war überall dein.\\
+Du hast mir den Mond vom Himmel gebracht;\\
+jetzt bin ich allein.\\
+Ich bin allein und sehe\\
+den Tag und die Nacht und den Tag.\\
+Sie gehen an mir vorüber,\\
+wie Dinge, die ich nicht mag.
+\end{GREFIN}
+
+
+\Einstellung{Dunkel}
+
+\begin{Regie} Pause. Licht im Saal an. \end{Regie}
+
+\Einstellung{Dunkel mit Musik leise}
+
+\Seite{50}
+
+\begin{Regie} Nach der Pause. Licht im Saal aus. \end{Regie}
+
+\Einstellung{Umbau mit Musik leise}
+
+\begin{Regie}
+Dritter Akt
+
+Der Audienzsaal des Schlosses.
+Der Graf und Bazillus sind auf der Bühne. 
+
+Musik aus.
+\end{Regie}
+
+
+\Einstellung{Voll Hell}
+
+\begin{Regie}
+Es klopft. Bazillus verschwindet auf einen Wink des 
+Grafen in der Truhe.
+\end{Regie}
+
+\begin{GRAF}
+ \begin{Regie}ruft\end{Regie}  Ein Diener oder eine Person?
+\end{GRAF}
+
+\begin{SUSANNE}
+ \begin{Regie}von draußen\end{Regie}  Eine dienende Person.
+\end{SUSANNE}
+
+\begin{GRAF}
+Vorwärts!
+\end{GRAF}
+
+\begin{SUSANNE}
+ \begin{Regie}auf\end{Regie}  Mit Verlaub, Herr Graf. Frau Gräfin lassen dem 
+Herrn Grafen sagen, daß Frau Gräfin dem Herrn Grafen 
+etwas sagen möchte.
+\end{SUSANNE}
+
+\begin{GRAF}
+Und was läßt mir die Gräfin sagen?
+\end{GRAF}
+
+\begin{SUSANNE}
+Das hat mir die Gräfin nicht gesagt.
+\end{SUSANNE}
+
+\begin{GRAF}
+Du kommst also her, um mir zu sagen, daß mir die 
+Gräfin sagen läßt, sie möchte mir etwas sagen, was du 
+mir nicht sagen kannst?
+\end{GRAF}
+
+\begin{SUSANNE}
+Darf ich etwas sagen, Herr Graf? Daß mir die 
+Gräfin sagen läßt, sie möchte Euch etwas sagen, hat 
+nichts zu sagen.
+\end{SUSANNE}
+
+\begin{GRAF}
+Was willst du damit sagen?
+\end{GRAF}
+
+\begin{SUSANNE}
+Ich kam Euretwegen, Herr Graf.
+\end{SUSANNE}
+
+\begin{GRAF}
+Ein Vorwand also.
+\end{GRAF}
+
+\begin{SUSANNE}
+Ein Vorwand in Form einer Vorrede, gewissermaßen.
+\end{SUSANNE}
+
+\begin{GRAF}
+Nun, Susanne?
+\end{GRAF}
+
+\begin{SUSANNE}
+ \begin{Regie}scheinbar verlegen\end{Regie}  Nun, Herr Graf ...
+\end{SUSANNE}
+
+\begin{GRAF}
+Was willst du mir sagen?
+\end{GRAF}
+
+\begin{SUSANNE}
+Was ich bis jetzt nicht sagen konnte.
+\end{SUSANNE}
+
+\begin{GRAF}
+Wieder ein Vorwand?
+\end{GRAF}
+
+\begin{SUSANNE}
+Eine Vorsicht. Als Ihr mir heute Eure Absichten 
+auf meine Person eröffnet habt...
+\end{SUSANNE}
+
+\begin{GRAF}
+Warst du sehr abweisend, Susanne.
+
+
+\end{GRAF}
+
+\Seite{51}
+
+
+\begin{SUSANNE}
+Wie konnte ich anders. Cherubin war unterm 
+Lehnstuhl. Aber vielleicht kann ich jetzt anders. 
+\end{SUSANNE}
+
+\begin{GRAF}
+ \begin{Regie}geht auf Susanne zu\end{Regie}  Du stimmst also zu? Superb, superb ... 
+\end{GRAF}
+
+\begin{SUSANNE}
+ \begin{Regie}entzieht sich dem Grafen\end{Regie}  Wie gefällt Ihnen der Park um Mitternacht?
+\end{SUSANNE}
+
+\begin{GRAF}
+Ausgezeichnet, mein Kind. Ich werde pünktlich 
+sein. Ich erwarte dich halb angezogen und ganz 
+gewaschen. Und kein Wort zu Figaro!
+\end{GRAF}
+
+\begin{SUSANNE}
+Oh, ich sage ihm alles!
+\end{SUSANNE}
+
+\begin{GRAF}
+Was?
+\end{GRAF}
+
+\begin{SUSANNE}
+Was er wissen darf. Den Rest, den verschweige ich.
+\end{SUSANNE}
+
+\begin{GRAF}
+Was für ein witziger Leckerbissen. Almaviva, ich 
+gratuliere dir zu dieser Delikatesse.
+\end{GRAF}
+
+\begin{SUSANNE}
+Noch ist das Fräulein nicht vernascht, Herr Graf.
+\end{SUSANNE}
+
+\begin{GRAF}
+Susanne, ich warne dich. Kein Rendezvous, keine Hochzeit.
+\end{GRAF}
+
+\begin{SUSANNE}
+Und umgekehrt: keine Hochzeit, kein Rendezvous. 
+Herr Graf, ich danke Euch.
+\end{SUSANNE}
+
+\begin{GRAF}
+Superb, superb ...	 
+\end{GRAF}
+
+\begin{Regie}
+Der Graf ab. Figaro steigt aus einer Truhe.
+\end{Regie}
+
+\begin{FIGARO}
+ \begin{Regie}macht den Grafen nach\end{Regie}  Superb, superb ... ich 
+habe alles verstanden. Es läuft und läuft und läuft und 
+läuft. Direkt superb, wie sich der Graf in der eigenen 
+Schlinge fängt.
+\end{FIGARO}
+
+\begin{SUSANNE}
+Der Prozeß ist so gut wie gewonnen, Figaro.
+\end{SUSANNE}
+
+\begin{FIGARO}
+Und das Mädchen dazu!  \begin{Regie}Figaro umarmt Susanne.\end{Regie} 
+\end{FIGARO}
+
+\begin{SUSANNE}
+ \begin{Regie}lachend, abwehrend\end{Regie}  Plumper Kater!
+\end{SUSANNE}
+
+\begin{FIGARO}
+Schnöde Katze!
+\end{FIGARO}
+
+\begin{SUSANNE}
+ \begin{Regie}ernst\end{Regie}  Oh, Figaro, wenn wir immer zusammenhalten, 
+wird alles gut werden. 	 
+\end{SUSANNE}
+
+\begin{FIGARO}
+ \begin{Regie}Figaro umarmt Susanne.\end{Regie} 
+\end{FIGARO}
+
+\begin{SUSANNE}
+Mußt du schon wieder ...?
+
+
+\end{SUSANNE}
+
+\Seite{52}
+
+
+\begin{FIGARO}
+Du sagtest doch, man müßte immer ...
+\end{FIGARO}
+
+\begin{SUSANNE}
+Was?
+\end{SUSANNE}
+
+\begin{FIGARO}
+zusammenhalten! 
+\end{FIGARO}
+
+\begin{Regie}
+Die beiden gehen lachend ab. 
+Bazillus steigt aus der nächsten Truhe.
+\end{Regie}
+
+\begin{BAZILLUS}
+Superb, superb ... ich habe alles verstanden. 
+Intrigen, wohin man hört. Ich muß sofort den Grafen informieren. 	 
+\end{BAZILLUS}
+
+\begin{GRAF}
+ \begin{Regie}auf\end{Regie}  	 
+\end{GRAF}
+
+\begin{BAZILLUS}
+Herr Graf, ich melde eine neue Intrige.
+\end{BAZILLUS}
+
+\begin{GRAF}
+Habe ich eine bestellt?
+\end{GRAF}
+
+\begin{BAZILLUS}
+Die Konkurrenz ist am Werk, Herr Graf. Als Ihr 
+Euch mit Susanne über ein gewisses Thema unterhalten habt ...
+\end{BAZILLUS}
+
+\begin{GRAF}
+Hast du alles mitgehört.
+\end{GRAF}
+
+\begin{BAZILLUS}
+Ebenso Figaro!
+\end{BAZILLUS}
+
+\begin{GRAF}
+Figaro ebenso?
+\end{GRAF}
+
+\begin{BAZILLUS}
+Während ich in dieser Truhe lag, lag er in jener.
+\end{BAZILLUS}
+
+\begin{GRAF}
+Dann hat er alles mitgehört?
+\end{GRAF}
+
+\begin{BAZILLUS}
+Während er aus jener Truhe stieg, blieb ich in dieser.
+\end{BAZILLUS}
+
+\begin{GRAF}
+Dann hast du alles mitgehört?
+\end{GRAF}
+
+\begin{BAZILLUS}
+Wenn ich in kurzen Worten wiedergeben darf. 
+Figaro stieg aus der Truhe und sagte "süperb".
+\end{BAZILLUS}
+
+\begin{GRAF}
+Das habe ich beim Abtritt gesagt.
+\end{GRAF}
+
+\begin{BAZILLUS}
+Und er beim Auftritt.
+\end{BAZILLUS}
+
+\begin{GRAF}
+Die reinste Komödie.
+\end{GRAF}
+
+\begin{BAZILLUS}
+Dann sagte Figaro zu Susanne, das hast du gut 
+gemacht, dann sagte Susanne zu Figaro, der Prozeß ist 
+so gut wie gewonnen, dann sagte Figaro zu Susanne 
+schnöde Katze, dann sagte Susanne zu Figaro plumper 
+Kater, dann ...
+\end{BAZILLUS}
+
+\begin{GRAF}
+Ein abgekartetes Spiel!
+\end{GRAF}
+
+\begin{BAZILLUS}
+Total abgekartet!
+\end{BAZILLUS}
+
+\begin{GRAF}
+Und ich dachte, Susanne spricht mit aufrichtiger Zuneigung. 
+Was kann man von der Dienerschaft anderes 
+
+
+\end{GRAF}
+
+\Seite{53}
+
+
+\begin{GRAF}
+erwarten als Falschheit. Sofort eine Gegenintrige, 
+Bazillus.
+\end{GRAF}
+
+\begin{BAZILLUS}
+Ihr müßt Figaro verurteilen lassen, Herr Graf.
+\end{BAZILLUS}
+
+\begin{GRAF}
+Und wie komme ich dann zu Susanne?
+\end{GRAF}
+
+\begin{BAZILLUS}
+Mit der nächsten Intrige. Susanne wird Euch 
+bitten, Figaro nicht mit Marcelline zu verheiraten. Sie 
+wird Euch anflehen, das Urteil aufzuheben. Ihr sagt ja.
+\end{BAZILLUS}
+
+\begin{GRAF}
+Ich sage nein.
+\end{GRAF}
+
+\begin{BAZILLUS}
+Ihr sagt ja, unter der Bedingung, daß sie zu Euren 
+Bedingungen ja sagt.
+\end{BAZILLUS}
+
+\begin{GRAF}
+Und wie lauten meine Bedingungen?
+\end{GRAF}
+
+\begin{BAZILLUS}
+Bedingungslose Unterwerfung, noch vor der Hochzeit.
+\end{BAZILLUS}
+
+\begin{GRAF}
+Bravo, Schurkenkopf. Das ist eine Intrige, wie sie im Buche steht.
+\end{GRAF}
+
+\begin{BAZILLUS}
+Kleine Intrigenkunde, Vierter Band, die Haus- und Hofintrige.
+\end{BAZILLUS}
+
+\begin{GRAF}
+Wer schreibt solche Bücher?
+\end{GRAF}
+
+\begin{BAZILLUS}
+Herr Caron de Beaumarchais aus Paris.
+\end{BAZILLUS}
+
+\begin{GRAF}
+Ein Edelmann? Kann er sich keinen eigenen Intriganten leisten?	 
+\end{GRAF}
+
+\begin{Regie}
+Don Guzman di Stibizia, der Ortsrichter, und Zettelkopf, 
+sein Diener, treten auf.
+\end{Regie}
+
+\begin{DONGUZMAN}
+Don Guzman di Stibizia, Diener der Gerechtigkeit mit Diener.
+\end{DONGUZMAN}
+
+\begin{ZETTELKOPF}
+Zettelkopf, zu dienen.
+\end{ZETTELKOPF}
+
+\begin{GRAF}
+ \begin{Regie}zu Guzman\end{Regie}  Warum braucht ein Diener einen Diener?
+\end{GRAF}
+
+\begin{DONGUZMAN}
+Weil ein Diener den Herrn macht, Herr Graf!
+\end{DONGUZMAN}
+
+\begin{GRAF}
+Wenn er ein Herr ist, warum nennt er sich dann Diener? 
+Diener der Gerechtigkeit?
+\end{GRAF}
+
+\begin{DONGUZMAN}
+Weil ich als Diener an der Gerechtigkeit 
+verdiene, während ich sie als Herr bezahlen müßte.
+\end{DONGUZMAN}
+
+\begin{GRAF}
+Nun gut, Herr Richter. Sie wissen, was Sie zu tun 
+
+
+\end{GRAF}
+
+\Seite{54}
+
+
+\begin{GRAF}
+haben? Der Prozeß läuft folgendermaßen. Ich führe den 
+Vorsitz und wahre den Anschein der Gerechtigkeit, und 
+Sie verurteilen Figaro, unter allen Umständen.
+\end{GRAF}
+
+\begin{DONGUZMAN}
+Ich verstehe, die Gerechtigkeit wird unter 
+allen Umständen gewahrt.
+\end{DONGUZMAN}
+
+\begin{GRAF}
+ \begin{Regie}zu Bazillus\end{Regie}  Er versteht mich nicht ...
+\end{GRAF}
+
+\begin{BAZILLUS}
+ \begin{Regie}macht das Geldzeichen\end{Regie}  Ihr müßt etwas mehr 
+Verständnis zeigen ...
+\end{BAZILLUS}
+
+\begin{GRAF}
+Ich verstehe, 30 Gulden in bar.
+\end{GRAF}
+
+\begin{ZETTELKOPF}
+Notiere 30.
+\end{ZETTELKOPF}
+
+\begin{DONGUZMAN}
+Ich verstehe, die Gerechtigkeit wird unter 
+allem Anschein gewahrt. Das erfordert eine Menge 
+Mehrarbeit. Dreifache Dehnung der Paragraphen, 
+vierfache Umdrehung des Wortlautes, fünffache 
+Verdrehung des Sachverhaltes ...
+\end{DONGUZMAN}
+
+\begin{GRAF}
+Reden Sie nicht so viel. Machen Sie einen Kostenvoranschlag.
+\end{GRAF}
+
+\begin{DONGUZMAN}
+Ein normales Urteil kommt in der Regel auf ...
+\end{DONGUZMAN}
+
+\begin{GRAF}
+50 Gulden auf die Hand ohne Quittung, einverstanden?
+\end{GRAF}
+
+\begin{ZETTELKOPF}
+Notiere 50.
+\end{ZETTELKOPF}
+
+\begin{DONGUZMAN}
+Das wäre allerdings die einfachste Ausführung. 
+Mit Einspruchsrecht et cetera. Ein sehr gutes Urteil hingegen ...
+\end{DONGUZMAN}
+
+\begin{GRAF}
+60 Gulden und basta.
+\end{GRAF}
+
+\begin{ZETTELKOPF}
+Notiere 60.
+\end{ZETTELKOPF}
+
+\begin{DONGUZMAN}
+... ist bereits wesentlich stabiler, wenn es 
+auch nicht an die Sonderausführung mit falschen Zeugenaussagen, 
+erstklassigen Meineiden und allem Drum und Dran heranreicht.
+\end{DONGUZMAN}
+
+\begin{GRAF}
+100 Gulden, mein letztes Wort.
+\end{GRAF}
+
+\begin{DONGUZMAN}
+Gratuliere, Herr Graf. Ich darf noch hinzufügen, 
+daß diese exquisite Form des Urteils besonders 
+bei Hofe reißenden Absatz findet. Herr Graf haben Geschmack.
+
+
+\end{DONGUZMAN}
+
+\Seite{55}
+
+
+\begin{ZETTELKOPF}
+ \begin{Regie}reicht dem Grafen Papier und Feder\end{Regie}  Zu dienen, Exzellenz.
+\end{ZETTELKOPF}
+
+\begin{GRAF}
+Was will dieser Diener eines Dieners?
+\end{GRAF}
+
+\begin{BAZILLUS}
+Dieser Afterdiener!
+\end{BAZILLUS}
+
+\begin{DONGUZMAN}
+Der Bestellschein. Eine Formsache, Herr Graf.
+\end{DONGUZMAN}
+
+\begin{GRAF}
+ \begin{Regie}liest\end{Regie}  Ein Urteil in Sonderausführung, hundert Gulden. 
+Plus zehn Prozent Intrigantensteuer, zehn Gulden. 
+Rechtsbeugungstaxe, in Klammern stempelpflichtig, 
+fünfzehn Gulden. Verdrehungs- und Verschleierungszulage, 
+elf Gulden. Anteiliger Gewissensschwund, zweifünfzig. Summa summarum, 
+hundertachtunddreißig-fünfzig. Was soll das?
+\end{GRAF}
+
+\begin{DONGUZMAN}
+Die Extras sind im Preise nicht inbegriffen, 
+wenn ich bemerken darf.
+\end{DONGUZMAN}
+
+\begin{GRAF}
+Ich darf bemerken, daß Sie mir teuer zu stehen kommen, Herr Richter.
+\end{GRAF}
+
+\begin{DONGUZMAN}
+Ich darf hinzufügen, daß eine erstklassige 
+Gerechtigkeit ihren Preis hat, Herr Graf. 	 
+\end{DONGUZMAN}
+
+\begin{GRAF}
+ \begin{Regie}Der Graf nimmt die Feder.\end{Regie} 
+\end{GRAF}
+
+\begin{DONGUZMAN}
+Zu dienen, Herr Graf.
+\end{DONGUZMAN}
+
+\begin{ZETTELKOPF}
+Zu Füßen, Herr Graf. 	 
+\end{ZETTELKOPF}
+
+\begin{GRAF}
+ \begin{Regie}Der Graf unterschreibt.\end{Regie} 
+Presto, presto, Sie erstklassiger Richter. Walten Sie 
+Ihres bezahlten Amtes. Richten Sie alles für die 
+Verhandlung her. Figaro, jetzt hängst du in der 
+Schlinge. Das Urteil lautet...
+\end{GRAF}
+
+\begin{BAZILLUS}
+Ehestand mit Marcelline. Lebenslänglich.
+\end{BAZILLUS}
+
+\begin{GRAF}
+Und die Aufhebung des Urteils kostet...
+\end{GRAF}
+
+\begin{BAZILLUS}
+Die sofortige Hingabe Susannes. Hinlänglich.
+\end{BAZILLUS}
+
+\begin{GRAF}
+Gulden und Gerechtigkeit. Die Justiz macht Spaß! 
+\end{GRAF}
+
+\begin{Regie}
+Der Graf und Bazillus ab.
+\end{Regie}
+
+\begin{ZETTELKOPF}
+Eine gute Kundschaft.
+\end{ZETTELKOPF}
+
+\begin{DONGUZMAN}
+Ein guter Abschluß. Hundertvierzig Kröten, 
+brutto gleich netto.
+
+
+\end{DONGUZMAN}
+
+\Seite{56}
+
+
+\begin{ZETTELKOPF}
+Verzeiht, brutto gleich brutto.
+\end{ZETTELKOPF}
+
+\begin{DONGUZMAN}
+Verdammt, brutto gleich netto.
+\end{DONGUZMAN}
+
+\begin{ZETTELKOPF}
+Verflixt, brutto gleich brutto.
+\end{ZETTELKOPF}
+
+\begin{DONGUZMAN}
+Verflucht, brutto gleich netto. 	 
+\end{DONGUZMAN}
+
+\begin{ZETTELKOPF}
+ \begin{Regie}Zettelkopf reicht dem Richter Papier und Feder.\end{Regie} 
+\end{ZETTELKOPF}
+
+\begin{DONGUZMAN}
+Was soll das?
+\end{DONGUZMAN}
+
+\begin{ZETTELKOPF}
+Die Provisionsabrechnung. Folgende Posten 
+werden vom Bruttopreis abgezogen und an den Schreiber 
+Zettelkopf überwiesen. Zehn Prozent Schweigegeld, 
+macht dreizehnfünfundachtzig. Vertuschungszulage 
+und Gewerkschaftsbeitrag, elf Gulden.
+\end{ZETTELKOPF}
+
+\begin{DONGUZMAN}
+Seit wann zahlt der Unternehmer die Gewerkschaft?
+\end{DONGUZMAN}
+
+\begin{ZETTELKOPF}
+Ein stillschweigendes Verfahren, Herr Richter.
+\end{ZETTELKOPF}
+
+\begin{DONGUZMAN}
+Gut. Und warum berechnest du den anteiligen 
+Gewissensschwund höher als ich?
+\end{DONGUZMAN}
+
+\begin{ZETTELKOPF}
+Was macht es, wenn ein Herr sein Gewissen 
+verliert? Einem Diener kommt es teuer zu stehen.
+\end{ZETTELKOPF}
+
+\begin{DONGUZMAN}
+Zettelkopf, wo hat er nur seine Geldgier her? 	 
+ \begin{Regie}Don Guzman nimmt die Feder.\end{Regie} 
+\end{DONGUZMAN}
+
+\begin{ZETTELKOPF}
+Zu dienen, Herr Richter. 	 
+\end{ZETTELKOPF}
+
+\begin{DONGUZMAN}
+ \begin{Regie}Don Guzman unterschreibt.\end{Regie} 
+\end{DONGUZMAN}
+
+\begin{ZETTELKOPF}
+Zu Füßen, Herr Richter. 	 
+\end{ZETTELKOPF}
+
+\begin{Regie}
+Marcelline und Bartholo treten auf.
+\end{Regie}
+
+\begin{DONGUZMAN}
+ \begin{Regie}verbeugt sich\end{Regie}  Zu dienen, verehrte Dame. 
+Don Guzman di Stibizia, Diener der Gerechtigkeit mit 
+Diener.
+\end{DONGUZMAN}
+
+\begin{ZETTELKOPF}
+Zettelkopf, zu dienen.
+\end{ZETTELKOPF}
+
+\begin{MARCELLINE}
+Ah, der Richter. Ich suche Sie schon überall. 
+Herr Richter, Sie müssen mir zu meinem Recht verhelfen.
+\end{MARCELLINE}
+
+\begin{DONGUZMAN}
+Wenn Ihr Recht nicht das Unrecht eines andern ist?
+\end{DONGUZMAN}
+
+\begin{ZETTELKOPF}
+ \begin{Regie}leise\end{Regie}  Kundschaft, Herr Richter.
+
+
+\end{ZETTELKOPF}
+
+\Seite{57}
+
+
+\begin{MARCELLINE}
+Das ist mein Anwalt, Doktor Bartholo.
+\end{MARCELLINE}
+
+\begin{DONGUZMAN}
+Ah, ein Kollege. Justus schnustus vibus bibus?
+\end{DONGUZMAN}
+
+\begin{BARTHOLO}
+Sosolala.
+\end{BARTHOLO}
+
+\begin{DONGUZMAN}
+Habemus interessum percentum?
+\end{DONGUZMAN}
+
+\begin{BARTHOLO}
+Percentum habemus interessum!
+\end{BARTHOLO}
+
+\begin{DONGUZMAN}
+Ventum percentum?
+\end{DONGUZMAN}
+
+\begin{BARTHOLO}
+Quarantum percentum!
+\end{BARTHOLO}
+
+\begin{DONGUZMAN}
+Trentum percentum. Basta zasta.
+\end{DONGUZMAN}
+
+\begin{BARTHOLO}
+Bonum.
+\end{BARTHOLO}
+
+\begin{DONGUZMAN}
+Punktum.
+\end{DONGUZMAN}
+
+\begin{MARCELLINE}
+Was reden die Herren? Das kommt mir spanisch vor.
+\end{MARCELLINE}
+
+\begin{ZETTELKOPF}
+Lateinisch, zu dienen.
+\end{ZETTELKOPF}
+
+\begin{DONGUZMAN}
+ \begin{Regie}zu Marcelline\end{Regie}  Was kann ich für Sie tun, meine Dame?
+\end{DONGUZMAN}
+
+\begin{MARCELLINE}
+Ich will Figaro heiraten, das ist alles.
+\end{MARCELLINE}
+
+\begin{DONGUZMAN}
+Haben Sie ein schriftliches Heiratsversprechen?
+\end{DONGUZMAN}
+
+\begin{MARCELLINE}
+Alles, was ich habe, ist dieser Schuldschein. 
+Und das Versprechen des Herrn Grafen.
+\end{MARCELLINE}
+
+\begin{DONGUZMAN}
+ \begin{Regie}nimmt das Papier\end{Regie}  Ein gewisser Herr Figaro 
+schuldet Ihnen dreihundert Gulden. Kein Zusatz.
+\end{DONGUZMAN}
+
+\begin{BARTHOLO}
+Und wenn man einen Zusatz bezüglich der 
+Heirat zusätzlich hinzusetzen würde, Herr Kollege?
+\end{BARTHOLO}
+
+\begin{DONGUZMAN}
+Ein solcher Zusatz würde zusätzliche 
+Kosten verursachen, Herr Kollege.
+\end{DONGUZMAN}
+
+\begin{MARCELLINE}
+Sagen Sie einen Preis.
+\end{MARCELLINE}
+
+\begin{DONGUZMAN}
+Da hätten wir den einfachen, aber anfechtbaren Zusatz, 
+für 30 Gulden.
+\end{DONGUZMAN}
+
+\begin{ZETTELKOPF}
+Notiere 30.
+\end{ZETTELKOPF}
+
+\begin{BARTHOLO}
+Ich würde zu einer etwas besseren Ausführung raten, Madame.
+\end{BARTHOLO}
+
+\begin{DONGUZMAN}
+Ganz meine Meinung, Herr Kollege. 
+In diesem Falle käme der beeidete Zusatz, auch Doppelfälscher genannt, 
+in Frage. 60 Gulden.
+
+
+\end{DONGUZMAN}
+
+\Seite{58}
+
+
+\begin{ZETTELKOPF}
+Notiere 60.
+\end{ZETTELKOPF}
+
+\begin{MARCELLINE}
+Was meinen Sie, Doktor Bartholo? 
+\end{MARCELLINE}
+
+\begin{BARTHOLO}
+Ich meine, Sie sollten zugreifen, Madame. 
+Dieser Zusatz erscheint mir zuverlässig und nicht zu auffallend. 
+\end{BARTHOLO}
+
+\begin{MARCELLINE}
+Also gut, 60 Gulden.
+\end{MARCELLINE}
+
+\begin{DONGUZMAN}
+Gratuliere, gnädige Frau. Ich darf noch hinzufügen, 
+daß diese Form des Zusatzes bei Damen der 
+höchsten Gesellschaft reißenden Absatz findet. 
+Madame haben Geschmack.
+\end{DONGUZMAN}
+
+\begin{MARCELLINE}
+ \begin{Regie}zahlt sofort\end{Regie}  Meine Herren, ich lege mein 
+Schicksal in Ihre Hände.
+\end{MARCELLINE}
+
+\begin{DONGUZMAN}
+Vertrauen Sie der Gerechtigkeit. 	 
+\end{DONGUZMAN}
+
+\begin{Regie}
+Marcelline wendet sich zum Gehen.
+\end{Regie}
+
+\begin{BARTHOLO}
+Mein Anteil, Herr Kollege. 	 
+\end{BARTHOLO}
+
+\begin{DONGUZMAN}
+ \begin{Regie}steckt Bartholo Geld zu\end{Regie}  Salve, Herr Kollege.
+\end{DONGUZMAN}
+
+\begin{BARTHOLO}
+Salvissimo, Herr Kollege. 	 
+\end{BARTHOLO}
+
+\begin{Regie}
+Marcelline und Bartholo ab. Figaro auf.
+\end{Regie}
+
+\begin{DONGUZMAN}
+Stehen Sie in irgendeinem Zusammenhang 
+mit diesem Prozeß, junger Mann?
+\end{DONGUZMAN}
+
+\begin{FIGARO}
+In jedem, mein Herr. Ich bin der Beklagte.
+\end{FIGARO}
+
+\begin{DONGUZMAN}
+Vortrefflich, mein Herr.  \begin{Regie}Zu Zettelkopf\end{Regie}  Die 
+nächste Kundschaft.  \begin{Regie}Zu Figaro\end{Regie}  Welches Urteil 
+schwebt Ihnen so vor, wenn ich fragen darf?
+\end{DONGUZMAN}
+
+\begin{FIGARO}
+Ein gerechtes!
+\end{FIGARO}
+
+\begin{ZETTELKOPF}
+Notiere?
+\end{ZETTELKOPF}
+
+\begin{DONGUZMAN}
+Schon, schon, mein Herr. Aber ich meine die Ausführung ...
+\end{DONGUZMAN}
+
+\begin{FIGARO}
+Schriftlich und stichhaltig!
+\end{FIGARO}
+
+\begin{ZETTELKOPF}
+Notiere?
+\end{ZETTELKOPF}
+
+\begin{DONGUZMAN}
+Schon, schon, mein Herr aber ich meine die Zeugenaussagen ...
+\end{DONGUZMAN}
+
+\begin{FIGARO}
+Wahrhaftig!
+
+
+\end{FIGARO}
+
+\Seite{59}
+
+
+\begin{ZETTELKOPF}
+Notiere?
+\end{ZETTELKOPF}
+
+\begin{DONGUZMAN}
+Mein Herr, Sie wollen mich nicht verstehen. 
+Ich biete Ihnen ein modernes dynamisches Urteil zu vernünftigen Preisen.
+\end{DONGUZMAN}
+
+\begin{FIGARO}
+Und ich vertraue auf die gute alte Gerechtigkeit. Die ist gratis.
+\end{FIGARO}
+
+\begin{DONGUZMAN}
+Der ist schuldig.
+\end{DONGUZMAN}
+
+\begin{ZETTELKOPF}
+Oder arm.
+\end{ZETTELKOPF}
+
+\begin{DONGUZMAN}
+Dann erst recht. 	 
+\end{DONGUZMAN}
+
+\begin{Regie}
+Figaro ab. Bazillus kurz auf.
+\end{Regie}
+
+\begin{BAZILLUS}
+Mein Herr Graf läßt fragen, ob alles bereit sei.
+\end{BAZILLUS}
+
+\begin{DONGUZMAN}
+Alea jacta est.
+\end{DONGUZMAN}
+
+\begin{ZETTELKOPF}
+Mein Herr Richter läßt sagen, daß alles soweit sei.	 
+\end{ZETTELKOPF}
+
+\begin{Regie}
+Allgemeiner Auftritt, Graf, Marcelline, Bartholo, Figaro, Diener.	 
+Alle haben Platz genommen. Der Graf steht auf. Alle 
+stehen auf. Der Graf setzt sich. Alle setzen sich. 
+Bazillus reicht dem Grafen einen Zettel.
+\end{Regie}
+
+\begin{GRAF}
+ \begin{Regie}liest\end{Regie}  Bestellschein. Ein Urteil in Sonderausführung 
+...  \begin{Regie}Zu Bazillus\end{Regie}  Idiot! Ich erkläre die Verhandlung für 
+eröffnet.  \begin{Regie}Zu Guzman\end{Regie}  Anfangen!
+\end{GRAF}
+
+\begin{DONGUZMAN}
+ \begin{Regie}zu Zettelkopf\end{Regie}  Anfangen!
+\end{DONGUZMAN}
+
+\begin{ZETTELKOPF}
+Anfangen!
+\end{ZETTELKOPF}
+
+\begin{DONGUZMAN}
+Wir schreiten zur Vorlesung der Anklageschrift.
+\end{DONGUZMAN}
+
+\begin{ZETTELKOPF}
+ \begin{Regie}nimmt ein Aktenstück und liest\end{Regie}  In der Strafsache 
+Bgl. Z. 234, Schrägstrich 22 b-1234, Nr. 43, 5c 
+bis 87, 8 f., Verord. lf. Nr. 3 456 789 ...
+\end{ZETTELKOPF}
+
+\begin{GRAF}
+ \begin{Regie}zu Guzman\end{Regie}  Et cetera!
+\end{GRAF}
+
+\begin{DONGUZMAN}
+ \begin{Regie}zu Zettelkopf\end{Regie}  Et cetera!
+
+
+\end{DONGUZMAN}
+
+\Seite{60}
+
+
+\begin{ZETTELKOPF}
+Et cetera! Die klagende, beklagenswerte 
+Marcelline Krautmesser y Barbara y Fiorita y Benedetta 
+y Mandolina y Nicolina y Pepperina y Carmen, 
+mündige Jungfrau ...
+\end{ZETTELKOPF}
+
+\begin{STIMME}
+ \begin{Regie}Gräfin und Susanne gleichzeitig von hinter der Bühne\end{Regie}  Einspruch!
+\end{STIMME}
+
+\begin{GRAF}
+ \begin{Regie}zu Guzman\end{Regie}  Ruhe!
+\end{GRAF}
+
+\begin{DONGUZMAN}
+ \begin{Regie}zu Zettelkopf\end{Regie}  Ruhe!
+\end{DONGUZMAN}
+
+\begin{ZETTELKOPF}
+Ruhe!
+\end{ZETTELKOPF}
+
+\begin{DONGUZMAN}
+Silentium, wenn ich bitten darf.
+\end{DONGUZMAN}
+
+\begin{ZETTELKOPF}
+ \begin{Regie}liest\end{Regie}  Die klagende, beklagenswerte Marcelline 
+Krautmesser y Barbara y Fiorita y Benedetta y Mandolina 
+y Pepperina y Carmen ... bla ... bla ... bla gegen 
+den kläglichen Beklagten Figaro y ... hier fehlt Zuname.
+\end{ZETTELKOPF}
+
+\begin{FIGARO}
+Figaro.
+\end{FIGARO}
+
+\begin{DONGUZMAN}
+Und der Vorname?
+\end{DONGUZMAN}
+
+\begin{FIGARO}
+Figaro.
+\end{FIGARO}
+
+\begin{DONGUZMAN}
+Wollen Sie mich hochnehmen, Herr?
+\end{DONGUZMAN}
+
+\begin{FIGARO}
+Das läge tief unter meinem Witz, Herr.
+\end{FIGARO}
+
+\begin{GRAF}
+Der Kerl fühlt sich ja sehr sicher.  \begin{Regie}Zu Don Guzman\end{Regie}  
+Weitermachen!
+\end{GRAF}
+
+\begin{DONGUZMAN}
+Weitermachen!  \begin{Regie}Zu Figaro\end{Regie}  Ihr Stand?
+\end{DONGUZMAN}
+
+\begin{FIGARO}
+Ein Zufall.
+\end{FIGARO}
+
+\begin{DONGUZMAN}
+Seit wann ist der Zufall ein Stand?
+\end{DONGUZMAN}
+
+\begin{FIGARO}
+Seit der Stand ein Zufall ist. Denn wäre ich zufällig 
+in einem feineren Bett geboren, so wäre ich zufällig 
+ein Edelmann und hätte zufällig genug Geld, den Zufall 
+der Gerechtigkeit etwas weniger zufällig zu machen.
+\end{FIGARO}
+
+\begin{GRAF}
+ \begin{Regie}zu Guzman\end{Regie}  Schluß, sage ich!
+\end{GRAF}
+
+\begin{DONGUZMAN}
+ \begin{Regie}zu Zettelkopf\end{Regie}  Schluß, sage ich!
+\end{DONGUZMAN}
+
+\begin{BARTHOLO}
+ \begin{Regie}zu Figaro\end{Regie}  Jetzt reicht's!
+\end{BARTHOLO}
+
+\begin{ZETTELKOPF}
+ \begin{Regie}liest weiter\end{Regie}  Wegen Einspruchserhebung der 
+obgenannten mündigen Jungfrau Marcelline Krautmesser 
+y Barbara y Fiorita y...y...y...y... Carmen gegen die 
+Eheschließung des obgenannten Figaro. Die soeben 
+obgenannte mündige Jungfrau Marcelline 	
+
+
+\end{ZETTELKOPF}
+
+\Seite{61}
+
+
+\begin{ZETTELKOPF}
+wird vertreten durch den edlen, hochedlen, besonders 
+edlen Doktor Bartholo. 	 
+\end{ZETTELKOPF}
+
+\begin{BARTHOLO}
+ \begin{Regie}steht auf, verbeugt sich und setzt sich wieder\end{Regie} 
+\end{BARTHOLO}
+
+\begin{ZETTELKOPF}
+Der ebenfalls obgenannte Figaro ... 
+\end{ZETTELKOPF}
+
+\begin{FIGARO}
+ \begin{Regie}Figaro steht auf und setzt sich\end{Regie}  
+\end{FIGARO}
+
+\begin{ZETTELKOPF}
+... wird vertreten durch den soeben genannten Figaro. 
+\end{ZETTELKOPF}
+
+\begin{FIGARO}
+ \begin{Regie}steht auf\end{Regie}  Was auf gut spanisch heißt, daß ich mich selbst vertrete.
+\end{FIGARO}
+
+\begin{BARTHOLO}
+Ich erhebe Einspruch. Er braucht einen Rechtsbeistand. 
+Alles andere ist wider den Gebrauch.
+\end{BARTHOLO}
+
+\begin{FIGARO}
+Dieser Brauch, edler, hochedler, besonders edler 
+Doktor Bartholo, ist oft nur ein Mißbrauch. 
+ \begin{Regie}Zum Gericht\end{Regie}  Was hilft mir die Hilfe eines Advokaten, der sich 
+in den weichen Rundungen der Paragraphen weit wohler 
+fühlt als auf dem harten Boden der Tatsachen. Der 
+mir den kalten Schweiß auf seiner Stirne für den Ausdruck 
+seiner Überzeugung verkauft. Der die Länge seines Plädoyers 
+an der Höhe seines Verdienstes mißt. Mit 
+diesen Herren, meine Herren, verhält es sich wie mit allen Herren, 
+meine Herren, die den Gestank ihrer Seele 
+mit dem feinen Damast ihres Kleides zu veredeln trachten.
+\end{FIGARO}
+
+\begin{GRAF}
+ \begin{Regie}zu Guzman\end{Regie}  Unerhört!
+\end{GRAF}
+
+\begin{DONGUZMAN}
+ \begin{Regie}zu Zettelkopf\end{Regie}  Unerhört!
+\end{DONGUZMAN}
+
+\begin{ZETTELKOPF}
+ \begin{Regie}zum Gerichtsdiener\end{Regie}  Unerhört!
+\end{ZETTELKOPF}
+
+\begin{BARTHOLO}
+Bedenklich.
+\end{BARTHOLO}
+
+\begin{FIGARO}
+Erlauben Sie, daß ich meinen Fall mit wenigen Worten ...
+\end{FIGARO}
+
+\begin{DONGUZMAN}
+Das waren schon zu viele Worte. 
+Als Angeklagter haben Sie nur zu reden, wenn Sie gefragt werden.
+\end{DONGUZMAN}
+
+\begin{FIGARO}
+Der Angeklagte schweigt. 
+Als Anwalt des Angeklagten möchte ich bemerken ...
+\end{FIGARO}
+
+\begin{DONGUZMAN}
+Ich stelle fest, daß ihre ständigen 
+Bemerkungen den Lauf der Verhandlung stören.
+
+
+\end{DONGUZMAN}
+
+\Seite{62}
+
+
+\begin{FIGARO}
+Ich meine, daß sie den Lauf der Gerechtigkeit fördern. 
+\end{FIGARO}
+
+\begin{DONGUZMAN}
+Los, Zettelkopf, wir schreiten zur Verlesung 
+des fraglichen Dokumentes.
+\end{DONGUZMAN}
+
+\begin{ZETTELKOPF}
+ \begin{Regie}liest\end{Regie}  Ich, Unterzeichneter, Figaro, bestätige 
+hiermit, von der mündigen Jungfrau Marcelline Krautmesser 
+et cetera et cetera die Summe von dreihundert 
+vergammelten Gulden erhalten zu haben, welche ich ihr 
+zurückerstatten werde ... 
+\end{ZETTELKOPF}
+
+\begin{FIGARO}
+Stimmt!
+\end{FIGARO}
+
+\begin{ZETTELKOPF}
+... sowie ich sie heiraten werde. Beeideter Zusatz.
+\end{ZETTELKOPF}
+
+\begin{FIGARO}
+Falsch. Von Heirat war nie die Rede. 
+\end{FIGARO}
+
+\begin{BARTHOLO}
+Hohes und schönes Gericht! Wieder einer 
+jener erschütternden Fälle von Sittenlosigkeit, wie sie in 
+der heutigen spanischen Jugend mehr und mehr um sich 
+greifen. Da verspricht ein junger, gewissenloser 
+Mensch einer reifen und unschuldigen Dame die Ehe ... 
+\end{BARTHOLO}
+
+\begin{FIGARO}
+Ich opponiere. Der Zusatz ist gefälscht! 
+\end{FIGARO}
+
+\begin{ZETTELKOPF}
+Ich repetiere. Der Zusatz ist beeidet!	 
+\end{ZETTELKOPF}
+
+\begin{Regie}
+Zettelkopf reicht Don Guzman das Dokument. Don 
+Guzman reicht es dem Grafen.
+\end{Regie}
+
+\begin{GRAF}
+Alles bestens.	 
+ \begin{Regie}Der Graf gibt Don Guzman das Dokument zurück.\end{Regie} 
+\end{GRAF}
+
+\begin{DONGUZMAN}
+Alles rechtens. Der Zusatz ist echt. 
+\end{DONGUZMAN}
+
+\begin{FIGARO}
+Falsch!
+\end{FIGARO}
+
+\begin{GRAF}
+Als oberster Richter von Kastilien sage ich, der Zusatz 
+ist echt. Will er die Entscheidung eines spanischen 
+Granden angreifen? Ich lasse ihn auspeitschen. 
+\end{GRAF}
+
+\begin{FIGARO}
+Herr Graf, das Recht ist so sehr auf Eurer Seite 
+wie die Macht. Also habt Ihr die Macht, recht zu haben. 
+\end{FIGARO}
+
+\begin{BARTHOLO}
+Wir plädieren auf sofortige Einlösung des Vertrages. 
+Also zahlen und heiraten.
+\end{BARTHOLO}
+
+\begin{FIGARO}
+ \begin{Regie}für sich\end{Regie}  Satan und Syntax, steht mir bei!  \begin{Regie}laut\end{Regie}  
+Und wir plädieren, den Wortlaut des vorliegenden Dokumentes 
+aufs genaueste zu untersuchen.
+
+
+\end{FIGARO}
+
+\Seite{63}
+
+
+\begin{DONGUZMAN}
+Was will er damit sagen?
+\end{DONGUZMAN}
+
+\begin{FIGARO}
+Was will das Dokument besagen? Daß ich die 
+dreihundert Gulden zurückerstatten werde sowie ich sie 
+heiraten werde. Das kann doch nur heißen: sobald. Ich 
+zahle, sobald ich heirate. Da ich nicht heirate, brauche 
+ich auch nicht zu zahlen.
+\end{FIGARO}
+
+\begin{BARTHOLO}
+Wir stellen fest, daß es sich bei diesem 
+»sowie« um die sogenannte coniunctio copulativa 
+»und« handelt. Also zahlen und heiraten.
+\end{BARTHOLO}
+
+\begin{FIGARO}
+Und wir behaupten, daß es sich dabei um die 
+sogenannte coniunctio temporalis »sobald« handelt. 
+Also: Sobald ich heirate, zahle ich.
+\end{FIGARO}
+
+\begin{ZETTELKOPF}
+ \begin{Regie}zu Don Guzman\end{Regie}  Coniunctio copulativa oder 
+coniunctio temporalis?
+\end{ZETTELKOPF}
+
+\begin{DONGUZMAN}
+ \begin{Regie}zum Grafen\end{Regie}  Coniunctio copulativa oder 
+coniunctio temporalis?
+\end{DONGUZMAN}
+
+\begin{GRAF}
+ \begin{Regie}zu Bazillus\end{Regie}  Coniunctio copulativa oder coniunctio 
+temporalis? 	 
+\end{GRAF}
+
+\begin{BAZILLUS}
+ \begin{Regie}flüstert dem Grafen etwas zu\end{Regie} 
+\end{BAZILLUS}
+
+\begin{GRAF}
+ \begin{Regie}zu Don Guzman\end{Regie}  Lecken Sie mich am Arsch!
+\end{GRAF}
+
+\begin{DONGUZMAN}
+ \begin{Regie}zu Zettelkopf\end{Regie}  Er soll mich am Arsch 
+lecken!
+\end{DONGUZMAN}
+
+\begin{ZETTELKOPF}
+ \begin{Regie}zu Figaro und Bartholo\end{Regie}  Die Herren mögen 
+ihre Zungen sprechen lassen.
+\end{ZETTELKOPF}
+
+\begin{BARTHOLO}
+Mit Vergnügen! Wie heißt es so schön im besagten Dokument?
+"Welche Summe ich zurückerstatten werde." 
+Das ist doch dasselbe, als wenn ich sagen würde: 
+"Du wirst Genesung finden, sowie ein Arzt dir Medizin gibt." 
+Das heißt doch: "Kaum kommt der Arzt, 
+und schon bist du gesund", also und.
+\end{BARTHOLO}
+
+\begin{FIGARO}
+Irrtum, Herr Medikus. Der Sinn ist nämlich der: 
+"Du wirst erbärmlich verrecken, sowie einer dieser 
+gewissen Ärzte an dein Bett tritt." Das heißt doch: 
+"Sobald der Arzt kommt, wird gestorben", also sobald.
+\end{FIGARO}
+
+\begin{BARTHOLO}
+Und ich sage, gleich et, wie die Lateiner sagen.
+\end{BARTHOLO}
+
+\begin{FIGARO}
+Und ich sage sobald, sobald, Sie lateinische Krähe.
+
+
+\end{FIGARO}
+
+\Seite{64}
+
+
+\begin{BARTHOLO}
+Mein Herr, Sie belieben, mich zu beleidigen.
+\end{BARTHOLO}
+
+\begin{FIGARO}
+Mein Herr, ich beliebe mich zu verteidigen.
+\end{FIGARO}
+
+\begin{BARTHOLO}
+Meine Herren! Hohes und schönes Gericht! 
+Ich beantrage, sofort mit der Punktuation des 
+Ehevertrages zu beginnen.
+\end{BARTHOLO}
+
+\begin{GRAF}
+Angenommen.
+\end{GRAF}
+
+\begin{DONGUZMAN}
+Angenommen.
+\end{DONGUZMAN}
+
+\begin{ZETTELKOPF}
+Akzeptiert.
+\end{ZETTELKOPF}
+
+\begin{FIGARO}
+Und angenommen, ich beantrage, die Punktuation 
+des Ehevertrages zu verschieben?
+\end{FIGARO}
+
+\begin{GRAF}
+Abgewiesen.
+\end{GRAF}
+
+\begin{DONGUZMAN}
+Abgewiesen.
+\end{DONGUZMAN}
+
+\begin{FIGARO}
+Kapiert.
+\end{FIGARO}
+
+\begin{GRAF}
+Das Urteil. Ich will das Urteil hören.
+\end{GRAF}
+
+\begin{DONGUZMAN}
+Selbstverständlich, das Urteil. Sofort. Im 
+Namen Gottes, des spanischen Königs, seiner Exzellenz 
+des Grafen von Almaviva und weiters im Namen der 
+Gerechtigkeit verkünden wir das folgende und 
+gebührenpflichtige Urteil: Die beklagte Partei hat der 
+klagenden Partei die Summe von dreihundert Gulden 
+zurückzuerstatten, sowie ...
+\end{DONGUZMAN}
+
+\begin{BARTHOLO}
+Coniunctio copulativa!
+\end{BARTHOLO}
+
+\begin{ZETTELKOPF}
+... die beklagte Partei die klagende Partei zu 
+heiraten hat.
+\end{ZETTELKOPF}
+
+\begin{GRAF}
+Auf der Stelle.
+\end{GRAF}
+
+\begin{DONGUZMAN}
+Selbstverständlich, auf der Stelle, sofort.
+\end{DONGUZMAN}
+
+\begin{MARCELLINE}
+Das ist der schönste Tag in meinem Leben. 
+ \begin{Regie}Zu Figaro\end{Regie}  Geliebter!
+\end{MARCELLINE}
+
+\begin{FIGARO}
+Was? Ich soll diesen geräucherten Lachs heiraten? 
+Herr Graf, wollen Sie einen jungen, unschuldigen Diener 
+in die zittrigen Arme des Verderbens werfen? 	 
+\end{FIGARO}
+
+\begin{Regie}
+Figaros Sätze werden vom Gelächter der anderen begleitet.
+\end{Regie}
+
+\begin{GRAF}
+Nun, wer hängt jetzt in der Schlinge, Figaro? 
+\end{GRAF}
+
+\begin{FIGARO}
+Beim Schweiße meines Angesichts, ich werde die
+
+
+\end{FIGARO}
+
+\Seite{65}
+
+
+\begin{FIGARO}
+dreihundert Gulden zahlen, auf Heller und Kopeken. Aber 
+werfen Sie mich um Gottes willen nicht in den Rachen 
+dieser sibirischen Hyäne. Denken Sie an Susanne, Herr 
+Graf, die Ihnen gewiß sehr dankbar sein wird.
+\end{FIGARO}
+
+\begin{GRAF}
+Ich werde ihre Dankbarkeit gewiß sehr zu schätzen 
+wissen. Du heiratest Marcelline! Die Verhandlung ist beendet.
+\end{GRAF}
+
+\begin{FIGARO}
+Halt! Ich werde diese Großmutter niemals heiraten. 
+Ich liebe Susanne.
+\end{FIGARO}
+
+\begin{BARTHOLO}
+Ist Ihnen der Witz ausgegangen, Herr Figaro?
+\end{BARTHOLO}
+
+\begin{GRAF}
+Ich sage, die Verhandlung ist geschlossen! Der Saal 
+soll sofort für die Hochzeit hergerichtet werden.
+\end{GRAF}
+
+\begin{FIGARO}
+Ihr stecht mich, Ihr reißt mich an den Hörnern! 
+\end{FIGARO}
+
+\begin{Regie}
+Lautes Gelächter.
+\end{Regie}
+
+\begin{FIGARO}
+Eine Gerechtigkeit klebt an Euren Fingern, vor der 
+mir übel wird. Ich werde meinen Witz in Gift verwandeln 
+und meinen Zorn in spitze Weidenruten. Luft! 
+Luft! In Spanien wird die Gerechtigkeit abgetrieben! 
+Zerschlagt die Hirne an den Fassaden! Mit euren 
+Därmen schreiben wir "lang lebe der König", bis die 
+Sonne alles verbrennt. Ich liebe Susanne. Ich zerschlage 
+euch. Ich zerschlage euch. 	 
+\end{FIGARO}
+
+\begin{Regie}
+Alle ab. Susanne und Gräfin auf.
+\end{Regie}
+
+\begin{SUSANNE}
+Sie haben ihn verurteilt, Frau Gräfin.
+\end{SUSANNE}
+
+\begin{GREFIN}
+Verurteilt?
+\end{GREFIN}
+
+\begin{SUSANNE}
+Er soll noch diesen Abend Marcelline heiraten.
+\end{SUSANNE}
+
+\begin{GREFIN}
+Das verstehe ich nicht.
+\end{GREFIN}
+
+\begin{SUSANNE}
+Oh, ich verstehe sehr gut. Herr Graf haben 
+keinen Appetit mehr auf seine Magd.
+\end{SUSANNE}
+
+\begin{GREFIN}
+Das glaube ich nicht. Hast du meinem Mann ein 
+Rendezvous versprochen?
+\end{GREFIN}
+
+\begin{SUSANNE}
+Für Mitternacht. Im Park. Helfen Sie uns, Frau Gräfin.
+\end{SUSANNE}
+
+\begin{GREFIN}
+Beruhige dich, Susanne: Noch ist nichts verloren.
+
+
+\end{GREFIN}
+
+\Seite{66}
+
+
+\begin{SUSANNE}
+Nichts verloren? Es ist Abend. Was wird aus meiner Hochzeit?
+\end{SUSANNE}
+
+\begin{GREFIN}
+Wir müssen alles versuchen. Du gehst sofort zum 
+Grafen und bittest ihn, Figaro freizugeben.
+\end{GREFIN}
+
+\begin{SUSANNE}
+Er wird nein sagen.
+\end{SUSANNE}
+
+\begin{GREFIN}
+Er wird ja sagen, wenn du tust, was er will.
+\end{GREFIN}
+
+\begin{SUSANNE}
+Er wird das, was er will, sofort wollen.
+\end{SUSANNE}
+
+\begin{GREFIN}
+Sag ja. Sag ihm, daß du ihn sofort im Park erwartest. 
+Ich werde mich inzwischen dort verstecken. 
+Komm, Susanne, ich brauche dein Kleid.
+\end{GREFIN}
+
+\begin{SUSANNE}
+Ich habe Angst, Frau Gräfin.
+\end{SUSANNE}
+
+\begin{GREFIN}
+Du mußt stark sein, Susanne. 	 
+\end{GREFIN}
+
+\Einstellung{Umbau}
+
+\begin{Regie}
+Die beiden ab. 
+Der Saal wird geschmückt.
+Graf und Bazillus auf. 
+\end{Regie}
+
+\Einstellung{Couch}
+
+\begin{BAZILLUS}
+Susanne muß jeden Augenblick hier sein, Herr Graf.
+\end{BAZILLUS}
+
+\begin{GRAF}
+Dieser Augenblick zieht sich in die Länge wie der 
+Schwanz eines andalusischen Esels.
+\end{GRAF}
+
+\begin{BAZILLUS}
+Warten erhöht die Lust, Herr Graf.
+\end{BAZILLUS}
+
+\begin{GRAF}
+Ich habe wenig Lust, zu warten.
+\end{GRAF}
+
+\begin{BAZILLUS}
+Wie werden Herr Graf die Copulation vornehmen?
+\end{BAZILLUS}
+
+\begin{GRAF}
+Zuerst eine anständige Züchtigung.
+\end{GRAF}
+
+\begin{BAZILLUS}
+Wie geschmackvoll!
+\end{BAZILLUS}
+
+\begin{GRAF}
+Dann reiße ich ihr die Kleider vom Leibe.
+\end{GRAF}
+
+\begin{BAZILLUS}
+Wie originell!
+\end{BAZILLUS}
+
+\begin{GRAF}
+Hoffentlich hat sie keine Läuse?
+\end{GRAF}
+
+\begin{BAZILLUS}
+Wie vorsichtig!
+\end{BAZILLUS}
+
+\begin{GRAF}
+Die Beine auseinander.
+\end{GRAF}
+
+\begin{BAZILLUS}
+Wie galant!
+\end{BAZILLUS}
+
+\begin{GRAF}
+Und dann vorwärts, spanische Kavallerie! Hipp!
+\end{GRAF}
+
+\begin{BAZILLUS}
+Hipp! 
+\end{BAZILLUS}
+
+\begin{GRAF}
+Ole!	 
+\end{GRAF}
+
+\begin{Regie}
+Es klopft. Bazillus verschwindet auf einen Wink des 
+Grafen in der Truhe.	
+\end{Regie}
+
+\Seite{67}
+
+
+\begin{SUSANNE}
+ \begin{Regie}auf\end{Regie} 
+\end{SUSANNE}
+
+\begin{GRAF}
+Ah, Susanne. Komm näher. Wie gefallen dir die vielen 
+Blumen und Kränze?
+\end{GRAF}
+
+\begin{SUSANNE}
+Sie erinnern mich an ein Begräbnis, Herr Graf. 
+\end{SUSANNE}
+
+\TextTeilEnde
+\TextTeilAnfang
+
+
+\begin{GRAF}
+Heute ist Hochzeit. Mein Diener Figaro heiratet 
+Marcelline. Ich wünsche lustige Gesichter. 
+\end{GRAF}
+
+\begin{SUSANNE}
+Wenn Ihr mir den Bräutigam nehmt, gebt Ihr 
+mir wenig Grund zu lachen. Geben Sie ihn frei, Herr 
+Graf. Er ist mein Mann. Es ist meine Hochzeit. 
+\end{SUSANNE}
+
+\begin{GRAF}
+Das ist eine Heftigkeit, die ich nicht vertrage. 
+\end{GRAF}
+
+\begin{SUSANNE}
+Ich liebe ihn. Er kann Sonne und Mond vertauschen.
+\end{SUSANNE}
+
+\begin{GRAF}
+Sprich weiter, Susanne, ich höre dir gerne zu. 
+\end{GRAF}
+
+\begin{SUSANNE}
+Was hören Sie, wenn ich von der Liebe rede? 
+\end{SUSANNE}
+
+\begin{GRAF}
+Hipp! Hipp! Ole! Bleiben wir beim Thema. Bist du 
+gewaschen, Susanne? 
+\end{GRAF}
+
+\begin{SUSANNE}
+Wie eine Treppe zu Ostern. Herr Graf brauchen 
+sie nur zu besteigen. 
+\end{SUSANNE}
+
+\begin{GRAF}
+Vorwärts, Almaviva! 
+\end{GRAF}
+
+\begin{SUSANNE}
+Halt, Herr Graf. Geben Sie Figaro frei, und ich 
+werde im Park auf Sie warten.	 
+\end{SUSANNE}
+
+\begin{GRAF}
+ \begin{Regie}kommt näher\end{Regie}  
+\end{GRAF}
+
+\begin{SUSANNE}
+Wollen Sie eine lauschige Sommernacht gegen 
+die Zugluft dieses Saales eintauschen? 
+\end{SUSANNE}
+
+\begin{GRAF}
+Ich will, daß die Komödie zu Ende ist, mein Kind. 
+Bleib stehen!
+\end{GRAF}
+
+\begin{SUSANNE}
+Und Sie ebenso. Oder ich schrei um Hilfe. 
+\end{SUSANNE}
+
+\begin{GRAF}
+ Dann wird dein Figaro bald ebenso um Hilfe schreien. 
+\end{GRAF}
+
+\begin{SUSANNE}
+Figaro? Was hat er Ihnen getan? Was wollen Sie mit ihm tun?
+\end{SUSANNE}
+
+\begin{GRAF}
+Nichts, wenn du tust, was ich will. 
+\end{GRAF}
+
+\begin{SUSANNE}
+Und wenn ich mich weigere? 
+\end{SUSANNE}
+
+\begin{GRAF}
+Was ich an Figaro so mag, ist sein Witz. Ich werde 
+mir eine witzige Strafe für ihn ausdenken.
+
+
+\end{GRAF}
+
+\Seite{68}
+
+
+\begin{SUSANNE}
+Diese Heirat mit Marcelline ist in der Tat ein Witz! 
+\end{SUSANNE}
+
+\begin{GRAF}
+Aber noch nicht witzig genug. Es fehlen noch 
+dreißig zündende Peitschenhiebe am Rücken des Bräutigams. 
+\end{GRAF}
+
+\begin{SUSANNE}
+Euer Witz ist so gewaltig, Herr Graf, daß man 
+vor Gewalt den Witz nicht sieht. 
+\end{SUSANNE}
+
+\begin{GRAF}
+Nun, was ist?
+\end{GRAF}
+
+\begin{SUSANNE}
+Es ist kalt. Ich sehe Euch an und friere. 
+\end{SUSANNE}
+
+\begin{GRAF}
+Ja oder nein? Überleg dir die Antwort gut, wenn dir 
+dein stinkender Diener lieb ist. 
+\end{GRAF}
+
+\begin{SUSANNE}
+Hier! Nehmen Sie! Das Fleisch ist gewaschen! 
+Nehmen Sie! Meine Schenkel sind frisch! Saugen Sie 
+den Schweiß aus meinen Brüsten! Saugen Sie! 
+Zertreten Sie den Garten! O Figaro.
+\end{SUSANNE}
+
+\begin{GRAF}
+Das gefällt mir nicht. Du mußt dich wehren! 
+\end{GRAF}
+
+\begin{SUSANNE}
+O Figaro.	 
+\end{SUSANNE}
+
+\begin{GRAF}
+ \begin{Regie}Schlägt Susanne mit der Peitsche.\end{Regie}  
+\end{GRAF}
+
+\begin{SUSANNE}
+ \begin{Regie}starrt den Grafen an\end{Regie}  Ich hasse Euch. Euer Blut ist eine 
+jämmerliche Jauche. Ihr seid schon tot, auch wenn Ihr mich 
+erschlagt. Der Staub fällt aus Euren Hosen. Ihr seid ein Geschlecht, 
+das die Därme in den Händen trägt. \begin{Regie}lacht\end{Regie}  
+Schlagen Sie! Schlagen Sie!
+\end{SUSANNE}
+
+\LangsameEinstellung{Strobo}
+
+\begin{SUSANNE}
+Dieser Schmerz macht mich lebendig! 
+\end{SUSANNE}
+
+\begin{GRAF}
+Der Witz! Der Witz! Der Witz! Wo ist dein Witz geblieben?	 
+\end{GRAF}
+
+\begin{Regie}
+Der Graf schlägt wild auf Susanne ein. Figaro kommt.
+Er stürzt sich auf den Grafen und erwürgt ihn mit der Peitsche. 
+\end{Regie}
+
+\LangsameEinstellung{langsam heller}
+
+\begin{FIGARO}
+Wir müssen weg. Er ist tot.
+\end{FIGARO}
+
+\begin{SUSANNE}
+Tot?
+\end{SUSANNE}
+
+\begin{FIGARO}
+Schnell weg von hier. 
+\end{FIGARO}
+
+\begin{SUSANNE}
+Tot? Wohin, Figaro? 
+\end{SUSANNE}
+
+\begin{FIGARO}
+Ich weiß nicht. Ich weiß es nicht. 	 
+\end{FIGARO}
+
+\begin{Regie}
+Die beiden gehen ab.	 
+\end{Regie}
+
+\Seite{69}
+
+\begin{Regie}
+Die Gräfin auf. Die Gräfin trägt das Kleid Susannes.
+\end{Regie}
+
+\begin{GREFIN}
+Susannes Kleid paßt mir ausgezeichnet. Ich habe 
+ihre Figur. Es wird Zeit, mich im Park zu verstecken. 
+Und dann, Herr Graf, zeigen Sie Ihrer Magd den feurigen Liebhaber, 
+den Sie Ihrer Frau so beständig vorenthalten.  \begin{Regie}sieht den Grafen\end{Regie} 
+Herr Graf? Almaviva! Pedrito!	 
+ \begin{Regie}kniet an der Leiche ihres Mannes nieder,
+legt ihren Kopf an seine Brust. Kurze Pause.\end{Regie} 
+\end{GREFIN}
+
+\begin{GREFIN}
+Es sollte eine Komödie werden. Ich trage 
+Susannes Kleid, und du kommst in den Garten. Du 
+erzählst mir von der Liebe, und ich schweige. Pedrito, 
+warum sagst du nichts? Ich bin es, Susanne. Mein 
+Körper ist jung, er atmet. Komm näher, das Mädchen 
+wartet auf dich. Ich möchte, daß Sie mich küssen, mein 
+Herr. Sein Mund ist still. Ich habe einen toten Grafen 
+zum Liebhaber. Einen toten Mann. Erinnerst du dich an 
+deine Lieder unter meinem Fenster? Ich habe deinen 
+Gesang mit meinen Armen gefangen. Du konntest so 
+fröhlich sein, so ausgelassen. Erinnerst du dich, wie ich 
+in dieses Schloß gekommen bin? Ein Mann hat mich 
+zur Frau genommen. Deine Frau. Dein Haus.  \begin{Regie}heftig\end{Regie} 
+Jaja, dein Haus, dein Schloß! Deine Diener! Deine 
+Pferde! Deine Mägde! Dein Geld! Du hast mich zur 
+Gräfin gemacht. Deine Frau hat einen Arsch, Almaviva, 
+auch wenn sie ihn mit Anstand zu verbergen trachtet. 
+Ich sehne mich nach den Händen deiner Knechte. Frau 
+Gräfin lassen bitten! Bin ich schon lächerlich? Sie sind 
+sehr schön, Frau Gräfin. Ich habe einen Freund. Er ist 
+aufgeregt, wenn er mich sieht.	 
+\end{GREFIN}
+
+\begin{Regie}
+Cherubin tritt aus einer der hinteren Türen auf. Er sieht 
+die Gräfin von hinten. Die Gräfin verdeckt den Grafen.
+\end{Regie}
+
+\begin{CHERUBIN}
+Ah, Susanne. Die Göttin des Personals. Du 
+\end{CHERUBIN}
+
+\Seite{70}
+
+\begin{CHERUBIN}
+Landbutter auf dem grauen Brot des Alltags. Ich verzehre 
+mich nach dem frischen Geschmack deiner Lippen. 
+Warum sagst du nichts? Seit Stunden halte ich mich bei 
+Blanchette versteckt. In einer Abstellkammer. Ich will 
+mein junges Leben nicht mit alten Besen verbringen. 
+Mir sind alle Glieder eingeschlafen. Küß mich, 
+Susanne, und du erweckst sie zu neuem Leben. 	 
+\end{CHERUBIN}
+
+\begin{GREFIN}
+ \begin{Regie}lacht hysterisch auf\end{Regie} 
+\end{GREFIN}
+
+\begin{CHERUBIN}
+Oh, Frau Gräfin! Vergebt mir, ich wußte nicht...
+\end{CHERUBIN}
+
+\begin{GREFIN}
+Weißt du, an wen du mich erinnerst, Cherubin? 
+ \begin{Regie}weist auf den Grafen\end{Regie}  An Pedrito!
+\end{GREFIN}
+
+\begin{CHERUBIN}
+Schläft der Herr Graf?
+\end{CHERUBIN}
+
+\begin{GREFIN}
+Ja, Cherubin. Er schläft und schnarcht. Wie 
+üblich. 
+\end{GREFIN}
+
+\begin{CHERUBIN}
+ \begin{Regie}sieht den toten Grafen.\end{Regie}  Heilige Madonna, der Graf ...
+\end{CHERUBIN}
+
+\begin{GREFIN}
+Ja, Cherubin?
+\end{GREFIN}
+
+\begin{CHERUBIN}
+... er ist tot!
+\end{CHERUBIN}
+
+\begin{GREFIN}
+So? Bist du sicher? Und ich dachte, er schläft.
+\end{GREFIN}
+
+\begin{CHERUBIN}
+Wer hat das getan, Frau Gräfin?
+\end{CHERUBIN}
+
+\begin{GREFIN}
+Gefalle ich dir, Cherubin?
+\end{GREFIN}
+
+\begin{CHERUBIN}
+Sie ... Sie sind eine bezaubernde Frau. Er ist tot, Frau Gräfin!
+\end{CHERUBIN}
+
+\begin{GREFIN}
+Warum küßt du mich nicht? Mein Mann hat nichts dagegen.
+\end{GREFIN}
+
+\begin{CHERUBIN}
+Es können jeden Augenblick Menschen kommen. Man wird uns entdecken.
+\end{CHERUBIN}
+
+\begin{GREFIN}
+Dann laß uns fortgehen. Weit weg.
+\end{GREFIN}
+
+\begin{CHERUBIN}
+Sie wollen das Schloß verlassen?
+\end{CHERUBIN}
+
+\begin{GREFIN}
+Hast du die Bauern vergessen? Die Ernte? Die 
+Oliven? Was sagtest du, Cherubin? Die Burschen 
+tanzen, bis die Mädchen umfallen. Ich möchte tanzen.
+\end{GREFIN}
+
+\begin{CHERUBIN}
+Tanzen? Wissen Sie, was es heißt, unter Bauern 
+zu leben? Das Land ist karg. Jeder Rebstock, jeder 
+Olivenbaum wird mit Schweiß begossen. Die Ernte gehört 
+dem Grafen. Tanzen? Ja, sie tanzen, damit sie besinnungslos 
+werden und ihr Unglück vergessen.
+\end{CHERUBIN}
+
+\Seite{71}
+
+\begin{GREFIN}
+Ich kann arbeiten, Cherubin!
+\end{GREFIN}
+
+\begin{CHERUBIN}
+Wozu? Damit Sie häßlich werden, wie die Weiber auf dem Lande?
+\end{CHERUBIN}
+
+\begin{GREFIN}
+Ich will leben, Cherubin!
+\end{GREFIN}
+
+\begin{CHERUBIN}
+Leben? Das hier ist das Leben, Frau Gräfin. 
+Bilder an den Wänden, Damast am Körper, ein 
+französisches Frühstück, eine englische Bildung ... 
+Geld, Kleider, Diener ... Leben, Leben!!!
+\end{CHERUBIN}
+
+\begin{GREFIN}
+Ich höre meinen Mann, den Grafen.
+\end{GREFIN}
+
+\begin{CHERUBIN}
+Ihr Mann ist tot, Frau Gräfin. Sie sind Witwe. 
+Und doch zu schön, um Witwe zu bleiben.
+\end{CHERUBIN}
+
+\begin{GREFIN}
+Gehen Sie! Gehen Sie! Gehen Sie! 	 
+\end{GREFIN}
+
+\begin{CHERUBIN}
+ \begin{Regie}schnell ab\end{Regie}  
+\end{CHERUBIN}
+
+\begin{GREFIN}
+Gehen Sie! Gehen Sie! Bleib bei mir, Cherubin. 
+Bleib. Bleib.  \begin{Regie}verändert\end{Regie}  Wie sehe ich aus? Ich muß 
+mich umziehen. Welches Kleid nehme ich für diesen 
+Abend?  \begin{Regie}ab\end{Regie} 	 
+\end{GREFIN}
+
+\LangsameEinstellung{Couch2}
+
+\begin{BAZILLUS}
+ \begin{Regie}steigt aus seiner Truhe. Er sieht den toten Grafen 
+und lacht. Er raubt ihn aus.\end{Regie} 
+Eine Intrige gefällig? Herr Graf brauchen nur 
+zu befehlen. Herr Graf sind eine bedeutende Leiche. 
+Seine Exzellenz, der besonders wohlgeborene Graf von 
+Almaviva. Bald scheint dir der Mond durch den Bauch. 
+ \begin{Regie}brüllt\end{Regie}  Mord! Totschlag! Revolution! Revolution! 	 
+ \begin{Regie}Bazillus ab.\end{Regie}
+\end{BAZILLUS}
+
+\Einstellung{Dunkel}
+ \begin{Regie}Ende. Beifall\end{Regie}
+\Einstellung{Umbau}
+
+\begin{Regie}
+Alle Schauspieler kommen auf die Bühne.
+\end{Regie}
+
+\Einstellung{Voll Hell}
+
+\begin{Regie}Beifall\end{Regie}
+
