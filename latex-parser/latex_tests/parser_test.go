@@ -2,7 +2,7 @@ package latex_tests
 
 import (
 	"encoding/json"
-	"latex"
+	"latex-parser/latex"
 	"reflect"
 	"strings"
 	"testing"
