@@ -179,7 +179,9 @@ func (s *Scanner) unread() { _ = s.r.UnreadRune() }
 func isWhitespace(ch rune) bool { return ch == ' ' || ch == '\t' || ch == '\n' || ch == '\r' }
 
 // isLetter returns true if the rune is a letter.
-func isLetter(ch rune) bool { return (ch >= 'a' && ch <= 'z') || (ch >= 'A' && ch <= 'Z') }
+func isLetter(ch rune) bool {
+	return (ch >= 'a' && ch <= 'z') || (ch >= 'A' && ch <= 'Z') || (ch >= '¡' && ch <= 'ÿ')
+}
 
 // isTextElement returns true if the rune is a letter.
 func isTextElement(ch rune) bool {

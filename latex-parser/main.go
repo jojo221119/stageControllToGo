@@ -13,6 +13,7 @@ func main() {
 	fmt.Print("Go Latex parser\n")
 	fmt.Print("Parsing file ...\n")
 	input, err := ioutil.ReadFile("input/figaro.txt")
+
 	if err != nil {
 		fmt.Println(err)
 	}
