@@ -79,17 +79,27 @@ func (s *Scanner) scanText() (tok Token, lit string) {
 	// Create a buffer and read the current character into it.
 	var buf bytes.Buffer
 	buf.WriteRune(s.read())
-
+	firstWhitespace := true
 	// Read every subsequent whitespace character into the buffer.
 	// Non-whitespace characters and EOF will cause the loop to exit.
 	for {
 		if ch := s.read(); ch == eof {
+			s.unread()
 			break
 		} else if isBackslash(ch) {
 			s.unread()
 			break
+		} else if isWhitespace(ch) {
+			if firstWhitespace {
+				ch = ' ' // unify Whitespaces eg. in case of \n
+				firstWhitespace = false
+				buf.WriteRune(ch)
+			} else {
+				// ignore further Whitespaces
+			}
 		} else {
 			buf.WriteRune(ch)
+			firstWhitespace = true
 		}
 	}
 
