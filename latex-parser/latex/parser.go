@@ -32,11 +32,13 @@ type ComplexElement struct {
 type TopElement struct {
 	Name string
 	Body []ContentElement
+	Line int
 }
 
 type ContentElement struct {
 	Type string
 	Body string
+	Line int
 }
 
 // Parser represents a parser.
@@ -46,6 +48,7 @@ type Parser struct {
 	buf struct {
 		tok Token  // last read token
 		lit string // last read literal
+		cnt int    // last read line number
 		n   int    // buffer size (max=1)
 	}
 }
@@ -73,19 +76,20 @@ func (p *Parser) parse() ([]TopElement, error) {
 
 	for {
 		// scan next element
-		tok, _ := p.scanIgnoreWhitespace()
+		tok, _, cnt := p.scanIgnoreWhitespace()
 
 		switch tok {
 
 		case BEGIN:
 
 			// scan next element to get the param Name
-			tok, lit := p.scanIgnoreWhitespace()
+			tok, lit, _ := p.scanIgnoreWhitespace()
 			if tok != PARAM {
 				return nil, fmt.Errorf("encountered \\begin without parameter")
 			}
 			topElement := &TopElement{}
 			topElement.Name = lit
+			topElement.Line = cnt
 			body, error := p.parseBody(true)
 			if error != nil {
 				return nil, error
@@ -104,6 +108,7 @@ func (p *Parser) parse() ([]TopElement, error) {
 			//construct an top element with empty name
 			topElement := &TopElement{}
 			topElement.Name = ""
+			topElement.Line = cnt
 			p.unscan()
 			body, error := p.parseBody(false)
 			if error != nil {
@@ -125,7 +130,7 @@ func (p *Parser) parseBody(isWithinBegin bool) ([]ContentElement, error) {
 
 	for {
 		// scan next element
-		tok, lit := p.scanIgnoreWhitespace()
+		tok, lit, cnt := p.scanIgnoreWhitespace()
 
 		switch tok {
 		case BEGIN:
@@ -135,6 +140,7 @@ func (p *Parser) parseBody(isWithinBegin bool) ([]ContentElement, error) {
 				if error != nil {
 					return nil, error
 				}
+				element.Line = cnt // save line number information
 				// add element to the document
 				contentElementList = append(contentElementList, *element)
 			} else {
@@ -151,6 +157,7 @@ func (p *Parser) parseBody(isWithinBegin bool) ([]ContentElement, error) {
 			if error != nil {
 				return nil, error
 			}
+			element.Line = cnt // save line number information
 			// add setting to the document
 			contentElementList = append(contentElementList, *element)
 			break
@@ -162,7 +169,7 @@ func (p *Parser) parseBody(isWithinBegin bool) ([]ContentElement, error) {
 			if error != nil {
 				return nil, error
 			}
-
+			element.Line = cnt // save line number information
 			// add parsed text to the document
 			contentElementList = append(contentElementList, *element)
 			break
@@ -199,13 +206,13 @@ func (p *Parser) parseBegin() (*ContentElement, error) {
 	contentElement := &ContentElement{} //contains the actual data
 
 	// Read parameter
-	tok, lit := p.scanIgnoreWhitespace()
+	tok, lit, _ := p.scanIgnoreWhitespace()
 	if tok != PARAM {
 		return nil, fmt.Errorf("Error, expected Parameter after \\begin")
 	}
 	if lit != "Regie" {
 		fmt.Printf("Warning, found %q, expected Regie\n", lit)
-		_, lit := p.scanIgnoreWhitespace()
+		_, lit, _ := p.scanIgnoreWhitespace()
 		fmt.Printf("Text: %q", lit)
 		p.unscan()
 	}
@@ -226,7 +233,7 @@ func (p *Parser) parseSetting() (*ContentElement, error) {
 	contentElement := &ContentElement{} //contains the actual data
 
 	// Read parameter
-	tok, lit := p.scanIgnoreWhitespace()
+	tok, lit, _ := p.scanIgnoreWhitespace()
 	//Token should be a "COMMAND" keyword.
 	if tok == COMMAND {
 		contentElement.Type = lit
@@ -235,7 +242,7 @@ func (p *Parser) parseSetting() (*ContentElement, error) {
 	}
 
 	// Read parameter
-	tok, lit = p.scanIgnoreWhitespace()
+	tok, lit, _ = p.scanIgnoreWhitespace()
 	if tok != PARAM {
 		p.unscan()
 	}
@@ -250,7 +257,7 @@ func (p *Parser) parseText() (*ContentElement, error) {
 	contentElement := &ContentElement{}
 
 	// Read parameter
-	tok, lit := p.scanIgnoreWhitespace()
+	tok, lit, _ := p.scanIgnoreWhitespace()
 
 	//Token should be a "COMMAND" keyword.
 	if tok == TEXT {
@@ -266,27 +273,27 @@ func (p *Parser) parseText() (*ContentElement, error) {
 
 // scan returns the next token from the underlying scanner.
 // If a token has been unscanned then read that instead.
-func (p *Parser) scan() (tok Token, lit string) {
+func (p *Parser) scan() (tok Token, lit string, cnt int) {
 	// If we have a token on the buffer, then return it.
 	if p.buf.n != 0 {
 		p.buf.n = 0
-		return p.buf.tok, p.buf.lit
+		return p.buf.tok, p.buf.lit, p.buf.cnt
 	}
 
 	// Otherwise read the next token from the scanner.
-	tok, lit = p.s.Scan()
+	tok, lit, cnt = p.s.Scan()
 
 	// Save it to the buffer in case we unscan later.
-	p.buf.tok, p.buf.lit = tok, lit
+	p.buf.tok, p.buf.lit, p.buf.cnt = tok, lit, cnt
 
 	return
 }
 
 // scanIgnoreWhitespace scans the next non-whitespace token.
-func (p *Parser) scanIgnoreWhitespace() (tok Token, lit string) {
-	tok, lit = p.scan()
+func (p *Parser) scanIgnoreWhitespace() (tok Token, lit string, cnt int) {
+	tok, lit, cnt = p.scan()
 	if tok == WS {
-		tok, lit = p.scan()
+		tok, lit, cnt = p.scan()
 	}
 	return
 }

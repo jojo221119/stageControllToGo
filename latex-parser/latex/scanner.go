@@ -8,43 +8,48 @@ import (
 
 // Scanner represents a lexical scanner.
 type Scanner struct {
-	r *bufio.Reader
+	r       *bufio.Reader
+	linecnt int
 }
 
 // NewScanner returns a new instance of Scanner.
 func NewScanner(r io.Reader) *Scanner {
-	return &Scanner{r: bufio.NewReader(r)}
+	return &Scanner{r: bufio.NewReader(r), linecnt: 1}
 }
 
 // Scan returns the next token and literal value.
-func (s *Scanner) Scan() (tok Token, lit string) {
+func (s *Scanner) Scan() (tok Token, lit string, cnt int) {
 	// Read the next rune.
 	ch := s.read()
-
+	linecnt := s.linecnt
 	// If we see whitespace then consume all contiguous whitespace.
 	// If we see a letter then consume as an ident or reserved word.
 	// If we see a digit then consume as a number.
 	if isWhitespace(ch) {
 		s.unread()
-		return s.scanWhitespace()
+		tok, lit = s.scanWhitespace()
+		return tok, lit, linecnt
 	} else if isBackslash(ch) {
 		s.unread()
-		return s.scanCommand()
+		tok, lit = s.scanCommand()
+		return tok, lit, linecnt
 	} else if ch == '{' {
 		s.unread()
-		return s.scanParameter()
+		tok, lit = s.scanParameter()
+		return tok, lit, linecnt
 	} else if isLetter(ch) || isTextElement(ch) || isDigit(ch) {
 		s.unread()
-		return s.scanText()
+		tok, lit = s.scanText()
+		return tok, lit, linecnt
 	}
 
 	// Otherwise read the individual character.
 	switch ch {
 	case eof:
-		return EOF, ""
+		return EOF, "", linecnt
 	}
 
-	return ILLEGAL, string(ch)
+	return ILLEGAL, string(ch), linecnt
 }
 
 // scanWhitespace consumes the current rune and all contiguous whitespace.
@@ -150,6 +155,9 @@ func (s *Scanner) read() rune {
 	ch, _, err := s.r.ReadRune()
 	if err != nil {
 		return eof
+	}
+	if ch == '\n' {
+		s.linecnt += 1
 	}
 	return ch
 }
