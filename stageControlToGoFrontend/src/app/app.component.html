@@ -1,0 +1,32 @@
+<h1>
+  {{title}}
+</h1>
+
+<div *ngFor="let element of script.body">
+  <span *ngIf="element.name !== ''">
+    {{element.name}}:
+  </span>
+
+  <div *ngFor="let typedElement of element.body">
+    <ng-container [ngSwitch]="typedElement.type">
+      <template ngSwitchCase="text">
+        <span class="text">
+          {{typedElement.body}}
+        </span>
+      </template>
+      <template ngSwitchCase="regie">
+        <span class="regie">
+          {{typedElement.body}}
+        </span>
+      </template>
+      <template ngSwitchCase="setting">
+        <span class="setting">
+          {{typedElement.body}}
+        </span>
+      </template>           
+      <span *ngSwitchDefault>
+        Unbekannter Elementtyp.
+      </span>
+    </ng-container>
+  </div>
+</div>
