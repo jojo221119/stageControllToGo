@@ -1,0 +1,39 @@
+body, div {
+  font-family: Arial, "Helvetica New", Helvetica, sans-serif;
+}
+
+.content-container {
+  height: 100%;
+  margin: 0.5em 0em 0.5em 0em;
+}
+
+.regie {
+ font-style: italic;
+}
+
+.text {
+  display: inline !important;
+  line-height: 10px;
+}
+
+.text-head {
+  font-weight: bold;
+  text-transform: uppercase;
+  display: inline-block;
+}
+
+.setting{
+  height: 2em;
+  background-color: blue;
+}
+
+.setting:hover {
+  background-color: green;
+}
+
+.content {
+
+  display: inline-block;
+  margin: 0.5em;
+  padding: 0.5em;
+}

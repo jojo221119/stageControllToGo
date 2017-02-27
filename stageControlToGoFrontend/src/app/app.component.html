@@ -1,32 +1,34 @@
+<div>
 <h1>
   {{title}}
 </h1>
+</div>
 
-<div *ngFor="let element of script.body">
-  <span *ngIf="element.name !== ''">
+<div *ngFor="let element of script.body" class="content-container">
+  <div *ngIf="element.name !== ''" class="text-head">
     {{element.name}}:
-  </span>
+  </div>
 
-  <div *ngFor="let typedElement of element.body">
+  <ng-container *ngFor="let typedElement of element.body">
     <ng-container [ngSwitch]="typedElement.type">
-      <template ngSwitchCase="text">
-        <span class="text">
+      <template ngSwitchCase="text" style="display: inline-block">
+        <div class="text content">
           {{typedElement.body}}
-        </span>
+        </div>
       </template>
       <template ngSwitchCase="regie">
-        <span class="regie">
+        <div class="regie content">
           {{typedElement.body}}
-        </span>
+        </div>
       </template>
       <template ngSwitchCase="setting">
-        <span class="setting">
+        <div class="setting content">
           {{typedElement.body}}
-        </span>
-      </template>           
-      <span *ngSwitchDefault>
+        </div>
+      </template>
+      <div *ngSwitchDefault class="content">
         Unbekannter Elementtyp.
-      </span>
+      </div>
     </ng-container>
-  </div>
+  </ng-container>
 </div>
