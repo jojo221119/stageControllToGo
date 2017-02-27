@@ -4,31 +4,4 @@
 </h1>
 </div>
 
-<div *ngFor="let element of script.body" class="content-container">
-  <div *ngIf="element.name !== ''" class="text-head">
-    {{element.name}}:
-  </div>
-
-  <ng-container *ngFor="let typedElement of element.body">
-    <ng-container [ngSwitch]="typedElement.type">
-      <template ngSwitchCase="text" style="display: inline-block">
-        <div class="text content">
-          {{typedElement.body}}
-        </div>
-      </template>
-      <template ngSwitchCase="regie">
-        <div class="regie content">
-          {{typedElement.body}}
-        </div>
-      </template>
-      <template ngSwitchCase="setting">
-        <div class="setting content">
-          {{typedElement.body}}
-        </div>
-      </template>
-      <div *ngSwitchDefault class="content">
-        Unbekannter Elementtyp.
-      </div>
-    </ng-container>
-  </ng-container>
-</div>
+<app-script-view></app-script-view>

@@ -5,11 +5,13 @@ import { HttpModule } from '@angular/http';
 
 import { AppComponent } from './app.component';
 import { ScriptComponent } from './script/script.component';
+import { ScriptViewComponent } from './script-view/script-view.component';
 
 @NgModule({
   declarations: [
     AppComponent,
-    ScriptComponent
+    ScriptComponent,
+    ScriptViewComponent
   ],
   imports: [
     BrowserModule,

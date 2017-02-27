@@ -1,19 +1,10 @@
 import { Component } from '@angular/core';
 
-import { ScriptProviderService, MOCKSCRIPT } from './script-provider.service';
-
 @Component({
   selector: 'app-root',
   templateUrl: './app.component.html',
-  styleUrls: ['./app.component.css'],
-
-  providers: [ScriptProviderService]
+  styleUrls: ['./app.component.css']
 })
 export class AppComponent {
   title = 'Studienarbeit Mock';
-  script = MOCKSCRIPT;
-
-  constructor(private scriptProviderService:ScriptProviderService) {
-
-  }
 }
