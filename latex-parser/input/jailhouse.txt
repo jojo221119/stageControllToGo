@@ -1,0 +1,132 @@
+\Seite{91}
+\begin{Regie}
+Jailhouse Blues
+      von
+  Jörg Graser
+\end{Regie}
+\Einstellung{Dunkel}
+\Einstellung{Umbau}
+\begin{Regie}
+Pausen-Musik leise an!
+\end{Regie}
+\Einstellung{Pausen-Musik leise an}
+\begin{Regie}
+Jetzt geht es los!
+Erster Akt:
+Niemand ist auf der Bühne.
+\end{Regie}
+\Einstellung{Musik Nr 9 laut an}
+\Einstellung{Umbau}
+\begin{Regie}
+Brody führt Motil auf die Bühne und in die Zelle.
+Brody setzt sich an seinen Tisch.
+\end{Regie}
+\Einstellung{Hell}
+\begin{Regie}
+Musik aus!
+\end{Regie}
+\Einstellung{Musik aus}
+\begin{KÜCHENHILFE} \begin{Regie} bringt Blechbox mit dem Essen \end{Regie}
+\end{KÜCHENHILFE}
+\begin{BRODY} \begin{Regie} nimmt Blechbox ab \end{Regie}
+Ihr Essen, Mr. Motil,. Acht ...
+\end{BRODY}
+\begin{Regie} 
+...
+\end{Regie}
+\begin{MOTIL} Also wenn Sie das schaffen, 
+dass Sie Sandy Hopper hierherbringen,
+dann gesteh ich Ihnen soviel Morde, wie Sie wollen.
+\end{MOTIL}
+\Einstellung{Dunkel}
+\Einstellung{Umbau}
+\begin{Regie} 
+Ende erster Akt. 
+\end{Regie}
+
+\begin{Regie} 
+Pause
+\end{Regie}
+
+\begin{Regie}
+Pausen-Musik leise an!
+\end{Regie}
+\Einstellung{Pausen-Musik leise an}
+
+\begin{Regie}
+Beginn zweiter Akt:
+Motil, Brody, Hampton auf der Bühne.
+Musik aus!
+\end{Regie}
+\Einstellung{Musik aus}
+\begin{Regie}
+Brody spielt auf Mundharmonika.
+\end{Regie}
+\Einstellung{Hell}
+\begin{DELAWARE} Das FBI hat diese Sandy Hopper erwischt. .... 
+\end{DELAWARE}
+\begin{Regie}
+...
+\end{Regie}
+\begin{MOTIL} Sie möchten meine Hinrichtung filmen?
+\end{MOTIL}
+\begin{HAMPTON} Das wird sowieso gemacht. Fürs Archiv. Aber wir haben
+zusätzliche Kameras aufgestellt. Es gibt Großaufnahmen von den Händen,
+vom Gesicht und natürlich von den Augen. Das Erlöschen der Augen im
+Augenblick des Todes, das kommt am Ende jeder Folge. Sie werden berühmter
+als Neil Armstrong. Der war auf dem Mond. Das ist auch in die ganze Welt
+übertragen worden. Aber es war nur eine Folge.
+\end{HAMPTON}
+\begin{MOTIL} War das denn auch getürkt?
+\end{MOTIL}
+\begin{HAMPTON} Darauf wett ich meinen Arsch.
+\end{HAMPTON}
+\begin{Regie} Das Licht geht aus.  \end{Regie}
+\Einstellung{Dunkel-Gegenlicht}
+\begin{Regie} Ein dumpfer Schlag ertönt, und ein Poltern ist zu hören. \end{Regie}
+\begin{HAMPTON} Was ist jetzt passiert, um Himmelswillen?
+\end{HAMPTON}
+\begin{PFARRER} Das Licht ist ausgegangen.
+\end{PFARRER}
+\begin{HAMPTON} Das seh ich selber.
+\end{HAMPTON}
+\begin{SANDY} Also wenn jetzt die Hinrichtung platzt,
+reich ich die Scheidung ein. Ich kann mich
+doch nicht an einen einzigen Mann binden,
+der noch Wochen und Monate lebt, vielleicht sogar Jahre!
+\end{SANDY}
+\begin{MOTIL} Dann bitte aber eine Schnellscheidung. Wenn ich hier
+heil rauskomm, mach ich sofort eine Weltreise. Ich lass mich doch
+nicht von einer einzigen Frau an die Kette legen, wenn mir fünf
+Kontinente offenstehen!
+\end{MOTIL}
+\begin{HAMPTON} Mach sofort das Licht wieder an! Ich halt das nicht aus!
+Ist denn hier niemand zuständig? Mr. Brody? Wo ist dieser verdammte Brody?
+Ich will hier raus! Lassen Sie mich sofort raus!
+\end{HAMPTON}
+\begin{BRODY} Bitte keine Panik, die Herrschaften. Das ist nur ein Kurzschluss.
+Weiß der Teufel, wie das wieder passiert ist.
+\end{BRODY}
+\begin{Regie} Schlüssel klirren, Getrampel.
+Schließlich geht das Licht an. \end{Regie}
+\Einstellung{Hell}
+\begin{BRODY} Hier geht's raus, Mrs. Hampton.
+Schätze, das Kampftrinken haben letzten Endes Sie gewonnen.
+\end{BRODY}
+\begin{KÜCHENHILFE} Sechsmal Karamelpudding.
+\end{KÜCHENHILFE}
+\begin{BRODY} Ausgezeichnet.
+\end{BRODY}
+\begin{Regie}
+Ende.
+\end{Regie}
+\Einstellung{Dunkel}
+\begin{Regie}
+Beifall --- Beifall --- Beifall
+Wenn alle SchauspielerInnen im Halbkreis für Verbeugung bereit sind, dann:
+\end{Regie}
+\Einstellung{Hell}
+\begin{Regie}
+Verbeugungen. Wenn niemand mehr klatscht, dann Saallicht an und:
+\end{Regie}
+\Einstellung{Dunkel}

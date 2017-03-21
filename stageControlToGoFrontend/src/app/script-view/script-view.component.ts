@@ -1,5 +1,7 @@
 import { Component, OnInit } from '@angular/core';
-import { ScriptProviderService, MOCKSCRIPT } from '../script-provider.service';
+import { ScriptProviderService } from '../script-provider.service';
+import { Script } from '../script';
+import { Element } from '../element';
 
 @Component({
   selector: 'app-script-view',
@@ -9,11 +11,20 @@ import { ScriptProviderService, MOCKSCRIPT } from '../script-provider.service';
 })
 export class ScriptViewComponent implements OnInit {
 
-  script = MOCKSCRIPT;
+  script:Element[] = null;
 
   constructor(private scriptProviderService:ScriptProviderService) {}
 
   ngOnInit() {
+    this.scriptProviderService.getScript().then((response) =>{
+
+      console.log(response);
+      console.log(response.Document[0]);
+      
+      this.script = response.Document;
+
+      console.log(this.script);
+    });        
   }
 
 }

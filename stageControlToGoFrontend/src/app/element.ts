@@ -1,7 +1,7 @@
 import {TypedElement} from './typed-Element';
 
 export class Element {
-  line:number;
-  name:string;
-  body:TypedElement[];
+  Line:number;
+  Name:string;
+  Body:TypedElement[];
 }

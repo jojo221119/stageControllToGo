@@ -1,50 +1,51 @@
-<div *ngFor="let element of script.body" class="content-container">
-  <div *ngIf="element.name !== ''" class="text-head">
-    {{element.name}}:
+<div *ngFor="let element of script" class="content-container">
+
+  <div *ngIf="element.Name" class="text-head">
+    {{element.Name}}:
   </div>
 
-  <ng-container *ngFor="let typedElement of element.body">
-    <ng-container [ngSwitch]="typedElement.type">
+  <ng-container *ngFor="let typedElement of element.Body">
+    <ng-container [ngSwitch]="typedElement.Type">
       <template ngSwitchCase="Text" style="display: inline-block">
         <div class="text content">
-          {{typedElement.body}}
+          {{typedElement.Body}}
         </div>
       </template>
       <template ngSwitchCase="Seite" style="display: inline-block">
-<!--
+        <!--
         <div class="text content">
-          {{typedElement.body}}
+          {{typedElement.Body}}
         </div>
 -->
-      </template> 
-      <template ngSwitchCase="AudioEinstellung" >
+      </template>
+      <template ngSwitchCase="AudioEinstellung">
         <div class="setting content">
-          {{typedElement.body}}
+          {{typedElement.Body}}
         </div>
       </template>
-      <template ngSwitchCase="Einstellung" >
+      <template ngSwitchCase="Einstellung">
         <div class="setting content">
-          {{typedElement.body}}
+          {{typedElement.Body}}
         </div>
-      </template>      
-      <template ngSwitchCase="LangsameEinstellung" >
+      </template>
+      <template ngSwitchCase="LangsameEinstellung">
         <div class="setting content">
-          {{typedElement.body}}
+          {{typedElement.Body}}
         </div>
-      </template>      
-      <template ngSwitchCase="SchnelleEinstellung" >
+      </template>
+      <template ngSwitchCase="SchnelleEinstellung">
         <div class="setting content">
-          {{typedElement.body}}
+          {{typedElement.Body}}
         </div>
-      </template>      
+      </template>
       <template ngSwitchCase="Regie">
         <div class="regie content">
-          {{typedElement.body}}
+          {{typedElement.Body}}
         </div>
       </template>
       <template ngSwitchCase="Setting">
         <div class="setting content">
-          {{typedElement.body}}
+          {{typedElement.Body}}
         </div>
       </template>
       <div *ngSwitchDefault class="content">
