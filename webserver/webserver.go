@@ -48,7 +48,7 @@ func TheaterTextHandler(c *gin.Context) {
 	fmt.Print("Parsing file ...\n")
 	input, err := ioutil.ReadFile("resources/text.txt") //TODO fix problem with path
 	if err != nil {
-		c.String(http.StatusNotFound, err.Error()) //"The theater text could not be found. Please make sure it is availiable in the right directory")
+		c.String(http.StatusNotFound,"The theater text could not be found. Please make sure it is availiable in the right directory")
 		return
 	}
 	stmt, err := latex.NewParser(strings.NewReader(string(input))).Parse()
