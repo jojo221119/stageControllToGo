@@ -4190,7 +4190,7 @@ Dann hast du alles mitgehört?
 
 \begin{BAZILLUS}
 Wenn ich in kurzen Worten wiedergeben darf. 
-Figaro stieg aus der Truhe und sagte "süperb".
+Figaro stieg aus der Truhe und sagte 'süperb'.
 \end{BAZILLUS}
 
 \begin{GRAF}
@@ -5235,18 +5235,18 @@ ihre Zungen sprechen lassen.
 
 \begin{BARTHOLO}
 Mit Vergnügen! Wie heißt es so schön im besagten Dokument?
-"Welche Summe ich zurückerstatten werde." 
+'Welche Summe ich zurückerstatten werde.' 
 Das ist doch dasselbe, als wenn ich sagen würde: 
-"Du wirst Genesung finden, sowie ein Arzt dir Medizin gibt." 
-Das heißt doch: "Kaum kommt der Arzt, 
-und schon bist du gesund", also und.
+'Du wirst Genesung finden, sowie ein Arzt dir Medizin gibt.' 
+Das heißt doch: 'Kaum kommt der Arzt, 
+und schon bist du gesund', also und.
 \end{BARTHOLO}
 
 \begin{FIGARO}
 Irrtum, Herr Medikus. Der Sinn ist nämlich der: 
-"Du wirst erbärmlich verrecken, sowie einer dieser 
-gewissen Ärzte an dein Bett tritt." Das heißt doch: 
-"Sobald der Arzt kommt, wird gestorben", also sobald.
+'Du wirst erbärmlich verrecken, sowie einer dieser 
+gewissen Ärzte an dein Bett tritt.' Das heißt doch: 
+'Sobald der Arzt kommt, wird gestorben', also sobald.
 \end{FIGARO}
 
 \begin{BARTHOLO}
@@ -5404,7 +5404,7 @@ mir übel wird. Ich werde meinen Witz in Gift verwandeln
 und meinen Zorn in spitze Weidenruten. Luft! 
 Luft! In Spanien wird die Gerechtigkeit abgetrieben! 
 Zerschlagt die Hirne an den Fassaden! Mit euren 
-Därmen schreiben wir "lang lebe der König", bis die 
+Därmen schreiben wir 'lang lebe der König', bis die 
 Sonne alles verbrennt. Ich liebe Susanne. Ich zerschlage 
 euch. Ich zerschlage euch. 	 
 \end{FIGARO}

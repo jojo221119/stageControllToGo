@@ -1,59 +1,65 @@
 package main
 
 import (
-	"fmt"
-	"net/http"
-
-	"StageControllToGo/latex-parser/latex"
-	"github.com/codegangsta/negroni"
-	"github.com/gorilla/mux"
-	"io/ioutil"
-	"strings"
 	"encoding/json"
+	"fmt"
+	"io/ioutil"
+	"net/http"
+	"strings"
+
+	"gitlab.mary-cap.de/VV/StageControllToGo/latex-parser/latex"
+
+	"github.com/gin-contrib/static"
+	"gopkg.in/gin-gonic/gin.v1"
+
 )
 
 func main() {
-	fmt.Println("Initializing Webserver")
-	router := mux.NewRouter()
+	router := gin.New()
 
-	router.HandleFunc("/", HomeHandler)
-	router.HandleFunc("/text", TheaterTextHandler)
+	router.Use(gin.Logger())
+	router.Use(gin.Recovery())
+	//TODO fix issue with middleware using old verison of main gin implementation
+	router.Use(static.Serve("/", static.LocalFile("../stageControlToGoFrontend/dist", true)))
+	router.LoadHTMLGlob("../stageControlToGoFrontend/dist/index.html")
 
-	n := negroni.Classic() // Includes some default middlewares
-	n.UseHandler(router)
+	// ** See update below
+	ng := router.Group("/", Index)
+	{
+		ng.GET("/")
+		ng.GET("/script")
+	 //... Additional Angular routes here ...
+		}
 
-	fmt.Println("Starting Webserver")
-	http.ListenAndServe(":3000", n)
+	api := router.Group("/api")
+	api.GET("/script", TheaterTextHandler)
+
+	router.Run(":8080")
 }
 
-func HomeHandler(w http.ResponseWriter, r *http.Request) {
-	w.Write([]byte("Home Page"))
+//Index : Serves Index page
+func Index(c *gin.Context) {
+	c.HTML(200, "index.html", gin.H{})
 }
 
-func TheaterTextHandler(w http.ResponseWriter, r *http.Request) {
+// TheaterTextHandler : TODO add comment
+func TheaterTextHandler(c *gin.Context) {
 	fmt.Print("Go Latex parser\n")
 	fmt.Print("Parsing file ...\n")
-	input, err := ioutil.ReadFile("resources/text.txt")
+	input, err := ioutil.ReadFile("resources/text.txt") //TODO fix problem with path
 	if err != nil {
-		w.WriteHeader(http.StatusNotFound)
-		fmt.Fprintf(w, "The theater text could not be found. Please make sure it is availiable in the right directory")
+		c.String(http.StatusNotFound, err.Error()) //"The theater text could not be found. Please make sure it is availiable in the right directory")
 		return
 	}
 	stmt, err := latex.NewParser(strings.NewReader(string(input))).Parse()
 	if err != nil {
-		w.WriteHeader(http.StatusInternalServerError)
-		fmt.Fprintf(w, "Error while parsing the theater text. Please make sure it is formated correctly")
-		return
+		c.String(http.StatusInternalServerError, "Error while parsing the theater text. Please make sure it is formated correctly")
 	}
 	parsedJSON, err := json.Marshal(stmt)
 	if err != nil {
-		w.WriteHeader(http.StatusInternalServerError)
-		fmt.Fprintf(w, "Error while converting the theater text to json.")
+		c.String(http.StatusInternalServerError, "Error while converting the theater text to json.")
 		return
 	}
-
-
 	// in case no error occured
-	w.WriteHeader(http.StatusOK)
-	fmt.Fprintf(w, string (parsedJSON))
+	c.String(http.StatusOK, string(parsedJSON))
 }

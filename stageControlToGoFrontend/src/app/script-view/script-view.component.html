@@ -1,0 +1,57 @@
+
+  <div *ngFor="let element of script" class="content-container">
+    
+    <div *ngIf="element.Name" class="text-head">
+      {{element.Name}}:
+    </div>
+
+    <ng-container *ngFor="let typedElement of element.Body">
+      <ng-container [ngSwitch]="typedElement.Type">
+        <template ngSwitchCase="Text" style="display: inline-block">
+          <div class="text content">
+            {{typedElement.Body}}
+          </div>
+        </template>
+        <template ngSwitchCase="Seite" style="display: inline-block">
+          <!--
+        <div class="text content">
+          {{typedElement.Body}}
+        </div>
+-->
+        </template>
+        <template ngSwitchCase="AudioEinstellung">
+          <div class="setting content">
+            {{typedElement.Body}}
+          </div>
+        </template>
+        <template ngSwitchCase="Einstellung">
+          <div class="setting content">
+            {{typedElement.Body}}
+          </div>
+        </template>
+        <template ngSwitchCase="LangsameEinstellung">
+          <div class="setting content">
+            {{typedElement.Body}}
+          </div>
+        </template>
+        <template ngSwitchCase="SchnelleEinstellung">
+          <div class="setting content">
+            {{typedElement.Body}}
+          </div>
+        </template>
+        <template ngSwitchCase="Regie">
+          <div class="regie content">
+            {{typedElement.Body}}
+          </div>
+        </template>
+        <template ngSwitchCase="Setting">
+          <div class="setting content">
+            {{typedElement.Body}}
+          </div>
+        </template>
+        <div *ngSwitchDefault class="content">
+          Unbekannter Elementtyp.
+        </div>
+      </ng-container>
+    </ng-container>
+  </div>
