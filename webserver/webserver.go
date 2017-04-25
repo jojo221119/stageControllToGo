@@ -11,7 +11,6 @@ import (
 
 	"github.com/gin-contrib/static"
 	"gopkg.in/gin-gonic/gin.v1"
-
 )
 
 func main() {
@@ -28,8 +27,8 @@ func main() {
 	{
 		ng.GET("/")
 		ng.GET("/script")
-	 //... Additional Angular routes here ...
-		}
+		//... Additional Angular routes here ...
+	}
 
 	api := router.Group("/api")
 	api.GET("/script", TheaterTextHandler)

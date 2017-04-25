@@ -91,12 +91,12 @@ func (s *Scanner) scanText() (tok Token, lit string) {
 			s.unread()
 			break
 		} else if isLinefeed(ch) && firstLinefeed {
-				ch = ' '
-				firstLinefeed = false
-				if !lastCharWasWS { // avoid doubled spaces
-					buf.WriteRune(ch)
-				}
-				lastCharWasWS= false
+			ch = ' '
+			firstLinefeed = false
+			if !lastCharWasWS { // avoid doubled spaces
+				buf.WriteRune(ch)
+			}
+			lastCharWasWS = false
 		} else {
 			if ch != '\r' {
 				if isWhitespace(ch) {
@@ -169,6 +169,10 @@ func (s *Scanner) scanParameter() (tok Token, lit string) {
 // Returns the rune(0) if an error occurs (or io.EOF is returned).
 func (s *Scanner) read() rune {
 	ch, _, err := s.r.ReadRune()
+	if ch == '\ufeff' {
+		ch, _, err = s.r.ReadRune()
+	}
+
 	if err != nil {
 		return eof
 	}
@@ -184,7 +188,7 @@ func (s *Scanner) unread() { _ = s.r.UnreadRune() }
 // isWhitespace returns true if the rune is a space, tab, or newline.
 func isWhitespace(ch rune) bool { return ch == ' ' || ch == '\t' || ch == '\n' || ch == '\r' }
 
-func isLinefeed(ch rune) bool { return ch == '\n'}
+func isLinefeed(ch rune) bool { return ch == '\n' }
 
 // isLetter returns true if the rune is a letter.
 func isLetter(ch rune) bool {
@@ -193,7 +197,7 @@ func isLetter(ch rune) bool {
 
 // isTextElement returns true if the rune is a letter.
 func isTextElement(ch rune) bool {
-	return (ch == '(' || ch == ')' || ch == '.' || ch == ',' || ch == ':' || ch == ';' || ch == '?' || ch == '!' || ch == '�' || ch == '~' || ch == '\'' || ch == '`' || ch == '^' || ch == '"' || ch == '-')
+	return (ch == '(' || ch == ')' || ch == '.' || ch == ',' || ch == ':' || ch == ';' || ch == '?' || ch == '!' || ch == '�' || ch == '~' || ch == '\'' || ch == '`' || ch == '^' || ch == '"' || ch == '-' || ch == '„' || ch == '”' || ch == '&')
 }
 
 // isDigit returns true if the rune is a digit.

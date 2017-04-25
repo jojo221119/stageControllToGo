@@ -68,10 +68,9 @@ func (p *Parser) parse() ([]TopElement, error) {
 		// scan next element
 		tok, _, cnt := p.scanIgnoreWhitespace()
 
+// There two main cases: A \begin \end structure with a maximum nesting of twe or settings of the form \Einstellung{Param}
 		switch tok {
-
 		case BEGIN:
-
 			// scan next element to get the param Name
 			tok, lit, _ := p.scanIgnoreWhitespace()
 			if tok != PARAM {
@@ -211,6 +210,16 @@ func (p *Parser) parseBegin() (*ContentElement, error) {
 	element, error := p.parseText()
 	if error != nil {
 		return nil, error
+	}
+
+	tok, lit, _ = p.scanIgnoreWhitespace()
+	if tok != END {
+		return nil, fmt.Errorf("missing \\end")
+	} else {
+		tok, lit, _ = p.scanIgnoreWhitespace()
+		if tok != PARAM {
+			return nil, fmt.Errorf("missing \\end parameter")
+		}
 	}
 
 	contentElement.Body = element.Body
