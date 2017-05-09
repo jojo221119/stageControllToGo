@@ -11,7 +11,6 @@ import (
 
 	"github.com/gin-contrib/static"
 	"gopkg.in/gin-gonic/gin.v1"
-
 )
 
 func main() {
@@ -20,16 +19,17 @@ func main() {
 	router.Use(gin.Logger())
 	router.Use(gin.Recovery())
 	//TODO fix issue with middleware using old verison of main gin implementation
-	router.Use(static.Serve("/", static.LocalFile("../stageControlToGoFrontend/dist", true)))
+	router.Use(static.Serve("/ng/", static.LocalFile("../stageControlToGoFrontend/dist", true)))
 	router.LoadHTMLGlob("../stageControlToGoFrontend/dist/index.html")
 
-	// ** See update below
+	router.GET("/", func(c *gin.Context) {
+		c.Redirect(302, "/ng/")
+	})
+
 	ng := router.Group("/", Index)
 	{
-		ng.GET("/")
-		ng.GET("/script")
-	 //... Additional Angular routes here ...
-		}
+		ng.GET("/ng/*rest")
+	}
 
 	api := router.Group("/api")
 	api.GET("/script", TheaterTextHandler)
@@ -48,7 +48,7 @@ func TheaterTextHandler(c *gin.Context) {
 	fmt.Print("Parsing file ...\n")
 	input, err := ioutil.ReadFile("resources/text.txt") //TODO fix problem with path
 	if err != nil {
-		c.String(http.StatusNotFound,"The theater text could not be found. Please make sure it is availiable in the right directory")
+		c.String(http.StatusNotFound, "The theater text could not be found. Please make sure it is availiable in the right directory")
 		return
 	}
 	stmt, err := latex.NewParser(strings.NewReader(string(input))).Parse()
