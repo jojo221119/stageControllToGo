@@ -88,8 +88,11 @@ func TextListHandler(w http.ResponseWriter, r *http.Request, p httprouter.Params
 	w.Write(j)
 }
 func TheaterTextPaginationHandler(w http.ResponseWriter, r *http.Request, p httprouter.Params) {
+	w.Header().Set("Content-Type", "application/json")
+
 	filePath := p.ByName("file") + ".txt"
 	page := p.ByName("page")
+
 	var stmt *latex.Document
 	if theaterTextCache.path != filePath {
 		input, err := ioutil.ReadFile("./resources/" + filePath) //TODO fix problem with path
@@ -107,10 +110,31 @@ func TheaterTextPaginationHandler(w http.ResponseWriter, r *http.Request, p http
 		theaterTextCache.document = *stmt
 	}
 
+	if page == "pages" {
+		var pages []string
+		for _, element := range theaterTextCache.document.Document {
+			if len(element.Body) == 0 {
+				continue
+			}
+			if element.Name == "" && element.Body[0].Type == "Seite" {
+				pages = append(pages, element.Body[0].Body)
+			}
+		}
+		parsedJSON, err := json.Marshal(pages)
+
+		if err != nil {
+			fmt.Print(err.Error())
+			http.Error(w, "List of pagenumbers could not be parsed to json", http.StatusInternalServerError)
+			return
+		}
+		w.Write(parsedJSON)
+		return
+	}
+
 	var pageContent latex.Document
 	keep := false
 	for _, element := range theaterTextCache.document.Document {
-		fmt.Println(element.Name)
+
 		if len(element.Body) == 0 {
 			continue
 		}
