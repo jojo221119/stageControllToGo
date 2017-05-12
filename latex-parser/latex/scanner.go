@@ -104,6 +104,11 @@ func (s *Scanner) scanText() (tok Token, lit string) {
 				} else {
 					lastCharWasWS = false
 				}
+				if ch == '\t' {
+					for i := 0; i < 4; i++ {
+						buf.WriteRune(' ')
+					}
+				}
 				buf.WriteRune(ch)
 				firstLinefeed = true
 			}
