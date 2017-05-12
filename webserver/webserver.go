@@ -21,7 +21,8 @@ func main() {
 	frontendRouter.ServeFiles("/*filepath", http.Dir("assets"))
 
 	apiRouter := middleware.NewRouter()
-	apiRouter.GET("/api/script", TheaterTextHandler)
+	apiRouter.GET("/api/scripts", TextListHandler)
+	apiRouter.GET("/api/scripts/:file", TheaterTextFileHandler)
 
 	middleware := middleware.Middleware{}
 
@@ -31,25 +32,48 @@ func main() {
 	log.Fatal(http.ListenAndServe(":8080", middleware))
 }
 
-// TheaterTextHandler : TODO add comment
-func TheaterTextHandler(w http.ResponseWriter, r *http.Request, p httprouter.Params) {
+func TheaterTextFileHandler(w http.ResponseWriter, r *http.Request, p httprouter.Params) {
+	filePath := p.ByName("file")
 	fmt.Print("Go Latex parser\n")
-	fmt.Print("Parsing file ...\n")
-	input, err := ioutil.ReadFile("resources/text.txt") //TODO fix problem with path
+	fmt.Print("Parsing file ")
+	fmt.Print(filePath + ".txt ...\n")
+
+	input, err := ioutil.ReadFile("./resources/" + filePath + ".txt") //TODO fix problem with path
 	if err != nil {
+		fmt.Print(err.Error())
 		http.Error(w, "The theater text could not be found. Please make sure it is availiable in the right directory", http.StatusNotFound)
 		return
 	}
 	stmt, err := latex.NewParser(strings.NewReader(string(input))).Parse()
 	if err != nil {
+		fmt.Print(err.Error())
 		http.Error(w, "Error while parsing the theater text. Please make sure it is formated correctly", http.StatusInternalServerError)
 	}
 	parsedJSON, err := json.Marshal(stmt)
 	if err != nil {
+		fmt.Print(err.Error())
 		http.Error(w, "Error while converting the theater text to json.", http.StatusInternalServerError)
 		return
 	}
 	// in case no error occured
 	w.Header().Set("Content-Type", "application/json")
 	w.Write(parsedJSON)
+}
+
+func TextListHandler(w http.ResponseWriter, r *http.Request, p httprouter.Params) {
+	files, _ := ioutil.ReadDir("resources/")
+	w.Header().Set("Content-Type", "application/json")
+	var fileNames []string
+	for _, file := range files {
+		name := file.Name()[0 : len(file.Name())-4]
+		fileNames = append(fileNames, name)
+	}
+	j, err := json.Marshal(fileNames)
+
+	if err != nil {
+		fmt.Print(err.Error())
+		http.Error(w, "Could not get the list of theater texts!", http.StatusInternalServerError)
+		return
+	}
+	w.Write(j)
 }

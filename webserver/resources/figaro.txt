@@ -1,4 +1,4 @@
-Einstellung
+
 \Seite{8}
 
 \begin{Regie}
@@ -43,12 +43,12 @@ Personen
 	Gärtner: -- Peter
 
 Etwa 20 Minuten vor Beginn:
-Musik ab Titel 2 leise (ST auf etwa 1/8, etwa 8 Uhr-Stellung) anschalten.
+Musik ab Titel 2 leise (ST auf etwa 1/8, etwa 8 Uhr-Stellung) anschalten. 
 \end{Regie}
 
 \Seite{9}
 
-\Einstellung{Telefon}
+\AudioEinstellung{Telefon}
 \Einstellung{Dunkel mit Musik leise}
 \begin{Regie}
 Zuschauer nehmen Platz.
@@ -62,43 +62,43 @@ Donatus macht Ansage.
 \end{Regie}
 \Einstellung{Dunkel}
 \begin{Regie}
-Titel 1 sehr laut (ST etwa auf weniger als 1/2 oder 11 Uhr-Stellung) anschalten.
+Titel 1 sehr laut (ST etwa auf weniger als 1/2 oder 11 Uhr-Stellung) anschalten. 
 \end{Regie}
-\Einstellung{Titel 1 (45s laut)}
+\LangsameEinstellung{Titel 1 (45s laut)}
 \begin{Regie}
 Cherubin und Susanne rennen hinter die Bühne.
 Figaro tritt auf.
-Figaro kniet am Boden, mit dem Hintern zum Publikum.
+Figaro kniet am Boden, mit dem Hintern zum Publikum. 
 Er mißt den Boden aus.
 Bei Sekunde 45 Musik ausschalten
 d.h. ST auf dem Mischer ganz nach links drehen (aus).
 \end{Regie}
 
 \begin{FIGARO}
-Ja, mein Herr ist gütig. Von seinen
-siebenundsechzig Betten schenkt er mir ein ganzes. Wie
+Ja, mein Herr ist gütig. Von seinen 
+siebenundsechzig Betten schenkt er mir ein ganzes. Wie 
 kann so ein erlauchter Hintern nur siebenundsechzig Betten durchwetzen?
- \begin{Regie}Figaro greift sich auf den eigenen und dreht sich blitzschnell um.\end{Regie}
-Selbst wenn ich die sämtlichen Hintern unserer
-Küchen-, Kammer- und Kellerzofen in Rechnung stelle,
-ist der Verschleiß beträchtlich. Nur das Maßlose ist
-aristokratisch, sagt mein Herr immer, wenn er mich
-schlägt. Ja, mein Herr ist gütig. Selbst mit seiner Hände
+ \begin{Regie}Figaro greift sich auf den eigenen und dreht sich blitzschnell um.\end{Regie} 
+Selbst wenn ich die sämtlichen Hintern unserer 
+Küchen-, Kammer- und Kellerzofen in Rechnung stelle, 
+ist der Verschleiß beträchtlich. Nur das Maßlose ist 
+aristokratisch, sagt mein Herr immer, wenn er mich 
+schlägt. Ja, mein Herr ist gütig. Selbst mit seiner Hände 
 Arbeit sorgt er für das verschärfte Wohl seiner Untergebenen.
- \begin{Regie}Figaro mißt den Boden aus.\end{Regie}
+ \begin{Regie}Figaro mißt den Boden aus.\end{Regie} 
 Siebenundvierzig auf elf ...
 \end{FIGARO}
 
-\Einstellung{Es wird langsam hell}
+\LangsameEinstellung{Es wird langsam hell}
 
 \begin{SUSANNE}
- \begin{Regie}Susanne schleicht von hinten heran und setzt sich auf Figaros Rücken.\end{Regie}
+ \begin{Regie}Susanne schleicht von hinten heran und setzt sich auf Figaros Rücken.\end{Regie} 
 \end{SUSANNE}
 
 \Seite{10}
 
 \begin{FIGARO}
-Oh, was für eine willkommene Last. Das ist Susanne,
+Oh, was für eine willkommene Last. Das ist Susanne, 
 meine Braut, mein Engel. Die Göttin von Sevilla und Umgebung ...
 \end{FIGARO}
 
@@ -115,21 +115,21 @@ Dann bin ich der glücklichste Esel ...
 \end{SUSANNE}
 
 \begin{FIGARO}
-Noch nie hat ein zarteres Gewicht das Ende seiner
-Wirbelsäule umschmeichelt. Noch nie haben sich
+Noch nie hat ein zarteres Gewicht das Ende seiner 
+Wirbelsäule umschmeichelt. Noch nie haben sich 
 Backen so willig an Backen geschmiegt...
 \end{FIGARO}
 
 \begin{SUSANNE}
-Bleib sachlich! Was machst du hier am Boden?
-Du kniest in einem wildfremden Zimmer und murmelst
+Bleib sachlich! Was machst du hier am Boden? 
+Du kniest in einem wildfremden Zimmer und murmelst 
 Zahlen vor dich hin.
 \end{SUSANNE}
 
 \begin{FIGARO}
-Primo ist dies kein wildfremdes, sondern unser
-Zimmer. Und secondo murmle ich nicht Zahlen, sondern
-vermesse den Standort unseres Bettes. Und terzo
+Primo ist dies kein wildfremdes, sondern unser 
+Zimmer. Und secondo murmle ich nicht Zahlen, sondern 
+vermesse den Standort unseres Bettes. Und terzo 
 knie ich, weil du auf mir sitzt.
 \end{FIGARO}
 
@@ -138,11 +138,11 @@ knie ich, weil du auf mir sitzt.
 \end{SUSANNE}
 
 \begin{FIGARO}
- \begin{Regie}steht auf und nimmt eine pathetische Haltung an\end{Regie}
-So höre, Schimpfende! Seine wohlweisliche Exzellenz,
-der Graf von Almaviva, haben uns in seiner gnädigen
-Güte dieses, sein siebenhundertvierundzwanzigstes
-Zimmer, und jenes, sein siebenundsechzigstes Bett,
+ \begin{Regie}steht auf und nimmt eine pathetische Haltung an\end{Regie}  
+So höre, Schimpfende! Seine wohlweisliche Exzellenz, 
+der Graf von Almaviva, haben uns in seiner gnädigen 
+Güte dieses, sein siebenhundertvierundzwanzigstes 
+Zimmer, und jenes, sein siebenundsechzigstes Bett, 
 zum familiären Gebrauche überlassen. Was sagst du nun?
 \end{FIGARO}
 
@@ -179,12 +179,12 @@ Weil zwischen nein und ja ein Grund liegt.
 \end{FIGARO}
 
 \begin{SUSANNE}
-Und wenn ich Grund genug hätte, den Grund
-nicht zu nennen?
+Und wenn ich Grund genug hätte, den Grund 
+nicht zu nennen? 
 \end{SUSANNE}
 
 \begin{FIGARO}
-Das wären zwei Gründe. Um so mehr Grund, sie
+Das wären zwei Gründe. Um so mehr Grund, sie 
 zu nennen. Nun?
 
 
@@ -198,15 +198,15 @@ Nein.
 \end{SUSANNE}
 
 \begin{FIGARO}
-Susannchen, ich überrede den Grafen, daß er uns
-auch seinen zweihundertvierundvierzigsten Teppich
-schenkt. Und die fehlende Einrichtung werden wir in
-unauffälligen Raten aus der Dachkammer
+Susannchen, ich überrede den Grafen, daß er uns 
+auch seinen zweihundertvierundvierzigsten Teppich 
+schenkt. Und die fehlende Einrichtung werden wir in 
+unauffälligen Raten aus der Dachkammer 
 herbeischaffen.
 \end{FIGARO}
 
 \begin{SUSANNE}
-Figarino, dieses Zimmer ist schön durch deine
+Figarino, dieses Zimmer ist schön durch deine 
 Gegenwart.
 \end{SUSANNE}
 
@@ -219,9 +219,9 @@ Und das Zimmer!
 \end{SUSANNE}
 
 \begin{FIGARO}
-Was hast du bloß gegen dieses Zimmer?
-Die Abstellkammer der Herrschaften ist ein nobler Zufluchtsort
-für die Liebe der Bediensteten. Und außerdem liegt
+Was hast du bloß gegen dieses Zimmer? 
+Die Abstellkammer der Herrschaften ist ein nobler Zufluchtsort 
+für die Liebe der Bediensteten. Und außerdem liegt 
 es genau zwischen den Gemächern der Brotgeber.
 \end{FIGARO}
 
@@ -230,12 +230,12 @@ Eben.
 \end{SUSANNE}
 
 \begin{FIGARO}
-Eben das ist ein weiterer Vorteil dieses geglückten
-Raumes. Nachts, wenn die Herrin wegen Bauchweh
-läutet, schon setzt du hurtig ins feine Gemach über.
-Und ist dem Herrn was dringend Unnötiges gefällig,
-schon donnere ich diensteifrig zu seiner Verfügung. Du
-siehst, das Zimmer garantiert uns den kürzesten
+Eben das ist ein weiterer Vorteil dieses geglückten 
+Raumes. Nachts, wenn die Herrin wegen Bauchweh 
+läutet, schon setzt du hurtig ins feine Gemach über. 
+Und ist dem Herrn was dringend Unnötiges gefällig, 
+schon donnere ich diensteifrig zu seiner Verfügung. Du 
+siehst, das Zimmer garantiert uns den kürzesten 
 Dienstweg.
 \end{FIGARO}
 
@@ -248,7 +248,7 @@ Was willst du damit sagen?
 \end{FIGARO}
 
 \begin{SUSANNE}
-Daß der Weg, den du davondonnerst, vom Grafen
+Daß der Weg, den du davondonnerst, vom Grafen 
 jederzeit beschlichen werden kann.
 \end{SUSANNE}
 
@@ -261,8 +261,8 @@ Wenn er dich weit genug wegschickt.
 \end{SUSANNE}
 
 \begin{FIGARO}
-Wenn er mich weit genug wegschickt? Heiliges
-Osterei von Kastilien, ein fürchterlicher Verdacht
+Wenn er mich weit genug wegschickt? Heiliges 
+Osterei von Kastilien, ein fürchterlicher Verdacht 
 klemmt sich in meiner Brust.
 \end{FIGARO}
 
@@ -271,13 +271,13 @@ Trotz alledem ein schönes Zimmer.
 \end{SUSANNE}
 
 \begin{FIGARO}
-Es verliert zusehends. Glaubst du wirklich, daß
-mir der Graf Hörner aufsetzen will? Ich und ein
+Es verliert zusehends. Glaubst du wirklich, daß 
+mir der Graf Hörner aufsetzen will? Ich und ein 
 Geweih?
 \end{FIGARO}
 
 \begin{SUSANNE}
-Ich weiß, was ich glaube. Bazillus übermittelt
+Ich weiß, was ich glaube. Bazillus übermittelt 
 mir die Liebe seines Herrn am laufenden Meter.
 
 
@@ -287,9 +287,9 @@ mir die Liebe seines Herrn am laufenden Meter.
 
 
 \begin{FIGARO}
-Bazillus, diese walische Schraube. Dieser
-Leichenbriefträger gräflicher Gefühle ... Ich werde ihn
-prügeln, daß er seinen Vornamen bis auf weiteres
+Bazillus, diese walische Schraube. Dieser 
+Leichenbriefträger gräflicher Gefühle ... Ich werde ihn 
+prügeln, daß er seinen Vornamen bis auf weiteres 
 vergißt.
 \end{FIGARO}
 
@@ -298,7 +298,7 @@ Er ist ein treuer Schurke seines Herrn.
 \end{SUSANNE}
 
 \begin{FIGARO}
-Der Herr Graf, hat er nicht selbst dieses Vorrecht
+Der Herr Graf, hat er nicht selbst dieses Vorrecht 
 der ersten Nacht abgeschafft?
 \end{FIGARO}
 
@@ -315,8 +315,8 @@ Die erste Anzahlung hat er schon geleistet. Meine Ausstattung.
 \end{SUSANNE}
 
 \begin{FIGARO}
-Was für ein gnädiger Vorschuß auf die Gunst meiner
-Geliebten! Und ich dachte, es sei der wohlverdiente
+Was für ein gnädiger Vorschuß auf die Gunst meiner 
+Geliebten! Und ich dachte, es sei der wohlverdiente 
 Lohn meiner Treue! So viel Dummheit ist schmerzlich.
 \end{FIGARO}
 
@@ -325,35 +325,35 @@ Figaro denkt, der Graf lenkt.
 \end{SUSANNE}
 
 \begin{FIGARO}
-Nicht mehr lange. Die Klugheit der Großen ist die
-Falschheit der Kleinen. Küsse mich, o Muse aller
-Schurken. Ein Himmelreich für eine gute Intrige. Ich
-könnte ihn als Ehrenmann fordern,
+Nicht mehr lange. Die Klugheit der Großen ist die 
+Falschheit der Kleinen. Küsse mich, o Muse aller 
+Schurken. Ein Himmelreich für eine gute Intrige. Ich 
+könnte ihn als Ehrenmann fordern, 
 \end{FIGARO}
 
 \begin{SUSANNE}
-aber die Ehre beginnt leider erst beim Baron.
+aber die Ehre beginnt leider erst beim Baron. 
 \end{SUSANNE}
 
 \begin{FIGARO}
-Ich könnte ihn aus rasender Eifersucht töten,
+Ich könnte ihn aus rasender Eifersucht töten, 
 \end{FIGARO}
 
 \begin{SUSANNE}
-aber auch dieses Motiv gilt nur für Edelleute.
+aber auch dieses Motiv gilt nur für Edelleute. 
 \end{SUSANNE}
 
 \begin{FIGARO}
-Ich könnte ihn wegen ungebührlicher Nachstellerei verklagen,
+Ich könnte ihn wegen ungebührlicher Nachstellerei verklagen, 
 \end{FIGARO}
 
 \begin{SUSANNE}
-aber leider beginnt die
+aber leider beginnt die 
 Gerechtigkeit erst bei hundert Goldstücken.
 \end{SUSANNE}
 
 \begin{FIGARO}
-Da ist guter Rat teuer.
+Da ist guter Rat teuer. 	 
 
 \end{FIGARO}
 
@@ -366,22 +366,22 @@ Das ist die Gräfin. Ich verschwinde.
 \end{SUSANNE}
 
 \begin{FIGARO}
-Entschwinde nicht so flugs, mein Täubchen. Küß
-mich. Ein Kuß auf die Vorderlippe erhöht das Denkvermögen,
+Entschwinde nicht so flugs, mein Täubchen. Küß 
+mich. Ein Kuß auf die Vorderlippe erhöht das Denkvermögen, 
 wie die Professoren sagen.
 \end{FIGARO}
 
 \begin{SUSANNE}
-Und was wird morgen mein Mann sagen, wenn
+Und was wird morgen mein Mann sagen, wenn 
 ich heute den Bräutigam küsse?
 \end{SUSANNE}
 
 \begin{FIGARO}
-Ich erlaube es. Ausnahmsweise.
+Ich erlaube es. Ausnahmsweise. 	 
 \end{FIGARO}
 
 \begin{SUSANNE}
- \begin{Regie}Susanne küßt ihn kurz.\end{Regie}  Ausnahmsweise.
+ \begin{Regie}Susanne küßt ihn kurz.\end{Regie}  Ausnahmsweise.	 
 
 
 \end{SUSANNE}
@@ -398,51 +398,51 @@ Was für ein Kuß. Ich höre vor Seligkeit die Glocken läuten.
 \end{FIGARO}
 
 \begin{SUSANNE}
- \begin{Regie}entsetzt\end{Regie}  Die Gräfin.  \begin{Regie}ab\end{Regie}
+ \begin{Regie}entsetzt\end{Regie}  Die Gräfin.  \begin{Regie}ab\end{Regie} 
 
 \end{SUSANNE}
 
 \begin{FIGARO}
- \begin{Regie}allein\end{Regie}
-Weg ist sie, die honigsüße Biene. Daß hier der
-Graf den Mitschlecker spielen will, ist wider die Regeln
-meines Herzens. Jetzt geht mir ein Ballon auf. Mich befördert
-er zum Depeschenreiter, und während ich voll
-Schweiß und Treue dahinreite, reitet er voll Schweiß
-und Lust mein Susannchen. Während ich seinen
-Befehlen nachkomme, sorgt er für meine
-Nachkommenschaft. Würde doch nicht nur die Armut,
-sondern auch die Geilheit vor dem Adelsstande
-haltmachen. Diese Leidenschaft wird Ihnen noch leid
-tun, mein gnädiger Herr. Figaro, was macht ein Diener,
-dem weder Eifersucht noch Ehre noch Gerechtigkeit
-zugebilligt werden? Er wird schlecht, intrigant, falsch
-und verzeiht sich diese Eigenschaften zu besseren
-Zeiten. Mit der Glut seiner Leidenschaft werde ich dem
-Grafen das eigene Fell verbrennen und mit feuriger
-Bosheit die Mitgift in meine Taschen praktizieren. Das
-nenne ich Gerechtigkeit.
+ \begin{Regie}allein\end{Regie} 
+Weg ist sie, die honigsüße Biene. Daß hier der 
+Graf den Mitschlecker spielen will, ist wider die Regeln 
+meines Herzens. Jetzt geht mir ein Ballon auf. Mich befördert 
+er zum Depeschenreiter, und während ich voll 
+Schweiß und Treue dahinreite, reitet er voll Schweiß 
+und Lust mein Susannchen. Während ich seinen 
+Befehlen nachkomme, sorgt er für meine 
+Nachkommenschaft. Würde doch nicht nur die Armut, 
+sondern auch die Geilheit vor dem Adelsstande 
+haltmachen. Diese Leidenschaft wird Ihnen noch leid 
+tun, mein gnädiger Herr. Figaro, was macht ein Diener, 
+dem weder Eifersucht noch Ehre noch Gerechtigkeit 
+zugebilligt werden? Er wird schlecht, intrigant, falsch 
+und verzeiht sich diese Eigenschaften zu besseren 
+Zeiten. Mit der Glut seiner Leidenschaft werde ich dem 
+Grafen das eigene Fell verbrennen und mit feuriger 
+Bosheit die Mitgift in meine Taschen praktizieren. Das 
+nenne ich Gerechtigkeit. 	 
 
 \end{FIGARO}
 
 \begin{Regie}
-Bartholo, ein etwas heruntergekommener Medikus, und
-Marcelline, eine Dame in den mehr als besten Jahren,
+Bartholo, ein etwas heruntergekommener Medikus, und 
+Marcelline, eine Dame in den mehr als besten Jahren, 
 treten auf.
 \end{Regie}
 
 \begin{BARTHOLO}
- \begin{Regie}zu Figaro\end{Regie}  Natternkopf und Otternschwanz! Ist
+ \begin{Regie}zu Figaro\end{Regie}  Natternkopf und Otternschwanz! Ist 
 dieser ungebildete Schweinskopf auch hier?
 \end{BARTHOLO}
 
 \begin{FIGARO}
-Otternkopf und Natternschwanz! Ist dieses gebildete
+Otternkopf und Natternschwanz! Ist dieses gebildete 
 Schweinshaupt auch hier?
 \end{FIGARO}
 
 \begin{BARTHOLO}
-Wenn Sie nichts Klügeres zwischen Ihren Zähnen
+Wenn Sie nichts Klügeres zwischen Ihren Zähnen 
 hervorpressen, mein Herr.
 \end{BARTHOLO}
 
@@ -473,32 +473,32 @@ Mein Herr!
 \end{FIGARO}
 
 \begin{MARCELLINE}
-Meine Herren! Ihre Höflichkeit übersteigt
+Meine Herren! Ihre Höflichkeit übersteigt 
 das Maß des Erlaubten.
 \end{MARCELLINE}
 
 \begin{FIGARO}
-Madame, ich überlasse Euch gerne seine unerträgliche Gegenwart.
-Adieu, mein Herr, und denken Sie
+Madame, ich überlasse Euch gerne seine unerträgliche Gegenwart. 
+Adieu, mein Herr, und denken Sie 
 sich ein teures Hochzeitsgeschenk aus.
 \end{FIGARO}
 
 \begin{BARTHOLO}
-Worauf du mein Gift nehmen kannst!
+Worauf du mein Gift nehmen kannst! 
 \end{BARTHOLO}
 
 \begin{FIGARO}
- \begin{Regie}ab\end{Regie}
+ \begin{Regie}ab\end{Regie} 
 \end{FIGARO}
 
 \begin{BARTHOLO}
-Verfluchte Mutter Gottes, dieser Kerl ist mir
-widerlicher als ein kranker Steinklopfer. Ein
-Geschwülst von Adel ist mir lieber als das Gesicht
-eines Dieners. Was sind die kranken, blassen, zarten
-Lippen einer Komtesse gegen den stinkenden Mund
-einer gesunden Magd? Pestilenz und Petrus, warum
-darf das Volk krank werden, da uns schon vor seiner
+Verfluchte Mutter Gottes, dieser Kerl ist mir 
+widerlicher als ein kranker Steinklopfer. Ein 
+Geschwülst von Adel ist mir lieber als das Gesicht 
+eines Dieners. Was sind die kranken, blassen, zarten 
+Lippen einer Komtesse gegen den stinkenden Mund 
+einer gesunden Magd? Pestilenz und Petrus, warum 
+darf das Volk krank werden, da uns schon vor seiner 
 Gesundheit ekelt?
 \end{BARTHOLO}
 
@@ -507,7 +507,7 @@ Ihr habt nichts als Eure Profession im gebildeten Kopf.
 \end{MARCELLINE}
 
 \begin{BARTHOLO}
-Weil die Profession die Bildung macht, meine
+Weil die Profession die Bildung macht, meine 
 Dame. Aber zur Sache. Warum haben Sie mich herbestellt? Ist jemand krank?
 \end{BARTHOLO}
 
@@ -520,7 +520,7 @@ Der Graf?
 \end{BARTHOLO}
 
 \begin{MARCELLINE}
-Eine schreckliche Krankheit. Sie befällt ihn
+Eine schreckliche Krankheit. Sie befällt ihn 
 beim Anblick eines schönen Mädchens.
 \end{MARCELLINE}
 
@@ -541,7 +541,7 @@ Und tobt die halbe Nacht.
 \end{MARCELLINE}
 
 \begin{BARTHOLO}
-Explosion! Alles klario! Ich diagnostiziere auf
+Explosion! Alles klario! Ich diagnostiziere auf 
 Fleckfieber.
 \end{BARTHOLO}
 
@@ -550,12 +550,12 @@ Ich diagnostiziere auf Untreue.
 \end{MARCELLINE}
 
 \begin{BARTHOLO}
-Diese Krankheit kommt bei Standespersonen
+Diese Krankheit kommt bei Standespersonen 
 offiziell nicht vor.
 \end{BARTHOLO}
 
 \begin{MARCELLINE}
-Inoffiziell schleicht sich der Graf jede Nacht
+Inoffiziell schleicht sich der Graf jede Nacht 
 in die Kammern der Weiber.
 
 
@@ -565,7 +565,7 @@ in die Kammern der Weiber.
 
 
 \begin{BARTHOLO}
-Sagen wir, er inspiziert seinen Besitz durch
+Sagen wir, er inspiziert seinen Besitz durch 
 Nachtarbeit.
 \end{BARTHOLO}
 
@@ -582,8 +582,8 @@ Und Susannes Bett.
 \end{MARCELLINE}
 
 \begin{BARTHOLO}
-Vortrefflich! Dann bekommt Figaro einen
-Denkzettel, der Graf sein Vergnügen und Susanne den
+Vortrefflich! Dann bekommt Figaro einen 
+Denkzettel, der Graf sein Vergnügen und Susanne den 
 Grafen.
 \end{BARTHOLO}
 
@@ -596,16 +596,16 @@ Tragen Sie es mit Würde, die Ihrem Alter entspricht.
 \end{BARTHOLO}
 
 \begin{MARCELLINE}
-Diese Bemerkung entspräche einer Ohrfeige,
-Sie ungehobelter Mediziner: Bin ich nicht allein, weil
-Sie mich in diesem Zustande belassen haben? Haben
+Diese Bemerkung entspräche einer Ohrfeige, 
+Sie ungehobelter Mediziner: Bin ich nicht allein, weil 
+Sie mich in diesem Zustande belassen haben? Haben 
 Sie nicht Ihr damaliges Heiratsversprechen gebrochen ...
 \end{MARCELLINE}
 
 \begin{BARTHOLO}
-Zores und Mores! Müssen Sie jede schlechte
-Gelegenheit dazu benutzen, mir diese albernen Grillen
-unter die Weste zu jubeln? Was wollen Sie? Daß wir
+Zores und Mores! Müssen Sie jede schlechte 
+Gelegenheit dazu benutzen, mir diese albernen Grillen 
+unter die Weste zu jubeln? Was wollen Sie? Daß wir 
 hundertjähriges Jubiläum einer verflossenen Liebschaft feiern?
 \end{BARTHOLO}
 
@@ -630,7 +630,7 @@ Es ist Figaro.
 \end{MARCELLINE}
 
 \begin{BARTHOLO}
-Die Dummheit ist selten! Was treibt eine reife
+Die Dummheit ist selten! Was treibt eine reife 
 Frau in die Arme dieses jungen Flegels?
 \end{BARTHOLO}
 
@@ -651,7 +651,7 @@ Dann treten Sie wieder zurück.
 \end{BARTHOLO}
 
 \begin{MARCELLINE}
-Mehr als diese dumme Treterei haben Sie
+Mehr als diese dumme Treterei haben Sie 
 mir nicht zu raten, Doktor?
 
 
@@ -665,7 +665,7 @@ Da ist guter Rat teuer.
 \end{BARTHOLO}
 
 \begin{MARCELLINE}
- \begin{Regie}macht sich an ihn heran\end{Regie}  Früher war Ihnen
+ \begin{Regie}macht sich an ihn heran\end{Regie}  Früher war Ihnen 
 meine Gunst etwas wert.
 \end{MARCELLINE}
 
@@ -674,15 +674,15 @@ Ihr Wert ist gesunken, Madame.
 \end{BARTHOLO}
 
 \begin{MARCELLINE}
- \begin{Regie}Marcelline zählt Geldstücke in die offene Hand Bartholos.
-Er läßt sie möglichst lange offen.\end{Regie}
-Ihre Preise sind gestiegen, mein Herr. Nun
+ \begin{Regie}Marcelline zählt Geldstücke in die offene Hand Bartholos. 
+Er läßt sie möglichst lange offen.\end{Regie} 
+Ihre Preise sind gestiegen, mein Herr. Nun 
 reden Sie schon, gieriger Frosch.
 \end{MARCELLINE}
 
 \begin{BARTHOLO}
- \begin{Regie}läßt die Goldstücke in den geschlossenen Händen klimpern\end{Regie}
-Gemach, gemach. Ein guter Plan braucht
+ \begin{Regie}läßt die Goldstücke in den geschlossenen Händen klimpern\end{Regie} 
+Gemach, gemach. Ein guter Plan braucht 
 Inspiration. Sie lieben Figaro?
 \end{BARTHOLO}
 
@@ -707,7 +707,7 @@ Bekannt.
 \end{MARCELLINE}
 
 \begin{BARTHOLO}
-Attenzione. Figaro heiratet Susanne, und der
+Attenzione. Figaro heiratet Susanne, und der 
 Graf ist der lachende Dritte.
 \end{BARTHOLO}
 
@@ -716,7 +716,7 @@ Und ich die weinende Vierte.
 \end{MARCELLINE}
 
 \begin{BARTHOLO}
-Attenzione, sage ich, was ist den Weibern
+Attenzione, sage ich, was ist den Weibern 
 wichtiger als die Moral?
 \end{BARTHOLO}
 
@@ -725,7 +725,7 @@ Ihr Ruf!
 \end{MARCELLINE}
 
 \begin{BARTHOLO}
-Und was verliert Susanne, wenn wir die Neigungen
+Und was verliert Susanne, wenn wir die Neigungen 
 des Grafen offenbaren?
 \end{BARTHOLO}
 
@@ -738,7 +738,7 @@ Figaro wird sich von ihr abwenden ...
 \end{BARTHOLO}
 
 \begin{MARCELLINE}
-... und mir zuwenden. Doktor, Sie sind ein
+... und mir zuwenden. Doktor, Sie sind ein 
 Genie an Schlechtigkeit.
 \end{MARCELLINE}
 
@@ -747,13 +747,13 @@ Man tut, was man kann.
 \end{BARTHOLO}
 
 \begin{MARCELLINE}
-Nehmen Sie diesen Kuß als Draufgabe.
+Nehmen Sie diesen Kuß als Draufgabe.  
 \end{MARCELLINE}
 
 \begin{SUSANNE}
- \begin{Regie}Susanne tritt auf. Räuspert sich\end{Regie}
-Verzeihung, ich wollte die älteren
-Herrschaften nicht stören. Ich hab' was übrig für die
+ \begin{Regie}Susanne tritt auf. Räuspert sich\end{Regie}  
+Verzeihung, ich wollte die älteren 
+Herrschaften nicht stören. Ich hab' was übrig für die 
 Glut der späten Jahre.
 \end{SUSANNE}
 
@@ -799,7 +799,7 @@ Und just in Susannes Bettchen.
 \end{MARCELLINE}
 
 \begin{SUSANNE}
-Wie traurig für Euch, daß Ihr sie nicht mehr zu
+Wie traurig für Euch, daß Ihr sie nicht mehr zu 
 vergeben habt.
 \end{SUSANNE}
 
@@ -808,7 +808,7 @@ Grafenliebchen!
 \end{MARCELLINE}
 
 \begin{SUSANNE}
-Keine Ehre und kein Benehmen. Euch sind
+Keine Ehre und kein Benehmen. Euch sind 
 wirklich nur die Falten geblieben.
 \end{SUSANNE}
 
@@ -817,17 +817,17 @@ Hurenkind.
 \end{MARCELLINE}
 
 \begin{SUSANNE}
-Wenn Ihr sprecht, gleicht Euer Gesicht einer
+Wenn Ihr sprecht, gleicht Euer Gesicht einer 
 Ziehharmonika, auf der man einen Trauermarsch spielt.
 \end{SUSANNE}
 
 \begin{MARCELLINE}
-Doktor, halten Sie mich. Ich stürze mich auf
+Doktor, halten Sie mich. Ich stürze mich auf 
 sie.
 \end{MARCELLINE}
 
 \begin{SUSANNE}
-Doktor, halten Sie doch die alte Dame, bevor sie
+Doktor, halten Sie doch die alte Dame, bevor sie 
 stürzt.
 \end{SUSANNE}
 
@@ -840,8 +840,8 @@ Donner und Dolores, hinaus, sage ich.
 \end{SUSANNE}
 
 \begin{BARTHOLO}
-Gehen wir, Marcelline. Susannchen brennt darauf,
-ihrem heißgeliebten Figaro die Hörner aufzusetzen.
+Gehen wir, Marcelline. Susannchen brennt darauf, 
+ihrem heißgeliebten Figaro die Hörner aufzusetzen. 
 \end{BARTHOLO}
 
 \begin{Regie}
@@ -849,15 +849,15 @@ Marcelline und Bartholo ab
 \end{Regie}
 
 \begin{SUSANNE}
- \begin{Regie}ruft ihnen nach\end{Regie}  Die Hölle ist zwei Stock tiefer.
- \begin{Regie}Susanne allein\end{Regie}
-Das ist ein Teufelspaar. Mit ihrer Bosheit könnten sie
-ganze Landstriche unglücklich machen, warum quälen
-sie ausgerechnet mich? Ist die Liebe eines Dienstmädchens
-eine Weide, auf der jeder falsche Ochs
-herumtrampeln kann? Was habe ich ihnen getan? Ich
-liebe Figaro, das ist alles. Ja, das ist alles.
- \begin{Regie}Sprechgesang\end{Regie}  Die Augen
+ \begin{Regie}ruft ihnen nach\end{Regie}  Die Hölle ist zwei Stock tiefer. 
+ \begin{Regie}Susanne allein\end{Regie} 
+Das ist ein Teufelspaar. Mit ihrer Bosheit könnten sie 
+ganze Landstriche unglücklich machen, warum quälen 
+sie ausgerechnet mich? Ist die Liebe eines Dienstmädchens 
+eine Weide, auf der jeder falsche Ochs 
+herumtrampeln kann? Was habe ich ihnen getan? Ich 
+liebe Figaro, das ist alles. Ja, das ist alles. 
+ \begin{Regie}Sprechgesang\end{Regie}  Die Augen	
 
 
 \end{SUSANNE}
@@ -866,7 +866,7 @@ liebe Figaro, das ist alles. Ja, das ist alles.
 
 
 \begin{SUSANNE}
-meines Geliebten finden alle Schätze meines Herzens,
+meines Geliebten finden alle Schätze meines Herzens, 
 seine Hände heben sie.
 \end{SUSANNE}
 
@@ -903,7 +903,7 @@ Noch schlimmer?
 \end{SUSANNE}
 
 \begin{CHERUBIN}
-Schlimmstens. Es war ein Herr von Stand. Der
+Schlimmstens. Es war ein Herr von Stand. Der 
 Graf hat mich entlassen.
 \end{CHERUBIN}
 
@@ -912,9 +912,9 @@ Was hat der alte Bock gegen dein junges Blut?
 \end{SUSANNE}
 
 \begin{CHERUBIN}
-Mein junges Blut hat sich ein wenig an der
-kleinen Blanchette vergriffen. Ich habe ihr sozusagen
-die Anfangsgründe der Anatomie beigebracht. Eine
+Mein junges Blut hat sich ein wenig an der 
+kleinen Blanchette vergriffen. Ich habe ihr sozusagen 
+die Anfangsgründe der Anatomie beigebracht. Eine 
 süße Lektion!
 \end{CHERUBIN}
 
@@ -923,13 +923,13 @@ Weiter.
 \end{SUSANNE}
 
 \begin{CHERUBIN}
-Ein bitteres Erwachen! Dann plötzlich kommt
-der Graf dazwischen und brüllt, daß die Stiere fliegen.
+Ein bitteres Erwachen! Dann plötzlich kommt 
+der Graf dazwischen und brüllt, daß die Stiere fliegen. 
 Er schreit ...
 \end{CHERUBIN}
 
 \begin{SUSANNE}
-Was?
+Was? 
 \end{SUSANNE}
 
 \begin{CHERUBIN}
@@ -941,37 +941,37 @@ Was daß?
 \end{SUSANNE}
 
 \begin{CHERUBIN}
-Daß ich der letzte Schwanz von Kastilien sei
-und ob ich der amtliche Zureiter seiner Mägde wäre
-und ...
+Daß ich der letzte Schwanz von Kastilien sei 
+und ob ich der amtliche Zureiter seiner Mägde wäre 
+und ... 
 \end{CHERUBIN}
 
 \begin{SUSANNE}
-Das genügt.
+Das genügt. 
 \end{SUSANNE}
 
 \begin{CHERUBIN}
-Für eine Entlassung. Susannchen, hilf mir.
-Sonst bin ich für immer von deinem Angesicht
-verbannt.
+Für eine Entlassung. Susannchen, hilf mir. 
+Sonst bin ich für immer von deinem Angesicht 
+verbannt. 
 \end{CHERUBIN}
 
 \begin{SUSANNE}
-Es wird mich schmerzen.
+Es wird mich schmerzen. 
 \end{SUSANNE}
 
 \begin{CHERUBIN}
-Es wird mich töten.
+Es wird mich töten. 
 \end{CHERUBIN}
 
 \begin{SUSANNE}
-Du wirst auch das überleben.
+Du wirst auch das überleben. 
 \end{SUSANNE}
 
 \begin{CHERUBIN}
-Aber wie. Ich werde hungrig und zerrissen
-durch die deutschen Sümpfe waten, meine müden
-Augen suchen vergeblich nach dem Trost deiner
+Aber wie. Ich werde hungrig und zerrissen 
+durch die deutschen Sümpfe waten, meine müden 
+Augen suchen vergeblich nach dem Trost deiner 
 Schönheit.
 
 
@@ -981,29 +981,29 @@ Schönheit.
 
 
 \begin{SUSANNE}
-Moment, du Schürzenschlingel. Ist nicht die
-Gräfin deine heimliche Liebe? Hast du nicht sämtlichen
-Mägden den Hintern verdreht? Jetzt bin wohl ich an der
+Moment, du Schürzenschlingel. Ist nicht die 
+Gräfin deine heimliche Liebe? Hast du nicht sämtlichen 
+Mägden den Hintern verdreht? Jetzt bin wohl ich an der 
 Reihe?
 \end{SUSANNE}
 
 \begin{CHERUBIN}
-Du hast recht. Aber die Gräfin ist so weit entfernt,
+Du hast recht. Aber die Gräfin ist so weit entfernt, 
 daß ich nur für sie schwärmen kann. Dich aber kann ich lieben.
 \end{CHERUBIN}
 
 \begin{SUSANNE}
-Gott sei Dank bist du nicht so weit entfernt, daß
-ich dich nicht ohrfeigen kann.
- \begin{Regie}läuft ihm nach\end{Regie}
+Gott sei Dank bist du nicht so weit entfernt, daß 
+ich dich nicht ohrfeigen kann. 	 
+ \begin{Regie}läuft ihm nach\end{Regie} 
 \end{SUSANNE}
 
 \begin{CHERUBIN}
-Rette mich, Susanne, sonst bin ich verloren.
+Rette mich, Susanne, sonst bin ich verloren. 
 \end{CHERUBIN}
 
 \begin{SUSANNE}
- \begin{Regie}lacht und bleibt stehen\end{Regie}
+ \begin{Regie}lacht und bleibt stehen\end{Regie} 
 Wie soll es mir gelingen, den Grafen umzustimmen?
 \end{SUSANNE}
 
@@ -1028,8 +1028,8 @@ Wenn's sein muß.
 \end{CHERUBIN}
 
 \begin{SUSANNE}
-Warum könnt ihr alle über meine Liebe zu Figaro
-verfügen? Wieviel ist sie euch eigentlich wert? Sie
+Warum könnt ihr alle über meine Liebe zu Figaro 
+verfügen? Wieviel ist sie euch eigentlich wert? Sie 
 gehört mir. Mir.
 \end{SUSANNE}
 
@@ -1038,7 +1038,7 @@ Ich verstehe dich nicht, Susannchen.
 \end{CHERUBIN}
 
 \begin{SUSANNE}
-Ich verstehe dich auch nicht, Cherubin.
+Ich verstehe dich auch nicht, Cherubin. 	 
 
 \end{SUSANNE}
 
@@ -1055,23 +1055,23 @@ O Gott, der Graf!
 \end{SUSANNE}
 
 \begin{CHERUBIN}
-Der Graf? O Gott!
- \begin{Regie}Cherubin verschwindet blitzschnell unterm Lehnstuhl.\end{Regie}
+Der Graf? O Gott!	 
+ \begin{Regie}Cherubin verschwindet blitzschnell unterm Lehnstuhl.\end{Regie} 
 
 \end{CHERUBIN}
 
 \Einstellung{Voll Hell}
 
 \begin{Regie}
-Der Graf tritt ein. Vor ihm schreitet ein Diener. Er
-klopft mit dem Stock dreimal auf den Boden. Alles
+Der Graf tritt ein. Vor ihm schreitet ein Diener. Er 
+klopft mit dem Stock dreimal auf den Boden. Alles 
 erstarrt zur Pose.
 \end{Regie}
 
 \begin{DIENER}
-Seine Exzellenz, der besonders wohlgeborene
-Graf von Almaviva, Herr über zweihundert Rinder und
-Mägde, Großcomptur von Kastilien und Katalonien, erster
+Seine Exzellenz, der besonders wohlgeborene 
+Graf von Almaviva, Herr über zweihundert Rinder und 
+Mägde, Großcomptur von Kastilien und Katalonien, erster 
 
 
 \end{DIENER}
@@ -1080,22 +1080,22 @@ Mägde, Großcomptur von Kastilien und Katalonien, erster
 
 
 \begin{DIENER}
-Inquisitionsrat, Hauptaktionär einer Galgenfabrik, Träger
-und Käufer aller heiligen spanischen Orden, Vorsitzender
-der heiligen spanischen Liga für Heidenvertilgung,
+Inquisitionsrat, Hauptaktionär einer Galgenfabrik, Träger 
+und Käufer aller heiligen spanischen Orden, Vorsitzender 
+der heiligen spanischen Liga für Heidenvertilgung, 
 gefürsteter Graf von ...
 \end{DIENER}
 
 \begin{GRAF}
-Das reicht. Ich bin inkognito hier. Susanne, ich bin
-gekommen, dir meine Gefühle persönlich zu äußern.
-Ich bin in der glücklichen Lage, über eine gewisse
-Leidenschaft für dich zu verfügen. Ich werde sie sofort
+Das reicht. Ich bin inkognito hier. Susanne, ich bin 
+gekommen, dir meine Gefühle persönlich zu äußern. 
+Ich bin in der glücklichen Lage, über eine gewisse 
+Leidenschaft für dich zu verfügen. Ich werde sie sofort 
 äußern. Wo ist ein Stuhl?
 \end{GRAF}
 
 \begin{SUSANNE}
-Halt, Herr Graf. Mit Verlaub, bleiben Sie
+Halt, Herr Graf. Mit Verlaub, bleiben Sie 
 stehen.
 \end{SUSANNE}
 
@@ -1108,12 +1108,12 @@ Mit Verlaub, Herr Graf sehen im Stehen besonders vorteilhaft aus.
 \end{SUSANNE}
 
 \begin{GRAF}
-Mit Verlaub, Herr Graf fühlen sich im Sitzen wohler.
- \begin{Regie}Der Graf setzt sich.\end{Regie}
+Mit Verlaub, Herr Graf fühlen sich im Sitzen wohler. 	 
+ \begin{Regie}Der Graf setzt sich.\end{Regie} 
 \end{GRAF}
 
 \begin{CHERUBIN}
- \begin{Regie}jault auf\end{Regie}
+ \begin{Regie}jault auf\end{Regie} 
 \end{CHERUBIN}
 
 \begin{GRAF}
@@ -1121,11 +1121,11 @@ Was jault hier?
 \end{GRAF}
 
 \begin{SUSANNE}
-Es hat gejault?
+Es hat gejault?	 
 \end{SUSANNE}
 
 \begin{Regie}
-Der Graf steht auf und läßt sich noch einmal in den
+Der Graf steht auf und läßt sich noch einmal in den 
 Lehnstuhl fallen. Cherubin jault wieder auf.
 \end{Regie}
 
@@ -1134,30 +1134,30 @@ Es hat gejault!
 \end{GRAF}
 
 \begin{SUSANNE}
-Es hat gequietscht. Der Sessel geht aus dem Leim.
+Es hat gequietscht. Der Sessel geht aus dem Leim. 	 
 \end{SUSANNE}
 
 \begin{Regie}
-Der Graf steht noch einmal auf und läßt sich in den
+Der Graf steht noch einmal auf und läßt sich in den 
 Lehnstuhl fallen. Cherubin versucht ein Quietschen nachzuahmen.
 \end{Regie}
 
 \begin{GRAF}
-Es hat gequietscht, in der Tat. Man soll den Tischler
-benachrichtigen. Susanne, ich liebe dich. Bazillus hat
-dich bereits über meine Leidenschaft in Kenntnis
-gesetzt. Ich bin persönlich erschienen, um mit dir über
-die organisatorische Seite der Angelegenheit zu
+Es hat gequietscht, in der Tat. Man soll den Tischler 
+benachrichtigen. Susanne, ich liebe dich. Bazillus hat 
+dich bereits über meine Leidenschaft in Kenntnis 
+gesetzt. Ich bin persönlich erschienen, um mit dir über 
+die organisatorische Seite der Angelegenheit zu 
 sprechen. Du kannst dich entspannen, mein Kind.
 \end{GRAF}
 
 \begin{SUSANNE}
- \begin{Regie}eindringlich\end{Regie}  Herr Graf, ich heirate noch heute
+ \begin{Regie}eindringlich\end{Regie}  Herr Graf, ich heirate noch heute 
 meinen Figaro.
 \end{SUSANNE}
 
 \begin{GRAF}
-Das ist Punkt eins in meinem Plan. Er ist dann
+Das ist Punkt eins in meinem Plan. Er ist dann 
 immer der Vater.
 
 
@@ -1167,24 +1167,24 @@ immer der Vater.
 
 
 \begin{SUSANNE}
- \begin{Regie}eindringlich, ehrlich\end{Regie}  Figaro ist Euch immer
+ \begin{Regie}eindringlich, ehrlich\end{Regie}  Figaro ist Euch immer 
 treu gewesen.
 \end{SUSANNE}
 
 \begin{GRAF}
-Das ist Punkt zwei in meinem Plan. Seine Treue
-wird belohnt. Ich versetze ihn in den Außendienst und
+Das ist Punkt zwei in meinem Plan. Seine Treue 
+wird belohnt. Ich versetze ihn in den Außendienst und 
 ernenne ihn zum ständigen Depeschenreiter.
 \end{GRAF}
 
 \begin{SUSANNE}
- \begin{Regie}flehentlich\end{Regie}  Figaro hat euch viele gute Dienste
+ \begin{Regie}flehentlich\end{Regie}  Figaro hat euch viele gute Dienste 
 erwiesen.
 \end{SUSANNE}
 
 \begin{GRAF}
-Mit seiner Abwesenheit erweist er mir den besten,
-denn sie garantiert mir deine unbemannte Anwesenheit.
+Mit seiner Abwesenheit erweist er mir den besten, 
+denn sie garantiert mir deine unbemannte Anwesenheit. 
 Das ist übrigens Punkt drei in meinem Plan.
 \end{GRAF}
 
@@ -1193,7 +1193,7 @@ Das ist übrigens Punkt drei in meinem Plan.
 \end{SUSANNE}
 
 \begin{GRAF}
-Noch einer? Ich bezahle Bazillus dafür, daß er mir
+Noch einer? Ich bezahle Bazillus dafür, daß er mir 
 die besten Intrigen ausarbeitet. Hat der Kerl was vergessen?
 \end{GRAF}
 
@@ -1202,25 +1202,25 @@ Das Wichtigste. Ich liebe Euch nicht.
 \end{SUSANNE}
 
 \begin{GRAF}
-Das ändert die Sachlage. Bazillus!  \begin{Regie}brüllt\end{Regie}  Bazillus!
+Das ändert die Sachlage. Bazillus!  \begin{Regie}brüllt\end{Regie}  Bazillus!  
 \end{GRAF}
 
 \begin{Regie}
-Bazillus, ein schäbiger Schurke, steigt unter der Decke,
+Bazillus, ein schäbiger Schurke, steigt unter der Decke, 
 die die Möbel zudeckt, hervor.
 \end{Regie}
 
 \begin{GRAF}
-Bazillus, sie liebt mich nicht. Ich brauche eine neue Intrige.
+Bazillus, sie liebt mich nicht. Ich brauche eine neue Intrige. 
 Sei fleißig, Schurkenkopf.
 \end{GRAF}
 
 \begin{BAZILLUS}
-Sei fleißig, Schurkenkopf. Ich hab's. Sie liebt
-Euch nicht, aber sie liebt. Den alten Weibern sind die
-Schenkel vertrocknet, und ihre Grube ist voller Schlangen.
-Die aber ist jung und hat einen Schoß voll Feuer,
-den Euer Diener löschen soll. Schickt den Diener weg,
+Sei fleißig, Schurkenkopf. Ich hab's. Sie liebt 
+Euch nicht, aber sie liebt. Den alten Weibern sind die 
+Schenkel vertrocknet, und ihre Grube ist voller Schlangen. 
+Die aber ist jung und hat einen Schoß voll Feuer, 
+den Euer Diener löschen soll. Schickt den Diener weg, 
 und Ihr seid dran. Gelöscht muß werden.
 \end{BAZILLUS}
 
@@ -1229,14 +1229,14 @@ Der Herr wird sich verbrennen.
 \end{SUSANNE}
 
 \begin{GRAF}
-Der Plan ist schlecht und schon dagewesen. Mach
+Der Plan ist schlecht und schon dagewesen. Mach 
 einen anderen.
 \end{GRAF}
 
 \begin{BAZILLUS}
-Sei fleißig, Schurkenkopf. Ich hab's. Was man
-nicht stehlen kann, Herr Graf, kann man auch kaufen.
-Die Liebe zu Eurem Diener ist ihr sehr wertvoll. Gebt
+Sei fleißig, Schurkenkopf. Ich hab's. Was man 
+nicht stehlen kann, Herr Graf, kann man auch kaufen. 
+Die Liebe zu Eurem Diener ist ihr sehr wertvoll. Gebt 
 noch zwanzig Prozent drauf, und Ihr habt sie.
 \end{BAZILLUS}
 
@@ -1245,7 +1245,7 @@ Was bin ich schuldig, Susanne?
 \end{GRAF}
 
 \begin{SUSANNE}
-Ihr wollt Euch meine Liebe erkaufen? Immerzu.
+Ihr wollt Euch meine Liebe erkaufen? Immerzu. 
 Die erste Rate ist fällig.
 
 
@@ -1259,7 +1259,7 @@ Wieviel, mein Kind?
 \end{GRAF}
 
 \begin{SUSANNE}
-Nicht viel, mein Herr. Ihr habt heute den Pagen
+Nicht viel, mein Herr. Ihr habt heute den Pagen 
 Cherubin entlassen. Nehmt die Entlassung zurück.
 \end{SUSANNE}
 
@@ -1284,27 +1284,27 @@ He, Bazillus! Was liegt mir an Blanchette?
 \end{GRAF}
 
 \begin{BAZILLUS}
-So viel liegt Euch an ihr, als Ihr auf ihr liegen
+So viel liegt Euch an ihr, als Ihr auf ihr liegen 
 wollt.
 \end{BAZILLUS}
 
 \begin{GRAF}
-Vortrefflich. Der Kerl ist wegen Besitzstörung
-entlassen. Ich habe ihn selbst ertappt. Erzähl die
+Vortrefflich. Der Kerl ist wegen Besitzstörung 
+entlassen. Ich habe ihn selbst ertappt. Erzähl die 
 Geschichte, Bazillus.
 \end{GRAF}
 
 \begin{BAZILLUS}
- \begin{Regie}wirft sich in Pose\end{Regie}  Unser heißgeliebter Graf Almaviva
-befindet sich auf Inspektionsreise. Im Zimmer
-von Blanchette findet er dieselbe in höchster
-Auflösung. Herr Graf schöpft einen
+ \begin{Regie}wirft sich in Pose\end{Regie}  Unser heißgeliebter Graf Almaviva 
+befindet sich auf Inspektionsreise. Im Zimmer 
+von Blanchette findet er dieselbe in höchster 
+Auflösung. Herr Graf schöpft einen 
 hochwohlgeborenen Verdacht und hebt das Bettuch ...
 \end{BAZILLUS}
 
 \begin{BAZILLUS}
- \begin{Regie}hebt das Tuch, welches die Seiten des
-Lehnstuhls verkleidet\end{Regie}  ... und plötzlich sieht er ...
+ \begin{Regie}hebt das Tuch, welches die Seiten des 
+Lehnstuhls verkleidet\end{Regie}  ... und plötzlich sieht er ... 
  \begin{Regie}Bazillus sieht Cherubin\end{Regie}  ... Oh!
 \end{BAZILLUS}
 
@@ -1325,24 +1325,24 @@ Unterm Lehnstuhl!
 \end{BAZILLUS}
 
 \begin{GRAF}
- \begin{Regie}springt auf\end{Regie}  Oh!  \begin{Regie}er sieht selbst nach\end{Regie}  Gestern wie
-heute! Der Kerl wohnt unter meinen Möbeln!
+ \begin{Regie}springt auf\end{Regie}  Oh!  \begin{Regie}er sieht selbst nach\end{Regie}  Gestern wie 
+heute! Der Kerl wohnt unter meinen Möbeln! 
 \end{GRAF}
 
 \begin{CHERUBIN}
-Ein Zufall, Herr Graf!
+Ein Zufall, Herr Graf! 
 \end{CHERUBIN}
 
 \begin{SUSANNE}
-Ein Irrtum, Herr Graf!
+Ein Irrtum, Herr Graf! 
 \end{SUSANNE}
 
 \begin{GRAF}
-Eine Schande, Susanne!
+Eine Schande, Susanne! 
 \end{GRAF}
 
 \begin{BAZILLUS}
-Abscheulich!
+Abscheulich! 
 \end{BAZILLUS}
 
 \begin{GRAF}
@@ -1350,15 +1350,15 @@ Greulich!
 \end{GRAF}
 
 \begin{SUSANNE}
-Herr Graf, ein Irrtum ...
+Herr Graf, ein Irrtum ... 
 \end{SUSANNE}
 
 \begin{BAZILLUS}
-Greulich!
+Greulich! 
 \end{BAZILLUS}
 
 \begin{GRAF}
-Abscheulich! So kurz vor der Hochzeit, und schon
+Abscheulich! So kurz vor der Hochzeit, und schon 
 
 
 \end{GRAF}
@@ -1367,9 +1367,9 @@ Abscheulich! So kurz vor der Hochzeit, und schon
 
 
 \begin{GRAF}
-liegen die Liebhaber unter den Möbeln herum. Was für
-eine Sittenlosigkeit unter meiner Dienerschaft! Was für
-ein Verstoß gegen die Moral des Hauses. Der arme
+liegen die Liebhaber unter den Möbeln herum. Was für 
+eine Sittenlosigkeit unter meiner Dienerschaft! Was für 
+ein Verstoß gegen die Moral des Hauses. Der arme 
 Figaro, den ich mehr als ein Reitpferd schätze ... es ist...
 \end{GRAF}
 
@@ -1378,12 +1378,12 @@ Abscheulich!
 \end{BAZILLUS}
 
 \begin{GRAF}
-Unterbrich mich nicht in meiner Erregung. Was
+Unterbrich mich nicht in meiner Erregung. Was 
 wollte ich soeben zornig bemerken?
 \end{GRAF}
 
 \begin{BAZILLUS}
-Dem Pferd sind Hörner aufgesetzt, so wolltet
+Dem Pferd sind Hörner aufgesetzt, so wolltet 
 Ihr eben trefflich bemerken.
 \end{BAZILLUS}
 
@@ -1400,7 +1400,7 @@ Der arme Esel.
 \end{GRAF}
 
 \begin{SUSANNE}
-Weder Pferd noch Esel. Herr Graf, Figaro ist
+Weder Pferd noch Esel. Herr Graf, Figaro ist 
 nicht betrogen, und Cherubin ist ...
 \end{SUSANNE}
 
@@ -1413,9 +1413,9 @@ So wie gestern. Der Kerl sammelt die Unschuld.
 \end{GRAF}
 
 \begin{SUSANNE}
-Eben wegen dieses »Gestern« kam er heute zu
-mir. Nachdem Ihr ihn bei Blanchette erwischt hattet,
-habt Ihr ihn entlassen. Bevor Ihr ihn bei mir gefunden
+Eben wegen dieses »Gestern« kam er heute zu 
+mir. Nachdem Ihr ihn bei Blanchette erwischt hattet, 
+habt Ihr ihn entlassen. Bevor Ihr ihn bei mir gefunden 
 habt, bat er mich, Euch zu bitten, ihn nicht zu entlassen.
 \end{SUSANNE}
 
@@ -1433,21 +1433,21 @@ Genug. Dieses Bordell muß ein anderes werden.
 \end{GRAF}
 
 \begin{DIENER}
- \begin{Regie}klopft mit dem Stock dreimal auf den Boden\end{Regie}  Es
+ \begin{Regie}klopft mit dem Stock dreimal auf den Boden\end{Regie}  Es 
 verfügt der wohlgeborene Graf von Almaviva, Herr über ...
 \end{DIENER}
 
 \begin{GRAF}
- \begin{Regie}unterbricht ihn\end{Regie}  Schweig er! Das Zeremoniell reißt
-mich ganz aus dem Zorn.  \begin{Regie}zu Susanne\end{Regie}  Ich freue mich
-darauf, Figaro von deinen abscheulichen Taten zu
+ \begin{Regie}unterbricht ihn\end{Regie}  Schweig er! Das Zeremoniell reißt 
+mich ganz aus dem Zorn.  \begin{Regie}zu Susanne\end{Regie}  Ich freue mich 
+darauf, Figaro von deinen abscheulichen Taten zu 
 unterrichten.
 \end{GRAF}
 
 \begin{SUSANNE}
- \begin{Regie}mutig\end{Regie}  Und ich freue mich darauf, der Frau Gräfin
-von Euren abscheulichen Absichten zu erzählen.
-Geteilte Freud ist halbes Leid, wenn ich zusätzlich
+ \begin{Regie}mutig\end{Regie}  Und ich freue mich darauf, der Frau Gräfin 
+von Euren abscheulichen Absichten zu erzählen. 
+Geteilte Freud ist halbes Leid, wenn ich zusätzlich 
 bemerken darf.
 
 
@@ -1473,7 +1473,7 @@ Abscheulich. Das Personal wird immer frecher.
 \end{BAZILLUS}
 
 \begin{GRAF}
-Bazillus. Los, los, eine neue Intrige.
+Bazillus. Los, los, eine neue Intrige. 
 \end{GRAF}
 
 \begin{Regie}
@@ -1493,7 +1493,7 @@ Ich eile!
 \end{BAZILLUS}
 
 \begin{GRAF}
-Halt! Zuerst eine Intrige, vorwärts!!
+Halt! Zuerst eine Intrige, vorwärts!! 	 
 \end{GRAF}
 
 \begin{Regie}
@@ -1509,7 +1509,7 @@ Halt! Die Intrige, schnell!
 \end{GRAF}
 
 \begin{BAZILLUS}
-Eine Intrige zwischen Tür und Angel? O Gott! Greulich!
+Eine Intrige zwischen Tür und Angel? O Gott! Greulich! 	 
 \end{BAZILLUS}
 
 \begin{Regie}
@@ -1521,12 +1521,12 @@ Abscheulich. Der Auftritt paßt mir wenig.
 \end{GRAF}
 
 \begin{FIGARO}
- \begin{Regie}zum Grafen, mit tiefster Verbeugung\end{Regie}  O glückliche
+ \begin{Regie}zum Grafen, mit tiefster Verbeugung\end{Regie}  O glückliche 
 Dienerschaft, die Euch, Herr Graf, zum Herren weiß.
 \end{FIGARO}
 
 \begin{DIENER}
- \begin{Regie}klopft mit dem Stock\end{Regie}  Seine Exzellenz, der besonders
+ \begin{Regie}klopft mit dem Stock\end{Regie}  Seine Exzellenz, der besonders 
 wohlgeborene Graf von Almaviva ...
 \end{DIENER}
 
@@ -1555,7 +1555,7 @@ Hauptaktionär einer Galgenfabrik ...
 \end{DIENER}
 
 \begin{FIGARO}
- \begin{Regie}zu Susanne\end{Regie}  Mach mit, mein Herz, gleich zappelt
+ \begin{Regie}zu Susanne\end{Regie}  Mach mit, mein Herz, gleich zappelt 
 der Bock an der Angel!
 \end{FIGARO}
 
@@ -1564,14 +1564,14 @@ Was gibt's da zu flüstern, Figaro?
 \end{GRAF}
 
 \begin{FIGARO}
-Verzeiht, Herr Graf. Die Lobpreisung für Eure
-Person hat mir die Zunge verschlagen. Ich bin ganz
-heiser.  \begin{Regie}Mit krächzender Stimme\end{Regie}  Retter der
+Verzeiht, Herr Graf. Die Lobpreisung für Eure 
+Person hat mir die Zunge verschlagen. Ich bin ganz 
+heiser.  \begin{Regie}Mit krächzender Stimme\end{Regie}  Retter der 
 Jungfernschaft! Hüter der Unschuld! Meister der Tugend!
 \end{FIGARO}
 
 \begin{SUSANNE}
- \begin{Regie}flüsternd zu Figaro\end{Regie}  Treibe es nicht zu weit,
+ \begin{Regie}flüsternd zu Figaro\end{Regie}  Treibe es nicht zu weit, 
 mein kühner Figaro.
 
 
@@ -1585,7 +1585,7 @@ Was gibt's da zu flüstern, Susanne?
 \end{GRAF}
 
 \begin{SUSANNE}
- \begin{Regie}heiser\end{Regie}  Ich teile nur die Verehrung meines
+ \begin{Regie}heiser\end{Regie}  Ich teile nur die Verehrung meines 
 Bräutigams für Eure Person.
 \end{SUSANNE}
 
@@ -1594,9 +1594,9 @@ Dieser Ausbruch einer allgemeinen Heiserkeit...
 \end{GRAF}
 
 \begin{GREFIN}
-... ist doch nur der Ausdruck tiefster Rührung. Die
+... ist doch nur der Ausdruck tiefster Rührung. Die 
 guten Leute haben eine Bitte, die ich tiefbegründet finde.
-Sie sind tief gerührt von Ihrer Art, die Tugend zu
+Sie sind tief gerührt von Ihrer Art, die Tugend zu 
 belohnen und die Unschuld zu schützen.
 \end{GREFIN}
 
@@ -1605,7 +1605,7 @@ Zutiefst!
 \end{SUSANNE}
 
 \begin{GREFIN}
-Seit Sie mir zuliebe dieses Vorrecht der ersten Nacht
+Seit Sie mir zuliebe dieses Vorrecht der ersten Nacht 
 abgeschafft haben, sind Sie das Ziel höchster Bewunderung geworden.
 \end{GREFIN}
 
@@ -1618,16 +1618,16 @@ Zuhöchst!
 \end{SUSANNE}
 
 \begin{GRAF}
-Ich dieses Vorrecht abgeschafft ... ich habe dieses
-Vorrecht durch Abschaffung ...
+Ich dieses Vorrecht abgeschafft ... ich habe dieses 
+Vorrecht durch Abschaffung ... 	 
 \end{GRAF}
 
 \begin{BAZILLUS}
- \begin{Regie}reicht dem Grafen einen Zettel\end{Regie}
+ \begin{Regie}reicht dem Grafen einen Zettel\end{Regie} 
 \end{BAZILLUS}
 
 \begin{GRAF}
- \begin{Regie}liest\end{Regie}  ... abgeschafft, um den sklavischen Tribut der
+ \begin{Regie}liest\end{Regie}  ... abgeschafft, um den sklavischen Tribut der 
 Gewalt durch die süße Pflicht der Hingabe zu ersetzen!
 \end{GRAF}
 
@@ -1640,13 +1640,13 @@ Vivat! Die Tugend unseres Herrn!
 \end{DIENER}
 
 \begin{GRAF}
-Es freut mich, daß meine Einstellung zu Fragen der
-Sitte und Moral so einstimmig gewürdigt wird.  \begin{Regie}Brüllt\end{Regie}
-Aber warum ausgerechnet jetzt und so heftig? He?
+Es freut mich, daß meine Einstellung zu Fragen der 
+Sitte und Moral so einstimmig gewürdigt wird.  \begin{Regie}Brüllt\end{Regie}  
+Aber warum ausgerechnet jetzt und so heftig? He? 	 
 \end{GRAF}
 
 \begin{BAZILLUS}
- \begin{Regie}reicht dem Grafen einen Zettel\end{Regie}
+ \begin{Regie}reicht dem Grafen einen Zettel\end{Regie} 
 \end{BAZILLUS}
 
 \begin{GRAF}
@@ -1654,8 +1654,8 @@ Aber warum ausgerechnet jetzt und so heftig? He?
 \end{GRAF}
 
 \begin{GREFIN}
-Graf Almaviva, durch Ihre weise Entscheidung
-wurde dieses Geschöpf  \begin{Regie}wendet sich zu Susanne\end{Regie}  vor
+Graf Almaviva, durch Ihre weise Entscheidung 
+wurde dieses Geschöpf  \begin{Regie}wendet sich zu Susanne\end{Regie}  vor 
 Schande bewahrt.
 \end{GREFIN}
 
@@ -1670,8 +1670,8 @@ Vivat! Die Tugend unseres Herrn!
 
 \begin{GREFIN}
 Durch Ihre sittenreiche Haltung wird dieses Mädchen
-seine Hochzeitsnacht mit dem Herrn ihres Herzens
-und nicht mit dem des Hauses verbringen. Kein Tribut
+seine Hochzeitsnacht mit dem Herrn ihres Herzens 
+und nicht mit dem des Hauses verbringen. Kein Tribut 
 der Gewalt, nur die süße Pflicht der Hingabe.
 
 
@@ -1689,15 +1689,15 @@ Ein Triumph der Tugend! Vivat!
 \end{GRAF}
 
 \begin{GREFIN}
-Ein würdiges Fest, wenn Sie, mein Gemahl, die
-Bitte dieser Leutchen erfüllen und der tugendsamen
-Braut den Schleier aufs jungfräuliche Haupt legen. Wie
-gut würde diese Handlung zu Ihrer reinen Gesinnung
+Ein würdiges Fest, wenn Sie, mein Gemahl, die 
+Bitte dieser Leutchen erfüllen und der tugendsamen 
+Braut den Schleier aufs jungfräuliche Haupt legen. Wie 
+gut würde diese Handlung zu Ihrer reinen Gesinnung 
 passen.
 \end{GREFIN}
 
 \begin{FIGARO}
- \begin{Regie}reicht dem Grafen den Schleier\end{Regie}
+ \begin{Regie}reicht dem Grafen den Schleier\end{Regie} 
 \end{FIGARO}
 
 \begin{DIENER}
@@ -1705,8 +1705,8 @@ Vivat! Die Reinheit unseres Herrn!
 \end{DIENER}
 
 \begin{SUSANNE}
-Könnt Ihr Euch, Herr Graf, einem Lobe entziehen,
-das Euch mehr als allen anderen gebührt? Euch,
+Könnt Ihr Euch, Herr Graf, einem Lobe entziehen, 
+das Euch mehr als allen anderen gebührt? Euch, 
 der Ihr so fleißig an die Tugend Eurer Mägde denkt...
 \end{SUSANNE}
 
@@ -1715,12 +1715,12 @@ Bei allen Puffmüttern des Himmels, was mach' ich nur?!
 \end{GRAF}
 
 \begin{FIGARO}
-Seht sie Euch an, Herr Graf. Macht nicht die
+Seht sie Euch an, Herr Graf. Macht nicht die 
 Schönheit dieses Mädchens Eure Geste doppelt wertvoll?
 \end{FIGARO}
 
 \begin{SUSANNE}
-Nicht von Äußerlichkeiten ist jetzt die Rede,
+Nicht von Äußerlichkeiten ist jetzt die Rede, 
 sondern von den inneren Werten des Herrn Grafen.
 \end{SUSANNE}
 
@@ -1729,11 +1729,11 @@ Vivat! Die Tugend unseres Herrn!
 \end{DIENER}
 
 \begin{GRAF}
-Bazillus, schnell, eine blitzartige Intrige.
+Bazillus, schnell, eine blitzartige Intrige. 
 \end{GRAF}
 
 \begin{BAZILLUS}
- \begin{Regie}reicht dem Grafen einen Zettel\end{Regie}
+ \begin{Regie}reicht dem Grafen einen Zettel\end{Regie} 
 \end{BAZILLUS}
 
 \begin{GRAF}
@@ -1749,13 +1749,13 @@ Was sagen Sie?
 \end{GRAF}
 
 \begin{GREFIN}
-Drum Ordnung lehrt euch Zeit gewinnen.
-Überreichen Sie der Braut den Schleier, damit die
-Hochzeit ihren Lauf nehmen kann. Besiegeln Sie den Bund.
+Drum Ordnung lehrt euch Zeit gewinnen. 
+Überreichen Sie der Braut den Schleier, damit die 
+Hochzeit ihren Lauf nehmen kann. Besiegeln Sie den Bund. 	 
 \end{GREFIN}
 
 \begin{FIGARO}
- \begin{Regie}Figaro drängt dem Grafen den Schleier auf.\end{Regie}
+ \begin{Regie}Figaro drängt dem Grafen den Schleier auf.\end{Regie} 
 \end{FIGARO}
 
 \begin{GRAF}
@@ -1780,9 +1780,9 @@ Ihr Wort genügt.
 
 
 \begin{GRAF}
-Hier ist nicht der richtige Ort für eine so feierliche
-Zeremonie. Auf! Auf! Das Gesinde soll sich putzen und
-die Räume schmücken. Dies ist kein gewöhnlicher Tag,
+Hier ist nicht der richtige Ort für eine so feierliche 
+Zeremonie. Auf! Auf! Das Gesinde soll sich putzen und 
+die Räume schmücken. Dies ist kein gewöhnlicher Tag, 
 vereint er doch zwei Liebende zu einem Bunde ...
 \end{GRAF}
 
@@ -1807,12 +1807,12 @@ Amen!
 \end{DIENER}
 
 \begin{GRAF}
- \begin{Regie}zu Bazillus\end{Regie}  Jetzt geht es hart auf heiß. Ich brauche
+ \begin{Regie}zu Bazillus\end{Regie}  Jetzt geht es hart auf heiß. Ich brauche 
 eine erstklassige ...
 \end{GRAF}
 
 \begin{BAZILLUS}
-Ich weiß. Prompte Lieferung. Ich eile.
+Ich weiß. Prompte Lieferung. Ich eile. 	 
 \end{BAZILLUS}
 
 \begin{Regie}
@@ -1824,7 +1824,7 @@ Bazillus ab. Graf und Gräfin ab.
 \end{FIGARO}
 
 \begin{SUSANNE}
-Wenn du die Ehe auch so klug betreibst wie unsere Hochzeit,
+Wenn du die Ehe auch so klug betreibst wie unsere Hochzeit, 
 sehe ich rosa für die Zukunft.
 \end{SUSANNE}
 
@@ -1833,26 +1833,26 @@ Wenn ich an die Zukunft mit dir denke, sehe ich alle Farben.
 \end{FIGARO}
 
 \begin{Regie}
-Figaro und Susanne ab. Cherubin kommt hinterm
+Figaro und Susanne ab. Cherubin kommt hinterm 
 Lehnstuhl hervor.
 \end{Regie}
 
 \begin{CHERUBIN}
-O heilige Mutter Gottes! Gesegnet sei dein
-jungfräulicher Busen! Mich hat der Graf vergessen.
+O heilige Mutter Gottes! Gesegnet sei dein 
+jungfräulicher Busen! Mich hat der Graf vergessen. 
 Was für eine Wohltat für mein unschuldiges Gemüt.
 \end{CHERUBIN}
 
 \begin{DIENER}
- \begin{Regie}von draußen, seine Stimme kommt näher\end{Regie}  Seine
-Exzellenz, der besonders wohlgeborene Graf von
-Almaviva, Herr über zweihundert Rinder und Mägde,
-Großcomptur von Kastilien und Katalonien, erster
-Inquisitionsrat, Hauptaktionär einer Galgenfabrik ...
+ \begin{Regie}von draußen, seine Stimme kommt näher\end{Regie}  Seine 
+Exzellenz, der besonders wohlgeborene Graf von 
+Almaviva, Herr über zweihundert Rinder und Mägde, 
+Großcomptur von Kastilien und Katalonien, erster 
+Inquisitionsrat, Hauptaktionär einer Galgenfabrik ... 	 
 \end{DIENER}
 
 \begin{CHERUBIN}
- \begin{Regie}verschwindet blitzschnell hinterm Lehnstuhl.\end{Regie}
+ \begin{Regie}verschwindet blitzschnell hinterm Lehnstuhl.\end{Regie} 
 \end{CHERUBIN}
 
 \begin{Regie}
@@ -1860,9 +1860,9 @@ Graf und Diener auf.
 \end{Regie}
 
 \begin{GRAF}
-Scheiße in aeternam! Verfluchtes Gesindel! Va nella
-figa della butana che te ha gagata. Endlich kann ich
-mich ausfluchen! Nicht genug, daß sie mein Brot
+Scheiße in aeternam! Verfluchtes Gesindel! Va nella 
+figa della butana che te ha gagata. Endlich kann ich 
+mich ausfluchen! Nicht genug, daß sie mein Brot 
 fressen, meine Teppiche zertrampeln, jetzt bringt man mich auch
 
 
@@ -1872,14 +1872,14 @@ fressen, meine Teppiche zertrampeln, jetzt bringt man mich auch
 
 
 \begin{GRAF}
-noch um mein Vergnügen. Diese Hochzeit wird
-verhindert. Jawohl, ich lasse verhindern.  \begin{Regie}zum Diener\end{Regie}
-He, du, wirf den Lehnstuhl um. Ich brauche ein
-sichtbares Zeichen meiner Erregung!
+noch um mein Vergnügen. Diese Hochzeit wird 
+verhindert. Jawohl, ich lasse verhindern.  \begin{Regie}zum Diener\end{Regie}  
+He, du, wirf den Lehnstuhl um. Ich brauche ein 
+sichtbares Zeichen meiner Erregung!	 
 \end{GRAF}
 
 \begin{Regie}
-Der Diener wirft den Lehnstuhl um. Cherubin kommt
+Der Diener wirft den Lehnstuhl um. Cherubin kommt 
 zum Vorschein.
 \end{Regie}
 
@@ -1902,6 +1902,9 @@ Eine ... dumme Gewohnheit, Herr Graf ...
 \begin{GRAF}
 Ich lasse dich auspeitschen!
 \end{GRAF}
+
+\TextTeilEnde
+\TextTeilAnfang
 
 \begin{CHERUBIN}
 Als ich das letztemal unter diesem Lehnstuhl...
@@ -1940,8 +1943,8 @@ Zu meinem Regiment...
 \end{CHERUBIN}
 
 \begin{GRAF}
-... als Leutnant! Du reist noch heute ab. Mein letztes
-Wort.  \begin{Regie}wendet sich zum Gehen\end{Regie}  Ein widerliches Pack!
+... als Leutnant! Du reist noch heute ab. Mein letztes 
+Wort.  \begin{Regie}wendet sich zum Gehen\end{Regie}  Ein widerliches Pack! 
 Scheiße in aeternam!
 \end{GRAF}
 
@@ -1950,7 +1953,7 @@ Seine Exzellenz der ...
 \end{DIENER}
 
 \begin{GRAF}
-Halt's Maul!
+Halt's Maul! 	 
 \end{GRAF}
 
 \begin{Regie}
@@ -1970,17 +1973,17 @@ Ein unflätiger Graf!
 \end{CHERUBIN}
 
 \begin{FIGARO}
-Figaro hier, Figaro dort. Ich habe alles mitgehört.
+Figaro hier, Figaro dort. Ich habe alles mitgehört. 
 Gratuliere zu deiner Beförderung.
 \end{FIGARO}
 
 \begin{CHERUBIN}
-Kein Ohrenschlecken und Hüftenlutschen
+Kein Ohrenschlecken und Hüftenlutschen 
 mehr. Ade, du holde Weiblichkeit!
 \end{CHERUBIN}
 
 \begin{FIGARO}
-Halt, Cherubin! Komm her, du plumper
+Halt, Cherubin! Komm her, du plumper 
 Damenfreund! Dich brauch ich noch in meinem Plan.
 
 
@@ -1990,13 +1993,13 @@ Damenfreund! Dich brauch ich noch in meinem Plan.
 
 
 \begin{CHERUBIN}
-Es hat sich ausgeplant. Statt einer heißen
-französischen Umarmung blüht mir die kalte Kugel eines
+Es hat sich ausgeplant. Statt einer heißen 
+französischen Umarmung blüht mir die kalte Kugel eines 
 Franzosen. Armer Cherubin!
 \end{CHERUBIN}
 
 \begin{FIGARO}
-Dummer Cherubin! So ein leichtfüßiger Kerl wie
+Dummer Cherubin! So ein leichtfüßiger Kerl wie 
 du soll ein Schweißfuß der Infanterie werden?
 \end{FIGARO}
 
@@ -2005,13 +2008,13 @@ Was soll ich in meinem Schmerze tun, Figaro?
 \end{CHERUBIN}
 
 \begin{FIGARO}
-Paß auf! Mit einer Heldenbrust stolzierst du beim
-Schloßtor hinaus, und auf leisen Zivilistensohlen
+Paß auf! Mit einer Heldenbrust stolzierst du beim 
+Schloßtor hinaus, und auf leisen Zivilistensohlen 
 schleichst du dich wieder herein.
 \end{FIGARO}
 
 \begin{CHERUBIN}
-Damit mich der Graf mit schweren Fußtritten
+Damit mich der Graf mit schweren Fußtritten 
 wieder hinausbefördert.
 \end{CHERUBIN}
 
@@ -2024,15 +2027,15 @@ Wie kann ich meinen Hintern deine Sache sein lassen?
 \end{CHERUBIN}
 
 \begin{FIGARO}
-Dein Hintern ist Sache von Blanchette, denn bei
-ihr wirst du dich verstecken. Ich werde gleich alles
+Dein Hintern ist Sache von Blanchette, denn bei 
+ihr wirst du dich verstecken. Ich werde gleich alles 
 vorbereiten.
 \end{FIGARO}
 
 \begin{CHERUBIN}
-Sei geküßt, Figaro. Du rettest mich vor dem
-sicheren Heldentum!
- \begin{Regie}küßt Figaro wild aufs ganze Gesicht\end{Regie}
+Sei geküßt, Figaro. Du rettest mich vor dem 
+sicheren Heldentum! 	 
+ \begin{Regie}küßt Figaro wild aufs ganze Gesicht\end{Regie} 
 \end{CHERUBIN}
 
 \begin{FIGARO}
@@ -2040,21 +2043,21 @@ Bei allen schwulen Teufeln, was soll das?
 \end{FIGARO}
 
 \begin{CHERUBIN}
- Bei allen guten Komödien, warum nicht?
-Kennst du nicht das Rezept aller Komödien? In der Komödie
-ist alles möglich, besonders das Gegenteil. Die
-Armen werden reich, die Reichen werden betrogen, die
-Unglücklichen werden glücklich, etcetera, etcetera. Und
-wer nichts anderes im Kopfe hat als das goldene
-Dreieck der Weiber, auch der treibt beizeiten ...
+ Bei allen guten Komödien, warum nicht? 
+Kennst du nicht das Rezept aller Komödien? In der Komödie 
+ist alles möglich, besonders das Gegenteil. Die 
+Armen werden reich, die Reichen werden betrogen, die 
+Unglücklichen werden glücklich, etcetera, etcetera. Und 
+wer nichts anderes im Kopfe hat als das goldene 
+Dreieck der Weiber, auch der treibt beizeiten ... 	 
  \begin{Regie}Cherubin küßt Figaro\end{Regie}  ... das Gegenteil!
 
 \end{CHERUBIN}
 
-\Einstellung{Lied Cherubin}
+\LangsameEinstellung{Lied Cherubin}
 
 \begin{Regie}
-Cherubin und der Diener singen ein
+Cherubin und der Diener singen ein 
 Lied. Den Refrain des Liedes singt Cherubin allein.
 \end{Regie}
 
@@ -2062,7 +2065,7 @@ Lied. Den Refrain des Liedes singt Cherubin allein.
 
 
 \begin{CHERUBIN}
- \begin{Regie}mit Diener\end{Regie}
+ \begin{Regie}mit Diener\end{Regie} 
 Wir ziehen nach Toledo,	 \\
 am Tage vor der Schlacht.	 \\
 Und unsre Mägen knurren,	 \\
@@ -2103,7 +2106,7 @@ es ist der Morgen der Schlacht.
 
 
 \begin{CHERUBIN}
- \begin{Regie}mit Diener\end{Regie}
+ \begin{Regie}mit Diener\end{Regie} 
 Eine Kugel zerreißt mir den Nacken, 	 \\
 der Rest wird von Schwertern vollbracht. 	 \\
 Ich fahre in den Himmel 	 \\
@@ -2114,7 +2117,7 @@ ich hab' nur an dich gedacht.
 
 \Einstellung{Dunkel}
 \Einstellung{Umbau mit Musik leise}
- \begin{Regie}Musik leise ab Titel 2\end{Regie}
+ \begin{Regie}Musik leise ab Titel 2\end{Regie} 
 
 \Seite{32}
 
@@ -2122,16 +2125,16 @@ ich hab' nur an dich gedacht.
 \begin{Regie}
 Zweiter Akt
 
-Das Zimmer der Gräfin. Schminktisch, Paravent usw. Susanne
+Das Zimmer der Gräfin. Schminktisch, Paravent usw. Susanne 
 hilft der Gräfin beim Anziehen.
 
-Musik aus!\end{Regie}
+Musik aus!\end{Regie} 
 \end{Regie}
 
 \Einstellung{Hell}
 
 \begin{GREFIN}
-Was sagst du nun, mein Mädchen? Der Graf hat
+Was sagst du nun, mein Mädchen? Der Graf hat 
 sein Wort gegeben. Die Hochzeit findet statt.
 \end{GREFIN}
 
@@ -2140,12 +2143,12 @@ Ihr kamt im richtigen Augenblick.
 \end{SUSANNE}
 
 \begin{GREFIN}
-Dein Figaro hat mir alles erzählt. Daß dir mein
+Dein Figaro hat mir alles erzählt. Daß dir mein 
 Mann nachstellt...
 \end{GREFIN}
 
 \begin{SUSANNE}
-... zuerst ließ er mir nur durch Bazillus zustellen.
+... zuerst ließ er mir nur durch Bazillus zustellen. 
 Dann kam er selbst und forderte ...
 \end{SUSANNE}
 
@@ -2166,11 +2169,11 @@ Aber seine Eifersucht.
 \end{SUSANNE}
 
 \begin{GREFIN}
-Ist nichts als Eitelkeit. Er liebt mich wie einen
-Gegenstand, wie seine goldenen Uhren. Zärtlichkeit für
-eine Uhr?  \begin{Regie}leise\end{Regie}  Ich verroste bei lebendigem Leib.
-Kein verstecktes Lächeln, kein verliebtes Flüstern holt
-mich zurück. Ich höre den Stundenschlag und bin allein
+Ist nichts als Eitelkeit. Er liebt mich wie einen 
+Gegenstand, wie seine goldenen Uhren. Zärtlichkeit für 
+eine Uhr?  \begin{Regie}leise\end{Regie}  Ich verroste bei lebendigem Leib. 
+Kein verstecktes Lächeln, kein verliebtes Flüstern holt 
+mich zurück. Ich höre den Stundenschlag und bin allein 
 mit seinem Echo.
 \end{GREFIN}
 
@@ -2179,7 +2182,7 @@ Glaubt Ihr, daß Figaro mich immer lieben wird?
 \end{SUSANNE}
 
 \begin{GREFIN}
-Ich glaube, daß die Männer die Liebe nicht verstehen.
+Ich glaube, daß die Männer die Liebe nicht verstehen. 
 \end{GREFIN}
 
 \begin{Regie}
@@ -2195,16 +2198,16 @@ Wie meinen Frau Gräfin?
 \end{SUSANNE}
 
 \begin{GREFIN}
- \begin{Regie}macht die Stimme Figaros nach\end{Regie}  Es hat geklopft!
+ \begin{Regie}macht die Stimme Figaros nach\end{Regie}  Es hat geklopft! 
  \begin{Regie}lachend\end{Regie}  Figaro steht vor der Tür.
 \end{GREFIN}
 
 \begin{SUSANNE}
-Figaro steht vor der Tür? Warum sagt er nichts?
+Figaro steht vor der Tür? Warum sagt er nichts? 
 \end{SUSANNE}
 
 \begin{Regie}
-Susanne eilt zur Tür und öffnet sie. Figaro tritt ein und
+Susanne eilt zur Tür und öffnet sie. Figaro tritt ein und 
 hält sich die Hand vor die Augen.
 \end{Regie}
 
@@ -2226,7 +2229,7 @@ Ich bin blind!
 \end{SUSANNE}
 
 \begin{FIGARO}
- \begin{Regie}nimmt die Hand von den Augen\end{Regie}  Bei Ihrer Schönheit,
+ \begin{Regie}nimmt die Hand von den Augen\end{Regie}  Bei Ihrer Schönheit, 
 meine Damen, wer könnte sie ohne Blendung überstehen!
 \end{FIGARO}
 
@@ -2243,24 +2246,24 @@ Wohin sonst mit aller Schwellung, wenn nicht in die Sprache?
 \end{FIGARO}
 
 \begin{GREFIN}
-Was gibt's Neues, Figaro?
+Was gibt's Neues, Figaro? 
 \end{GREFIN}
 
 \begin{FIGARO}
-Ich habe den Grafen belauscht.
+Ich habe den Grafen belauscht. 
 \end{FIGARO}
 
 \begin{SUSANNE}
-Das ist nicht neu.
+Das ist nicht neu. 
 \end{SUSANNE}
 
 \begin{FIGARO}
-Der Graf hat Cherubin zum Leutnant gemacht und
-in den Krieg geschickt.
+Der Graf hat Cherubin zum Leutnant gemacht und 
+in den Krieg geschickt. 
 \end{FIGARO}
 
 \begin{GREFIN}
-Das ist entsetzlich.
+Das ist entsetzlich. 
 \end{GREFIN}
 
 \begin{FIGARO}
@@ -2268,63 +2271,63 @@ Halb so schrecklich. Ich habe den Bengel im Schloß versteckt.
 \end{FIGARO}
 
 \begin{GREFIN}
-Das ist gefährlich. Du kennst den Zorn des Grafen.
+Das ist gefährlich. Du kennst den Zorn des Grafen. 
 \end{GREFIN}
 
 \begin{FIGARO}
-Halb so gefährlich. Ich habe dem Burschen eine
+Halb so gefährlich. Ich habe dem Burschen eine 
 Verkleidung ausgedacht, die den Grafen hoch erfreuen wird.
 \end{FIGARO}
 
 \begin{SUSANNE}
-Was meinst du damit, Figaro?
+Was meinst du damit, Figaro? 
 \end{SUSANNE}
 
 \begin{GREFIN}
-Du sprichst in Rätseln.
+Du sprichst in Rätseln. 
 \end{GREFIN}
 
 \begin{FIGARO}
-So hört die Lösung. Der Graf ist zornig und wird
-alles versuchen, die Hochzeit zu verhindern.
+So hört die Lösung. Der Graf ist zornig und wird 
+alles versuchen, die Hochzeit zu verhindern. 
 \end{FIGARO}
 
 \begin{GREFIN}
-Er hat seine Zustimmung gegeben.
+Er hat seine Zustimmung gegeben. 
 \end{GREFIN}
 
 \begin{FIGARO}
-Was er gibt, kann er auch wieder nehmen.
+Was er gibt, kann er auch wieder nehmen. 
 \end{FIGARO}
 
 \begin{SUSANNE}
-Was ihm nicht gelingen wird.
+Was ihm nicht gelingen wird. 
 \end{SUSANNE}
 
 \begin{FIGARO}
-Was ihm wohl gelingen könnte. Wir müssen ihn
-versöhnlich, milde machen, wie eine katalanische
-Katze. Schnurr!
+Was ihm wohl gelingen könnte. Wir müssen ihn 
+versöhnlich, milde machen, wie eine katalanische 
+Katze. Schnurr! 
 \end{FIGARO}
 
 \begin{GREFIN}
-Schnurr?
+Schnurr? 
 \end{GREFIN}
 
 \begin{SUSANNE}
-Schnurr?
+Schnurr? 
 \end{SUSANNE}
 
 \begin{FIGARO}
-Schnurr!
+Schnurr! 
 \end{FIGARO}
 
 \begin{SUSANNE}
-Du spinnst, Figaro!
+Du spinnst, Figaro! 
 \end{SUSANNE}
 
 \begin{FIGARO}
-Darf ich ausreden? Susanne wird sich dem Grafen
+Darf ich ausreden? Susanne wird sich dem Grafen 
 geneigt zeigen und ein Rendezvous vereinbaren.
 
 
@@ -2338,9 +2341,9 @@ Du bist verrückt, Figaro!
 \end{SUSANNE}
 
 \begin{FIGARO}
-Dein Entgegenkommen macht den Grafen milde
-und unsere Hochzeit sicher. Und in der Nacht im Park,
-wenn er mit gierigen Fingern nach meiner Gemahlin
+Dein Entgegenkommen macht den Grafen milde 
+und unsere Hochzeit sicher. Und in der Nacht im Park, 
+wenn er mit gierigen Fingern nach meiner Gemahlin 
 grabscht ...
 \end{FIGARO}
 
@@ -2357,7 +2360,7 @@ Du bist genial, Figaro!
 \end{SUSANNE}
 
 \begin{FIGARO}
-Wenn man mich ausreden läßt. Der Graf erhält
+Wenn man mich ausreden läßt. Der Graf erhält 
 den gerechten Lohn für seine Untreue ...
 \end{FIGARO}
 
@@ -2378,8 +2381,8 @@ Der Plan gefällt mir. Aber ist er nicht zu gefährlich?
 \end{GREFIN}
 
 \begin{FIGARO}
-Gefahr, Frau Gräfin, ist ein kleiner Preis für soviel
-Schönheit, oder wie die Deutschen etwas plumper
+Gefahr, Frau Gräfin, ist ein kleiner Preis für soviel 
+Schönheit, oder wie die Deutschen etwas plumper 
 sagen: Wer wagt, gewinnt!
 \end{FIGARO}
 
@@ -2392,10 +2395,10 @@ Dann gewinne, Figaro.
 \end{SUSANNE}
 
 \begin{FIGARO}
-Adieu. Ich schicke euch den Cherubin. Macht mit
-Kleidern und Schminke ein Mädchen aus ihm, daß dem
-Grafen der Mut in der Hose schwillt,
-daß seine Lüsternheit die Gipfel der Pyrenäen übersteigt,
+Adieu. Ich schicke euch den Cherubin. Macht mit 
+Kleidern und Schminke ein Mädchen aus ihm, daß dem 
+Grafen der Mut in der Hose schwillt, 
+daß seine Lüsternheit die Gipfel der Pyrenäen übersteigt, 
 daß seine Geilheit wie eine Silvesterrakete die Wurmlinger
 Kapelle übersteigt, daß ...
 \end{FIGARO}
@@ -2405,7 +2408,7 @@ Halt, Figaro, du befindest dich in Gesellschaft von Damen ...
 \end{SUSANNE}
 
 \begin{FIGARO}
-... die ich mit Wehmut verlasse!  \begin{Regie}ab\end{Regie}
+... die ich mit Wehmut verlasse!  \begin{Regie}ab\end{Regie} 
 \end{FIGARO}
 
 \begin{GREFIN}
@@ -2438,9 +2441,9 @@ Ach, Figaro.
 
 
 \begin{GREFIN}
-Ach, Cherubin. Schnell, Susanne, hilf mir beim
-Schminken. Hier fehlen noch zwei Locken. Sind meine
-Wangen nicht zu blaß? Meine Haare sind ganz durcheinander.
+Ach, Cherubin. Schnell, Susanne, hilf mir beim 
+Schminken. Hier fehlen noch zwei Locken. Sind meine 
+Wangen nicht zu blaß? Meine Haare sind ganz durcheinander. 	 
 \end{GREFIN}
 
 \begin{Regie}
@@ -2452,7 +2455,7 @@ So wie Ihr, Madame.
 \end{SUSANNE}
 
 \begin{GREFIN}
-Was willst du damit sagen?
+Was willst du damit sagen? 	 
 \end{GREFIN}
 
 \begin{Regie}
@@ -2460,11 +2463,11 @@ Es klopft.
 \end{Regie}
 
 \begin{SUSANNE}
-Die Antwort steht vor der Tür.
+Die Antwort steht vor der Tür. 	 
 \end{SUSANNE}
 
 \begin{Regie}
-Susanne öffnet die Tür. Cherubin tritt ein.
+Susanne öffnet die Tür. Cherubin tritt ein. 	 
 \end{Regie}
 
 \begin{SUSANNE}
@@ -2484,12 +2487,12 @@ Meine Ergebenheit, Frau Gräfin. Oh, ich bin blind!
 \end{CHERUBIN}
 
 \begin{SUSANNE}
-Bei Ihrer Schönheit, meine Dame, wer könnte
+Bei Ihrer Schönheit, meine Dame, wer könnte 
 sie ohne Blendung überstehen? Die Stelle ist schon vorgekommen.
 \end{SUSANNE}
 
 \begin{CHERUBIN}
- \begin{Regie}zur Gräfin\end{Regie}  Der Graf hat mich zum Krieger
+ \begin{Regie}zur Gräfin\end{Regie}  Der Graf hat mich zum Krieger 
 gemacht. Helft mir, schöne Dame.
 \end{CHERUBIN}
 
@@ -2506,7 +2509,7 @@ So viel, als daß Ihr mich erwartet.
 \end{CHERUBIN}
 
 \begin{GREFIN}
-Gut, Susanne, sperr die Tür ab.
+Gut, Susanne, sperr die Tür ab. 	 
 \end{GREFIN}
 
 \begin{Regie}
@@ -2542,7 +2545,7 @@ Eine Maskerade?
 \end{CHERUBIN}
 
 \begin{SUSANNE}
-Herr General sollen das hübscheste Mädchen
+Herr General sollen das hübscheste Mädchen 
 der Umgebung werden. Wie gefällt dir das?
 
 
@@ -2552,91 +2555,91 @@ der Umgebung werden. Wie gefällt dir das?
 
 
 \begin{CHERUBIN}
- \begin{Regie}nach kurzer Überlegung\end{Regie}  Lieber ein falsches
-Mädchen als ein echter Held.
+ \begin{Regie}nach kurzer Überlegung\end{Regie}  Lieber ein falsches 
+Mädchen als ein echter Held.	 
 \end{CHERUBIN}
 
 \begin{Regie}
-Susanne hat ihr Kleid ausgezogen, Cherubin seinen Rock.
+Susanne hat ihr Kleid ausgezogen, Cherubin seinen Rock. 
 \end{Regie}
 
 \begin{SUSANNE}
-Hände hoch, Herr Soldat! Niederknien!
+Hände hoch, Herr Soldat! Niederknien!	 
 \end{SUSANNE}
 
 \begin{Regie}
-Cherubin kniet nieder und hebt seine Arme. Susanne
-stülpt ihm ihr Kleid über den Kopf.
+Cherubin kniet nieder und hebt seine Arme. Susanne 
+stülpt ihm ihr Kleid über den Kopf. 
 \end{Regie}
 
 \begin{SUSANNE}
- \begin{Regie}zu Cherubin\end{Regie}  Nun, mein Fräulein, wie paßt die
+ \begin{Regie}zu Cherubin\end{Regie}  Nun, mein Fräulein, wie paßt die 
 neue Garderobe?
 \end{SUSANNE}
 
 \begin{CHERUBIN}
-Nicht schlecht, mein Fräulein. Die Schultern
-sind etwas zu eng, und die Brust ist ein bißchen flach.
-Haben die Damen zufällig einen Busen übrig?
+Nicht schlecht, mein Fräulein. Die Schultern 
+sind etwas zu eng, und die Brust ist ein bißchen flach. 
+Haben die Damen zufällig einen Busen übrig? 
 \end{CHERUBIN}
 
 \begin{SUSANNE}
-Mein Herr, benehmen Sie sich.
+Mein Herr, benehmen Sie sich. 
 \end{SUSANNE}
 
 \begin{CHERUBIN}
-Aber unter Damen ...
+Aber unter Damen ... 
 \end{CHERUBIN}
 
 \begin{SUSANNE}
-Die Rolle gefällt ihm. Um so besser.
+Die Rolle gefällt ihm. Um so besser. 
 \end{SUSANNE}
 
 \begin{CHERUBIN}
- \begin{Regie}übermütig, verbeugt sich vor Susanne\end{Regie}  Will der
-Herr ein Tänzchen wagen?
- \begin{Regie}Cherubin nimmt Susanne und macht mit ihr ein paar
-Tanzschritte\end{Regie}
+ \begin{Regie}übermütig, verbeugt sich vor Susanne\end{Regie}  Will der 
+Herr ein Tänzchen wagen?	 
+ \begin{Regie}Cherubin nimmt Susanne und macht mit ihr ein paar 
+Tanzschritte\end{Regie} 
 \end{CHERUBIN}
 
 \begin{SUSANNE}
-Was für eine zudringliche Frauensperson!
+Was für eine zudringliche Frauensperson! 
 \end{SUSANNE}
 
 \begin{CHERUBIN}
- \begin{Regie}zur Gräfin\end{Regie}  Finden Sie nicht, meine Liebe, dass
+ \begin{Regie}zur Gräfin\end{Regie}  Finden Sie nicht, meine Liebe, dass 
 ich in letzter Zeit blaß aussehe?
 \end{CHERUBIN}
 
 \begin{GREFIN}
-Ich finde, Sie sollten ausspannen, meine Liebe.
+Ich finde, Sie sollten ausspannen, meine Liebe. 
 \end{GREFIN}
 
 \begin{CHERUBIN}
-Sie haben recht, meine Liebe. Diese ständigen
-Liebschaften ermatten mich zusehends.  \begin{Regie}zu Susanne\end{Regie}
-Zofe, mein linkes Auge wirkt so ungünstig.
+Sie haben recht, meine Liebe. Diese ständigen 
+Liebschaften ermatten mich zusehends.  \begin{Regie}zu Susanne\end{Regie}  
+Zofe, mein linkes Auge wirkt so ungünstig. 
 \end{CHERUBIN}
 
 \begin{GREFIN}
-Los, Susanne, hol die Perücke.
+Los, Susanne, hol die Perücke.	 
 \end{GREFIN}
 
 \begin{Regie}
-Susanne holt die Perücke. Die Gräfin und Susanne
+Susanne holt die Perücke. Die Gräfin und Susanne 
 schminken Cherubin. Grimassen, Gelächter.
 \end{Regie}
 
 \begin{CHERUBIN}
-Etwas mehr Sinnlichkeit um den Mund, wenn ich bitten darf.
+Etwas mehr Sinnlichkeit um den Mund, wenn ich bitten darf.	 
 \end{CHERUBIN}
 
 \begin{Regie}
-Susanne setzt Cherubin die Perücke auf.
+Susanne setzt Cherubin die Perücke auf. 	 
 \end{Regie}
 
 \begin{CHERUBIN}
-Schon wieder Dauerwelle. Gibt's keine modernen Frisuren im Fundus?
+Schon wieder Dauerwelle. Gibt's keine modernen Frisuren im Fundus? 
 \end{CHERUBIN}
 
 \begin{SUSANNE}
@@ -2657,13 +2660,13 @@ Direkt zum Anbeißen.
 \end{SUSANNE}
 
 \begin{CHERUBIN}
-Sie stehen hier halb in Unterhosen und wagen
-es, einer Dame ...
+Sie stehen hier halb in Unterhosen und wagen 
+es, einer Dame ... 
 \end{CHERUBIN}
 
 \begin{SUSANNE}
-Blöder Kerl!  \begin{Regie}wendet sich zum Gehen\end{Regie}
-Ich ziehe mir nur schnell ein Kleid an. Ein Handkuß den Damen.	 \begin{Regie}ab\end{Regie}
+Blöder Kerl!  \begin{Regie}wendet sich zum Gehen\end{Regie} 
+Ich ziehe mir nur schnell ein Kleid an. Ein Handkuß den Damen.	 \begin{Regie}ab\end{Regie} 
 \end{SUSANNE}
 
 \begin{Regie}
@@ -2671,11 +2674,11 @@ Die Gräfin und Cherubin sehen sich verlegen an.	Pause.
 \end{Regie}
 
 \begin{GREFIN}
-Nun, junger Mann?
+Nun, junger Mann? 
 \end{GREFIN}
 
 \begin{CHERUBIN}
-Ja, schöne Dame?
+Ja, schöne Dame?	 
 \end{CHERUBIN}
 
 \begin{Regie}
@@ -2683,7 +2686,7 @@ Pause.
 \end{Regie}
 
 \begin{GREFIN}
-Wie geht's zu Hause?
+Wie geht's zu Hause? 
 \end{GREFIN}
 
 \begin{CHERUBIN}
@@ -2691,7 +2694,7 @@ Ich bin Waise.
 \end{CHERUBIN}
 
 \begin{GREFIN}
-Ach So.
+Ach So.	 
 \end{GREFIN}
 
 \begin{Regie}
@@ -2699,23 +2702,23 @@ Pause.
 \end{Regie}
 
 \begin{CHERUBIN}
-Frau Gräfin?
+Frau Gräfin? 
 \end{CHERUBIN}
 
 \begin{GREFIN}
-Ja, Cherubin?
+Ja, Cherubin? 
 \end{GREFIN}
 
 \begin{CHERUBIN}
-Sind Sie auch verwaist?
+Sind Sie auch verwaist? 
 \end{CHERUBIN}
 
 \begin{GREFIN}
-Ich bin einsam!
+Ich bin einsam! 
 \end{GREFIN}
 
 \begin{CHERUBIN}
-Bekommen Sie wenig Besuch?
+Bekommen Sie wenig Besuch?	 
 \end{CHERUBIN}
 
 \begin{Regie}
@@ -2723,7 +2726,7 @@ Pause.
 \end{Regie}
 
 \begin{GREFIN}
-Was denken die einfachen Leute über mich?
+Was denken die einfachen Leute über mich? 
 \end{GREFIN}
 
 \begin{CHERUBIN}
@@ -2784,16 +2787,16 @@ Die von den Bauern.
 \end{GREFIN}
 
 \begin{CHERUBIN}
-Ich mag die Bauern, und ich mag die Oliven.
+Ich mag die Bauern, und ich mag die Oliven. 
 Ich ziehe oft über die Felder.
 \end{CHERUBIN}
 
 \begin{GREFIN}
-Tanzen die Burschen noch immer nach der Ernte?
+Tanzen die Burschen noch immer nach der Ernte? 
 \end{GREFIN}
 
 \begin{CHERUBIN}
-Sie tanzen, bis die Mädchen umfallen.
+Sie tanzen, bis die Mädchen umfallen.	 
 \end{CHERUBIN}
 
 \begin{Regie}
@@ -2801,94 +2804,94 @@ Pause.
 \end{Regie}
 
 \begin{CHERUBIN}
-Frau Gräfin?
+Frau Gräfin? 
 \end{CHERUBIN}
 
 \begin{GREFIN}
-Ja, Cherubin?
+Ja, Cherubin? 
 \end{GREFIN}
 
 \begin{CHERUBIN}
-Ich bin ein Diener.
+Ich bin ein Diener. 
 \end{CHERUBIN}
 
 \begin{GREFIN}
-Ja, Cherubin?
+Ja, Cherubin? 
 \end{GREFIN}
 
 \begin{CHERUBIN}
-Ich bin ein junger Mensch.
+Ich bin ein junger Mensch. 
 \end{CHERUBIN}
 
 \begin{GREFIN}
-Ja, Cherubin?
+Ja, Cherubin? 
 \end{GREFIN}
 
 \begin{CHERUBIN}
-Ich bin ein junger Mann.
+Ich bin ein junger Mann. 
 \end{CHERUBIN}
 
 \begin{GREFIN}
-Ja, Cherubin?
+Ja, Cherubin? 
 \end{GREFIN}
 
 \begin{CHERUBIN}
-Sie sind so weit entfernt.
+Sie sind so weit entfernt. 
 \end{CHERUBIN}
 
 \begin{GREFIN}
-Ja, Cherubin.
+Ja, Cherubin. 
 \end{GREFIN}
 
 \begin{CHERUBIN}
-Kann man mit drei Schritten alles überspringen?
+Kann man mit drei Schritten alles überspringen?	 
 \end{CHERUBIN}
 
 \begin{Regie}
-Es klopft.
-Die Gräfin und Cherubin schauen sich ängstlich an.
+Es klopft.	 
+Die Gräfin und Cherubin schauen sich ängstlich an. 
 Stille.
 \end{Regie}
 
 \begin{GRAF}
- \begin{Regie}von draußen\end{Regie}  Warum ist hier abgesperrt?!
+ \begin{Regie}von draußen\end{Regie}  Warum ist hier abgesperrt?! 
 \end{GRAF}
 
 \begin{GREFIN}
-O Gott, der Graf!
+O Gott, der Graf! 
 \end{GREFIN}
 
 \begin{CHERUBIN}
-Der Graf? O Gott!
+Der Graf? O Gott! 
 \end{CHERUBIN}
 
 \begin{GRAF}
- \begin{Regie}von draußen\end{Regie}  Öffnen Sie sofort die Tür, Madame!
-Warum sperren Sie sich ein?
+ \begin{Regie}von draußen\end{Regie}  Öffnen Sie sofort die Tür, Madame! 
+Warum sperren Sie sich ein? 
 \end{GRAF}
 
 \begin{GREFIN}
-Weil, weil ich allein bin.  \begin{Regie}Zu Cherubin\end{Regie}  Schnell in
-meine Garderobe!
+Weil, weil ich allein bin.  \begin{Regie}Zu Cherubin\end{Regie}  Schnell in 
+meine Garderobe! 
 \end{GREFIN}
 
 \begin{GRAF}
- \begin{Regie}von draußen\end{Regie}  Weil Sie allein sind? Ich höre Sie doch sprechen!
+ \begin{Regie}von draußen\end{Regie}  Weil Sie allein sind? Ich höre Sie doch sprechen! 
 \end{GRAF}
 
 \begin{GREFIN}
-Ich spreche? Natürlich, mit Ihnen.
+Ich spreche? Natürlich, mit Ihnen.	 
 \end{GREFIN}
 
 \begin{Regie}
-Cherubin verschwindet in die Garderobe. Die Gräfin
+Cherubin verschwindet in die Garderobe. Die Gräfin 
 öffnet die Tür. Der Graf stürzt herein
 \end{Regie}
 
 \Einstellung{Voll Hell}
 
 \begin{GRAF}
-Wo ist er?
+Wo ist er? 
 \end{GRAF}
 
 \begin{GREFIN}
@@ -2913,9 +2916,9 @@ Wollen Sie mir eine Kuh für einen Stier vormachen?
 \end{GRAF}
 
 \begin{GREFIN}
-Sie sehen rot, Herr Graf, zu Unrecht. Ich habe mit
-Susanne Kleider für die Hochzeit probiert, und als sie
-Ihre männliche Stimme vernahm, verschwand sie
+Sie sehen rot, Herr Graf, zu Unrecht. Ich habe mit 
+Susanne Kleider für die Hochzeit probiert, und als sie 
+Ihre männliche Stimme vernahm, verschwand sie 
 schnell in meiner Garderobe.
 \end{GREFIN}
 
@@ -2936,12 +2939,12 @@ Meine Kleider? Interessieren Sie sich für Damenmode?
 \end{GREFIN}
 
 \begin{GRAF}
-Machen Sie mich nicht rasend, Gräfin! Susanne,
+Machen Sie mich nicht rasend, Gräfin! Susanne, 
 komm sofort heraus!
 \end{GRAF}
 
 \begin{GREFIN}
-Halt, Herr Graf! Susanne ist gerade beim Umziehen.
+Halt, Herr Graf! Susanne ist gerade beim Umziehen. 
 Sie wird halb nackt sein.
 \end{GREFIN}
 
@@ -2950,22 +2953,22 @@ Ich will sie sofort sehen!
 \end{GRAF}
 
 \begin{GREFIN}
-Das halbnackte Mädchen? Ein verdächtiges Interesse
+Das halbnackte Mädchen? Ein verdächtiges Interesse 
 für meine Zofe, Herr Graf.
 \end{GREFIN}
 
 \begin{GRAF}
-Es geht um die Ehre eines Grafen. Wollen Sie bitte
+Es geht um die Ehre eines Grafen. Wollen Sie bitte 
 die Dienstboten ausklammern?
 \end{GRAF}
 
 \begin{GREFIN}
-Es geht um die Ehre einer Gräfin. Wollen Sie
+Es geht um die Ehre einer Gräfin. Wollen Sie 
 bitte Ihre Nachstellungen einstellen?
 \end{GREFIN}
 
 \begin{GRAF}
-Nun gut, wenn das Mädchen auch nackt ist, so kann
+Nun gut, wenn das Mädchen auch nackt ist, so kann 
 es doch reden. Susanne, bist du in der Garderobe?
 \end{GRAF}
 
@@ -2986,8 +2989,8 @@ Das wird sich zeigen.
 \end{GREFIN}
 
 \begin{GRAF}
-Ich lasse die Tür mit Gewalt aufbrechen. Wollen Sie
-die Güte haben, mich zu begleiten? Ich werde Ihr
+Ich lasse die Tür mit Gewalt aufbrechen. Wollen Sie 
+die Güte haben, mich zu begleiten? Ich werde Ihr 
 Zimmer von außen absperren. Alles bleibt, wo es ist!
 \end{GRAF}
 
@@ -2996,7 +2999,7 @@ Sie gehen zu weit, Graf!
 \end{GREFIN}
 
 \begin{GRAF}
-Sie gehen mit, Gräfin.
+Sie gehen mit, Gräfin.	 
 \end{GRAF}
 
 \begin{Regie}
@@ -3006,7 +3009,7 @@ Graf und Gräfin ab. Susanne kommt aus ihrem Zimmer.
 \Einstellung{Hell}
 
 \begin{SUSANNE}
-Bei allen Brennesseln der Sierra! Mußte der
+Bei allen Brennesseln der Sierra! Mußte der 
 
 
 \end{SUSANNE}
@@ -3015,56 +3018,56 @@ Bei allen Brennesseln der Sierra! Mußte der
 
 
 \begin{SUSANNE}
-Graf ausgerechnet jetzt kommen? Das ist eine dumme Geschichte.
+Graf ausgerechnet jetzt kommen? Das ist eine dumme Geschichte.	 
 \end{SUSANNE}
 
 \begin{CHERUBIN}
- \begin{Regie}wankt zitternd aus der Garderobe\end{Regie}
-Das überleb' ich nicht. Nein, das überleb' ich
-nicht. Wenn der Graf mich noch einmal erwischt, ende
-ich frühzeitig. Ich scheide aus dieser Komödie!
+ \begin{Regie}wankt zitternd aus der Garderobe\end{Regie}  
+Das überleb' ich nicht. Nein, das überleb' ich 
+nicht. Wenn der Graf mich noch einmal erwischt, ende 
+ich frühzeitig. Ich scheide aus dieser Komödie! 
 \end{CHERUBIN}
 
 \begin{SUSANNE}
-Du mußt verschwinden, Cherubin.
+Du mußt verschwinden, Cherubin. 
 \end{SUSANNE}
 
 \begin{CHERUBIN}
-Wohin, Susanne? Den Trick mit dem Lehnstuhl
-kennt der Graf schon. Hinter den Vorhängen hat er
-mich auch schon erwischt. In der Garderobe darf er
-mich nicht finden. Ha! Ich hab's! Ein Sprung aus dem Fenster!
+Wohin, Susanne? Den Trick mit dem Lehnstuhl 
+kennt der Graf schon. Hinter den Vorhängen hat er 
+mich auch schon erwischt. In der Garderobe darf er 
+mich nicht finden. Ha! Ich hab's! Ein Sprung aus dem Fenster! 
 \end{CHERUBIN}
 
 \begin{SUSANNE}
-Das ist zu gefährlich, Cherubin.
+Das ist zu gefährlich, Cherubin. 
 \end{SUSANNE}
 
 \begin{CHERUBIN}
- \begin{Regie}stellt sich ans Fensterkreuz, etwas pathetisch\end{Regie}
-Ein bißchen Gefahr, Susanne, ist ein kleiner Preis für
+ \begin{Regie}stellt sich ans Fensterkreuz, etwas pathetisch\end{Regie}  
+Ein bißchen Gefahr, Susanne, ist ein kleiner Preis für 
 ein gewonnenes Leben.
 \end{CHERUBIN}
 
 \begin{SUSANNE}
-Du kannst dir den Hals brechen, Cherubin.
+Du kannst dir den Hals brechen, Cherubin. 
 \end{SUSANNE}
 
 \begin{CHERUBIN}
- \begin{Regie}geht zu Susanne, beinahe sachlich\end{Regie}  Sollte es
-tatsächlich ein Sprung in die Ewigkeit werden, so
-brauch' ich vorher eine kleine Wegzehrung.
- \begin{Regie}Er küßt Susanne innig und geht wieder ans Fenster.\end{Regie}
+ \begin{Regie}geht zu Susanne, beinahe sachlich\end{Regie}  Sollte es 
+tatsächlich ein Sprung in die Ewigkeit werden, so 
+brauch' ich vorher eine kleine Wegzehrung. 	 
+ \begin{Regie}Er küßt Susanne innig und geht wieder ans Fenster.\end{Regie} 
 Sag der Frau Gräfin ...
 \end{CHERUBIN}
 
 \begin{DIENER}
- \begin{Regie}von draußen, seine Stimme kommt näher\end{Regie}  Seine
-Exzellenz, der besonders wohlgeborene Graf von Almaviva ...
+ \begin{Regie}von draußen, seine Stimme kommt näher\end{Regie}  Seine 
+Exzellenz, der besonders wohlgeborene Graf von Almaviva ...	 
 \end{DIENER}
 
 \begin{Regie}
-Cherubin springt. Susanne stürzt zum Fenster.
+Cherubin springt. Susanne stürzt zum Fenster. 
 \end{Regie}
 
 \SchnelleEinstellung{Schnell Gang}
@@ -3074,18 +3077,18 @@ Cherubin verschwindet hinter der Bühne.
 \end{Regie}
 
 \begin{SUSANNE}
-Er hat's geschafft.
+Er hat's geschafft. 
 \end{SUSANNE}
 
-\Einstellung{Es wird langsam hell}
+\LangsameEinstellung{Es wird langsam hell}
 
 \begin{SUSANNE}
-So ein mutiger Kerl. Herr Graf,
-jetzt können Sie die Garderobe stürmen!
+So ein mutiger Kerl. Herr Graf, 
+jetzt können Sie die Garderobe stürmen! 	 
 \end{SUSANNE}
 
 \begin{Regie}
-Susanne verschwindet in der Garderobe. Der Diener,
+Susanne verschwindet in der Garderobe. Der Diener, 
 Graf und Gräfin treten auf.
 \end{Regie}
 
@@ -3109,7 +3112,7 @@ Sie bleiben also bei Ihrer Zumutung, mit Gewalt einzudringen?
 
 
 \begin{GRAF}
- \begin{Regie}zum Diener\end{Regie}  Vorwärts, Brecheisen. Tritt die Tür ein.
+ \begin{Regie}zum Diener\end{Regie}  Vorwärts, Brecheisen. Tritt die Tür ein. 
 \end{GRAF}
 
 \begin{Regie}
@@ -3121,7 +3124,7 @@ Seine Exzellenz, der besonders wohlgeborene Graf...
 \end{DIENER}
 
 \begin{GREFIN}
-Halt, Herr Graf. Hinter dieser Tür befindet sich
+Halt, Herr Graf. Hinter dieser Tür befindet sich 
 Susanne. So glauben Sie mir doch.
 \end{GREFIN}
 
@@ -3158,12 +3161,12 @@ So, so. Breite Schultern.
 \end{GREFIN}
 
 \begin{GRAF}
-So, so. Tiefe Stimme. Das ist die Beschreibung eines
+So, so. Tiefe Stimme. Das ist die Beschreibung eines 
 Mannes, Madame. Vorwärts, Brecheisen.
 \end{GRAF}
 
 \begin{GREFIN}
-Halt. Dieser Mann ist eine Frau. Ich meine, diese
+Halt. Dieser Mann ist eine Frau. Ich meine, diese 
 Frau ist ein Mann.
 \end{GREFIN}
 
@@ -3176,13 +3179,13 @@ Schonen Sie ihn! Er ist unschuldig!
 \end{GREFIN}
 
 \begin{GRAF}
-Also doch! Vorwärts, Brecheisen!
+Also doch! Vorwärts, Brecheisen!	 
 \end{GRAF}
 
 \begin{Regie}
-Der Diener läuft - mit dem Kopf voran - gegen die Tapetentür.
-Susanne öffnet sie von innen. Der Diener läuft
-durch und kracht gegen einen Kasten in der Garderobe.
+Der Diener läuft - mit dem Kopf voran - gegen die Tapetentür. 
+Susanne öffnet sie von innen. Der Diener läuft 
+durch und kracht gegen einen Kasten in der Garderobe. 
 Stille. Der Diener wankt aus der Garderobe.
 \end{Regie}
 
@@ -3191,17 +3194,17 @@ Nun? Wer ist im Zimmer?!
 \end{GRAF}
 
 \begin{DIENER}
- \begin{Regie}wie betrunken\end{Regie}  Seine Exzellenz, der besonders
-wohlgeborene Graf von Almaviva, Herr über ...
- \begin{Regie}Der Diener fällt um und torkelt ab.\end{Regie}
+ \begin{Regie}wie betrunken\end{Regie}  Seine Exzellenz, der besonders 
+wohlgeborene Graf von Almaviva, Herr über ... 	 
+ \begin{Regie}Der Diener fällt um und torkelt ab.\end{Regie} 
 \end{DIENER}
 
 \begin{GRAF}
-Trottel!
+Trottel!	 
 \end{GRAF}
 
 \begin{SUSANNE}
- \begin{Regie}kommt trällernd aus der Garderobe\end{Regie}
+ \begin{Regie}kommt trällernd aus der Garderobe\end{Regie}  	 
 \end{SUSANNE}
 
 \begin{GRAF}
@@ -3218,8 +3221,8 @@ Susanne?
 \end{GREFIN}
 
 \begin{SUSANNE}
- \begin{Regie}mit einem Blick auf den Diener\end{Regie}  Mit Verlaub,
-Herr Graf, aber Ihr solltet Eure Diener etwas
+ \begin{Regie}mit einem Blick auf den Diener\end{Regie}  Mit Verlaub, 
+Herr Graf, aber Ihr solltet Eure Diener etwas 
 vorsichtiger durch die Gegend werfen.
 \end{SUSANNE}
 
@@ -3228,16 +3231,16 @@ vorsichtiger durch die Gegend werfen.
 \end{GRAF}
 
 \begin{SUSANNE}
- \begin{Regie}zur Gräfin, leise\end{Regie}  Keine Angst, Frau Gräfin,
+ \begin{Regie}zur Gräfin, leise\end{Regie}  Keine Angst, Frau Gräfin, 
 Cherubin ist aus dem Fenster gesprungen.
 \end{SUSANNE}
 
 \begin{GREFIN}
-Ave Maria, ich danke dir. Mir fällt ein Diamant vom Hals.
+Ave Maria, ich danke dir. Mir fällt ein Diamant vom Hals. 	 
 \end{GREFIN}
 
 \begin{GRAF}
- \begin{Regie}Der Graf kommt aus der Garderobe.\end{Regie}
+ \begin{Regie}Der Graf kommt aus der Garderobe.\end{Regie} 
 Nichts! Nichts als Mode!  \begin{Regie}Zur Gräfin\end{Regie}  Aber Sie selbst sagten doch ...
 \end{GRAF}
 
@@ -3246,17 +3249,17 @@ Nichts! Nichts als Mode!  \begin{Regie}Zur Gräfin\end{Regie}  Aber Sie selbst s
 \end{GREFIN}
 
 \begin{GRAF}
-Ihre Weigerung, die Tür zu öffnen ... die männliche
+Ihre Weigerung, die Tür zu öffnen ... die männliche 
 Stimme ... die breiten Schultern ... ich hatte Grund zur Annahme ...
 \end{GRAF}
 
 \begin{GREFIN}
-Sie haben Grund, sich zu entschuldigen. Aber ich
+Sie haben Grund, sich zu entschuldigen. Aber ich 
 werde diese Entschuldigung nicht annehmen.
 \end{GREFIN}
 
 \begin{GRAF}
-Madame, ich bitte Sie. Machen Sie keinen Skandal.
+Madame, ich bitte Sie. Machen Sie keinen Skandal. 
 Die Sache ist mir selbst sehr peinlich.
 \end{GRAF}
 
@@ -3269,7 +3272,7 @@ Es tut mir leid.
 \end{GRAF}
 
 \begin{GREFIN}
-Wie leid, Herr Graf? Werden Sie in Zukunft
+Wie leid, Herr Graf? Werden Sie in Zukunft 
 weniger an Ihre Eitelkeit und mehr an mich denken?
 \end{GREFIN}
 
@@ -3278,12 +3281,12 @@ Habe ich jemals meine Pflicht...
 \end{GRAF}
 
 \begin{GREFIN}
-Von Ihrer Neigung rede ich und nicht von Ihrer
+Von Ihrer Neigung rede ich und nicht von Ihrer 
 Pflicht, mein Gemahl.
 \end{GREFIN}
 
 \begin{GRAF}
-Müssen Sie ausgerechnet jetzt solche privaten ...
+Müssen Sie ausgerechnet jetzt solche privaten ... 	 
 \end{GRAF}
 
 \begin{Regie}
@@ -3291,7 +3294,7 @@ Es klopft.
 \end{Regie}
 
 \begin{FIGARO}
- \begin{Regie}von draußen\end{Regie}  Ist alles vorbereitet, meine Damen?
+ \begin{Regie}von draußen\end{Regie}  Ist alles vorbereitet, meine Damen?  
 \end{FIGARO}
 
 \begin{Regie}
@@ -3303,8 +3306,8 @@ Was soll vorbereitet sein?
 \end{GRAF}
 
 \begin{FIGARO}
-Oh, was muß nicht alles vorbereitet werden für
-eine Hochzeit? Die Kleidchen und Maidchen, die Grübchen
+Oh, was muß nicht alles vorbereitet werden für 
+eine Hochzeit? Die Kleidchen und Maidchen, die Grübchen 
 und Zübchen, die Bänder und Fänder ...
 
 
@@ -3318,10 +3321,10 @@ Schwätzer! Was hast du in diesem Zimmer zu suchen?
 \end{GRAF}
 
 \begin{FIGARO}
-Oh, was sollte ein Bräutigam am Tage seiner
-Hochzeit anderes suchen als seine Braut? Susanne geht
-in jenes Zimmer, tandaradei, ich hinterher. Susanne
-geht in dieses Gemach, tandaradei, ich nach. Das
+Oh, was sollte ein Bräutigam am Tage seiner 
+Hochzeit anderes suchen als seine Braut? Susanne geht 
+in jenes Zimmer, tandaradei, ich hinterher. Susanne 
+geht in dieses Gemach, tandaradei, ich nach. Das 
 Glück, Herr Graf, hat mich ganz tandaradei gemacht.
 \end{FIGARO}
 
@@ -3330,14 +3333,14 @@ Schwätzer!
 \end{GRAF}
 
 \begin{GREFIN}
-Der Arme ist ganz durcheinander, mein Gemahl.
-Eröffnen Sie endlich die Zeremonie. Die Hochzeit soll
+Der Arme ist ganz durcheinander, mein Gemahl. 
+Eröffnen Sie endlich die Zeremonie. Die Hochzeit soll 
 ihren Lauf nehmen.
 \end{GREFIN}
 
 \begin{GRAF}
-Ich verfüge ...  \begin{Regie}für sich\end{Regie}  ... Zeit gewinnen, Marcelline
-muß jeden Moment hier sein ... ich verfüge ...
+Ich verfüge ...  \begin{Regie}für sich\end{Regie}  ... Zeit gewinnen, Marcelline 
+muß jeden Moment hier sein ... ich verfüge ... 	 
 \end{GRAF}
 
 \begin{Regie}
@@ -3362,13 +3365,13 @@ Der Kerl ist von Sinnen!
 \end{GRAF}
 
 \begin{ANTONIO}
-Antonio, mein Beruf. Gärtner, mein Name. Von
-hinnen und doch nicht von Sinnen. Prost, Frau Gräfin,
+Antonio, mein Beruf. Gärtner, mein Name. Von 
+hinnen und doch nicht von Sinnen. Prost, Frau Gräfin, 
 Prostata, Herr Graf.
 \end{ANTONIO}
 
 \begin{GRAF}
-Abführen!
+Abführen!	 
 \end{GRAF}
 
 \begin{ANTONIO}
@@ -3385,9 +3388,9 @@ So was ist mir noch nicht vorgekommen!
 
 
 \begin{ANTONIO}
-Nichttrinker, was? Die Diener zum Fenster
-hinauswerfen, aber den Alkohol meiden, das hat man gerne.
-Ich sage immer, Antonio sage ich, du sollst Grafen
+Nichttrinker, was? Die Diener zum Fenster 
+hinauswerfen, aber den Alkohol meiden, das hat man gerne. 
+Ich sage immer, Antonio sage ich, du sollst Grafen 
 und Mütter ehren ...
 \end{ANTONIO}
 
@@ -3396,8 +3399,8 @@ Schluß, sage ich!
 \end{GRAF}
 
 \begin{ANTONIO}
-Jawohl, Schluß!  \begin{Regie}Geht zum Fenster.\end{Regie}  Wenn der
-Kerl ins Unkraut gefallen wäre, bitte, aber sechzehn
+Jawohl, Schluß!  \begin{Regie}Geht zum Fenster.\end{Regie}  Wenn der 
+Kerl ins Unkraut gefallen wäre, bitte, aber sechzehn 
 junge unschuldige Tulpen mit einem Schlag ... platsch, ausgelöscht!
 \end{ANTONIO}
 
@@ -3406,7 +3409,7 @@ Was redet der Trunkenbold?!
 \end{GRAF}
 
 \begin{ANTONIO}
-Du kaltes Herz, fühlst du nicht des Gärtners
+Du kaltes Herz, fühlst du nicht des Gärtners 
 Schmerz? Was für eine eiskalte Einstellung zum Grünzeug! O Mensch, o Graf!
 \end{ANTONIO}
 
@@ -3415,27 +3418,27 @@ Hinaus!
 \end{GRAF}
 
 \begin{ANTONIO}
-Demnächst! Gestatten Sie, daß ich vorher noch
-einen letzten tragischen Blick auf die jungen Leichen werfe?
+Demnächst! Gestatten Sie, daß ich vorher noch 
+einen letzten tragischen Blick auf die jungen Leichen werfe? 	 
 \end{ANTONIO}
 
 \begin{GRAF}
- \begin{Regie}Der Graf läuft zum Fenster und schaut in den Garten.\end{Regie}
+ \begin{Regie}Der Graf läuft zum Fenster und schaut in den Garten.\end{Regie} 
 Wer hat die Blumen unter diesem Fenster zerstört?
 \end{GRAF}
 
 \begin{ANTONIO}
-Jetzt fragst du doch, warum mein Herz sich
+Jetzt fragst du doch, warum mein Herz sich 
 bang in meinem Busen klemmt? Erschüttert, was?
 \end{ANTONIO}
 
 \begin{GRAF}
-Aus dem ist nichts rauszubringen.  \begin{Regie}Zu Susanne\end{Regie}  Was
+Aus dem ist nichts rauszubringen.  \begin{Regie}Zu Susanne\end{Regie}  Was 
 ist hier hinuntergefallen, Susanne?
 \end{GRAF}
 
 \begin{ANTONIO}
-Ich bin zuständig. Es war eine Dame in Frauenkleidern ...
+Ich bin zuständig. Es war eine Dame in Frauenkleidern ... 
 vielmehr ein Herr in Damenkleidern ... vielmehr ...
 \end{ANTONIO}
 
@@ -3444,7 +3447,7 @@ Jetzt wird's brenzlig.
 \end{SUSANNE}
 
 \begin{FIGARO}
-Glaubt kein Wort, Herr Graf.  \begin{Regie}Zu Antonio\end{Regie}
+Glaubt kein Wort, Herr Graf.  \begin{Regie}Zu Antonio\end{Regie} 
 Antonio, wieviel ist drei mal drei?
 \end{FIGARO}
 
@@ -3502,10 +3505,10 @@ Ja. Schrecklich, was?
 \end{FIGARO}
 
 \begin{ANTONIO}
-Halt! Ein Geier mit Perücke? Wohl besoffen,
-Herr Figaro? Hier, geben Sie Ihrem Geier seine Haare wieder.
- \begin{Regie}er gibt Figaro die Perücke\end{Regie}
-Und sagen Sie dem Vogel einen schönen Gruß, und
+Halt! Ein Geier mit Perücke? Wohl besoffen, 
+Herr Figaro? Hier, geben Sie Ihrem Geier seine Haare wieder. 	 
+ \begin{Regie}er gibt Figaro die Perücke\end{Regie}  	 
+Und sagen Sie dem Vogel einen schönen Gruß, und 
 wenn er noch einmal...
 \end{ANTONIO}
 
@@ -3514,8 +3517,8 @@ Wem gehört diese Perücke?
 \end{GRAF}
 
 \begin{GREFIN}
-Sie gehört mir, mein Gemahl. Die Sache ist
-schnell aufgeklärt. Ich war ihrer überdrüssig und warf
+Sie gehört mir, mein Gemahl. Die Sache ist 
+schnell aufgeklärt. Ich war ihrer überdrüssig und warf 
 sie zum Fenster hinaus.
 \end{GREFIN}
 
@@ -3528,7 +3531,7 @@ Aber ein betrunkener Gärtner, Herr Graf.
 \end{FIGARO}
 
 \begin{ANTONIO}
-Ich verbitte mir diese Anspielungen auf meine
+Ich verbitte mir diese Anspielungen auf meine 
 unschuldige Person. Skandalös!
 \end{ANTONIO}
 
@@ -3537,9 +3540,9 @@ Was willst du damit sagen, Figaro?
 \end{GRAF}
 
 \begin{FIGARO}
-Daß alles logisch ist, Herr Graf. Die Frau Gräfin
-hat die Perücke in den Garten geworfen, der Gärtner hat
-sie dort gefunden. In seiner Trunkenheit hat er dabei die
+Daß alles logisch ist, Herr Graf. Die Frau Gräfin 
+hat die Perücke in den Garten geworfen, der Gärtner hat 
+sie dort gefunden. In seiner Trunkenheit hat er dabei die 
 Blumen zertreten.
 \end{FIGARO}
 
@@ -3589,16 +3592,16 @@ Mein lieber Schwan!
 
 
 \begin{ANTONIO}
-Halt! Ein abgestürzter Schwan? Das geht zu
-weit. Hier sind ja alle betrunken.
+Halt! Ein abgestürzter Schwan? Das geht zu 
+weit. Hier sind ja alle betrunken.	 
 \end{ANTONIO}
 
 \begin{ANTONIO}
-Komm Antonio, meiden wir diesen Ort der
-Verwirrung ... ein Geier mit Perücke ... eine abgestürzte
-Ente ... schrecklich, was die Leute in ihrem Rausch
-zusammenreden ... Antonio, sage ich immer ... nie über
-den Durst trinken ... nobody is perfect.
+Komm Antonio, meiden wir diesen Ort der 
+Verwirrung ... ein Geier mit Perücke ... eine abgestürzte 
+Ente ... schrecklich, was die Leute in ihrem Rausch 
+zusammenreden ... Antonio, sage ich immer ... nie über 
+den Durst trinken ... nobody is perfect. 	 
 \end{ANTONIO}
 
 \begin{Regie}
@@ -3610,7 +3613,7 @@ Der Kerl wird bestraft. Aufs ärgste.
 \end{GRAF}
 
 \begin{GREFIN}
-Nach der Hochzeit, mein Gemahl. Geben Sie endlich Ihre Zustimmung.
+Nach der Hochzeit, mein Gemahl. Geben Sie endlich Ihre Zustimmung.	 
 \end{GREFIN}
 
 \begin{Regie}
@@ -3626,7 +3629,7 @@ Meine Susanne!
 \end{FIGARO}
 
 \begin{SUSANNE}
-Mein Figaro!
+Mein Figaro! 
 \end{SUSANNE}
 
 \begin{Regie}
@@ -3634,7 +3637,7 @@ Es klopft.
 \end{Regie}
 
 \begin{FIGARO}
-Wieder nichts! Diese Komödie ist eine Tragödie.
+Wieder nichts! Diese Komödie ist eine Tragödie. 
 \end{FIGARO}
 
 \begin{Regie}
@@ -3646,11 +3649,11 @@ Bazillus tritt ein und schleicht auf den Grafen zu.
 \end{BAZILLUS}
 
 \begin{GRAF}
-Bestens!  \begin{Regie}laut\end{Regie}  Treten Sie näher, Marcelline!
+Bestens!  \begin{Regie}laut\end{Regie}  Treten Sie näher, Marcelline! 	 
 \end{GRAF}
 
 \begin{MARCELLINE}
- \begin{Regie}auf\end{Regie}
+ \begin{Regie}auf\end{Regie} 
 \end{MARCELLINE}
 
 \begin{SUSANNE}
@@ -3662,8 +3665,8 @@ Jetzt wird's gefährlich ...
 \end{FIGARO}
 
 \begin{GRAF}
-Liebe Marcelline! Haben Sie etwas gegen die
-Verbindung meines Dieners Figaro mit der Zofe
+Liebe Marcelline! Haben Sie etwas gegen die 
+Verbindung meines Dieners Figaro mit der Zofe 
 Susanne vorzubringen?
 \end{GRAF}
 
@@ -3684,9 +3687,12 @@ Bringen Sie vor, Marcelline.
 \end{GRAF}
 
 \begin{MARCELLINE}
- \begin{Regie}zeigt auf Figaro\end{Regie}  Ich habe diesem Herrn
+ \begin{Regie}zeigt auf Figaro\end{Regie}  Ich habe diesem Herrn 
 dreihundert Goldstücke geborgt.
 \end{MARCELLINE}
+
+\TextTeilEnde
+\TextTeilAnfang
 
 
 \Seite{47}
@@ -3709,7 +3715,7 @@ Mich zu heiraten.
 \end{MARCELLINE}
 
 \begin{FIGARO}
-Keine Ahnung. Herr Graf, es stimmt, diese Dame
+Keine Ahnung. Herr Graf, es stimmt, diese Dame 
 hat mir dreihundert Goldstücke geborgt.
 \end{FIGARO}
 
@@ -3730,7 +3736,7 @@ Auf dreihundert Goldstücke.
 \end{FIGARO}
 
 \begin{MARCELLINE}
-Auf dich, Figaro! Ich werde dir immer eine
+Auf dich, Figaro! Ich werde dir immer eine 
 liebende Frau und deinen Kindern eine gute Mutter sein.
 \end{MARCELLINE}
 
@@ -3743,16 +3749,16 @@ Nie, Herr Graf, habe ich derartiges ...
 \end{FIGARO}
 
 \begin{GRAF}
-Wie dem auch sei, die Sache gehört vor ein
-ordentliches Gericht. Die Hochzeit ist bis auf weiteres
-verschoben. Ich übernehme den Vorsitz der
-Verhandlung.  \begin{Regie}zu Bazillus\end{Regie}  Los, Bazillus, präpariere den
-Audienzsaal und die Zeugen.  \begin{Regie}Zu Marcelline\end{Regie}  Kommen
-Sie, Marcelline, vertrauen Sie der Gerechtigkeit!
+Wie dem auch sei, die Sache gehört vor ein 
+ordentliches Gericht. Die Hochzeit ist bis auf weiteres 
+verschoben. Ich übernehme den Vorsitz der 
+Verhandlung.  \begin{Regie}zu Bazillus\end{Regie}  Los, Bazillus, präpariere den 
+Audienzsaal und die Zeugen.  \begin{Regie}Zu Marcelline\end{Regie}  Kommen 
+Sie, Marcelline, vertrauen Sie der Gerechtigkeit! 	 
 \end{GRAF}
 
 \begin{Regie}
-Graf, Bazillus und Marcelline ab. Figaro, Susanne und
+Graf, Bazillus und Marcelline ab. Figaro, Susanne und 
 Gräfin allein.
 \end{Regie}
 
@@ -3773,8 +3779,8 @@ Du weißt einen Ausweg?
 \end{SUSANNE}
 
 \begin{FIGARO}
-Erstens: Noch ist nicht aller Tage Abend,
-zweitens: der Graf kocht auch nur mit Wasser, und
+Erstens: Noch ist nicht aller Tage Abend, 
+zweitens: der Graf kocht auch nur mit Wasser, und 
 drittens: die Liebe macht erfinderisch.
 \end{FIGARO}
 
@@ -3787,9 +3793,9 @@ Sprich weiter, Figaro.
 \end{GREFIN}
 
 \begin{FIGARO}
-Erstens: Noch ist nicht aller Tage Abend, noch hat
-die Verhandlung nicht stattgefunden. Susanne, du gehst
-sofort zum Grafen und gibst ihm ein Rendezvous, unter
+Erstens: Noch ist nicht aller Tage Abend, noch hat 
+die Verhandlung nicht stattgefunden. Susanne, du gehst 
+sofort zum Grafen und gibst ihm ein Rendezvous, unter 
 der Bedingung ...
 
 
@@ -3807,7 +3813,7 @@ der Bedingung ...
 \end{FIGARO}
 
 \begin{GREFIN}
-Da ihm mehr an Susanne als an Marcelline liegt,
+Da ihm mehr an Susanne als an Marcelline liegt, 
 wird er drauf eingehen.
 \end{GREFIN}
 
@@ -3816,15 +3822,15 @@ Und wenn er nachts zur vereinbarten Stelle kommt ...
 \end{FIGARO}
 
 \begin{GREFIN}
-Nach allem, was passiert ist, müssen wir Cherubin
+Nach allem, was passiert ist, müssen wir Cherubin 
 aus dem Spiel lassen ...
 \end{GREFIN}
 
 \begin{FIGARO}
-Und Euch ins Spiel nehmen. Frau Gräfin! Ihr
-müßt in Susannes Kleidern stecken. Stellt Euch die
-Liebesschwüre des Herrn Grafen vor.  \begin{Regie}Figaro kniet
-nieder.\end{Regie}  Geliebte, laß mich emporklettern zu den Gipfeln
+Und Euch ins Spiel nehmen. Frau Gräfin! Ihr 
+müßt in Susannes Kleidern stecken. Stellt Euch die 
+Liebesschwüre des Herrn Grafen vor.  \begin{Regie}Figaro kniet 
+nieder.\end{Regie}  Geliebte, laß mich emporklettern zu den Gipfeln 
 meiner Sehnsucht ... Ihr könnt ihn bei frischer Untreue ertappen!
 \end{FIGARO}
 
@@ -3845,9 +3851,9 @@ Drei bezieht sich auf eins und zwei.
 \end{FIGARO}
 
 \begin{SUSANNE}
- \begin{Regie}küßt ihn kurz auf die linke Wange\end{Regie}  Und das bezieht
-sich auf deinen Mut.  \begin{Regie}küßt ihn kurz auf die rechte
-Wange\end{Regie}  Und das auf deinen Witz.  \begin{Regie}sie küßt ihn auf die
+ \begin{Regie}küßt ihn kurz auf die linke Wange\end{Regie}  Und das bezieht 
+sich auf deinen Mut.  \begin{Regie}küßt ihn kurz auf die rechte 
+Wange\end{Regie}  Und das auf deinen Witz.  \begin{Regie}sie küßt ihn auf die 
 Stirne\end{Regie}  Und das auf deine Klugheit.
 \end{SUSANNE}
 
@@ -3856,13 +3862,13 @@ Stirne\end{Regie}  Und das auf deine Klugheit.
 \end{FIGARO}
 
 \begin{GREFIN}
-Was für ein Paar!
+Was für ein Paar!	 
 \end{GREFIN}
 
-\Einstellung{Lied Graefin}
+\LangsameEinstellung{Lied Graefin}
 
 \begin{Regie}
-Umbau
+Umbau	 
 Ende des zweiten Aktes. Die Gräfin singt ein Lied.
 \end{Regie}
 
@@ -3916,7 +3922,7 @@ wie Dinge, die ich nicht mag.
 Dritter Akt
 
 Der Audienzsaal des Schlosses.
-Der Graf und Bazillus sind auf der Bühne.
+Der Graf und Bazillus sind auf der Bühne. 
 
 Musik aus.
 \end{Regie}
@@ -3925,7 +3931,7 @@ Musik aus.
 \Einstellung{Voll Hell}
 
 \begin{Regie}
-Es klopft. Bazillus verschwindet auf einen Wink des
+Es klopft. Bazillus verschwindet auf einen Wink des 
 Grafen in der Truhe.
 \end{Regie}
 
@@ -3942,8 +3948,8 @@ Vorwärts!
 \end{GRAF}
 
 \begin{SUSANNE}
- \begin{Regie}auf\end{Regie}  Mit Verlaub, Herr Graf. Frau Gräfin lassen dem
-Herrn Grafen sagen, daß Frau Gräfin dem Herrn Grafen
+ \begin{Regie}auf\end{Regie}  Mit Verlaub, Herr Graf. Frau Gräfin lassen dem 
+Herrn Grafen sagen, daß Frau Gräfin dem Herrn Grafen 
 etwas sagen möchte.
 \end{SUSANNE}
 
@@ -3956,14 +3962,14 @@ Das hat mir die Gräfin nicht gesagt.
 \end{SUSANNE}
 
 \begin{GRAF}
-Du kommst also her, um mir zu sagen, daß mir die
-Gräfin sagen läßt, sie möchte mir etwas sagen, was du
+Du kommst also her, um mir zu sagen, daß mir die 
+Gräfin sagen läßt, sie möchte mir etwas sagen, was du 
 mir nicht sagen kannst?
 \end{GRAF}
 
 \begin{SUSANNE}
-Darf ich etwas sagen, Herr Graf? Daß mir die
-Gräfin sagen läßt, sie möchte Euch etwas sagen, hat
+Darf ich etwas sagen, Herr Graf? Daß mir die 
+Gräfin sagen läßt, sie möchte Euch etwas sagen, hat 
 nichts zu sagen.
 \end{SUSANNE}
 
@@ -4004,7 +4010,7 @@ Wieder ein Vorwand?
 \end{GRAF}
 
 \begin{SUSANNE}
-Eine Vorsicht. Als Ihr mir heute Eure Absichten
+Eine Vorsicht. Als Ihr mir heute Eure Absichten 
 auf meine Person eröffnet habt...
 \end{SUSANNE}
 
@@ -4018,12 +4024,12 @@ Warst du sehr abweisend, Susanne.
 
 
 \begin{SUSANNE}
-Wie konnte ich anders. Cherubin war unterm
-Lehnstuhl. Aber vielleicht kann ich jetzt anders.
+Wie konnte ich anders. Cherubin war unterm 
+Lehnstuhl. Aber vielleicht kann ich jetzt anders. 
 \end{SUSANNE}
 
 \begin{GRAF}
- \begin{Regie}geht auf Susanne zu\end{Regie}  Du stimmst also zu? Superb, superb ...
+ \begin{Regie}geht auf Susanne zu\end{Regie}  Du stimmst also zu? Superb, superb ... 
 \end{GRAF}
 
 \begin{SUSANNE}
@@ -4031,8 +4037,8 @@ Lehnstuhl. Aber vielleicht kann ich jetzt anders.
 \end{SUSANNE}
 
 \begin{GRAF}
-Ausgezeichnet, mein Kind. Ich werde pünktlich
-sein. Ich erwarte dich halb angezogen und ganz
+Ausgezeichnet, mein Kind. Ich werde pünktlich 
+sein. Ich erwarte dich halb angezogen und ganz 
 gewaschen. Und kein Wort zu Figaro!
 \end{GRAF}
 
@@ -4049,7 +4055,7 @@ Was er wissen darf. Den Rest, den verschweige ich.
 \end{SUSANNE}
 
 \begin{GRAF}
-Was für ein witziger Leckerbissen. Almaviva, ich
+Was für ein witziger Leckerbissen. Almaviva, ich 
 gratuliere dir zu dieser Delikatesse.
 \end{GRAF}
 
@@ -4062,12 +4068,12 @@ Susanne, ich warne dich. Kein Rendezvous, keine Hochzeit.
 \end{GRAF}
 
 \begin{SUSANNE}
-Und umgekehrt: keine Hochzeit, kein Rendezvous.
+Und umgekehrt: keine Hochzeit, kein Rendezvous. 
 Herr Graf, ich danke Euch.
 \end{SUSANNE}
 
 \begin{GRAF}
-Superb, superb ...
+Superb, superb ...	 
 \end{GRAF}
 
 \begin{Regie}
@@ -4075,9 +4081,9 @@ Der Graf ab. Figaro steigt aus einer Truhe.
 \end{Regie}
 
 \begin{FIGARO}
- \begin{Regie}macht den Grafen nach\end{Regie}  Superb, superb ... ich
-habe alles verstanden. Es läuft und läuft und läuft und
-läuft. Direkt superb, wie sich der Graf in der eigenen
+ \begin{Regie}macht den Grafen nach\end{Regie}  Superb, superb ... ich 
+habe alles verstanden. Es läuft und läuft und läuft und 
+läuft. Direkt superb, wie sich der Graf in der eigenen 
 Schlinge fängt.
 \end{FIGARO}
 
@@ -4086,7 +4092,7 @@ Der Prozeß ist so gut wie gewonnen, Figaro.
 \end{SUSANNE}
 
 \begin{FIGARO}
-Und das Mädchen dazu!  \begin{Regie}Figaro umarmt Susanne.\end{Regie}
+Und das Mädchen dazu!  \begin{Regie}Figaro umarmt Susanne.\end{Regie} 
 \end{FIGARO}
 
 \begin{SUSANNE}
@@ -4098,12 +4104,12 @@ Schnöde Katze!
 \end{FIGARO}
 
 \begin{SUSANNE}
- \begin{Regie}ernst\end{Regie}  Oh, Figaro, wenn wir immer zusammenhalten,
-wird alles gut werden.
+ \begin{Regie}ernst\end{Regie}  Oh, Figaro, wenn wir immer zusammenhalten, 
+wird alles gut werden. 	 
 \end{SUSANNE}
 
 \begin{FIGARO}
- \begin{Regie}Figaro umarmt Susanne.\end{Regie}
+ \begin{Regie}Figaro umarmt Susanne.\end{Regie} 
 \end{FIGARO}
 
 \begin{SUSANNE}
@@ -4124,21 +4130,21 @@ Was?
 \end{SUSANNE}
 
 \begin{FIGARO}
-zusammenhalten!
+zusammenhalten! 
 \end{FIGARO}
 
 \begin{Regie}
-Die beiden gehen lachend ab.
+Die beiden gehen lachend ab. 
 Bazillus steigt aus der nächsten Truhe.
 \end{Regie}
 
 \begin{BAZILLUS}
-Superb, superb ... ich habe alles verstanden.
-Intrigen, wohin man hört. Ich muß sofort den Grafen informieren.
+Superb, superb ... ich habe alles verstanden. 
+Intrigen, wohin man hört. Ich muß sofort den Grafen informieren. 	 
 \end{BAZILLUS}
 
 \begin{GRAF}
- \begin{Regie}auf\end{Regie}
+ \begin{Regie}auf\end{Regie}  	 
 \end{GRAF}
 
 \begin{BAZILLUS}
@@ -4150,7 +4156,7 @@ Habe ich eine bestellt?
 \end{GRAF}
 
 \begin{BAZILLUS}
-Die Konkurrenz ist am Werk, Herr Graf. Als Ihr
+Die Konkurrenz ist am Werk, Herr Graf. Als Ihr 
 Euch mit Susanne über ein gewisses Thema unterhalten habt ...
 \end{BAZILLUS}
 
@@ -4183,8 +4189,8 @@ Dann hast du alles mitgehört?
 \end{GRAF}
 
 \begin{BAZILLUS}
-Wenn ich in kurzen Worten wiedergeben darf.
-Figaro stieg aus der Truhe und sagte 'süperb'.
+Wenn ich in kurzen Worten wiedergeben darf. 
+Figaro stieg aus der Truhe und sagte "süperb".
 \end{BAZILLUS}
 
 \begin{GRAF}
@@ -4200,10 +4206,10 @@ Die reinste Komödie.
 \end{GRAF}
 
 \begin{BAZILLUS}
-Dann sagte Figaro zu Susanne, das hast du gut
-gemacht, dann sagte Susanne zu Figaro, der Prozeß ist
-so gut wie gewonnen, dann sagte Figaro zu Susanne
-schnöde Katze, dann sagte Susanne zu Figaro plumper
+Dann sagte Figaro zu Susanne, das hast du gut 
+gemacht, dann sagte Susanne zu Figaro, der Prozeß ist 
+so gut wie gewonnen, dann sagte Figaro zu Susanne 
+schnöde Katze, dann sagte Susanne zu Figaro plumper 
 Kater, dann ...
 \end{BAZILLUS}
 
@@ -4216,8 +4222,8 @@ Total abgekartet!
 \end{BAZILLUS}
 
 \begin{GRAF}
-Und ich dachte, Susanne spricht mit aufrichtiger Zuneigung.
-Was kann man von der Dienerschaft anderes
+Und ich dachte, Susanne spricht mit aufrichtiger Zuneigung. 
+Was kann man von der Dienerschaft anderes 
 
 
 \end{GRAF}
@@ -4226,7 +4232,7 @@ Was kann man von der Dienerschaft anderes
 
 
 \begin{GRAF}
-erwarten als Falschheit. Sofort eine Gegenintrige,
+erwarten als Falschheit. Sofort eine Gegenintrige, 
 Bazillus.
 \end{GRAF}
 
@@ -4239,8 +4245,8 @@ Und wie komme ich dann zu Susanne?
 \end{GRAF}
 
 \begin{BAZILLUS}
-Mit der nächsten Intrige. Susanne wird Euch
-bitten, Figaro nicht mit Marcelline zu verheiraten. Sie
+Mit der nächsten Intrige. Susanne wird Euch 
+bitten, Figaro nicht mit Marcelline zu verheiraten. Sie 
 wird Euch anflehen, das Urteil aufzuheben. Ihr sagt ja.
 \end{BAZILLUS}
 
@@ -4249,7 +4255,7 @@ Ich sage nein.
 \end{GRAF}
 
 \begin{BAZILLUS}
-Ihr sagt ja, unter der Bedingung, daß sie zu Euren
+Ihr sagt ja, unter der Bedingung, daß sie zu Euren 
 Bedingungen ja sagt.
 \end{BAZILLUS}
 
@@ -4278,11 +4284,11 @@ Herr Caron de Beaumarchais aus Paris.
 \end{BAZILLUS}
 
 \begin{GRAF}
-Ein Edelmann? Kann er sich keinen eigenen Intriganten leisten?
+Ein Edelmann? Kann er sich keinen eigenen Intriganten leisten?	 
 \end{GRAF}
 
 \begin{Regie}
-Don Guzman di Stibizia, der Ortsrichter, und Zettelkopf,
+Don Guzman di Stibizia, der Ortsrichter, und Zettelkopf, 
 sein Diener, treten auf.
 \end{Regie}
 
@@ -4303,17 +4309,17 @@ Weil ein Diener den Herrn macht, Herr Graf!
 \end{DONGUZMAN}
 
 \begin{GRAF}
-Wenn er ein Herr ist, warum nennt er sich dann Diener?
+Wenn er ein Herr ist, warum nennt er sich dann Diener? 
 Diener der Gerechtigkeit?
 \end{GRAF}
 
 \begin{DONGUZMAN}
-Weil ich als Diener an der Gerechtigkeit
+Weil ich als Diener an der Gerechtigkeit 
 verdiene, während ich sie als Herr bezahlen müßte.
 \end{DONGUZMAN}
 
 \begin{GRAF}
-Nun gut, Herr Richter. Sie wissen, was Sie zu tun
+Nun gut, Herr Richter. Sie wissen, was Sie zu tun 
 
 
 \end{GRAF}
@@ -4322,13 +4328,13 @@ Nun gut, Herr Richter. Sie wissen, was Sie zu tun
 
 
 \begin{GRAF}
-haben? Der Prozeß läuft folgendermaßen. Ich führe den
-Vorsitz und wahre den Anschein der Gerechtigkeit, und
+haben? Der Prozeß läuft folgendermaßen. Ich führe den 
+Vorsitz und wahre den Anschein der Gerechtigkeit, und 
 Sie verurteilen Figaro, unter allen Umständen.
 \end{GRAF}
 
 \begin{DONGUZMAN}
-Ich verstehe, die Gerechtigkeit wird unter
+Ich verstehe, die Gerechtigkeit wird unter 
 allen Umständen gewahrt.
 \end{DONGUZMAN}
 
@@ -4337,7 +4343,7 @@ allen Umständen gewahrt.
 \end{GRAF}
 
 \begin{BAZILLUS}
- \begin{Regie}macht das Geldzeichen\end{Regie}  Ihr müßt etwas mehr
+ \begin{Regie}macht das Geldzeichen\end{Regie}  Ihr müßt etwas mehr 
 Verständnis zeigen ...
 \end{BAZILLUS}
 
@@ -4350,10 +4356,10 @@ Notiere 30.
 \end{ZETTELKOPF}
 
 \begin{DONGUZMAN}
-Ich verstehe, die Gerechtigkeit wird unter
-allem Anschein gewahrt. Das erfordert eine Menge
-Mehrarbeit. Dreifache Dehnung der Paragraphen,
-vierfache Umdrehung des Wortlautes, fünffache
+Ich verstehe, die Gerechtigkeit wird unter 
+allem Anschein gewahrt. Das erfordert eine Menge 
+Mehrarbeit. Dreifache Dehnung der Paragraphen, 
+vierfache Umdrehung des Wortlautes, fünffache 
 Verdrehung des Sachverhaltes ...
 \end{DONGUZMAN}
 
@@ -4374,7 +4380,7 @@ Notiere 50.
 \end{ZETTELKOPF}
 
 \begin{DONGUZMAN}
-Das wäre allerdings die einfachste Ausführung.
+Das wäre allerdings die einfachste Ausführung. 
 Mit Einspruchsrecht et cetera. Ein sehr gutes Urteil hingegen ...
 \end{DONGUZMAN}
 
@@ -4387,8 +4393,8 @@ Notiere 60.
 \end{ZETTELKOPF}
 
 \begin{DONGUZMAN}
-... ist bereits wesentlich stabiler, wenn es
-auch nicht an die Sonderausführung mit falschen Zeugenaussagen,
+... ist bereits wesentlich stabiler, wenn es 
+auch nicht an die Sonderausführung mit falschen Zeugenaussagen, 
 erstklassigen Meineiden und allem Drum und Dran heranreicht.
 \end{DONGUZMAN}
 
@@ -4397,8 +4403,8 @@ erstklassigen Meineiden und allem Drum und Dran heranreicht.
 \end{GRAF}
 
 \begin{DONGUZMAN}
-Gratuliere, Herr Graf. Ich darf noch hinzufügen,
-daß diese exquisite Form des Urteils besonders
+Gratuliere, Herr Graf. Ich darf noch hinzufügen, 
+daß diese exquisite Form des Urteils besonders 
 bei Hofe reißenden Absatz findet. Herr Graf haben Geschmack.
 
 
@@ -4424,16 +4430,16 @@ Der Bestellschein. Eine Formsache, Herr Graf.
 \end{DONGUZMAN}
 
 \begin{GRAF}
- \begin{Regie}liest\end{Regie}  Ein Urteil in Sonderausführung, hundert Gulden.
-Plus zehn Prozent Intrigantensteuer, zehn Gulden.
-Rechtsbeugungstaxe, in Klammern stempelpflichtig,
-fünfzehn Gulden. Verdrehungs- und Verschleierungszulage,
-elf Gulden. Anteiliger Gewissensschwund, zweifünfzig. Summa summarum,
+ \begin{Regie}liest\end{Regie}  Ein Urteil in Sonderausführung, hundert Gulden. 
+Plus zehn Prozent Intrigantensteuer, zehn Gulden. 
+Rechtsbeugungstaxe, in Klammern stempelpflichtig, 
+fünfzehn Gulden. Verdrehungs- und Verschleierungszulage, 
+elf Gulden. Anteiliger Gewissensschwund, zweifünfzig. Summa summarum, 
 hundertachtunddreißig-fünfzig. Was soll das?
 \end{GRAF}
 
 \begin{DONGUZMAN}
-Die Extras sind im Preise nicht inbegriffen,
+Die Extras sind im Preise nicht inbegriffen, 
 wenn ich bemerken darf.
 \end{DONGUZMAN}
 
@@ -4442,12 +4448,12 @@ Ich darf bemerken, daß Sie mir teuer zu stehen kommen, Herr Richter.
 \end{GRAF}
 
 \begin{DONGUZMAN}
-Ich darf hinzufügen, daß eine erstklassige
-Gerechtigkeit ihren Preis hat, Herr Graf.
+Ich darf hinzufügen, daß eine erstklassige 
+Gerechtigkeit ihren Preis hat, Herr Graf. 	 
 \end{DONGUZMAN}
 
 \begin{GRAF}
- \begin{Regie}Der Graf nimmt die Feder.\end{Regie}
+ \begin{Regie}Der Graf nimmt die Feder.\end{Regie} 
 \end{GRAF}
 
 \begin{DONGUZMAN}
@@ -4455,14 +4461,14 @@ Zu dienen, Herr Graf.
 \end{DONGUZMAN}
 
 \begin{ZETTELKOPF}
-Zu Füßen, Herr Graf.
+Zu Füßen, Herr Graf. 	 
 \end{ZETTELKOPF}
 
 \begin{GRAF}
- \begin{Regie}Der Graf unterschreibt.\end{Regie}
-Presto, presto, Sie erstklassiger Richter. Walten Sie
-Ihres bezahlten Amtes. Richten Sie alles für die
-Verhandlung her. Figaro, jetzt hängst du in der
+ \begin{Regie}Der Graf unterschreibt.\end{Regie} 
+Presto, presto, Sie erstklassiger Richter. Walten Sie 
+Ihres bezahlten Amtes. Richten Sie alles für die 
+Verhandlung her. Figaro, jetzt hängst du in der 
 Schlinge. Das Urteil lautet...
 \end{GRAF}
 
@@ -4479,7 +4485,7 @@ Die sofortige Hingabe Susannes. Hinlänglich.
 \end{BAZILLUS}
 
 \begin{GRAF}
-Gulden und Gerechtigkeit. Die Justiz macht Spaß!
+Gulden und Gerechtigkeit. Die Justiz macht Spaß! 
 \end{GRAF}
 
 \begin{Regie}
@@ -4491,7 +4497,7 @@ Eine gute Kundschaft.
 \end{ZETTELKOPF}
 
 \begin{DONGUZMAN}
-Ein guter Abschluß. Hundertvierzig Kröten,
+Ein guter Abschluß. Hundertvierzig Kröten, 
 brutto gleich netto.
 
 
@@ -4513,11 +4519,11 @@ Verflixt, brutto gleich brutto.
 \end{ZETTELKOPF}
 
 \begin{DONGUZMAN}
-Verflucht, brutto gleich netto.
+Verflucht, brutto gleich netto. 	 
 \end{DONGUZMAN}
 
 \begin{ZETTELKOPF}
- \begin{Regie}Zettelkopf reicht dem Richter Papier und Feder.\end{Regie}
+ \begin{Regie}Zettelkopf reicht dem Richter Papier und Feder.\end{Regie} 
 \end{ZETTELKOPF}
 
 \begin{DONGUZMAN}
@@ -4525,10 +4531,10 @@ Was soll das?
 \end{DONGUZMAN}
 
 \begin{ZETTELKOPF}
-Die Provisionsabrechnung. Folgende Posten
-werden vom Bruttopreis abgezogen und an den Schreiber
-Zettelkopf überwiesen. Zehn Prozent Schweigegeld,
-macht dreizehnfünfundachtzig. Vertuschungszulage
+Die Provisionsabrechnung. Folgende Posten 
+werden vom Bruttopreis abgezogen und an den Schreiber 
+Zettelkopf überwiesen. Zehn Prozent Schweigegeld, 
+macht dreizehnfünfundachtzig. Vertuschungszulage 
 und Gewerkschaftsbeitrag, elf Gulden.
 \end{ZETTELKOPF}
 
@@ -4541,30 +4547,30 @@ Ein stillschweigendes Verfahren, Herr Richter.
 \end{ZETTELKOPF}
 
 \begin{DONGUZMAN}
-Gut. Und warum berechnest du den anteiligen
+Gut. Und warum berechnest du den anteiligen 
 Gewissensschwund höher als ich?
 \end{DONGUZMAN}
 
 \begin{ZETTELKOPF}
-Was macht es, wenn ein Herr sein Gewissen
+Was macht es, wenn ein Herr sein Gewissen 
 verliert? Einem Diener kommt es teuer zu stehen.
 \end{ZETTELKOPF}
 
 \begin{DONGUZMAN}
-Zettelkopf, wo hat er nur seine Geldgier her?
- \begin{Regie}Don Guzman nimmt die Feder.\end{Regie}
+Zettelkopf, wo hat er nur seine Geldgier her? 	 
+ \begin{Regie}Don Guzman nimmt die Feder.\end{Regie} 
 \end{DONGUZMAN}
 
 \begin{ZETTELKOPF}
-Zu dienen, Herr Richter.
+Zu dienen, Herr Richter. 	 
 \end{ZETTELKOPF}
 
 \begin{DONGUZMAN}
- \begin{Regie}Don Guzman unterschreibt.\end{Regie}
+ \begin{Regie}Don Guzman unterschreibt.\end{Regie} 
 \end{DONGUZMAN}
 
 \begin{ZETTELKOPF}
-Zu Füßen, Herr Richter.
+Zu Füßen, Herr Richter. 	 
 \end{ZETTELKOPF}
 
 \begin{Regie}
@@ -4572,8 +4578,8 @@ Marcelline und Bartholo treten auf.
 \end{Regie}
 
 \begin{DONGUZMAN}
- \begin{Regie}verbeugt sich\end{Regie}  Zu dienen, verehrte Dame.
-Don Guzman di Stibizia, Diener der Gerechtigkeit mit
+ \begin{Regie}verbeugt sich\end{Regie}  Zu dienen, verehrte Dame. 
+Don Guzman di Stibizia, Diener der Gerechtigkeit mit 
 Diener.
 \end{DONGUZMAN}
 
@@ -4582,7 +4588,7 @@ Zettelkopf, zu dienen.
 \end{ZETTELKOPF}
 
 \begin{MARCELLINE}
-Ah, der Richter. Ich suche Sie schon überall.
+Ah, der Richter. Ich suche Sie schon überall. 
 Herr Richter, Sie müssen mir zu meinem Recht verhelfen.
 \end{MARCELLINE}
 
@@ -4660,22 +4666,22 @@ Haben Sie ein schriftliches Heiratsversprechen?
 \end{DONGUZMAN}
 
 \begin{MARCELLINE}
-Alles, was ich habe, ist dieser Schuldschein.
+Alles, was ich habe, ist dieser Schuldschein. 
 Und das Versprechen des Herrn Grafen.
 \end{MARCELLINE}
 
 \begin{DONGUZMAN}
- \begin{Regie}nimmt das Papier\end{Regie}  Ein gewisser Herr Figaro
+ \begin{Regie}nimmt das Papier\end{Regie}  Ein gewisser Herr Figaro 
 schuldet Ihnen dreihundert Gulden. Kein Zusatz.
 \end{DONGUZMAN}
 
 \begin{BARTHOLO}
-Und wenn man einen Zusatz bezüglich der
+Und wenn man einen Zusatz bezüglich der 
 Heirat zusätzlich hinzusetzen würde, Herr Kollege?
 \end{BARTHOLO}
 
 \begin{DONGUZMAN}
-Ein solcher Zusatz würde zusätzliche
+Ein solcher Zusatz würde zusätzliche 
 Kosten verursachen, Herr Kollege.
 \end{DONGUZMAN}
 
@@ -4684,7 +4690,7 @@ Sagen Sie einen Preis.
 \end{MARCELLINE}
 
 \begin{DONGUZMAN}
-Da hätten wir den einfachen, aber anfechtbaren Zusatz,
+Da hätten wir den einfachen, aber anfechtbaren Zusatz, 
 für 30 Gulden.
 \end{DONGUZMAN}
 
@@ -4697,8 +4703,8 @@ Ich würde zu einer etwas besseren Ausführung raten, Madame.
 \end{BARTHOLO}
 
 \begin{DONGUZMAN}
-Ganz meine Meinung, Herr Kollege.
-In diesem Falle käme der beeidete Zusatz, auch Doppelfälscher genannt,
+Ganz meine Meinung, Herr Kollege. 
+In diesem Falle käme der beeidete Zusatz, auch Doppelfälscher genannt, 
 in Frage. 60 Gulden.
 
 
@@ -4712,12 +4718,12 @@ Notiere 60.
 \end{ZETTELKOPF}
 
 \begin{MARCELLINE}
-Was meinen Sie, Doktor Bartholo?
+Was meinen Sie, Doktor Bartholo? 
 \end{MARCELLINE}
 
 \begin{BARTHOLO}
-Ich meine, Sie sollten zugreifen, Madame.
-Dieser Zusatz erscheint mir zuverlässig und nicht zu auffallend.
+Ich meine, Sie sollten zugreifen, Madame. 
+Dieser Zusatz erscheint mir zuverlässig und nicht zu auffallend. 
 \end{BARTHOLO}
 
 \begin{MARCELLINE}
@@ -4725,19 +4731,19 @@ Also gut, 60 Gulden.
 \end{MARCELLINE}
 
 \begin{DONGUZMAN}
-Gratuliere, gnädige Frau. Ich darf noch hinzufügen,
-daß diese Form des Zusatzes bei Damen der
-höchsten Gesellschaft reißenden Absatz findet.
+Gratuliere, gnädige Frau. Ich darf noch hinzufügen, 
+daß diese Form des Zusatzes bei Damen der 
+höchsten Gesellschaft reißenden Absatz findet. 
 Madame haben Geschmack.
 \end{DONGUZMAN}
 
 \begin{MARCELLINE}
- \begin{Regie}zahlt sofort\end{Regie}  Meine Herren, ich lege mein
+ \begin{Regie}zahlt sofort\end{Regie}  Meine Herren, ich lege mein 
 Schicksal in Ihre Hände.
 \end{MARCELLINE}
 
 \begin{DONGUZMAN}
-Vertrauen Sie der Gerechtigkeit.
+Vertrauen Sie der Gerechtigkeit. 	 
 \end{DONGUZMAN}
 
 \begin{Regie}
@@ -4745,7 +4751,7 @@ Marcelline wendet sich zum Gehen.
 \end{Regie}
 
 \begin{BARTHOLO}
-Mein Anteil, Herr Kollege.
+Mein Anteil, Herr Kollege. 	 
 \end{BARTHOLO}
 
 \begin{DONGUZMAN}
@@ -4753,7 +4759,7 @@ Mein Anteil, Herr Kollege.
 \end{DONGUZMAN}
 
 \begin{BARTHOLO}
-Salvissimo, Herr Kollege.
+Salvissimo, Herr Kollege. 	 
 \end{BARTHOLO}
 
 \begin{Regie}
@@ -4761,7 +4767,7 @@ Marcelline und Bartholo ab. Figaro auf.
 \end{Regie}
 
 \begin{DONGUZMAN}
-Stehen Sie in irgendeinem Zusammenhang
+Stehen Sie in irgendeinem Zusammenhang 
 mit diesem Prozeß, junger Mann?
 \end{DONGUZMAN}
 
@@ -4770,8 +4776,8 @@ In jedem, mein Herr. Ich bin der Beklagte.
 \end{FIGARO}
 
 \begin{DONGUZMAN}
-Vortrefflich, mein Herr.  \begin{Regie}Zu Zettelkopf\end{Regie}  Die
-nächste Kundschaft.  \begin{Regie}Zu Figaro\end{Regie}  Welches Urteil
+Vortrefflich, mein Herr.  \begin{Regie}Zu Zettelkopf\end{Regie}  Die 
+nächste Kundschaft.  \begin{Regie}Zu Figaro\end{Regie}  Welches Urteil 
 schwebt Ihnen so vor, wenn ich fragen darf?
 \end{DONGUZMAN}
 
@@ -4813,7 +4819,7 @@ Notiere?
 \end{ZETTELKOPF}
 
 \begin{DONGUZMAN}
-Mein Herr, Sie wollen mich nicht verstehen.
+Mein Herr, Sie wollen mich nicht verstehen. 
 Ich biete Ihnen ein modernes dynamisches Urteil zu vernünftigen Preisen.
 \end{DONGUZMAN}
 
@@ -4830,7 +4836,7 @@ Oder arm.
 \end{ZETTELKOPF}
 
 \begin{DONGUZMAN}
-Dann erst recht.
+Dann erst recht. 	 
 \end{DONGUZMAN}
 
 \begin{Regie}
@@ -4846,19 +4852,19 @@ Alea jacta est.
 \end{DONGUZMAN}
 
 \begin{ZETTELKOPF}
-Mein Herr Richter läßt sagen, daß alles soweit sei.
+Mein Herr Richter läßt sagen, daß alles soweit sei.	 
 \end{ZETTELKOPF}
 
 \begin{Regie}
-Allgemeiner Auftritt, Graf, Marcelline, Bartholo, Figaro, Diener.
-Alle haben Platz genommen. Der Graf steht auf. Alle
-stehen auf. Der Graf setzt sich. Alle setzen sich.
+Allgemeiner Auftritt, Graf, Marcelline, Bartholo, Figaro, Diener.	 
+Alle haben Platz genommen. Der Graf steht auf. Alle 
+stehen auf. Der Graf setzt sich. Alle setzen sich. 
 Bazillus reicht dem Grafen einen Zettel.
 \end{Regie}
 
 \begin{GRAF}
- \begin{Regie}liest\end{Regie}  Bestellschein. Ein Urteil in Sonderausführung
-...  \begin{Regie}Zu Bazillus\end{Regie}  Idiot! Ich erkläre die Verhandlung für
+ \begin{Regie}liest\end{Regie}  Bestellschein. Ein Urteil in Sonderausführung 
+...  \begin{Regie}Zu Bazillus\end{Regie}  Idiot! Ich erkläre die Verhandlung für 
 eröffnet.  \begin{Regie}Zu Guzman\end{Regie}  Anfangen!
 \end{GRAF}
 
@@ -4875,8 +4881,8 @@ Wir schreiten zur Vorlesung der Anklageschrift.
 \end{DONGUZMAN}
 
 \begin{ZETTELKOPF}
- \begin{Regie}nimmt ein Aktenstück und liest\end{Regie}  In der Strafsache
-Bgl. Z. 234, Schrägstrich 22 b-1234, Nr. 43, 5c
+ \begin{Regie}nimmt ein Aktenstück und liest\end{Regie}  In der Strafsache 
+Bgl. Z. 234, Schrägstrich 22 b-1234, Nr. 43, 5c 
 bis 87, 8 f., Verord. lf. Nr. 3 456 789 ...
 \end{ZETTELKOPF}
 
@@ -4894,9 +4900,9 @@ bis 87, 8 f., Verord. lf. Nr. 3 456 789 ...
 
 
 \begin{ZETTELKOPF}
-Et cetera! Die klagende, beklagenswerte
-Marcelline Krautmesser y Barbara y Fiorita y Benedetta
-y Mandolina y Nicolina y Pepperina y Carmen,
+Et cetera! Die klagende, beklagenswerte 
+Marcelline Krautmesser y Barbara y Fiorita y Benedetta 
+y Mandolina y Nicolina y Pepperina y Carmen, 
 mündige Jungfrau ...
 \end{ZETTELKOPF}
 
@@ -4921,9 +4927,9 @@ Silentium, wenn ich bitten darf.
 \end{DONGUZMAN}
 
 \begin{ZETTELKOPF}
- \begin{Regie}liest\end{Regie}  Die klagende, beklagenswerte Marcelline
-Krautmesser y Barbara y Fiorita y Benedetta y Mandolina
-y Pepperina y Carmen ... bla ... bla ... bla gegen
+ \begin{Regie}liest\end{Regie}  Die klagende, beklagenswerte Marcelline 
+Krautmesser y Barbara y Fiorita y Benedetta y Mandolina 
+y Pepperina y Carmen ... bla ... bla ... bla gegen 
 den kläglichen Beklagten Figaro y ... hier fehlt Zuname.
 \end{ZETTELKOPF}
 
@@ -4948,7 +4954,7 @@ Das läge tief unter meinem Witz, Herr.
 \end{FIGARO}
 
 \begin{GRAF}
-Der Kerl fühlt sich ja sehr sicher.  \begin{Regie}Zu Don Guzman\end{Regie}
+Der Kerl fühlt sich ja sehr sicher.  \begin{Regie}Zu Don Guzman\end{Regie}  
 Weitermachen!
 \end{GRAF}
 
@@ -4965,9 +4971,9 @@ Seit wann ist der Zufall ein Stand?
 \end{DONGUZMAN}
 
 \begin{FIGARO}
-Seit der Stand ein Zufall ist. Denn wäre ich zufällig
-in einem feineren Bett geboren, so wäre ich zufällig
-ein Edelmann und hätte zufällig genug Geld, den Zufall
+Seit der Stand ein Zufall ist. Denn wäre ich zufällig 
+in einem feineren Bett geboren, so wäre ich zufällig 
+ein Edelmann und hätte zufällig genug Geld, den Zufall 
 der Gerechtigkeit etwas weniger zufällig zu machen.
 \end{FIGARO}
 
@@ -4984,11 +4990,11 @@ der Gerechtigkeit etwas weniger zufällig zu machen.
 \end{BARTHOLO}
 
 \begin{ZETTELKOPF}
- \begin{Regie}liest weiter\end{Regie}  Wegen Einspruchserhebung der
-obgenannten mündigen Jungfrau Marcelline Krautmesser
-y Barbara y Fiorita y...y...y...y... Carmen gegen die
-Eheschließung des obgenannten Figaro. Die soeben
-obgenannte mündige Jungfrau Marcelline
+ \begin{Regie}liest weiter\end{Regie}  Wegen Einspruchserhebung der 
+obgenannten mündigen Jungfrau Marcelline Krautmesser 
+y Barbara y Fiorita y...y...y...y... Carmen gegen die 
+Eheschließung des obgenannten Figaro. Die soeben 
+obgenannte mündige Jungfrau Marcelline 	
 
 
 \end{ZETTELKOPF}
@@ -4997,24 +5003,24 @@ obgenannte mündige Jungfrau Marcelline
 
 
 \begin{ZETTELKOPF}
-wird vertreten durch den edlen, hochedlen, besonders
-edlen Doktor Bartholo.
+wird vertreten durch den edlen, hochedlen, besonders 
+edlen Doktor Bartholo. 	 
 \end{ZETTELKOPF}
 
 \begin{BARTHOLO}
- \begin{Regie}steht auf, verbeugt sich und setzt sich wieder\end{Regie}
+ \begin{Regie}steht auf, verbeugt sich und setzt sich wieder\end{Regie} 
 \end{BARTHOLO}
 
 \begin{ZETTELKOPF}
-Der ebenfalls obgenannte Figaro ...
+Der ebenfalls obgenannte Figaro ... 
 \end{ZETTELKOPF}
 
 \begin{FIGARO}
- \begin{Regie}Figaro steht auf und setzt sich\end{Regie}
+ \begin{Regie}Figaro steht auf und setzt sich\end{Regie}  
 \end{FIGARO}
 
 \begin{ZETTELKOPF}
-... wird vertreten durch den soeben genannten Figaro.
+... wird vertreten durch den soeben genannten Figaro. 
 \end{ZETTELKOPF}
 
 \begin{FIGARO}
@@ -5022,21 +5028,21 @@ Der ebenfalls obgenannte Figaro ...
 \end{FIGARO}
 
 \begin{BARTHOLO}
-Ich erhebe Einspruch. Er braucht einen Rechtsbeistand.
+Ich erhebe Einspruch. Er braucht einen Rechtsbeistand. 
 Alles andere ist wider den Gebrauch.
 \end{BARTHOLO}
 
 \begin{FIGARO}
-Dieser Brauch, edler, hochedler, besonders edler
-Doktor Bartholo, ist oft nur ein Mißbrauch.
- \begin{Regie}Zum Gericht\end{Regie}  Was hilft mir die Hilfe eines Advokaten, der sich
-in den weichen Rundungen der Paragraphen weit wohler
-fühlt als auf dem harten Boden der Tatsachen. Der
-mir den kalten Schweiß auf seiner Stirne für den Ausdruck
-seiner Überzeugung verkauft. Der die Länge seines Plädoyers
-an der Höhe seines Verdienstes mißt. Mit
-diesen Herren, meine Herren, verhält es sich wie mit allen Herren,
-meine Herren, die den Gestank ihrer Seele
+Dieser Brauch, edler, hochedler, besonders edler 
+Doktor Bartholo, ist oft nur ein Mißbrauch. 
+ \begin{Regie}Zum Gericht\end{Regie}  Was hilft mir die Hilfe eines Advokaten, der sich 
+in den weichen Rundungen der Paragraphen weit wohler 
+fühlt als auf dem harten Boden der Tatsachen. Der 
+mir den kalten Schweiß auf seiner Stirne für den Ausdruck 
+seiner Überzeugung verkauft. Der die Länge seines Plädoyers 
+an der Höhe seines Verdienstes mißt. Mit 
+diesen Herren, meine Herren, verhält es sich wie mit allen Herren, 
+meine Herren, die den Gestank ihrer Seele 
 mit dem feinen Damast ihres Kleides zu veredeln trachten.
 \end{FIGARO}
 
@@ -5061,17 +5067,17 @@ Erlauben Sie, daß ich meinen Fall mit wenigen Worten ...
 \end{FIGARO}
 
 \begin{DONGUZMAN}
-Das waren schon zu viele Worte.
+Das waren schon zu viele Worte. 
 Als Angeklagter haben Sie nur zu reden, wenn Sie gefragt werden.
 \end{DONGUZMAN}
 
 \begin{FIGARO}
-Der Angeklagte schweigt.
+Der Angeklagte schweigt. 
 Als Anwalt des Angeklagten möchte ich bemerken ...
 \end{FIGARO}
 
 \begin{DONGUZMAN}
-Ich stelle fest, daß ihre ständigen
+Ich stelle fest, daß ihre ständigen 
 Bemerkungen den Lauf der Verhandlung stören.
 
 
@@ -5081,20 +5087,20 @@ Bemerkungen den Lauf der Verhandlung stören.
 
 
 \begin{FIGARO}
-Ich meine, daß sie den Lauf der Gerechtigkeit fördern.
+Ich meine, daß sie den Lauf der Gerechtigkeit fördern. 
 \end{FIGARO}
 
 \begin{DONGUZMAN}
-Los, Zettelkopf, wir schreiten zur Verlesung
+Los, Zettelkopf, wir schreiten zur Verlesung 
 des fraglichen Dokumentes.
 \end{DONGUZMAN}
 
 \begin{ZETTELKOPF}
- \begin{Regie}liest\end{Regie}  Ich, Unterzeichneter, Figaro, bestätige
-hiermit, von der mündigen Jungfrau Marcelline Krautmesser
-et cetera et cetera die Summe von dreihundert
-vergammelten Gulden erhalten zu haben, welche ich ihr
-zurückerstatten werde ...
+ \begin{Regie}liest\end{Regie}  Ich, Unterzeichneter, Figaro, bestätige 
+hiermit, von der mündigen Jungfrau Marcelline Krautmesser 
+et cetera et cetera die Summe von dreihundert 
+vergammelten Gulden erhalten zu haben, welche ich ihr 
+zurückerstatten werde ... 
 \end{ZETTELKOPF}
 
 \begin{FIGARO}
@@ -5106,37 +5112,37 @@ Stimmt!
 \end{ZETTELKOPF}
 
 \begin{FIGARO}
-Falsch. Von Heirat war nie die Rede.
+Falsch. Von Heirat war nie die Rede. 
 \end{FIGARO}
 
 \begin{BARTHOLO}
-Hohes und schönes Gericht! Wieder einer
-jener erschütternden Fälle von Sittenlosigkeit, wie sie in
-der heutigen spanischen Jugend mehr und mehr um sich
-greifen. Da verspricht ein junger, gewissenloser
-Mensch einer reifen und unschuldigen Dame die Ehe ...
+Hohes und schönes Gericht! Wieder einer 
+jener erschütternden Fälle von Sittenlosigkeit, wie sie in 
+der heutigen spanischen Jugend mehr und mehr um sich 
+greifen. Da verspricht ein junger, gewissenloser 
+Mensch einer reifen und unschuldigen Dame die Ehe ... 
 \end{BARTHOLO}
 
 \begin{FIGARO}
-Ich opponiere. Der Zusatz ist gefälscht!
+Ich opponiere. Der Zusatz ist gefälscht! 
 \end{FIGARO}
 
 \begin{ZETTELKOPF}
-Ich repetiere. Der Zusatz ist beeidet!
+Ich repetiere. Der Zusatz ist beeidet!	 
 \end{ZETTELKOPF}
 
 \begin{Regie}
-Zettelkopf reicht Don Guzman das Dokument. Don
+Zettelkopf reicht Don Guzman das Dokument. Don 
 Guzman reicht es dem Grafen.
 \end{Regie}
 
 \begin{GRAF}
-Alles bestens.
- \begin{Regie}Der Graf gibt Don Guzman das Dokument zurück.\end{Regie}
+Alles bestens.	 
+ \begin{Regie}Der Graf gibt Don Guzman das Dokument zurück.\end{Regie} 
 \end{GRAF}
 
 \begin{DONGUZMAN}
-Alles rechtens. Der Zusatz ist echt.
+Alles rechtens. Der Zusatz ist echt. 
 \end{DONGUZMAN}
 
 \begin{FIGARO}
@@ -5144,24 +5150,24 @@ Falsch!
 \end{FIGARO}
 
 \begin{GRAF}
-Als oberster Richter von Kastilien sage ich, der Zusatz
-ist echt. Will er die Entscheidung eines spanischen
-Granden angreifen? Ich lasse ihn auspeitschen.
+Als oberster Richter von Kastilien sage ich, der Zusatz 
+ist echt. Will er die Entscheidung eines spanischen 
+Granden angreifen? Ich lasse ihn auspeitschen. 
 \end{GRAF}
 
 \begin{FIGARO}
-Herr Graf, das Recht ist so sehr auf Eurer Seite
-wie die Macht. Also habt Ihr die Macht, recht zu haben.
+Herr Graf, das Recht ist so sehr auf Eurer Seite 
+wie die Macht. Also habt Ihr die Macht, recht zu haben. 
 \end{FIGARO}
 
 \begin{BARTHOLO}
-Wir plädieren auf sofortige Einlösung des Vertrages.
+Wir plädieren auf sofortige Einlösung des Vertrages. 
 Also zahlen und heiraten.
 \end{BARTHOLO}
 
 \begin{FIGARO}
- \begin{Regie}für sich\end{Regie}  Satan und Syntax, steht mir bei!  \begin{Regie}laut\end{Regie}
-Und wir plädieren, den Wortlaut des vorliegenden Dokumentes
+ \begin{Regie}für sich\end{Regie}  Satan und Syntax, steht mir bei!  \begin{Regie}laut\end{Regie}  
+Und wir plädieren, den Wortlaut des vorliegenden Dokumentes 
 aufs genaueste zu untersuchen.
 
 
@@ -5175,42 +5181,42 @@ Was will er damit sagen?
 \end{DONGUZMAN}
 
 \begin{FIGARO}
-Was will das Dokument besagen? Daß ich die
-dreihundert Gulden zurückerstatten werde sowie ich sie
-heiraten werde. Das kann doch nur heißen: sobald. Ich
-zahle, sobald ich heirate. Da ich nicht heirate, brauche
+Was will das Dokument besagen? Daß ich die 
+dreihundert Gulden zurückerstatten werde sowie ich sie 
+heiraten werde. Das kann doch nur heißen: sobald. Ich 
+zahle, sobald ich heirate. Da ich nicht heirate, brauche 
 ich auch nicht zu zahlen.
 \end{FIGARO}
 
 \begin{BARTHOLO}
-Wir stellen fest, daß es sich bei diesem
-»sowie« um die sogenannte coniunctio copulativa
+Wir stellen fest, daß es sich bei diesem 
+»sowie« um die sogenannte coniunctio copulativa 
 »und« handelt. Also zahlen und heiraten.
 \end{BARTHOLO}
 
 \begin{FIGARO}
-Und wir behaupten, daß es sich dabei um die
-sogenannte coniunctio temporalis »sobald« handelt.
+Und wir behaupten, daß es sich dabei um die 
+sogenannte coniunctio temporalis »sobald« handelt. 
 Also: Sobald ich heirate, zahle ich.
 \end{FIGARO}
 
 \begin{ZETTELKOPF}
- \begin{Regie}zu Don Guzman\end{Regie}  Coniunctio copulativa oder
+ \begin{Regie}zu Don Guzman\end{Regie}  Coniunctio copulativa oder 
 coniunctio temporalis?
 \end{ZETTELKOPF}
 
 \begin{DONGUZMAN}
- \begin{Regie}zum Grafen\end{Regie}  Coniunctio copulativa oder
+ \begin{Regie}zum Grafen\end{Regie}  Coniunctio copulativa oder 
 coniunctio temporalis?
 \end{DONGUZMAN}
 
 \begin{GRAF}
- \begin{Regie}zu Bazillus\end{Regie}  Coniunctio copulativa oder coniunctio
-temporalis?
+ \begin{Regie}zu Bazillus\end{Regie}  Coniunctio copulativa oder coniunctio 
+temporalis? 	 
 \end{GRAF}
 
 \begin{BAZILLUS}
- \begin{Regie}flüstert dem Grafen etwas zu\end{Regie}
+ \begin{Regie}flüstert dem Grafen etwas zu\end{Regie} 
 \end{BAZILLUS}
 
 \begin{GRAF}
@@ -5218,29 +5224,29 @@ temporalis?
 \end{GRAF}
 
 \begin{DONGUZMAN}
- \begin{Regie}zu Zettelkopf\end{Regie}  Er soll mich am Arsch
+ \begin{Regie}zu Zettelkopf\end{Regie}  Er soll mich am Arsch 
 lecken!
 \end{DONGUZMAN}
 
 \begin{ZETTELKOPF}
- \begin{Regie}zu Figaro und Bartholo\end{Regie}  Die Herren mögen
+ \begin{Regie}zu Figaro und Bartholo\end{Regie}  Die Herren mögen 
 ihre Zungen sprechen lassen.
 \end{ZETTELKOPF}
 
 \begin{BARTHOLO}
 Mit Vergnügen! Wie heißt es so schön im besagten Dokument?
-'Welche Summe ich zurückerstatten werde.'
-Das ist doch dasselbe, als wenn ich sagen würde:
-'Du wirst Genesung finden, sowie ein Arzt dir Medizin gibt.'
-Das heißt doch: 'Kaum kommt der Arzt,
-und schon bist du gesund', also und.
+"Welche Summe ich zurückerstatten werde." 
+Das ist doch dasselbe, als wenn ich sagen würde: 
+"Du wirst Genesung finden, sowie ein Arzt dir Medizin gibt." 
+Das heißt doch: "Kaum kommt der Arzt, 
+und schon bist du gesund", also und.
 \end{BARTHOLO}
 
 \begin{FIGARO}
-Irrtum, Herr Medikus. Der Sinn ist nämlich der:
-'Du wirst erbärmlich verrecken, sowie einer dieser
-gewissen Ärzte an dein Bett tritt.' Das heißt doch:
-'Sobald der Arzt kommt, wird gestorben', also sobald.
+Irrtum, Herr Medikus. Der Sinn ist nämlich der: 
+"Du wirst erbärmlich verrecken, sowie einer dieser 
+gewissen Ärzte an dein Bett tritt." Das heißt doch: 
+"Sobald der Arzt kommt, wird gestorben", also sobald.
 \end{FIGARO}
 
 \begin{BARTHOLO}
@@ -5265,8 +5271,8 @@ Mein Herr, ich beliebe mich zu verteidigen.
 \end{FIGARO}
 
 \begin{BARTHOLO}
-Meine Herren! Hohes und schönes Gericht!
-Ich beantrage, sofort mit der Punktuation des
+Meine Herren! Hohes und schönes Gericht! 
+Ich beantrage, sofort mit der Punktuation des 
 Ehevertrages zu beginnen.
 \end{BARTHOLO}
 
@@ -5283,7 +5289,7 @@ Akzeptiert.
 \end{ZETTELKOPF}
 
 \begin{FIGARO}
-Und angenommen, ich beantrage, die Punktuation
+Und angenommen, ich beantrage, die Punktuation 
 des Ehevertrages zu verschieben?
 \end{FIGARO}
 
@@ -5304,12 +5310,12 @@ Das Urteil. Ich will das Urteil hören.
 \end{GRAF}
 
 \begin{DONGUZMAN}
-Selbstverständlich, das Urteil. Sofort. Im
-Namen Gottes, des spanischen Königs, seiner Exzellenz
-des Grafen von Almaviva und weiters im Namen der
-Gerechtigkeit verkünden wir das folgende und
-gebührenpflichtige Urteil: Die beklagte Partei hat der
-klagenden Partei die Summe von dreihundert Gulden
+Selbstverständlich, das Urteil. Sofort. Im 
+Namen Gottes, des spanischen Königs, seiner Exzellenz 
+des Grafen von Almaviva und weiters im Namen der 
+Gerechtigkeit verkünden wir das folgende und 
+gebührenpflichtige Urteil: Die beklagte Partei hat der 
+klagenden Partei die Summe von dreihundert Gulden 
 zurückzuerstatten, sowie ...
 \end{DONGUZMAN}
 
@@ -5318,7 +5324,7 @@ Coniunctio copulativa!
 \end{BARTHOLO}
 
 \begin{ZETTELKOPF}
-... die beklagte Partei die klagende Partei zu
+... die beklagte Partei die klagende Partei zu 
 heiraten hat.
 \end{ZETTELKOPF}
 
@@ -5331,14 +5337,14 @@ Selbstverständlich, auf der Stelle, sofort.
 \end{DONGUZMAN}
 
 \begin{MARCELLINE}
-Das ist der schönste Tag in meinem Leben.
+Das ist der schönste Tag in meinem Leben. 
  \begin{Regie}Zu Figaro\end{Regie}  Geliebter!
 \end{MARCELLINE}
 
 \begin{FIGARO}
-Was? Ich soll diesen geräucherten Lachs heiraten?
-Herr Graf, wollen Sie einen jungen, unschuldigen Diener
-in die zittrigen Arme des Verderbens werfen?
+Was? Ich soll diesen geräucherten Lachs heiraten? 
+Herr Graf, wollen Sie einen jungen, unschuldigen Diener 
+in die zittrigen Arme des Verderbens werfen? 	 
 \end{FIGARO}
 
 \begin{Regie}
@@ -5346,7 +5352,7 @@ Figaros Sätze werden vom Gelächter der anderen begleitet.
 \end{Regie}
 
 \begin{GRAF}
-Nun, wer hängt jetzt in der Schlinge, Figaro?
+Nun, wer hängt jetzt in der Schlinge, Figaro? 
 \end{GRAF}
 
 \begin{FIGARO}
@@ -5359,19 +5365,19 @@ Beim Schweiße meines Angesichts, ich werde die
 
 
 \begin{FIGARO}
-dreihundert Gulden zahlen, auf Heller und Kopeken. Aber
-werfen Sie mich um Gottes willen nicht in den Rachen
-dieser sibirischen Hyäne. Denken Sie an Susanne, Herr
+dreihundert Gulden zahlen, auf Heller und Kopeken. Aber 
+werfen Sie mich um Gottes willen nicht in den Rachen 
+dieser sibirischen Hyäne. Denken Sie an Susanne, Herr 
 Graf, die Ihnen gewiß sehr dankbar sein wird.
 \end{FIGARO}
 
 \begin{GRAF}
-Ich werde ihre Dankbarkeit gewiß sehr zu schätzen
+Ich werde ihre Dankbarkeit gewiß sehr zu schätzen 
 wissen. Du heiratest Marcelline! Die Verhandlung ist beendet.
 \end{GRAF}
 
 \begin{FIGARO}
-Halt! Ich werde diese Großmutter niemals heiraten.
+Halt! Ich werde diese Großmutter niemals heiraten. 
 Ich liebe Susanne.
 \end{FIGARO}
 
@@ -5380,12 +5386,12 @@ Ist Ihnen der Witz ausgegangen, Herr Figaro?
 \end{BARTHOLO}
 
 \begin{GRAF}
-Ich sage, die Verhandlung ist geschlossen! Der Saal
+Ich sage, die Verhandlung ist geschlossen! Der Saal 
 soll sofort für die Hochzeit hergerichtet werden.
 \end{GRAF}
 
 \begin{FIGARO}
-Ihr stecht mich, Ihr reißt mich an den Hörnern!
+Ihr stecht mich, Ihr reißt mich an den Hörnern! 
 \end{FIGARO}
 
 \begin{Regie}
@@ -5393,14 +5399,14 @@ Lautes Gelächter.
 \end{Regie}
 
 \begin{FIGARO}
-Eine Gerechtigkeit klebt an Euren Fingern, vor der
-mir übel wird. Ich werde meinen Witz in Gift verwandeln
-und meinen Zorn in spitze Weidenruten. Luft!
-Luft! In Spanien wird die Gerechtigkeit abgetrieben!
-Zerschlagt die Hirne an den Fassaden! Mit euren
-Därmen schreiben wir 'lang lebe der König', bis die
-Sonne alles verbrennt. Ich liebe Susanne. Ich zerschlage
-euch. Ich zerschlage euch.
+Eine Gerechtigkeit klebt an Euren Fingern, vor der 
+mir übel wird. Ich werde meinen Witz in Gift verwandeln 
+und meinen Zorn in spitze Weidenruten. Luft! 
+Luft! In Spanien wird die Gerechtigkeit abgetrieben! 
+Zerschlagt die Hirne an den Fassaden! Mit euren 
+Därmen schreiben wir "lang lebe der König", bis die 
+Sonne alles verbrennt. Ich liebe Susanne. Ich zerschlage 
+euch. Ich zerschlage euch. 	 
 \end{FIGARO}
 
 \begin{Regie}
@@ -5424,12 +5430,12 @@ Das verstehe ich nicht.
 \end{GREFIN}
 
 \begin{SUSANNE}
-Oh, ich verstehe sehr gut. Herr Graf haben
+Oh, ich verstehe sehr gut. Herr Graf haben 
 keinen Appetit mehr auf seine Magd.
 \end{SUSANNE}
 
 \begin{GREFIN}
-Das glaube ich nicht. Hast du meinem Mann ein
+Das glaube ich nicht. Hast du meinem Mann ein 
 Rendezvous versprochen?
 \end{GREFIN}
 
@@ -5451,7 +5457,7 @@ Nichts verloren? Es ist Abend. Was wird aus meiner Hochzeit?
 \end{SUSANNE}
 
 \begin{GREFIN}
-Wir müssen alles versuchen. Du gehst sofort zum
+Wir müssen alles versuchen. Du gehst sofort zum 
 Grafen und bittest ihn, Figaro freizugeben.
 \end{GREFIN}
 
@@ -5468,8 +5474,8 @@ Er wird das, was er will, sofort wollen.
 \end{SUSANNE}
 
 \begin{GREFIN}
-Sag ja. Sag ihm, daß du ihn sofort im Park erwartest.
-Ich werde mich inzwischen dort verstecken.
+Sag ja. Sag ihm, daß du ihn sofort im Park erwartest. 
+Ich werde mich inzwischen dort verstecken. 
 Komm, Susanne, ich brauche dein Kleid.
 \end{GREFIN}
 
@@ -5478,15 +5484,15 @@ Ich habe Angst, Frau Gräfin.
 \end{SUSANNE}
 
 \begin{GREFIN}
-Du mußt stark sein, Susanne.
+Du mußt stark sein, Susanne. 	 
 \end{GREFIN}
 
 \Einstellung{Umbau}
 
 \begin{Regie}
-Die beiden ab.
+Die beiden ab. 
 Der Saal wird geschmückt.
-Graf und Bazillus auf.
+Graf und Bazillus auf. 
 \end{Regie}
 
 \Einstellung{Couch}
@@ -5496,7 +5502,7 @@ Susanne muß jeden Augenblick hier sein, Herr Graf.
 \end{BAZILLUS}
 
 \begin{GRAF}
-Dieser Augenblick zieht sich in die Länge wie der
+Dieser Augenblick zieht sich in die Länge wie der 
 Schwanz eines andalusischen Esels.
 \end{GRAF}
 
@@ -5549,48 +5555,51 @@ Und dann vorwärts, spanische Kavallerie! Hipp!
 \end{GRAF}
 
 \begin{BAZILLUS}
-Hipp!
+Hipp! 
 \end{BAZILLUS}
 
 \begin{GRAF}
-Ole!
+Ole!	 
 \end{GRAF}
 
 \begin{Regie}
-Es klopft. Bazillus verschwindet auf einen Wink des
-Grafen in der Truhe.
+Es klopft. Bazillus verschwindet auf einen Wink des 
+Grafen in der Truhe.	
 \end{Regie}
 
 \Seite{67}
 
 
 \begin{SUSANNE}
- \begin{Regie}auf\end{Regie}
+ \begin{Regie}auf\end{Regie} 
 \end{SUSANNE}
 
 \begin{GRAF}
-Ah, Susanne. Komm näher. Wie gefallen dir die vielen
+Ah, Susanne. Komm näher. Wie gefallen dir die vielen 
 Blumen und Kränze?
 \end{GRAF}
 
 \begin{SUSANNE}
-Sie erinnern mich an ein Begräbnis, Herr Graf.
+Sie erinnern mich an ein Begräbnis, Herr Graf. 
 \end{SUSANNE}
+
+\TextTeilEnde
+\TextTeilAnfang
 
 
 \begin{GRAF}
-Heute ist Hochzeit. Mein Diener Figaro heiratet
-Marcelline. Ich wünsche lustige Gesichter.
+Heute ist Hochzeit. Mein Diener Figaro heiratet 
+Marcelline. Ich wünsche lustige Gesichter. 
 \end{GRAF}
 
 \begin{SUSANNE}
-Wenn Ihr mir den Bräutigam nehmt, gebt Ihr
-mir wenig Grund zu lachen. Geben Sie ihn frei, Herr
-Graf. Er ist mein Mann. Es ist meine Hochzeit.
+Wenn Ihr mir den Bräutigam nehmt, gebt Ihr 
+mir wenig Grund zu lachen. Geben Sie ihn frei, Herr 
+Graf. Er ist mein Mann. Es ist meine Hochzeit. 
 \end{SUSANNE}
 
 \begin{GRAF}
-Das ist eine Heftigkeit, die ich nicht vertrage.
+Das ist eine Heftigkeit, die ich nicht vertrage. 
 \end{GRAF}
 
 \begin{SUSANNE}
@@ -5598,52 +5607,52 @@ Ich liebe ihn. Er kann Sonne und Mond vertauschen.
 \end{SUSANNE}
 
 \begin{GRAF}
-Sprich weiter, Susanne, ich höre dir gerne zu.
+Sprich weiter, Susanne, ich höre dir gerne zu. 
 \end{GRAF}
 
 \begin{SUSANNE}
-Was hören Sie, wenn ich von der Liebe rede?
+Was hören Sie, wenn ich von der Liebe rede? 
 \end{SUSANNE}
 
 \begin{GRAF}
-Hipp! Hipp! Ole! Bleiben wir beim Thema. Bist du
-gewaschen, Susanne?
+Hipp! Hipp! Ole! Bleiben wir beim Thema. Bist du 
+gewaschen, Susanne? 
 \end{GRAF}
 
 \begin{SUSANNE}
-Wie eine Treppe zu Ostern. Herr Graf brauchen
-sie nur zu besteigen.
+Wie eine Treppe zu Ostern. Herr Graf brauchen 
+sie nur zu besteigen. 
 \end{SUSANNE}
 
 \begin{GRAF}
-Vorwärts, Almaviva!
+Vorwärts, Almaviva! 
 \end{GRAF}
 
 \begin{SUSANNE}
-Halt, Herr Graf. Geben Sie Figaro frei, und ich
-werde im Park auf Sie warten.
+Halt, Herr Graf. Geben Sie Figaro frei, und ich 
+werde im Park auf Sie warten.	 
 \end{SUSANNE}
 
 \begin{GRAF}
- \begin{Regie}kommt näher\end{Regie}
+ \begin{Regie}kommt näher\end{Regie}  
 \end{GRAF}
 
 \begin{SUSANNE}
-Wollen Sie eine lauschige Sommernacht gegen
-die Zugluft dieses Saales eintauschen?
+Wollen Sie eine lauschige Sommernacht gegen 
+die Zugluft dieses Saales eintauschen? 
 \end{SUSANNE}
 
 \begin{GRAF}
-Ich will, daß die Komödie zu Ende ist, mein Kind.
+Ich will, daß die Komödie zu Ende ist, mein Kind. 
 Bleib stehen!
 \end{GRAF}
 
 \begin{SUSANNE}
-Und Sie ebenso. Oder ich schrei um Hilfe.
+Und Sie ebenso. Oder ich schrei um Hilfe. 
 \end{SUSANNE}
 
 \begin{GRAF}
- Dann wird dein Figaro bald ebenso um Hilfe schreien.
+ Dann wird dein Figaro bald ebenso um Hilfe schreien. 
 \end{GRAF}
 
 \begin{SUSANNE}
@@ -5651,15 +5660,15 @@ Figaro? Was hat er Ihnen getan? Was wollen Sie mit ihm tun?
 \end{SUSANNE}
 
 \begin{GRAF}
-Nichts, wenn du tust, was ich will.
+Nichts, wenn du tust, was ich will. 
 \end{GRAF}
 
 \begin{SUSANNE}
-Und wenn ich mich weigere?
+Und wenn ich mich weigere? 
 \end{SUSANNE}
 
 \begin{GRAF}
-Was ich an Figaro so mag, ist sein Witz. Ich werde
+Was ich an Figaro so mag, ist sein Witz. Ich werde 
 mir eine witzige Strafe für ihn ausdenken.
 
 
@@ -5669,17 +5678,17 @@ mir eine witzige Strafe für ihn ausdenken.
 
 
 \begin{SUSANNE}
-Diese Heirat mit Marcelline ist in der Tat ein Witz!
+Diese Heirat mit Marcelline ist in der Tat ein Witz! 
 \end{SUSANNE}
 
 \begin{GRAF}
-Aber noch nicht witzig genug. Es fehlen noch
-dreißig zündende Peitschenhiebe am Rücken des Bräutigams.
+Aber noch nicht witzig genug. Es fehlen noch 
+dreißig zündende Peitschenhiebe am Rücken des Bräutigams. 
 \end{GRAF}
 
 \begin{SUSANNE}
-Euer Witz ist so gewaltig, Herr Graf, daß man
-vor Gewalt den Witz nicht sieht.
+Euer Witz ist so gewaltig, Herr Graf, daß man 
+vor Gewalt den Witz nicht sieht. 
 \end{SUSANNE}
 
 \begin{GRAF}
@@ -5687,57 +5696,57 @@ Nun, was ist?
 \end{GRAF}
 
 \begin{SUSANNE}
-Es ist kalt. Ich sehe Euch an und friere.
+Es ist kalt. Ich sehe Euch an und friere. 
 \end{SUSANNE}
 
 \begin{GRAF}
-Ja oder nein? Überleg dir die Antwort gut, wenn dir
-dein stinkender Diener lieb ist.
+Ja oder nein? Überleg dir die Antwort gut, wenn dir 
+dein stinkender Diener lieb ist. 
 \end{GRAF}
 
 \begin{SUSANNE}
-Hier! Nehmen Sie! Das Fleisch ist gewaschen!
-Nehmen Sie! Meine Schenkel sind frisch! Saugen Sie
-den Schweiß aus meinen Brüsten! Saugen Sie!
+Hier! Nehmen Sie! Das Fleisch ist gewaschen! 
+Nehmen Sie! Meine Schenkel sind frisch! Saugen Sie 
+den Schweiß aus meinen Brüsten! Saugen Sie! 
 Zertreten Sie den Garten! O Figaro.
 \end{SUSANNE}
 
 \begin{GRAF}
-Das gefällt mir nicht. Du mußt dich wehren!
+Das gefällt mir nicht. Du mußt dich wehren! 
 \end{GRAF}
 
 \begin{SUSANNE}
-O Figaro.
+O Figaro.	 
 \end{SUSANNE}
 
 \begin{GRAF}
- \begin{Regie}Schlägt Susanne mit der Peitsche.\end{Regie}
+ \begin{Regie}Schlägt Susanne mit der Peitsche.\end{Regie}  
 \end{GRAF}
 
 \begin{SUSANNE}
- \begin{Regie}starrt den Grafen an\end{Regie}  Ich hasse Euch. Euer Blut ist eine
-jämmerliche Jauche. Ihr seid schon tot, auch wenn Ihr mich
-erschlagt. Der Staub fällt aus Euren Hosen. Ihr seid ein Geschlecht,
-das die Därme in den Händen trägt. \begin{Regie}lacht\end{Regie}
+ \begin{Regie}starrt den Grafen an\end{Regie}  Ich hasse Euch. Euer Blut ist eine 
+jämmerliche Jauche. Ihr seid schon tot, auch wenn Ihr mich 
+erschlagt. Der Staub fällt aus Euren Hosen. Ihr seid ein Geschlecht, 
+das die Därme in den Händen trägt. \begin{Regie}lacht\end{Regie}  
 Schlagen Sie! Schlagen Sie!
 \end{SUSANNE}
 
-\Einstellung{Strobo}
+\LangsameEinstellung{Strobo}
 
 \begin{SUSANNE}
-Dieser Schmerz macht mich lebendig!
+Dieser Schmerz macht mich lebendig! 
 \end{SUSANNE}
 
 \begin{GRAF}
-Der Witz! Der Witz! Der Witz! Wo ist dein Witz geblieben?
+Der Witz! Der Witz! Der Witz! Wo ist dein Witz geblieben?	 
 \end{GRAF}
 
 \begin{Regie}
 Der Graf schlägt wild auf Susanne ein. Figaro kommt.
-Er stürzt sich auf den Grafen und erwürgt ihn mit der Peitsche.
+Er stürzt sich auf den Grafen und erwürgt ihn mit der Peitsche. 
 \end{Regie}
 
-\Einstellung{langsam heller}
+\LangsameEinstellung{langsam heller}
 
 \begin{FIGARO}
 Wir müssen weg. Er ist tot.
@@ -5748,19 +5757,19 @@ Tot?
 \end{SUSANNE}
 
 \begin{FIGARO}
-Schnell weg von hier.
+Schnell weg von hier. 
 \end{FIGARO}
 
 \begin{SUSANNE}
-Tot? Wohin, Figaro?
+Tot? Wohin, Figaro? 
 \end{SUSANNE}
 
 \begin{FIGARO}
-Ich weiß nicht. Ich weiß es nicht.
+Ich weiß nicht. Ich weiß es nicht. 	 
 \end{FIGARO}
 
 \begin{Regie}
-Die beiden gehen ab.
+Die beiden gehen ab.	 
 \end{Regie}
 
 \Seite{69}
@@ -5770,62 +5779,62 @@ Die Gräfin auf. Die Gräfin trägt das Kleid Susannes.
 \end{Regie}
 
 \begin{GREFIN}
-Susannes Kleid paßt mir ausgezeichnet. Ich habe
-ihre Figur. Es wird Zeit, mich im Park zu verstecken.
-Und dann, Herr Graf, zeigen Sie Ihrer Magd den feurigen Liebhaber,
-den Sie Ihrer Frau so beständig vorenthalten.  \begin{Regie}sieht den Grafen\end{Regie}
-Herr Graf? Almaviva! Pedrito!
+Susannes Kleid paßt mir ausgezeichnet. Ich habe 
+ihre Figur. Es wird Zeit, mich im Park zu verstecken. 
+Und dann, Herr Graf, zeigen Sie Ihrer Magd den feurigen Liebhaber, 
+den Sie Ihrer Frau so beständig vorenthalten.  \begin{Regie}sieht den Grafen\end{Regie} 
+Herr Graf? Almaviva! Pedrito!	 
  \begin{Regie}kniet an der Leiche ihres Mannes nieder,
-legt ihren Kopf an seine Brust. Kurze Pause.\end{Regie}
+legt ihren Kopf an seine Brust. Kurze Pause.\end{Regie} 
 \end{GREFIN}
 
 \begin{GREFIN}
-Es sollte eine Komödie werden. Ich trage
-Susannes Kleid, und du kommst in den Garten. Du
-erzählst mir von der Liebe, und ich schweige. Pedrito,
-warum sagst du nichts? Ich bin es, Susanne. Mein
-Körper ist jung, er atmet. Komm näher, das Mädchen
-wartet auf dich. Ich möchte, daß Sie mich küssen, mein
-Herr. Sein Mund ist still. Ich habe einen toten Grafen
-zum Liebhaber. Einen toten Mann. Erinnerst du dich an
-deine Lieder unter meinem Fenster? Ich habe deinen
-Gesang mit meinen Armen gefangen. Du konntest so
-fröhlich sein, so ausgelassen. Erinnerst du dich, wie ich
-in dieses Schloß gekommen bin? Ein Mann hat mich
-zur Frau genommen. Deine Frau. Dein Haus.  \begin{Regie}heftig\end{Regie}
-Jaja, dein Haus, dein Schloß! Deine Diener! Deine
-Pferde! Deine Mägde! Dein Geld! Du hast mich zur
-Gräfin gemacht. Deine Frau hat einen Arsch, Almaviva,
-auch wenn sie ihn mit Anstand zu verbergen trachtet.
-Ich sehne mich nach den Händen deiner Knechte. Frau
-Gräfin lassen bitten! Bin ich schon lächerlich? Sie sind
-sehr schön, Frau Gräfin. Ich habe einen Freund. Er ist
-aufgeregt, wenn er mich sieht.
+Es sollte eine Komödie werden. Ich trage 
+Susannes Kleid, und du kommst in den Garten. Du 
+erzählst mir von der Liebe, und ich schweige. Pedrito, 
+warum sagst du nichts? Ich bin es, Susanne. Mein 
+Körper ist jung, er atmet. Komm näher, das Mädchen 
+wartet auf dich. Ich möchte, daß Sie mich küssen, mein 
+Herr. Sein Mund ist still. Ich habe einen toten Grafen 
+zum Liebhaber. Einen toten Mann. Erinnerst du dich an 
+deine Lieder unter meinem Fenster? Ich habe deinen 
+Gesang mit meinen Armen gefangen. Du konntest so 
+fröhlich sein, so ausgelassen. Erinnerst du dich, wie ich 
+in dieses Schloß gekommen bin? Ein Mann hat mich 
+zur Frau genommen. Deine Frau. Dein Haus.  \begin{Regie}heftig\end{Regie} 
+Jaja, dein Haus, dein Schloß! Deine Diener! Deine 
+Pferde! Deine Mägde! Dein Geld! Du hast mich zur 
+Gräfin gemacht. Deine Frau hat einen Arsch, Almaviva, 
+auch wenn sie ihn mit Anstand zu verbergen trachtet. 
+Ich sehne mich nach den Händen deiner Knechte. Frau 
+Gräfin lassen bitten! Bin ich schon lächerlich? Sie sind 
+sehr schön, Frau Gräfin. Ich habe einen Freund. Er ist 
+aufgeregt, wenn er mich sieht.	 
 \end{GREFIN}
 
 \begin{Regie}
-Cherubin tritt aus einer der hinteren Türen auf. Er sieht
+Cherubin tritt aus einer der hinteren Türen auf. Er sieht 
 die Gräfin von hinten. Die Gräfin verdeckt den Grafen.
 \end{Regie}
 
 \begin{CHERUBIN}
-Ah, Susanne. Die Göttin des Personals. Du
+Ah, Susanne. Die Göttin des Personals. Du 
 \end{CHERUBIN}
 
 \Seite{70}
 
 \begin{CHERUBIN}
-Landbutter auf dem grauen Brot des Alltags. Ich verzehre
-mich nach dem frischen Geschmack deiner Lippen.
-Warum sagst du nichts? Seit Stunden halte ich mich bei
-Blanchette versteckt. In einer Abstellkammer. Ich will
-mein junges Leben nicht mit alten Besen verbringen.
-Mir sind alle Glieder eingeschlafen. Küß mich,
-Susanne, und du erweckst sie zu neuem Leben.
+Landbutter auf dem grauen Brot des Alltags. Ich verzehre 
+mich nach dem frischen Geschmack deiner Lippen. 
+Warum sagst du nichts? Seit Stunden halte ich mich bei 
+Blanchette versteckt. In einer Abstellkammer. Ich will 
+mein junges Leben nicht mit alten Besen verbringen. 
+Mir sind alle Glieder eingeschlafen. Küß mich, 
+Susanne, und du erweckst sie zu neuem Leben. 	 
 \end{CHERUBIN}
 
 \begin{GREFIN}
- \begin{Regie}lacht hysterisch auf\end{Regie}
+ \begin{Regie}lacht hysterisch auf\end{Regie} 
 \end{GREFIN}
 
 \begin{CHERUBIN}
@@ -5833,7 +5842,7 @@ Oh, Frau Gräfin! Vergebt mir, ich wußte nicht...
 \end{CHERUBIN}
 
 \begin{GREFIN}
-Weißt du, an wen du mich erinnerst, Cherubin?
+Weißt du, an wen du mich erinnerst, Cherubin? 
  \begin{Regie}weist auf den Grafen\end{Regie}  An Pedrito!
 \end{GREFIN}
 
@@ -5842,8 +5851,8 @@ Schläft der Herr Graf?
 \end{CHERUBIN}
 
 \begin{GREFIN}
-Ja, Cherubin. Er schläft und schnarcht. Wie
-üblich.
+Ja, Cherubin. Er schläft und schnarcht. Wie 
+üblich. 
 \end{GREFIN}
 
 \begin{CHERUBIN}
@@ -5891,16 +5900,16 @@ Sie wollen das Schloß verlassen?
 \end{CHERUBIN}
 
 \begin{GREFIN}
-Hast du die Bauern vergessen? Die Ernte? Die
-Oliven? Was sagtest du, Cherubin? Die Burschen
+Hast du die Bauern vergessen? Die Ernte? Die 
+Oliven? Was sagtest du, Cherubin? Die Burschen 
 tanzen, bis die Mädchen umfallen. Ich möchte tanzen.
 \end{GREFIN}
 
 \begin{CHERUBIN}
-Tanzen? Wissen Sie, was es heißt, unter Bauern
-zu leben? Das Land ist karg. Jeder Rebstock, jeder
-Olivenbaum wird mit Schweiß begossen. Die Ernte gehört
-dem Grafen. Tanzen? Ja, sie tanzen, damit sie besinnungslos
+Tanzen? Wissen Sie, was es heißt, unter Bauern 
+zu leben? Das Land ist karg. Jeder Rebstock, jeder 
+Olivenbaum wird mit Schweiß begossen. Die Ernte gehört 
+dem Grafen. Tanzen? Ja, sie tanzen, damit sie besinnungslos 
 werden und ihr Unglück vergessen.
 \end{CHERUBIN}
 
@@ -5919,9 +5928,9 @@ Ich will leben, Cherubin!
 \end{GREFIN}
 
 \begin{CHERUBIN}
-Leben? Das hier ist das Leben, Frau Gräfin.
-Bilder an den Wänden, Damast am Körper, ein
-französisches Frühstück, eine englische Bildung ...
+Leben? Das hier ist das Leben, Frau Gräfin. 
+Bilder an den Wänden, Damast am Körper, ein 
+französisches Frühstück, eine englische Bildung ... 
 Geld, Kleider, Diener ... Leben, Leben!!!
 \end{CHERUBIN}
 
@@ -5930,35 +5939,35 @@ Ich höre meinen Mann, den Grafen.
 \end{GREFIN}
 
 \begin{CHERUBIN}
-Ihr Mann ist tot, Frau Gräfin. Sie sind Witwe.
+Ihr Mann ist tot, Frau Gräfin. Sie sind Witwe. 
 Und doch zu schön, um Witwe zu bleiben.
 \end{CHERUBIN}
 
 \begin{GREFIN}
-Gehen Sie! Gehen Sie! Gehen Sie!
+Gehen Sie! Gehen Sie! Gehen Sie! 	 
 \end{GREFIN}
 
 \begin{CHERUBIN}
- \begin{Regie}schnell ab\end{Regie}
+ \begin{Regie}schnell ab\end{Regie}  
 \end{CHERUBIN}
 
 \begin{GREFIN}
-Gehen Sie! Gehen Sie! Bleib bei mir, Cherubin.
-Bleib. Bleib.  \begin{Regie}verändert\end{Regie}  Wie sehe ich aus? Ich muß
-mich umziehen. Welches Kleid nehme ich für diesen
-Abend?  \begin{Regie}ab\end{Regie}
+Gehen Sie! Gehen Sie! Bleib bei mir, Cherubin. 
+Bleib. Bleib.  \begin{Regie}verändert\end{Regie}  Wie sehe ich aus? Ich muß 
+mich umziehen. Welches Kleid nehme ich für diesen 
+Abend?  \begin{Regie}ab\end{Regie} 	 
 \end{GREFIN}
 
-\Einstellung{Couch2}
+\LangsameEinstellung{Couch2}
 
 \begin{BAZILLUS}
- \begin{Regie}steigt aus seiner Truhe. Er sieht den toten Grafen
-und lacht. Er raubt ihn aus.\end{Regie}
-Eine Intrige gefällig? Herr Graf brauchen nur
-zu befehlen. Herr Graf sind eine bedeutende Leiche.
-Seine Exzellenz, der besonders wohlgeborene Graf von
-Almaviva. Bald scheint dir der Mond durch den Bauch.
- \begin{Regie}brüllt\end{Regie}  Mord! Totschlag! Revolution! Revolution!
+ \begin{Regie}steigt aus seiner Truhe. Er sieht den toten Grafen 
+und lacht. Er raubt ihn aus.\end{Regie} 
+Eine Intrige gefällig? Herr Graf brauchen nur 
+zu befehlen. Herr Graf sind eine bedeutende Leiche. 
+Seine Exzellenz, der besonders wohlgeborene Graf von 
+Almaviva. Bald scheint dir der Mond durch den Bauch. 
+ \begin{Regie}brüllt\end{Regie}  Mord! Totschlag! Revolution! Revolution! 	 
  \begin{Regie}Bazillus ab.\end{Regie}
 \end{BAZILLUS}
 
@@ -5973,3 +5982,4 @@ Alle Schauspieler kommen auf die Bühne.
 \Einstellung{Voll Hell}
 
 \begin{Regie}Beifall\end{Regie}
+
