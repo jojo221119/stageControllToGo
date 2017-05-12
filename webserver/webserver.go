@@ -24,6 +24,9 @@ func main() {
 	apiRouter.GET("/api/scripts", TextListHandler)
 	apiRouter.GET("/api/scripts/:file", TheaterTextFileHandler)
 
+	//Mock request for play activation
+	apiRouter.POST("/api/plays/:play/scenes/:scene/activate", ActivateScene)
+
 	middleware := middleware.Middleware{}
 
 	middleware.Add(apiRouter, false)
@@ -76,4 +79,16 @@ func TextListHandler(w http.ResponseWriter, r *http.Request, p httprouter.Params
 		return
 	}
 	w.Write(j)
+}
+
+//ActivateScene Comment
+func ActivateScene(w http.ResponseWriter, r *http.Request, p httprouter.Params) {
+
+	playName := p.ByName("play")
+	sceneName := p.ByName("scene")
+
+	fmt.Print("Activate scene: " + sceneName + " in play: " + playName + "\n")
+
+	w.WriteHeader(http.StatusOK)
+
 }
