@@ -6,19 +6,18 @@ import { AppComponent } from './app.component';
 import { ElementViewerComponent } from './element-viewer/element-viewer.component';
 import { ScriptViewComponent } from './script-view/script-view.component';
 import { RouterModule, Routes } from '@angular/router';
+import { StartPageComponent } from './start-page/start-page.component';
 const appRoutes: Routes = 
 [
-  {path: 'script', component: ScriptViewComponent},
-  {path: '',
-    redirectTo: 'script',
-    pathMatch: 'full'
-  }
+  {path: 'scripts/:scriptName', component: ScriptViewComponent},
+  {path: '', component: StartPageComponent  }
 ];
 @NgModule({
   declarations: [
     AppComponent,
     ElementViewerComponent,
-    ScriptViewComponent
+    ScriptViewComponent,
+    StartPageComponent
   ],
   imports: [
     BrowserModule,

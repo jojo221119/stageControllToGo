@@ -2,6 +2,9 @@ import { Component, OnInit } from '@angular/core';
 import { ScriptProviderService } from '../script-provider.service';
 import { Script } from '../script';
 import { Element } from '../element';
+import { ActivatedRoute, Params } from "@angular/router";
+
+import 'rxjs/add/operator/switchMap';
 
 @Component({
   selector: 'app-script-view',
@@ -13,18 +16,19 @@ export class ScriptViewComponent implements OnInit {
 
   script:Element[] = null;
 
-  constructor(private scriptProviderService:ScriptProviderService) {}
+  constructor(private scriptProviderService:ScriptProviderService,
+  private route: ActivatedRoute) {}
 
   ngOnInit() {
-    this.scriptProviderService.getScript().then((response) =>{
 
-      console.log(response);
-      console.log(response.Document[0]);
-      
-      this.script = response.Document;
+  this.route.params
+    .switchMap((params: Params) => this.scriptProviderService.getScript(params['scriptName']))
+    .subscribe(response => this.script = response.Document);
 
-      console.log(this.script);
-    });        
+  }
+
+  activateSetting(sceneName:String) {
+    alert("TEst");
   }
 
 }
