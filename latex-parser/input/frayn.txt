@@ -28,7 +28,7 @@ Ansprache Donatus
 Dann Musik Akkordeonclub ganz laut.
 \end{Regie}
 \Einstellung{Windows Media Player AkkordeonClub 1}
-\Einstellung{Bühne hell}
+\Einstellung{BÃ¼hne hell}
 \begin{Regie}
 Musik etwa 10 (heute 20!!!) Sekunden ganz laut laufen lassen.
 \end{Regie}
@@ -42,7 +42,7 @@ Musik etwa 10 (heute 20!!!) Sekunden ganz laut laufen lassen.
 \Seite{2}
 
 \begin{Regie}
-1. Akt läuft.
+1. Akt lÃ¤uft.
 \end{Regie}
 
 \Seite{47}
@@ -53,7 +53,7 @@ Und Vorhang (oder Black)!
 
 \begin{LISA}
 \begin{Regie} Begreift, schluchzt. \end{Regie} Ach ja.
-\begin{Regie} Läuft eilig von der Bühne. \end{Regie}
+\begin{Regie} LÃ¤uft eilig von der BÃ¼hne. \end{Regie}
 \end{LISA}
 \Einstellung{Schnell Dunkel}
 
@@ -80,26 +80,26 @@ Licht im Saal ausschalten.
 \Einstellung{Dunkel}
 \Einstellung{Windows Media Player Musik aus}
 
-\Einstellung{Bühne hell}
+\Einstellung{BÃ¼hne hell}
 
 \begin{Regie} ZWEITER AKT
-CARMEN, im Smoking, läuft nervös auf und ab.
+CARMEN, im Smoking, lÃ¤uft nervÃ¶s auf und ab.
 LISA spricht in der Souffleurecke ins Mikrophon.
 \end{Regie}
 
 \begin{LISA}
-	Zum Ersten Akt auf die Bühne bitte: Frau Winterfeld, 
+	Zum Ersten Akt auf die BÃ¼hne bitte: Frau Winterfeld, 
 Frau Lautrach, Herr Hecht, Herr Unruh und Frau Morani. Zum Ersten Akt 
-bitte auf die Bühne.
+bitte auf die BÃ¼hne.
 \end{LISA}
 
 \begin{CARMEN}
-	Und vielleicht kriegen wir sie zum Ersten Akt auf die Bühne. Was meinst du?
+	Und vielleicht kriegen wir sie zum Ersten Akt auf die BÃ¼hne. Was meinst du?
 \end{CARMEN}
 
 \begin{LISA}
- Ach, Heide wird sich schon zusammenreißen, jetzt, wo wir 
-eingeläutet haben. Wo sie weiß, dass sie in fünf Minuten draußen sein 
+ Ach, Heide wird sich schon zusammenreiÃŸen, jetzt, wo wir 
+eingelÃ¤utet haben. Wo sie weiÃŸ, dass sie in fÃ¼nf Minuten drauÃŸen sein 
 muss. Meinst du nicht?
 \end{LISA}
 
@@ -117,11 +117,11 @@ wird's erst sein, wenn wir in Albstadt-Ebingen sind?
 \end{CARMEN}
 
 \begin{LISA}
-	Wenn sie nur antworten würde!
+	Wenn sie nur antworten wÃ¼rde!
 \end{LISA}
 
 \begin{CARMEN}
-	Wenn sie nur ihre Garderobe aufsperren würde! Hör zu, wenn Heide 
+	Wenn sie nur ihre Garderobe aufsperren wÃ¼rde! HÃ¶r zu, wenn Heide 
 nicht auftritt...
 \end{CARMEN}
 
@@ -138,7 +138,7 @@ nicht auftritt...
 \end{LISA}
 
 \begin{CARMEN}
-	Ja, natürlich.
+	Ja, natÃ¼rlich.
 \end{CARMEN}
 
 \begin{LISA}
@@ -158,19 +158,19 @@ nicht auftritt...
 \end{CARMEN}
 
 \begin{LISA}
-	Dann hätte ich fünf Minuten Zeit, mich umzuziehen. Vier Minuten.
+	Dann hÃ¤tte ich fÃ¼nf Minuten Zeit, mich umzuziehen. Vier Minuten.
 \end{LISA}
 
 \begin{CARMEN}
-	Wenn sie nur etwas sagen würde!
-Die Durchgangstür zum Zuschauerraum wird vorsichtig geöffnet, und CLAUS 
+	Wenn sie nur etwas sagen wÃ¼rde!
+Die DurchgangstÃ¼r zum Zuschauerraum wird vorsichtig geÃ¶ffnet, und CLAUS 
 steckt den Kopf herein. Als er LISA sieht, macht er sie schnell wieder zu.
 \end{CARMEN}
 
 \begin{LISA}
 	Ich versuch's nochmal. Lenkt einen wenigstens von den eigenen 
 Problemen ab.
-Ab in Richtung der Garderoben. CLAUS steckt wieder den Kopf zur Tür herein. 
+Ab in Richtung der Garderoben. CLAUS steckt wieder den Kopf zur TÃ¼r herein. 
 \end{LISA}
 
 \begin{CLAUS}
@@ -187,7 +187,7 @@ CLAUS kommt herein. Er hat eine Whiskyflasche in der Hand.
 \end{CLAUS}
 
 \begin{CARMEN}
-	Na, jedenfalls, ein Glück, dass du da bist!
+	Na, jedenfalls, ein GlÃ¼ck, dass du da bist!
 \end{CARMEN}
 
 \begin{CLAUS}
@@ -208,11 +208,11 @@ Proben zu Richard III.
 \end{CARMEN}
 
 \begin{CLAUS}
-	Ich möchte nur zwischen den Vorstellungen zwei Stunden allein und 
-ungestört mit Vanessa in ihrer Garderobe sein, bevor ich die 7 Uhr 25 
-Maschine zurück nach Wales nehme. 
+	Ich mÃ¶chte nur zwischen den Vorstellungen zwei Stunden allein und 
+ungestÃ¶rt mit Vanessa in ihrer Garderobe sein, bevor ich die 7 Uhr 25 
+Maschine zurÃ¼ck nach Wales nehme. 
 Die ist 
-für Vanessa. Versteck sie irgendwo, damit Gerda sie nicht entdeckt.
+fÃ¼r Vanessa. Versteck sie irgendwo, damit Gerda sie nicht entdeckt.
 \end{CLAUS}
 
 \begin{CARMEN}
@@ -220,8 +220,8 @@ für Vanessa. Versteck sie irgendwo, damit Gerda sie nicht entdeckt.
 \end{CARMEN}
 
 \begin{CLAUS}
-	Ja, ja. Schräg gegenüber vom Bühnenausgang ist ein kleiner Blumenladen. Besorg mir 
-irgendwelche sehr großen und teuer aussehenden Blumen.
+	Ja, ja. SchrÃ¤g gegenÃ¼ber vom BÃ¼hnenausgang ist ein kleiner Blumenladen. Besorg mir 
+irgendwelche sehr groÃŸen und teuer aussehenden Blumen.
 \end{CLAUS}
 
 \begin{CARMEN}
@@ -229,7 +229,7 @@ irgendwelche sehr großen und teuer aussehenden Blumen.
 \end{CARMEN}
 
 \begin{CLAUS}
-	Pass auf, dass Lisa sie nicht sieht. Sie sind nicht für Lisa.
+	Pass auf, dass Lisa sie nicht sieht. Sie sind nicht fÃ¼r Lisa.
 \end{CLAUS}
 
 \begin{CARMEN}
@@ -237,8 +237,8 @@ irgendwelche sehr großen und teuer aussehenden Blumen.
 \end{CARMEN}
 
 \begin{CLAUS}
-	Die erste Vorstellung endet kurz nach fünf, ja? Die zweite beginnt um 
-neunzehn Uhr dreißig?
+	Die erste Vorstellung endet kurz nach fÃ¼nf, ja? Die zweite beginnt um 
+neunzehn Uhr dreiÃŸig?
 \end{CLAUS}
 
 \begin{CARMEN}
@@ -264,12 +264,12 @@ eingeschlossen! Sie ist nicht ansprechbar!
 \end{CARMEN}
 
 \begin{CLAUS}
-	Ich kann eine komplette Liebesszene nicht in fünf Minuten spielen. Das 
-wäre geschludert.
+	Ich kann eine komplette Liebesszene nicht in fÃ¼nf Minuten spielen. Das 
+wÃ¤re geschludert.
 \end{CLAUS}
 
 \begin{CARMEN}
-	Ist natürlich nicht das erste Mal, dass sie mit Gunther Zoff hat.
+	Ist natÃ¼rlich nicht das erste Mal, dass sie mit Gunther Zoff hat.
 \end{CARMEN}
 
 \begin{CLAUS}
@@ -290,7 +290,7 @@ wir in Nehren gespielt haben.
 \end{CARMEN}
 
 \begin{CLAUS}
-	Ja, ja, das hast du mir am Telefon erzählt.
+	Ja, ja, das hast du mir am Telefon erzÃ¤hlt.
 \end{CLAUS}
 
 \begin{CARMEN}
@@ -302,40 +302,40 @@ wir in Nehren gespielt haben.
 \end{CLAUS}
 
 \begin{CARMEN}
-	Aber weißt du, dass Gunther gedroht hat, ihn umzubringen?
+	Aber weiÃŸt du, dass Gunther gedroht hat, ihn umzubringen?
 \end{CARMEN}
 
 \begin{CLAUS}
-	Ihn umzubringen, ja, ich weiß. Hör mal, mach dir keine Sorgen wegen 
+	Ihn umzubringen, ja, ich weiÃŸ. HÃ¶r mal, mach dir keine Sorgen wegen 
 Heide. Sie hat Geld in der Produktion.
 \end{CLAUS}
 
 \begin{CARMEN}
-	Ja, aber jetzt ist es schon wieder passiert! Heut früh um zwei werde ich 
-wach, weil jemand mir fast die Tür einschlägt. Es ist Gunther. Ob ich 
-wüsste, wo Heide ist. Sie war nicht nach Hause gekommen.
+	Ja, aber jetzt ist es schon wieder passiert! Heut frÃ¼h um zwei werde ich 
+wach, weil jemand mir fast die TÃ¼r einschlÃ¤gt. Es ist Gunther. Ob ich 
+wÃ¼sste, wo Heide ist. Sie war nicht nach Hause gekommen.
 \end{CARMEN}
 
 \begin{CLAUS}
-	Carmen, jetzt will ich dir mal erzählen, wie mein Leben zur Zeit aussieht. 
+	Carmen, jetzt will ich dir mal erzÃ¤hlen, wie mein Leben zur Zeit aussieht. 
 Jeden Abend nach der Probe habe ich den Herzog von Buckingham an 
-der Strippe und muss mir eine Stunde lang anhören, dass der Herzog 
-von Gloucester während seiner großen Passagen Bonbons lutscht. Der 
-Herzog von Clarence fällt die ganze Woche aus, da er einen Werbespot 
+der Strippe und muss mir eine Stunde lang anhÃ¶ren, dass der Herzog 
+von Gloucester wÃ¤hrend seiner groÃŸen Passagen Bonbons lutscht. Der 
+Herzog von Clarence fÃ¤llt die ganze Woche aus, da er einen Werbespot 
 am Bodensee macht. Richard selbst - ob du's glaubst oder nicht - 
 Richard III  hat sich von heut auf morgen einen 
-Bandscheibenschaden zugezogen. Ich finde tagtäglich Nachrichten von 
-Vanessa vor, dass sie hier todunglücklich ist, und jetzt hat sie sich ein 
-ärztliches Attest beschafft, dass sie auf einen Nervenzusammenbruch 
+Bandscheibenschaden zugezogen. Ich finde tagtÃ¤glich Nachrichten von 
+Vanessa vor, dass sie hier todunglÃ¼cklich ist, und jetzt hat sie sich ein 
+Ã¤rztliches Attest beschafft, dass sie auf einen Nervenzusammenbruch 
 zusteuert - mit anderen Worten, sie will aussteigen! Ich habe weder die 
 Zeit, eine andere Vicki zu finden, noch, mit ihr zu proben. Ich habe 
-gerade mal einen Nachmittag, während Richard sein Stützkorsett 
+gerade mal einen Nachmittag, wÃ¤hrend Richard sein StÃ¼tzkorsett 
 angepasst bekommt, um Vanessa vor ihrem Nervenzusammenbruch zu 
-bewahren, und das mit Hilfe von ein paar Gläschen Whisky - du hast den 
-Whisky? - ein paar Blumen - du hast das Geld für die Blumen? - und 
+bewahren, und das mit Hilfe von ein paar GlÃ¤schen Whisky - du hast den 
+Whisky? - ein paar Blumen - du hast das Geld fÃ¼r die Blumen? - und 
 einem gewissen verblichenen Charme. Ich bin also nicht hierher 
-gekommen, um mir die Probleme anderer Leute anzuhören. Ich bin 
-gekommen, um abzuschalten und nach Möglichkeit nicht wieder 
+gekommen, um mir die Probleme anderer Leute anzuhÃ¶ren. Ich bin 
+gekommen, um abzuschalten und nach MÃ¶glichkeit nicht wieder 
 angeschaltet zu werden.
 \end{CLAUS}
 
@@ -354,16 +354,16 @@ in der Hand.\end{Regie}
 \end{CARMEN}
 
 \begin{CLAUS}
-	Und lass Lisa ja die Blumen nicht sehen! Ab durch die Durchgangstür.
+	Und lass Lisa ja die Blumen nicht sehen! Ab durch die DurchgangstÃ¼r.
 \end{CLAUS}
 
 \begin{CARMEN}
-	Meine Damen und Herren, würden Sie bitte Ihre Plätze 
+	Meine Damen und Herren, wÃ¼rden Sie bitte Ihre PlÃ¤tze 
 einnehmen. Die Vorstellung beginnt in drei Minuten.
 \end{CARMEN}
 
 \begin{LISA}
-	Wir werden nicht pünktlich anfangen können! 
+	Wir werden nicht pÃ¼nktlich anfangen kÃ¶nnen! 
 \end{LISA}
 
 \begin{CARMEN}
@@ -372,12 +372,12 @@ einnehmen. Die Vorstellung beginnt in drei Minuten.
 
 \begin{LISA}
 	Lilly versucht es gerade. Ich glaube, ich warte noch mit dem 
-Klingelzeichen... Geld? Wofür ist denn das?
+Klingelzeichen... Geld? WofÃ¼r ist denn das?
 \end{LISA}
 
 \begin{CARMEN}
 	Nichts, nichts! 
- \begin{Regie}Versteckt das Geld hinterm Rücken und fördert mit der 
+ \begin{Regie}Versteckt das Geld hinterm RÃ¼cken und fÃ¶rdert mit der 
 anderen Hand automatisch die Whiskyflasche zutage.\end{Regie} 
 \end{CARMEN}
 
@@ -386,7 +386,7 @@ anderen Hand automatisch die Whiskyflasche zutage.\end{Regie}
 \end{LISA}
 
 \begin{CARMEN}
-	Häh? Nanu.
+	HÃ¤h? Nanu.
 \end{CARMEN}
 
 \begin{LISA}
@@ -394,16 +394,16 @@ anderen Hand automatisch die Whiskyflasche zutage.\end{Regie}
 \end{LISA}
 
 \begin{CARMEN}
-	Äh...
+	Ã„h...
 \end{CARMEN}
 
 \begin{LISA}
-	Hier oben? Soll das heißen, Gerda versteckt sie jetzt schon hinter der 
-Bühne?  \begin{Regie}Nimmt den Whisky\end{Regie} 
+	Hier oben? Soll das heiÃŸen, Gerda versteckt sie jetzt schon hinter der 
+BÃ¼hne?  \begin{Regie}Nimmt den Whisky\end{Regie} 
 \end{LISA}
 
 \begin{CARMEN}
- 	Äh. . .
+ 	Ã„h. . .
 \end{CARMEN}
 
 \begin{LISA}
@@ -411,12 +411,12 @@ Bühne?  \begin{Regie}Nimmt den Whisky\end{Regie}
 \end{LISA}
 
 \begin{LILLY}
-	Du weißt doch, wie Heide ist, wenn sie so ist. 
+	Du weiÃŸt doch, wie Heide ist, wenn sie so ist. 
 Robbie versucht's gerade... Oh nein!
 \end{LILLY}
 
 \begin{LISA}
-	Jetzt versteckt sie sie schon auf der Bühne. Nix?
+	Jetzt versteckt sie sie schon auf der BÃ¼hne. Nix?
 \end{LISA}
 
 \begin{ROBERT}
@@ -432,13 +432,13 @@ Robbie versucht's gerade... Oh nein!
 \end{ROBERT}
 
 \begin{LILLY}
-	Jetzt versteckt sie sie schon auf der Bühne.
+	Jetzt versteckt sie sie schon auf der BÃ¼hne.
 \end{LILLY}
 
 \begin{ROBERT}
-	Nein, Gunther kam total aufgelöst aus seiner Garderobe gestürzt. Ich 
+	Nein, Gunther kam total aufgelÃ¶st aus seiner Garderobe gestÃ¼rzt. Ich 
 konnte nicht genau verstehen, was er sagte. Ich hab bei Gunther oft das 
-Gefühl, irgendwas nicht ganz mitbekommen zu haben - du weißt ja, wie 
+GefÃ¼hl, irgendwas nicht ganz mitbekommen zu haben - du weiÃŸt ja, wie 
 schwer ich mich mit so was tue. Aber ich glaube, er hat gesagt, er will 
 mich umbringen.
 \end{ROBERT}
@@ -453,7 +453,7 @@ Hat er sich wieder beruhigt?
 \end{ROBERT}
 
 \begin{LILLY}
-	Angehört hat sich's nicht so. Im Gegenteil. 
+	AngehÃ¶rt hat sich's nicht so. Im Gegenteil. 
 \end{LILLY}
 
 \begin{ROBERT}
@@ -461,14 +461,14 @@ Hat er sich wieder beruhigt?
 \end{ROBERT}
 
 \begin{CARMEN}
-	Gunther? Gunther tritt auf. Natürlich tritt er auf. Wie kommst du darauf, 
+	Gunther? Gunther tritt auf. NatÃ¼rlich tritt er auf. Wie kommst du darauf, 
 dass Gunther nicht auftritt?
 \end{CARMEN}
 
 \begin{LILLY}
-	Ja, weil, wenn du für Gunther übernehmen musst, Lisa nicht für Heide 
-übernehmen kann, denn wenn Lisa für Heide übernimmt, wirst du 
-soufflieren müssen!
+	Ja, weil, wenn du fÃ¼r Gunther Ã¼bernehmen musst, Lisa nicht fÃ¼r Heide 
+Ã¼bernehmen kann, denn wenn Lisa fÃ¼r Heide Ã¼bernimmt, wirst du 
+soufflieren mÃ¼ssen!
 \end{LILLY}
 
 \begin{CARMEN}
@@ -480,12 +480,12 @@ soufflieren müssen!
 \end{LILLY}
 
 \begin{CARMEN}
-	Ach, das ist für... Oh Gott...!
+	Ach, das ist fÃ¼r... Oh Gott...!
 \end{CARMEN}
 
 \begin{ROBERT}
-	Komisches Mädchen, unsere Heide. Heute so, morgen so. Gestern 
-Abend war sie völlig normal.
+	Komisches MÃ¤dchen, unsere Heide. Heute so, morgen so. Gestern 
+Abend war sie vÃ¶llig normal.
 \end{ROBERT}
 
 \begin{LILLY}
@@ -494,7 +494,7 @@ Abend war sie völlig normal.
 
 \begin{ROBERT}
  	Ja, sie hat mich nach der Vorstellung noch in irgendeine Bar 
-mitgeschleppt, von der sie gehört hat
+mitgeschleppt, von der sie gehÃ¶rt hat
 \end{ROBERT}
 
 \begin{LILLY}
@@ -502,7 +502,7 @@ mitgeschleppt, von der sie gehört hat
 \end{LILLY}
 
 \begin{ROBERT}
-	Sie hatte unheimlich viel Verständnis für meine ganzen Probleme.
+	Sie hatte unheimlich viel VerstÃ¤ndnis fÃ¼r meine ganzen Probleme.
 \end{ROBERT}
 
 \begin{LILLY}
@@ -512,8 +512,8 @@ zu!
 
 \begin{ROBERT}
 	Nein, nein, sie war unheimlich nett. Sie ist sogar danach noch auf einen 
-Kaffee zu mir rauf gekommen und hat mir von ihren Problemen erzählt. 
-Bis drei Uhr morgens ist sie geblieben. Ich möchte nicht wissen, was 
+Kaffee zu mir rauf gekommen und hat mir von ihren Problemen erzÃ¤hlt. 
+Bis drei Uhr morgens ist sie geblieben. Ich mÃ¶chte nicht wissen, was 
 meine Wirtin sich gedacht hat!
 \end{ROBERT}
 
@@ -530,7 +530,7 @@ meine Wirtin sich gedacht hat!
 \end{LISA}
 
 \begin{LILLY}
-	Es scheint, dass der gute Robbie der Grund für das ganze... Gerda?
+	Es scheint, dass der gute Robbie der Grund fÃ¼r das ganze... Gerda?
 \end{LILLY}
 
 \begin{LISA}
@@ -538,7 +538,7 @@ meine Wirtin sich gedacht hat!
 \end{LISA}
 
 \begin{LILLY}
-	Oh je - das hätt' ich mir denken können!
+	Oh je - das hÃ¤tt' ich mir denken kÃ¶nnen!
 \end{LILLY}
 
 \begin{LISA}
@@ -554,7 +554,7 @@ meine Wirtin sich gedacht hat!
 \end{ROBERT}
 
 \begin{LILLY}
- 	Du tust überhaupt nichts. 
+ 	Du tust Ã¼berhaupt nichts. 
 \end{LILLY}
 
 \begin{ROBERT}
@@ -566,12 +566,12 @@ meine Wirtin sich gedacht hat!
 \end{LILLY}
 
 \begin{LISA}
- 	 Meine Damen und Herren, würden Sie bitte Ihre Plätze 
+ 	 Meine Damen und Herren, wÃ¼rden Sie bitte Ihre PlÃ¤tze 
 einnehmen. Die Vorstellung beginnt in drei Minuten.
 \end{LISA}
 
 \begin{Regie}
-Auftritt CARMEN von den Garderoben, mit einem großen Blumenstrauß.
+Auftritt CARMEN von den Garderoben, mit einem groÃŸen BlumenstrauÃŸ.
 \end{Regie}
 
 \begin{CARMEN}
@@ -591,19 +591,19 @@ Auftritt CARMEN von den Garderoben, mit einem großen Blumenstrauß.
 \end{LISA}
 
 \begin{CARMEN}
-	 Ach... Äh... Die sind bloß, weißt du...
+	 Ach... Ã„h... Die sind bloÃŸ, weiÃŸt du...
 \end{CARMEN}
 
 \begin{LISA}
-	 Ach, Carmen, das ist aber süß von dir! 
+	 Ach, Carmen, das ist aber sÃ¼ÃŸ von dir! 
 \end{LISA}
 
 \begin{CARMEN}
-	Ach... Äh ...
+	Ach... Ã„h ...
 \end{CARMEN}
 
 \begin{LISA}
-	 Ist das nicht süß von ihr?  Ich 
+	 Ist das nicht sÃ¼ÃŸ von ihr?  Ich 
 schau mal eben in der Kneipe nach.  Halt mal.  \begin{Regie}Ab zu den Garderoben.\end{Regie} 
 \end{LISA}
 
@@ -617,7 +617,7 @@ schau mal eben in der Kneipe nach.  Halt mal.  \begin{Regie}Ab zu den Garderoben
 
 \begin{CARMEN}
 	Sie hat zwei Minuten gesagt, ja? Ich werde eine Minute sagen. 
- Meine Damen und Herren, würden Sie bitte Ihre Plätze 
+ Meine Damen und Herren, wÃ¼rden Sie bitte Ihre PlÃ¤tze 
 einnehmen. Die Vorstellung beginnt in einer Minute.  \begin{Regie}Nimmt ROBERT die Blumen wieder ab.\end{Regie}  
 \end{CARMEN}
 
@@ -635,7 +635,7 @@ einnehmen. Die Vorstellung beginnt in einer Minute.  \begin{Regie}Nimmt ROBERT d
 
 \begin{CARMEN}
 	Halt mal.  Meine Damen und 
-Herren, würden Sie bitte Ihre Plätze einnehmen. Die Vorstellung beginnt 
+Herren, wÃ¼rden Sie bitte Ihre PlÃ¤tze einnehmen. Die Vorstellung beginnt 
 in zwei Minuten.
 \end{CARMEN}
 
@@ -680,7 +680,7 @@ LISA kommt von den Garderoben gerannt.
 \end{LISA}
 
 \begin{LILLY}
-	 Nein, sie hängt in Herrenklos rum.
+	 Nein, sie hÃ¤ngt in Herrenklos rum.
 \end{LILLY}
 
 \begin{CARMEN}
@@ -689,7 +689,7 @@ LISA kommt von den Garderoben gerannt.
 \end{CARMEN}
 
 \begin{LISA}
-	 Meine Damen und Herren, würden Sie bitte Ihre Plätze 
+	 Meine Damen und Herren, wÃ¼rden Sie bitte Ihre PlÃ¤tze 
 einnehmen. Die Vorstellung beginnt in zwei Minuten.
 \end{LISA}
 
@@ -699,12 +699,12 @@ einnehmen. Die Vorstellung beginnt in zwei Minuten.
 
 \begin{LISA}
 	Sie hat zwei Minuten gesagt?  Meine Damen und Herren, 
-würden Sie bitte Ihre Plätze einnehmen. Die Vorstellung beginnt in einer 
+wÃ¼rden Sie bitte Ihre PlÃ¤tze einnehmen. Die Vorstellung beginnt in einer 
 Minute.
 \end{LISA}
 
 \begin{CLAUS}
-  \begin{Regie}Auftritt durch die Durchgangstür.\end{Regie}  Himmelarsch, was geht hier vor? 
+  \begin{Regie}Auftritt durch die DurchgangstÃ¼r.\end{Regie}  Himmelarsch, was geht hier vor? 
 \end{CLAUS}
 
 \begin{LILLY}
@@ -712,7 +712,7 @@ Minute.
 \end{LILLY}
 
 \begin{ROBERT}
- 	Großer Gott! 
+ 	GroÃŸer Gott! 
 \end{ROBERT}
 
 \begin{LISA}
@@ -721,20 +721,20 @@ Minute.
 
 \begin{CLAUS}
 	Ich bin auch nicht hier! Ich bin in Villingen-Schwenningen! Aber ich kann 
-nicht da draußen stehen und mir das mit anhören! 'Zwei Minuten... drei 
+nicht da drauÃŸen stehen und mir das mit anhÃ¶ren! 'Zwei Minuten... drei 
 Minuten... eine Minute... zwei Minuten'!
 \end{CLAUS}
 
 \begin{LILLY}
-	Schätzchen, hinten in den Garderoben spielen sich Dramen ab!
+	SchÃ¤tzchen, hinten in den Garderoben spielen sich Dramen ab!
 \end{LILLY}
 
 \begin{CLAUS}
 	Was meinst du, das sich vorne im Parkett abspielt?!  Das ist 
-eine Nachmittagsvorstellung, Schnuckiputz! Da draußen sitzen lauter 
-Rentner! 'Die Vorstellung beginnt in drei Minuten1. Alles stürzt zu den 
+eine Nachmittagsvorstellung, Schnuckiputz! Da drauÃŸen sitzen lauter 
+Rentner! 'Die Vorstellung beginnt in drei Minuten1. Alles stÃ¼rzt zu den 
 Toiletten. 'Die Vorstellung beginnt in einer	Minute' - alles kommt wieder 
-rausgestürzt. Chaos total!
+rausgestÃ¼rzt. Chaos total!
 \end{CLAUS}
 
 \begin{LISA}
@@ -742,7 +742,7 @@ rausgestürzt. Chaos total!
 \end{LISA}
 
 \begin{CLAUS}
-	 Natürlich, Schätzchen, natürlich. Nachher, okay?
+	 NatÃ¼rlich, SchÃ¤tzchen, natÃ¼rlich. Nachher, okay?
 \end{CLAUS}
 
 \begin{LISA}
@@ -750,7 +750,7 @@ rausgestürzt. Chaos total!
 \end{LISA}
 
 \begin{CLAUS}
-	Sicher, Süße. Wahnsinnig gefreut.
+	Sicher, SÃ¼ÃŸe. Wahnsinnig gefreut.
 \end{CLAUS}
 
 \begin{LISA}
@@ -766,7 +766,7 @@ rausgestürzt. Chaos total!
 \end{LISA}
 
 \begin{CLAUS}
-	Ich höre.
+	Ich hÃ¶re.
 \end{CLAUS}
 
 \begin{LISA}
@@ -782,11 +782,11 @@ Auftritt VANESSA von den Garderoben, mit dem Whisky.
 \end{LILLY}
 
 \begin{CLAUS}
-	 Später, später. Okay?
+	 SpÃ¤ter, spÃ¤ter. Okay?
 \end{CLAUS}
 
 \begin{Regie}
-VANESSA hält den Whisky in die Höhe. 
+VANESSA hÃ¤lt den Whisky in die HÃ¶he. 
 \end{Regie}
 
 \begin{LILLY}
@@ -798,7 +798,7 @@ VANESSA hält den Whisky in die Höhe.
 \end{VANESSA}
 
 \begin{LILLY}
-	In deiner Garderobe?  Es gerät völlig außer Kontrolle.
+	In deiner Garderobe?  Es gerÃ¤t vÃ¶llig auÃŸer Kontrolle.
 \end{LILLY}
 
 \begin{ROBERT}
@@ -822,11 +822,11 @@ VANESSA hält den Whisky in die Höhe.
 \end{VANESSA}
 
 \begin{CLAUS}
- 	Wäre ich sonst herbeigeeilt, Schätzchen? Wäre ich sonst herbeigeeilt??
+ 	WÃ¤re ich sonst herbeigeeilt, SchÃ¤tzchen? WÃ¤re ich sonst herbeigeeilt??
 \end{CLAUS}
 
 \begin{VANESSA}
-	Claus, wir müssen miteinander reden.
+	Claus, wir mÃ¼ssen miteinander reden.
 \end{VANESSA}
 
 \begin{CLAUS}
@@ -838,7 +838,7 @@ VANESSA hält den Whisky in die Höhe.
 \end{VANESSA}
 
 \begin{CLAUS}
-	Später, ja? Später. Blumen? 
+	SpÃ¤ter, ja? SpÃ¤ter. Blumen? 
 \end{CLAUS}
 
 \begin{ROBERT}
@@ -870,7 +870,7 @@ Legt sie aufs Pult in der Souffleurecke.
 
 \begin{CLAUS}
  	Ein andermal, sei so lieb. Ein andermal.  Wenn du Carmen 
-siehst, erdrossele sie für mich, ja?
+siehst, erdrossele sie fÃ¼r mich, ja?
 \end{CLAUS}
 
 \begin{ROBERT}
@@ -878,7 +878,7 @@ siehst, erdrossele sie für mich, ja?
 \end{ROBERT}
 
 \begin{Regie}
-CLAUS geht zur Durchgangstür. 
+CLAUS geht zur DurchgangstÃ¼r. 
 \end{Regie}
 
 \begin{LILLY}
@@ -902,10 +902,10 @@ CLAUS geht zur Durchgangstür.
 \end{LILLY}
 
 \begin{CLAUS}
- 	Hört zu, ich glaube, an dieser Vorstellung sollte ein Regisseur nicht mehr 
-rühren. Spielt einfach drauflos. Ich werde da draußen im Dunkeln mit 'ner 
-Tüte Toffees sitzen und mich amüsieren. Okay? 'In einer Minute', hieß 
-das letzte Zeichen, falls euer Gedächtnis so weit zurückreicht.
+ 	HÃ¶rt zu, ich glaube, an dieser Vorstellung sollte ein Regisseur nicht mehr 
+rÃ¼hren. Spielt einfach drauflos. Ich werde da drauÃŸen im Dunkeln mit 'ner 
+TÃ¼te Toffees sitzen und mich amÃ¼sieren. Okay? 'In einer Minute', hieÃŸ 
+das letzte Zeichen, falls euer GedÃ¤chtnis so weit zurÃ¼ckreicht.
 \end{CLAUS}
 
 \begin{VANESSA}
@@ -917,8 +917,8 @@ das letzte Zeichen, falls euer Gedächtnis so weit zurückreicht.
 \end{LISA}
 
 \begin{Regie}
-CLAUS durch die Durchgangstür ab. LISA und VANESSA wollen ihm gleichzeitig 
-nachstürzen.
+CLAUS durch die DurchgangstÃ¼r ab. LISA und VANESSA wollen ihm gleichzeitig 
+nachstÃ¼rzen.
 \end{Regie}
 
 \begin{VANESSA}
@@ -930,17 +930,17 @@ nachstürzen.
 \end{LISA}
 
 \begin{ROBERT}
-	 Mädchen, Mädchen!
+	 MÃ¤dchen, MÃ¤dchen!
 \end{ROBERT}
 
 \begin{LILLY}
-	 Vanessa, setz dich hin und mach deine Meditationsübungen. 
+	 Vanessa, setz dich hin und mach deine MeditationsÃ¼bungen. 
 Lisa, geh und sieh nach, was sich bei Heide und Gunther tut.
 \end{LILLY}
 
 \begin{Regie}
 VANESSA setzt sich widerstrebend auf den Stuhl. LISA ab zu den Garderoben.
-Auftritt GERDA, eilig, durch die Durchgangstür.
+Auftritt GERDA, eilig, durch die DurchgangstÃ¼r.
 \end{Regie}
 
 \begin{GERDA}
@@ -954,16 +954,16 @@ Auftritt GERDA, eilig, durch die Durchgangstür.
 \begin{ROBERT}
 	Alles okay?
  \begin{Regie}Streckt ihr herzlich die Hand entgegen, merkt dann, dass er in dieser die 
-Whiskyflasche hält.\end{Regie}  Oh je.
- \begin{Regie}Versteckt sie eilig hinter dem Rücken.\end{Regie} 
+Whiskyflasche hÃ¤lt.\end{Regie}  Oh je.
+ \begin{Regie}Versteckt sie eilig hinter dem RÃ¼cken.\end{Regie} 
 \end{ROBERT}
 
 \begin{LILLY}
-	Wir haben dich überall gesucht!
+	Wir haben dich Ã¼berall gesucht!
 \end{LILLY}
 
 \begin{GERDA}
- 	Oh ja, überall. Im Parkett - im Büro - in der Bar - nirgends eine Spur von ihr.
+ 	Oh ja, Ã¼berall. Im Parkett - im BÃ¼ro - in der Bar - nirgends eine Spur von ihr.
 \end{GERDA}
 
 \begin{LILLY}
@@ -975,12 +975,12 @@ Whiskyflasche hält.\end{Regie}  Oh je.
 \end{GERDA}
 
 \begin{LILLY}
- 	Schätzchen, ich nehme an, sie hat davon gehört.
+ 	SchÃ¤tzchen, ich nehme an, sie hat davon gehÃ¶rt.
 \end{LILLY}
 
 \begin{GERDA}
  	Oh ja, jedes Wort! Mann, sie hat's ihm vielleicht gegeben! Er darauf: 'Ich 
-weiß, wenn du auf jemanden scharf bist! '
+weiÃŸ, wenn du auf jemanden scharf bist! '
 \end{GERDA}
 
 \begin{ROBERT}
@@ -988,12 +988,12 @@ weiß, wenn du auf jemanden scharf bist! '
 \end{ROBERT}
 
 \begin{GERDA}
- 	Und dann sacht er noch: ‚Hab doch gesehen, wie du dich mit dem 
-Blödmann in dunkle Ecken verdrückst.’ 
+ 	Und dann sacht er noch: â€šHab doch gesehen, wie du dich mit dem 
+BlÃ¶dmann in dunkle Ecken verdrÃ¼ckst.â€™ 
 \end{GERDA}
 
 \begin{ROBERT}
- 	Mit welchem Blödmann?
+ 	Mit welchem BlÃ¶dmann?
 \end{ROBERT}
 
 \begin{LILLY}
@@ -1001,7 +1001,7 @@ Blödmann in dunkle Ecken verdrückst.’
 \end{LILLY}
 
 \begin{ROBERT}
- 	Aber wer ist sonst noch da? Außer mir?
+ 	Aber wer ist sonst noch da? AuÃŸer mir?
 \end{ROBERT}
 
 \begin{LISA}
@@ -1017,12 +1017,12 @@ Blödmann in dunkle Ecken verdrückst.’
 \end{ROBERT}
 
 \begin{LISA}
-	Okay.  Meine Damen und Herren, würden Sie bitte Ihre Plätze 
+	Okay.  Meine Damen und Herren, wÃ¼rden Sie bitte Ihre PlÃ¤tze 
 einnehmen. Die Vorstellung beginnt.
 \end{LISA}
 
 \begin{CARMEN}
-  \begin{Regie}im Einbrecherkostüm, von den Garderoben.\end{Regie} 	Sie kommen.
+  \begin{Regie}im EinbrecherkostÃ¼m, von den Garderoben.\end{Regie} 	Sie kommen.
 \end{CARMEN}
 
 \begin{LILLY}
@@ -1030,7 +1030,7 @@ einnehmen. Die Vorstellung beginnt.
 \end{LILLY}
 
 \begin{CARMEN}
- 	 Meine Damen und Herren, würden Sie bitte Ihre Plätze einnehmen.
+ 	 Meine Damen und Herren, wÃ¼rden Sie bitte Ihre PlÃ¤tze einnehmen.
 \end{CARMEN}
 
 \begin{LISA}
@@ -1062,7 +1062,7 @@ einnehmen. Die Vorstellung beginnt.
 \end{LILLY}
 
 \begin{GERDA}
-	Nein, die Wände sind sehr dünn, weißt du. ,Ich hab's so was von satt', 
+	Nein, die WÃ¤nde sind sehr dÃ¼nn, weiÃŸt du. ,Ich hab's so was von satt', 
 schreit sie...  Nanu, ich bin wohl so eine Art Trendsetter?
 \end{GERDA}
 
@@ -1071,7 +1071,7 @@ schreit sie...  Nanu, ich bin wohl so eine Art Trendsetter?
 \end{CARMEN}
 
 \begin{LILLY}
-	 Probe für die zweite Besetzung, mein Schatz.
+	 Probe fÃ¼r die zweite Besetzung, mein Schatz.
 \end{LILLY}
 
 \begin{GERDA}
@@ -1088,8 +1088,8 @@ schreit sie...  Nanu, ich bin wohl so eine Art Trendsetter?
 
 \begin{ROBERT}
  	 Alles okay?
- \begin{Regie}Nimmt den Karton und die Flugtasche vom Requisitentisch und hält sie 
-GUNTHER lächelnd hin, der sie ihm wütend entreißt.\end{Regie} 
+ \begin{Regie}Nimmt den Karton und die Flugtasche vom Requisitentisch und hÃ¤lt sie 
+GUNTHER lÃ¤chelnd hin, der sie ihm wÃ¼tend entreiÃŸt.\end{Regie} 
 \end{ROBERT}
 
 \begin{GERDA}
@@ -1097,11 +1097,11 @@ GUNTHER lächelnd hin, der sie ihm wütend entreißt.\end{Regie}
 \end{GERDA}
 
 \begin{LILLY}
-	Er hat gar nichts gesagt, Schätzchen.
+	Er hat gar nichts gesagt, SchÃ¤tzchen.
 \end{LILLY}
 
 \begin{GERDA}
-	Sehr gescheit. Nur nicht in der Wunde rühren. Ich seh doch, wie du ihm 
+	Sehr gescheit. Nur nicht in der Wunde rÃ¼hren. Ich seh doch, wie du ihm 
 immerfort zunickst', hat er gesagt.
 \end{GERDA}
 
@@ -1114,7 +1114,7 @@ Auftritt HEIDE von den Garderoben.
 \end{LILLY}
 
 \begin{GERDA}
-	Ach, sie ist wieder aufgetaucht. Los, Mädchen! Dein Typ wird verlangt!
+	Ach, sie ist wieder aufgetaucht. Los, MÃ¤dchen! Dein Typ wird verlangt!
 \end{GERDA}
 
 \begin{ROBERT}
@@ -1126,7 +1126,7 @@ Auftritt HEIDE von den Garderoben.
 \end{GERDA}
 
 \begin{Regie}
-HEIDE seufzt nur tief, lächelt und drückt leicht LILLYs Arm. Sie bezieht ihre 
+HEIDE seufzt nur tief, lÃ¤chelt und drÃ¼ckt leicht LILLYs Arm. Sie bezieht ihre 
 Position am Eingang des Personaltrakt - eine Frau, der bitteres Unrecht 
 widerfahren ist. GUNTHER wendet sich ostentativ ab.
 \end{Regie}
@@ -1136,15 +1136,15 @@ widerfahren ist. GUNTHER wendet sich ostentativ ab.
 \end{LILLY}
 
 \begin{CARMEN}
-	Was ist? Können wir?
+	Was ist? KÃ¶nnen wir?
 \end{CARMEN}
 
 \begin{GERDA}
-	Hier ein Küsschen, da ein Küsschen.
+	Hier ein KÃ¼sschen, da ein KÃ¼sschen.
 \end{GERDA}
 
 \begin{LILLY}
-	Pscht, Schätzchen.
+	Pscht, SchÃ¤tzchen.
 \end{LILLY}
 
 \begin{LISA}
@@ -1154,23 +1154,23 @@ widerfahren ist. GUNTHER wendet sich ostentativ ab.
 \begin{Regie}
 ALLE blicken gespannt von HEIDE zu GUNTHER und wieder zu HEIDE. Beide 
 ignorieren die Blicke und ignorieren einander. Dann drehen sich beide im selben 
-Augenblick um und werfen einen prüfenden Blick in die kleinen Spiegel, die hinter 
-der Bühne angebracht sind.
+Augenblick um und werfen einen prÃ¼fenden Blick in die kleinen Spiegel, die hinter 
+der BÃ¼hne angebracht sind.
 \end{Regie}
 
 \begin{ROBERT}
- 	Hör mal, Heide... Hör mal, Gunther... Ich will keine große Rede halten, 
-aber Tatsache ist, wir müssen da raus und eine Vorstellung zustande 
-bringen, und...äh...
+ 	HÃ¶r mal, Heide... HÃ¶r mal, Gunther... Ich will keine groÃŸe Rede halten, 
+aber Tatsache ist, wir mÃ¼ssen da raus und eine Vorstellung zustande 
+bringen, und...Ã¤h...
 \end{ROBERT}
 
 \begin{LILLY}
-	Das können wir nicht schweigend tun, meine Süßen! Wir müssen schon 
+	Das kÃ¶nnen wir nicht schweigend tun, meine SÃ¼ÃŸen! Wir mÃ¼ssen schon 
 miteinander sprechen!
 \end{LILLY}
 
 \begin{Regie}
-Pause. Weder HEIDE noch GUNTHER scheinen es gehört zu haben.
+Pause. Weder HEIDE noch GUNTHER scheinen es gehÃ¶rt zu haben.
 \end{Regie}
 
 \begin{HEIDE}
@@ -1178,7 +1178,7 @@ Pause. Weder HEIDE noch GUNTHER scheinen es gehört zu haben.
 \end{HEIDE}
 
 \begin{LILLY}
- 	So ist's recht, Schätzchen! 
+ 	So ist's recht, SchÃ¤tzchen! 
 \end{LILLY}
 
 \begin{ROBERT}
@@ -1186,7 +1186,7 @@ Pause. Weder HEIDE noch GUNTHER scheinen es gehört zu haben.
 \end{ROBERT}
 
 \begin{CARMEN}
- 	Nicht schlecht. Ich meine, für 'ne Nachmittagsvorstellung.
+ 	Nicht schlecht. Ich meine, fÃ¼r 'ne Nachmittagsvorstellung.
 \end{CARMEN}
 
 \begin{LISA}
@@ -1194,8 +1194,8 @@ Pause. Weder HEIDE noch GUNTHER scheinen es gehört zu haben.
 \end{LISA}
 
 \begin{GERDA}
- 	 Los, Mädchen, zieh den Lappen hoch! Ein paar von den guten 
-Leuten da draußen haben nicht mehr viel Zeit.
+ 	 Los, MÃ¤dchen, zieh den Lappen hoch! Ein paar von den guten 
+Leuten da drauÃŸen haben nicht mehr viel Zeit.
 \end{GERDA}
 
 \begin{LISA}
@@ -1203,11 +1203,11 @@ Leuten da draußen haben nicht mehr viel Zeit.
 \end{LISA}
 
 \begin{ROBERT}
- 	Ein Wort hätte ich gern noch gesagt... Moment, Lisa...
+ 	Ein Wort hÃ¤tte ich gern noch gesagt... Moment, Lisa...
 \end{ROBERT}
 
 \begin{GERDA}
- 	Zwei Worte hätte ich gern noch gesagt. Die Sardinen! 
+ 	Zwei Worte hÃ¤tte ich gern noch gesagt. Die Sardinen! 
 \end{GERDA}
 
 \begin{LILLY}
@@ -1219,7 +1219,7 @@ Leuten da draußen haben nicht mehr viel Zeit.
 \end{ROBERT}
 
 \begin{Regie}
-Lilly eilt zum Requisitentisch, um den Sardinenteller für HEIDEs ersten Auftritt zu 
+Lilly eilt zum Requisitentisch, um den Sardinenteller fÃ¼r HEIDEs ersten Auftritt zu 
 holen.
 \end{Regie}
 
@@ -1230,7 +1230,7 @@ holen.
 \Seite{59}
 
 \begin{CLAUS}
-  \begin{Regie}durch die Durchgangstür. \end{Regie} 	Was soll denn das? 
+  \begin{Regie}durch die DurchgangstÃ¼r. \end{Regie} 	Was soll denn das? 
 \end{CLAUS}
 
 \begin{CARMEN}
@@ -1256,11 +1256,11 @@ dich einer Gehirntransplantation zu unterziehen?
 \end{ROBERT}
 
 \begin{CLAUS}
-	Sonst noch jemand, der glaubt, seine Gedanken kundtun zu müssen?
+	Sonst noch jemand, der glaubt, seine Gedanken kundtun zu mÃ¼ssen?
 \end{CLAUS}
 
 \begin{LISA}
- 	Also, natürlich nicht jetzt, aber...
+ 	Also, natÃ¼rlich nicht jetzt, aber...
 \end{LISA}
 
 \begin{CLAUS}
@@ -1268,39 +1268,39 @@ dich einer Gehirntransplantation zu unterziehen?
 \end{CLAUS}
 
 \begin{LISA}
- 	Ich meine, äh, später...
+ 	Ich meine, Ã¤h, spÃ¤ter...
 \end{LISA}
 
 \begin{CLAUS}
-	Und du hast diese Blumen für Lisa gekauft?
+	Und du hast diese Blumen fÃ¼r Lisa gekauft?
 \end{CLAUS}
 
 \begin{CARMEN}
-	Nein.  Das heißt... ja.
+	Nein.  Das heiÃŸt... ja.
 \end{CARMEN}
 
 \begin{CLAUS}
- 	Und für mich hast du keine Blumen gekauft? 
+ 	Und fÃ¼r mich hast du keine Blumen gekauft? 
 \end{CLAUS}
 
 \begin{CARMEN}
-	Nein. Das heißt... nein...
+	Nein. Das heiÃŸt... nein...
 \end{CARMEN}
 
 \begin{CLAUS}
-	Carmen, hast du schon mal von so etwas wie einem Eifersuchtsdrama gehört?
+	Carmen, hast du schon mal von so etwas wie einem Eifersuchtsdrama gehÃ¶rt?
 \end{CLAUS}
 
 \begin{CARMEN}
- 	Ja. Das heißt... ja...
+ 	Ja. Das heiÃŸt... ja...
 \end{CARMEN}
 
 \begin{CLAUS}
 	Dann nimm zehn Pfund aus deiner eigenen Tasche, Carmen, und geh in 
-den Blumenladen und kauf Blumen für mich!
-Hat sie für Lisa gekauft! Ihr zwei könntet Freddies altes Gehirn haben. Ihr 
-könntet's euch teilen.
- \begin{Regie}Durch die Durchgangstür ab. LISA schluchzt.\end{Regie}  
+den Blumenladen und kauf Blumen fÃ¼r mich!
+Hat sie fÃ¼r Lisa gekauft! Ihr zwei kÃ¶nntet Freddies altes Gehirn haben. Ihr 
+kÃ¶nntet's euch teilen.
+ \begin{Regie}Durch die DurchgangstÃ¼r ab. LISA schluchzt.\end{Regie}  
 \end{CLAUS}
 
 \begin{ROBERT}
@@ -1312,16 +1312,16 @@ könntet's euch teilen.
 \end{LILLY}
 
 \begin{GERDA}
- 	Du wirst gebraucht, Mädchen.
+ 	Du wirst gebraucht, MÃ¤dchen.
 \end{GERDA}
 
 \begin{LISA}
  	 Alles bereit, bitte. Technik bitte bereit.
-GUNTHER: 	 Scheiße! 
+GUNTHER: 	 ScheiÃŸe! 
 \end{LISA}
 
 \begin{LISA}
-	Ruhe hinter der Bühne!
+	Ruhe hinter der BÃ¼hne!
 \end{LISA}
 
 \begin{LILLY}
@@ -1329,7 +1329,7 @@ GUNTHER: 	 Scheiße!
 \end{LILLY}
 
 \begin{LISA}
-\begin{Regie} Über Lautsprecher, unter Tränen. \end{Regie}
+\begin{Regie} Ãœber Lautsprecher, unter TrÃ¤nen. \end{Regie}
  Musikeinsatz ein - jetzt.
 \end{LISA}
 
@@ -1337,7 +1337,7 @@ GUNTHER: 	 Scheiße!
 \Einstellung{Windows Media Player AkkordeonClub 1}
 \begin{Regie} Musik laut. \end{Regie}
 \Seite{60}
-\Einstellung{Hinter-Vorder-Bühne}
+\Einstellung{Hinter-Vorder-BÃ¼hne}
 \begin{Regie}
 Nach etwa 10 (heute 20!!!) Sekunden  ...
 \end{Regie}
@@ -1353,24 +1353,24 @@ Auftritt MRS.CLACKETT vom Personaltrakt, mit einem Teller Sardinen
 
 \begin{MRSC}
 	Ja, ja, bimmel du nur...
-Ich kann nicht gleichzeitig Sardinen öffnen und das Telefon 
-beantworten. Ich habe nur ein Paar Füße.
+Ich kann nicht gleichzeitig Sardinen Ã¶ffnen und das Telefon 
+beantworten. Ich habe nur ein Paar FÃ¼ÃŸe.
 \end{MRSC}
 
 \begin{Regie}
 Stellt die Sardinen auf den Telefontisch neben dem Sofa 
-und nimmt den Hörer ab
-GERDA, LILLY und ROBERT drücken stumm ihre Erleichterung darüber aus, 
-dass die Vorstellung endlich begonnen hat. Sie lassen sich auf den Stühlen 
+und nimmt den HÃ¶rer ab
+GERDA, LILLY und ROBERT drÃ¼cken stumm ihre Erleichterung darÃ¼ber aus, 
+dass die Vorstellung endlich begonnen hat. Sie lassen sich auf den StÃ¼hlen 
 nieder.
 CARMEN zieht seinen Regenmantel an, nimmt seine Brieftasche heraus, wirft 
 einen Blick auf seine Barschaft und geht ab zu den Garderoben.
 LILLY macht die anderen darauf aufmerksam, dass GUNTHER mit dem Kopf 
-beharrlich gegen die Kulissenrückwand hämmert.
-ROBERT stellt den Whisky auf den Stuhl und geht hinüber zu GUNTHER. LILLY 
-beobachtet besorgt, wie ROBERT teilnahmsvoll GUNTHERs Arm drückt und 
-lächelnd den Finger auf die Lippen legt, um ihn zu ermahnen, leise zu sein. 
-GUNTHER schüttelt ihn entrüstet ab.
+beharrlich gegen die KulissenrÃ¼ckwand hÃ¤mmert.
+ROBERT stellt den Whisky auf den Stuhl und geht hinÃ¼ber zu GUNTHER. LILLY 
+beobachtet besorgt, wie ROBERT teilnahmsvoll GUNTHERs Arm drÃ¼ckt und 
+lÃ¤chelnd den Finger auf die Lippen legt, um ihn zu ermahnen, leise zu sein. 
+GUNTHER schÃ¼ttelt ihn entrÃ¼stet ab.
 \end{Regie}
 
 \begin{MRSC}
@@ -1379,25 +1379,25 @@ Mr.Brent ist nicht hier...
 \end{MRSC}
 
 \begin{Regie}
-LILLY eilt hinüber, um ROBERT wegzuziehen.
-ROBERT begreift nicht, womit er Ärgernis erregt haben soll. Er demonstriert, was 
-er getan hat, indem er GUNTHERs Arm noch einmal freundschaftlich drückt.
-GUNTHER lässt seine Requisiten fallen und bedroht ROBERT mit den Fäusten. 
+LILLY eilt hinÃ¼ber, um ROBERT wegzuziehen.
+ROBERT begreift nicht, womit er Ã„rgernis erregt haben soll. Er demonstriert, was 
+er getan hat, indem er GUNTHERs Arm noch einmal freundschaftlich drÃ¼ckt.
+GUNTHER lÃ¤sst seine Requisiten fallen und bedroht ROBERT mit den FÃ¤usten. 
 ROBERT verbirgt sich hinter VANESSA, die auf ihren Auftritt wartet. GUNTHER 
 jagt ihm um sie herum hinterher.
-ROBERT hält sich eiligst ein Taschentuch vor die Nase.
+ROBERT hÃ¤lt sich eiligst ein Taschentuch vor die Nase.
 \end{Regie}
 
 \begin{MRSC} Er wohnt hier, ja, aber jetzt wohnt er nicht hier, weil er in 
-Spanien wohnt... Mr.Philip Brent, richtig... Der, wo die Stücke 
-schreibt, genau, bloß jetzt schreibt er sie in Spanien... Nein, 
+Spanien wohnt... Mr.Philip Brent, richtig... Der, wo die StÃ¼cke 
+schreibt, genau, bloÃŸ jetzt schreibt er sie in Spanien... Nein, 
 die ist auch in Spanien, sie sind alle in Spanien, es ist niemand 
 hier... Ob ich in Spanien bin? Nein, ich bin nicht in Spanien, 
 Herzchen...
 \end{MRSC}
 
 \begin{Regie}
-Gunter holt aus und Robert hält sich die Nase, dann
+Gunter holt aus und Robert hÃ¤lt sich die Nase, dann
 \end{Regie}
 \Einstellung{Schnell Dunkel}
 \begin{Regie}
@@ -1405,7 +1405,7 @@ Nach etwa 3 Sekunden:
 \end{Regie}
 \Einstellung{Umbau}
 \begin{Regie}
-Wie lange? Bis Donatus durch die Türe abgegangen ist.
+Wie lange? Bis Donatus durch die TÃ¼re abgegangen ist.
 \end{Regie}
 \Einstellung{Schnell HVB}
 
@@ -1413,8 +1413,8 @@ Wie lange? Bis Donatus durch die Türe abgegangen ist.
 
 
 \begin{Regie}
-HEIDE tröstet ROBERT. LILLY gießt Öl ins Feuer, indem sie HEIDEs Kopf, der 
-sich nah an Roberts Kopf  befindet, in eine unverfänglichere Position zu schieben 
+HEIDE trÃ¶stet ROBERT. LILLY gieÃŸt Ã–l ins Feuer, indem sie HEIDEs Kopf, der 
+sich nah an Roberts Kopf  befindet, in eine unverfÃ¤nglichere Position zu schieben 
 versucht.
 \end{Regie}
 
@@ -1427,7 +1427,7 @@ versucht.
 \end{ROGER}
 
 \begin{VICKI}
-	Du weißt schon...
+	Du weiÃŸt schon...
 \end{VICKI}
 
 \begin{ROGER}
@@ -1436,9 +1436,9 @@ versucht.
 
 \begin{Regie}
 GUNTHER geht ab.
-Öffnet ihr die Tür zum unteren Bad.
-und stürzt auf ROBERT und HEIDE zu.
-LILLY schiebt ihn zurück auf die Bühne.
+Ã–ffnet ihr die TÃ¼r zum unteren Bad.
+und stÃ¼rzt auf ROBERT und HEIDE zu.
+LILLY schiebt ihn zurÃ¼ck auf die BÃ¼hne.
 \end{Regie}
 
 \begin{VICKI}
@@ -1448,7 +1448,7 @@ LILLY schiebt ihn zurück auf die Bühne.
 \begin{Regie}
 Ab ins Bad.
 LILLY gelingt es mit knapper Not, HEIDE von ihren Hilfeleistungen wegzulotsen 
-und für ihren Auftritt auf die Bühne zu bugsieren.
+und fÃ¼r ihren Auftritt auf die BÃ¼hne zu bugsieren.
 Auftritt MRS.C. aus dem Arbeitszimmer, ohne Zeitung.
 \end{Regie}
 
@@ -1457,10 +1457,10 @@ Auftritt MRS.C. aus dem Arbeitszimmer, ohne Zeitung.
 \end{MRSC}
 
 \begin{Regie}
-LILLY versucht, ROBERT zu erklären, dass HEIDE Gefallen an ihm gefunden 
+LILLY versucht, ROBERT zu erklÃ¤ren, dass HEIDE Gefallen an ihm gefunden 
 hat. ROBERT versteht kein Wort.
-Beiderseitige Überraschung. ROGER schließt die Tür 
-zum Bad und steckt den Champagner schnell zurück in 
+Beiderseitige Ãœberraschung. ROGER schlieÃŸt die TÃ¼r 
+zum Bad und steckt den Champagner schnell zurÃ¼ck in 
 die Tasche
 \end{Regie}
 
@@ -1469,9 +1469,9 @@ die Tasche
 \end{ROGER}
 
 \begin{MRSC}
-	...Ich bin nicht hier. Ich bin schon weg, bloß ist doch jetzt das 
-Begräbnis von Sie wissen schon, der, wo aufgebahrt ist im 
-Musoläum, und wer sind Sie?
+	...Ich bin nicht hier. Ich bin schon weg, bloÃŸ ist doch jetzt das 
+BegrÃ¤bnis von Sie wissen schon, der, wo aufgebahrt ist im 
+MusolÃ¤um, und wer sind Sie?
 \end{MRSC}
 
 \begin{Regie}
@@ -1481,29 +1481,29 @@ LILLY muss abbrechen, um VANESSA daran zu erinnern...
 \begin{ROGER}
 	Ich bin von der Agentur. Ich bin nur vorbeigekommen, um... ein 
 paar Dinge zu begutachten.
-...die Badezimmertür aufzustoßen.--
-	Einige Maße zu überprüfen... 
+...die BadezimmertÃ¼r aufzustoÃŸen.--
+	Einige MaÃŸe zu Ã¼berprÃ¼fen... 
 \end{ROGER}
 
 \begin{Regie}
-LILLY macht plötzlich darauf aufmerksam, dass GERDA den Whisky entdeckt 
+LILLY macht plÃ¶tzlich darauf aufmerksam, dass GERDA den Whisky entdeckt 
 hat, den ROBERT auf dem. Stuhl stehen gelassen hatte.
-	Ach ja, und ich habe eine Interessentin für das Haus dabei
-GERDA öffnet die Flasche, riecht daran, schließt sie und geht damit ab zu den 
+	Ach ja, und ich habe eine Interessentin fÃ¼r das Haus dabei
+GERDA Ã¶ffnet die Flasche, riecht daran, schlieÃŸt sie und geht damit ab zu den 
 Garderoben.
-Die Badezimmertür öffnet sich. 
+Die BadezimmertÃ¼r Ã¶ffnet sich. 
 \end{Regie}
 
 \begin{VICKI}
- 	Was ist denn mit dieser Tür los?
+ 	Was ist denn mit dieser TÃ¼r los?
 \end{VICKI}
 
 \Seite{62}
 
 \begin{Regie}
-ROGER schließt sie.
+ROGER schlieÃŸt sie.
 ROBERT will GERDA folgen. LILLY bedeutet ihm, hier zu warten - ruhig sitzen zu 
-bleiben - überhaupt nichts zu tun - während sie GERDA hinterher rennen wird...
+bleiben - Ã¼berhaupt nichts zu tun - wÃ¤hrend sie GERDA hinterher rennen wird...
 \end{Regie}
 
 \begin{ROGER}
@@ -1512,7 +1512,7 @@ bleiben - überhaupt nichts zu tun - während sie GERDA hinterher rennen wird...
 
 \begin{Regie}
 VICKI wird von Donatus aus dem Bad gezogen. D.h. Vicki
-verschwindet nach hinten auf die Bühne.
+verschwindet nach hinten auf die BÃ¼hne.
 \end{Regie}
 
 \Einstellung{Schnell Dunkel}
@@ -1534,7 +1534,7 @@ sich die Flugtasche, schafft es gerade noch, HEIDE den Whisky zu geben und...
 
 \begin{PHILIP}
  Ja, aber heute ist Mrs. 
-Clacketts freier Nachmittag, wie du weißt.
+Clacketts freier Nachmittag, wie du weiÃŸt.
 \end{PHILIP}
 
 \begin{Regie}
@@ -1555,7 +1555,7 @@ Auftritt GERDA von den Garderoben.
 \end{Regie}
 
 \begin{FLAVIA}
-	In unseren eigenen vier Wänden!
+	In unseren eigenen vier WÃ¤nden!
 \end{FLAVIA}
 
 \begin{Regie}
@@ -1563,33 +1563,33 @@ Er bittet HEIDE um den Whisky.
 \end{Regie}
 
 \begin{PHILIP}
- 	Die nur darauf gewartet haben, dass wir zurückkommen!
+ 	Die nur darauf gewartet haben, dass wir zurÃ¼ckkommen!
 \end{PHILIP}
 
 \begin{Regie}
 HEIDE jedoch wird durch GUNTHER abgelenkt, der ihr leise aber mit Nachdruck 
-erklärt, dass er diese heimlichen Zusammenkünfte mit ROBERT nicht länger 
+erklÃ¤rt, dass er diese heimlichen ZusammenkÃ¼nfte mit ROBERT nicht lÃ¤nger 
 dulden wird.
 \end{Regie}
 
 \begin{FLAVIA}
- 	Trotzdem, es ist ein komisches Gefühl, sich so 
+ 	Trotzdem, es ist ein komisches GefÃ¼hl, sich so 
 hereinzuschleichen - an unserem Hochzeitstag!
 \end{FLAVIA}
 
 \begin{Regie}
 PHILIP nimmt Tasche und Karton und geleitet FLAVIA 
 zur Treppe.
-GERDA ist verzweifelt bemüht, GUNTHER und HEIDE den Whisky zu entwinden, 
-während sie sich streiten.
+GERDA ist verzweifelt bemÃ¼ht, GUNTHER und HEIDE den Whisky zu entwinden, 
+wÃ¤hrend sie sich streiten.
 \end{Regie}
 
 \begin{PHILIP}
-	Es hat doch was für sich, ein Steuerflüchtling zu sein.
+	Es hat doch was fÃ¼r sich, ein SteuerflÃ¼chtling zu sein.
 \end{PHILIP}
 
 \begin{Regie}
-GUNTHER und HEIDE fahren ihn beide wütend an.
+GUNTHER und HEIDE fahren ihn beide wÃ¼tend an.
 \end{Regie}
 
 \begin{FLAVIA}
@@ -1597,9 +1597,9 @@ GUNTHER und HEIDE fahren ihn beide wütend an.
 \end{FLAVIA}
 
 \begin{Regie}
-Er stellt Tasche und Karton ab und küsst FLAVIA. Sie 
-flüchtet lachend die Treppe hinauf. Er folgt ihr.
-GUNTHER beschwört HEIDE, von ROBERT zu lassen - kniet - weint - klammert 
+Er stellt Tasche und Karton ab und kÃ¼sst FLAVIA. Sie 
+flÃ¼chtet lachend die Treppe hinauf. Er folgt ihr.
+GUNTHER beschwÃ¶rt HEIDE, von ROBERT zu lassen - kniet - weint - klammert 
 sich an ihren Sardinenteller.
 \end{Regie}
 
@@ -1612,16 +1612,16 @@ sich an ihren Sardinenteller.
 \end{FLAVIA}
 
 \begin{PHILIP}
-	Das Finanzamt könnte uns hören!
+	Das Finanzamt kÃ¶nnte uns hÃ¶ren!
 \end{PHILIP}
 
 \Seite{63}
 
 \begin{Regie}
-HEIDE reißt sich von GUNTHER los und geht, um aufzutreten.
-Sie schleichen zur Schlafzimmertür.
+HEIDE reiÃŸt sich von GUNTHER los und geht, um aufzutreten.
+Sie schleichen zur SchlafzimmertÃ¼r.
 GERDA weist darauf hin, dass Heide immer noch den Whisky in der Hand hat.
-GUNTHER nimmt ihn ihr ab, während sie auftritt.
+GUNTHER nimmt ihn ihr ab, wÃ¤hrend sie auftritt.
 Auftritt MRS.CLACKETT vom Personaltrakt, mit einem 
 frischen Sardinenteller.
 \end{Regie}
@@ -1629,7 +1629,7 @@ frischen Sardinenteller.
 	Was ich mit den ersten Sardinen gemacht habe, ist mir schleierhaft.
 \end{HEIDE}
 \begin{Regie}
-Gerda geht mit Wiskey von der Bühne, dann gleich:
+Gerda geht mit Wiskey von der BÃ¼hne, dann gleich:
 \end{Regie}
 
 \Einstellung{Schnell Dunkel}
@@ -1638,7 +1638,7 @@ Nach etwa 3 Sekunden:
 \end{Regie}
 \Einstellung{Umbau}
 \begin{Regie}
-Robert, Lilly, Vanessa und Lisa auf der Bühne.
+Robert, Lilly, Vanessa und Lisa auf der BÃ¼hne.
 Dann:
 \end{Regie}
 \Einstellung{Schnell HVB}
@@ -1646,7 +1646,7 @@ Dann:
 
 \begin{Regie}
 Auftritt CARMEN von den Garderoben, mit einem zweiten, kleineren 
-Blumenstrauß. Sie zieht ihren Regenmantel aus.
+BlumenstrauÃŸ. Sie zieht ihren Regenmantel aus.
 Beginnt, die Treppe hinunterzugehen.
 \end{Regie}
 
@@ -1659,8 +1659,8 @@ Beginnt, die Treppe hinunterzugehen.
 \end{MRSC}
 
 \begin{Regie}
-LILLY erklärt CARMEN hastig gestikulierend die Situation,
-dass Gerda säuft und geht ab zu den Garderoben.
+LILLY erklÃ¤rt CARMEN hastig gestikulierend die Situation,
+dass Gerda sÃ¤uft und geht ab zu den Garderoben.
 Stellt die einen Sardinen neben die anderen.
 CARMEN fragt ROBERT, wo sie hingeht.
 \end{Regie}
@@ -1680,7 +1680,7 @@ irgendwo eingeschlossen hat.
 \end{Regie}
 
 \begin{ROGER}
- 	Ich dachte, ich hätte Stimmen gehört.
+ 	Ich dachte, ich hÃ¤tte Stimmen gehÃ¶rt.
 \end{ROGER}
 
 \begin{MRSC}
@@ -1692,7 +1692,7 @@ irgendwo eingeschlossen hat.
 \end{ROGER}
 
 \begin{Regie}
-ROBERT unterbricht das Gespräch, um zu sagen:
+ROBERT unterbricht das GesprÃ¤ch, um zu sagen:
 \end{Regie}
 
 \begin{PHILIP}
@@ -1700,8 +1700,8 @@ ROBERT unterbricht das Gespräch, um zu sagen:
 \end{PHILIP}
 
 \begin{Regie}
-CARMEN übergibt LILLY die Blumen und stürzt hinaus zu den Garderoben.
-ROGER, mit dem Rücken zu MRS.C, nimmt beide Sardinenteller.
+CARMEN Ã¼bergibt LILLY die Blumen und stÃ¼rzt hinaus zu den Garderoben.
+ROGER, mit dem RÃ¼cken zu MRS.C, nimmt beide Sardinenteller.
 \end{Regie}
 
 \begin{ROGER}
@@ -1710,34 +1710,34 @@ ROGER, mit dem Rücken zu MRS.C, nimmt beide Sardinenteller.
 
 \begin{Regie}
 LILLY gibt ROBERT die Blumen, nimmt die Brandaxt von der Wand und mimt mit 
-dieser das Zertrümmern einer Tür.
+dieser das ZertrÃ¼mmern einer TÃ¼r.
 \end{Regie}
 
 \begin{MRSC}
- 	Oh, mein Gott, die Tür zum Arbeitszimmer ist offen!
+ 	Oh, mein Gott, die TÃ¼r zum Arbeitszimmer ist offen!
 \end{MRSC}
 
 \begin{Regie}
-Geht hinüber und schließt sie. ROGER sieht aus dem Fenster.
+Geht hinÃ¼ber und schlieÃŸt sie. ROGER sieht aus dem Fenster.
 \end{Regie}
 
 
 \begin{Regie}
 LILLY will gerade mit der Axt zu den Garderoben laufen, als LISA sie an ihren 
-Auftritt erinnert. LILLY läuft zum Steg hinauf, merkt, dass sie immer noch die 
+Auftritt erinnert. LILLY lÃ¤uft zum Steg hinauf, merkt, dass sie immer noch die 
 Brandaxt in der Hand hat und gibt sie VANESSA.
-Geht mit beiden Sardinentellern durch die Haustür ab.
-Aber noch ehe sie VANESSA erklären kann, was diese mit der Axt tun soll, muss 
+Geht mit beiden Sardinentellern durch die HaustÃ¼r ab.
+Aber noch ehe sie VANESSA erklÃ¤ren kann, was diese mit der Axt tun soll, muss 
 LILLY auftreten.
 Auftritt FLAVIA vom oberen Bad. Im Vorbeigehen sieht 
-sie, dass die Wäschekammertür aufsteht, stößt sie zu 
-und dreht den Schlüssel herum.
-GUNTHER geht drohend auf ROBERT zu und zeigt argwöhnisch auf die Blumen, 
-die dieser in den Händen hält.
+sie, dass die WÃ¤schekammertÃ¼r aufsteht, stÃ¶ÃŸt sie zu 
+und dreht den SchlÃ¼ssel herum.
+GUNTHER geht drohend auf ROBERT zu und zeigt argwÃ¶hnisch auf die Blumen, 
+die dieser in den HÃ¤nden hÃ¤lt.
 \end{Regie}
 
 \begin{FLAVIA}
- 	Immer diese offenen Türen hier im Haus.
+ 	Immer diese offenen TÃ¼ren hier im Haus.
 \end{FLAVIA}
 
 \begin{Regie}
@@ -1748,33 +1748,33 @@ Steuerbescheid samt Umschlag.
 VANESSA kommt vom Steg herunter und fragt GUNTHER, was sie mit der Axt 
 machen soll. GUNTHER nimmt sie ihr hilfreich ab und gibt ihr die Blumen in die 
 Hand. LILLY, die vom Steg herunterkommt und auf der Suche nach GERDA 
-abgehen will, stutzt, als sie GUNTHER sieht, der die Klinge der Axt zu prüfen 
-scheint. Er blickt zur Tür, durch die ROBERT abgehen wird. LILLY blickt ebenfalls 
-zur Tür. GUNTHER blickt wieder auf die Axt. LILLY blickt wieder auf die Axt. 
-GUNTHER beginnt, boshaft zu lächeln. Entsetzt nimmt LILLY VANESSA schnell 
+abgehen will, stutzt, als sie GUNTHER sieht, der die Klinge der Axt zu prÃ¼fen 
+scheint. Er blickt zur TÃ¼r, durch die ROBERT abgehen wird. LILLY blickt ebenfalls 
+zur TÃ¼r. GUNTHER blickt wieder auf die Axt. LILLY blickt wieder auf die Axt. 
+GUNTHER beginnt, boshaft zu lÃ¤cheln. Entsetzt nimmt LILLY VANESSA schnell 
 die Blumen weg und schickt sie fort, um an ihrer Stelle GERDA zu suchen, dann 
 versucht sie, GUNTHER die Axt wegzunehmen. GUNTHER versteckt sie hinter 
-dem Rücken. LILLY, immer noch die Blumen haltend, legt die Arme um 
+dem RÃ¼cken. LILLY, immer noch die Blumen haltend, legt die Arme um 
 GUNTHER, um an die Axt zu gelangen.
 \end{Regie}
 
 \begin{PHILIP}
 	'... letzte Mahnung... Schritte unternommen werden... 
-Pfändung... ... gerichtliche Vorladung...
+PfÃ¤ndung... ... gerichtliche Vorladung...
 \end{PHILIP}
 
 \begin{MRSC}
- 	Ach ja, da fällt mir ein, ’n Herr is' gekommen wegen dem Haus.
+ 	Ach ja, da fÃ¤llt mir ein, â€™n Herr is' gekommen wegen dem Haus.
 \end{MRSC}
 
 \begin{PHILIP}
-	Ich will nichts hören. Ich bin nicht hier.
+	Ich will nichts hÃ¶ren. Ich bin nicht hier.
 \end{PHILIP}
 
 \begin{MRSC}
  	Gut, dann setz ich mich jetzt hin und stell den... Die Sardinen, 
-ich hab die Sardinen vergessen! Ich weiß nicht - wenn ich mir 
-nich' 'n Knoten mache, vergess’ ich noch, wo mir der Kopf 
+ich hab die Sardinen vergessen! Ich weiÃŸ nicht - wenn ich mir 
+nich' 'n Knoten mache, vergessâ€™ ich noch, wo mir der Kopf 
 steht.
 \end{MRSC}
 
@@ -1793,7 +1793,7 @@ Nach etwa 3 Sekunden:
 \end{Regie}
 \Einstellung{Umbau}
 \begin{Regie}
-Warten bis nur Gunter hinten auf der Bühne ist. Alle anderen sind
+Warten bis nur Gunter hinten auf der BÃ¼hne ist. Alle anderen sind
 vorn. Dann:
 \end{Regie}
 \Einstellung{Schnell HVB}
@@ -1807,27 +1807,27 @@ Was geht hier vor?
 \begin{LILLY}
   \begin{Regie}will ihm folgen, merkt aber dann, dass ...
 Stellt den einen Sardinenteller auf den Telefontisch, wo 
-er vorher war, den anderen in die Nähe der Haustür und 
+er vorher war, den anderen in die NÃ¤he der HaustÃ¼r und 
 geht in Richtung Arbeitszimmer...
 ...es nicht klopft -
 weil VANESSA immer noch nicht da ist.\end{Regie} 
-	Was ist denn das für ein Gebummer? 
+	Was ist denn das fÃ¼r ein Gebummer? 
 \end{LILLY}
 
 \begin{ROGER}
-  \begin{Regie}wiederholt auf der Bühne den Satz.\end{Regie} 
-Was ist denn das für ein Gebummer da drüben?
+  \begin{Regie}wiederholt auf der BÃ¼hne den Satz.\end{Regie} 
+Was ist denn das fÃ¼r ein Gebummer da drÃ¼ben?
 \end{ROGER}
 
 \begin{Regie}
-LILLY begreift, was los ist und hämmert mit einem Requisitenteil gegen die Wand.
+LILLY begreift, was los ist und hÃ¤mmert mit einem Requisitenteil gegen die Wand.
 	Klopfen.
-Läuft hinauf.
+LÃ¤uft hinauf.
 \end{Regie}
 
 \begin{FLAVIA}
-	Oh mein Gott, das kommt ja aus der Wäschekammer!
- \begin{Regie}Schließt diese auf und öffnet sie.
+	Oh mein Gott, das kommt ja aus der WÃ¤schekammer!
+ \begin{Regie}SchlieÃŸt diese auf und Ã¶ffnet sie.
 VANESSA tritt nicht auf,
 FLAVIA sieht sich nach VICKI um.
 weil sie noch immer in den Garderoben ist.\end{Regie} 
@@ -1835,7 +1835,7 @@ Ach, du bist's.
 \end{FLAVIA}
 
 \begin{Regie}
-GUNTHER kommt durch die Tür der Wäschekammer, um VANESSA zu suchen.
+GUNTHER kommt durch die TÃ¼r der WÃ¤schekammer, um VANESSA zu suchen.
 \end{Regie}
 
 \begin{ROGER}
@@ -1844,48 +1844,48 @@ GUNTHER kommt durch die Tür der Wäschekammer, um VANESSA zu suchen.
 \begin{Regie}
 Auftritt Claus von links wie ein Wirbelwind. Erverlangtschweigend zu wissen,
 was vorgeht.
-ROBERT versucht, es ihm zu erklären.
+ROBERT versucht, es ihm zu erklÃ¤ren.
 \end{Regie}
 \begin{ROGER}
-	das da, weißt du, was unter all dem Bettzeug und den 
-Handtüchern versteckt ist... Du, ich kann nicht, weißt du, hier 
+	das da, weiÃŸt du, was unter all dem Bettzeug und den 
+HandtÃ¼chern versteckt ist... Du, ich kann nicht, weiÃŸt du, hier 
 rumstehen bis in alle Ewigkeit...
 \end{ROGER}
 
 \begin{Regie}
 LILLY bedeutet LISA, VANESSAs Rolle aus dem Buch zu lesen. 
-LILLY gibt ROBERT die Blumen und läuft, immer noch mit der Axt, zu den 
+LILLY gibt ROBERT die Blumen und lÃ¤uft, immer noch mit der Axt, zu den 
 Garderoben.
 \end{Regie}
 
 \begin{LISA}
- 	Natürlich, wer sonst! Du hast mich doch hier reinbugsiert! In dieses 
-Loch! Zu lauter schwarzen Bettüchern und so Zeugs!
+ 	NatÃ¼rlich, wer sonst! Du hast mich doch hier reinbugsiert! In dieses 
+Loch! Zu lauter schwarzen BettÃ¼chern und so Zeugs!
 \end{LISA}
 
 \begin{ROGER}
- 	Aber Darling, warum hast du die Tür abgeschlossen?
+ 	Aber Darling, warum hast du die TÃ¼r abgeschlossen?
 \end{ROGER}
 
 \begin{LISA}
- 	Warum ich die Tür abgeschlossen habe? Warum hast du die Tür 
+ 	Warum ich die TÃ¼r abgeschlossen habe? Warum hast du die TÃ¼r 
 abgeschlossen! 
 \end{LISA}
 
 \begin{ROGER}
-	 Ich hab die Tür nicht abgeschlossen!
+	 Ich hab die TÃ¼r nicht abgeschlossen!
 \end{ROGER}
 \begin{CLAUS}
-	 (Gleichzeitig) Ich hab die Tür nicht abgeschlossen!
+	 (Gleichzeitig) Ich hab die TÃ¼r nicht abgeschlossen!
 \end{CLAUS}
 
 \begin{LISA}
- 	Irgend jemand hat die Tür abgeschlossen!
+ 	Irgend jemand hat die TÃ¼r abgeschlossen!
 \end{LISA}
 
 \begin{ROGER}
-	Jedenfalls, so können wir hier nicht rumstehen.
-ROBERT gibt CLAUS die Blumen, um für seinen Auftritt bereit zu sein.
+	Jedenfalls, so kÃ¶nnen wir hier nicht rumstehen.
+ROBERT gibt CLAUS die Blumen, um fÃ¼r seinen Auftritt bereit zu sein.
 \end{ROGER}
 
 \begin{LISA}
@@ -1901,7 +1901,7 @@ ROBERT gibt CLAUS die Blumen, um für seinen Auftritt bereit zu sein.
 \end{LISA}
 \begin{Regie}
 Claus gibt der entsetzten LISA zu verstehen, 
-dass sie für VANESSA einspringen muss, und reißt ihr den Rock runter.
+dass sie fÃ¼r VANESSA einspringen muss, und reiÃŸt ihr den Rock runter.
 \end{Regie}
 
 \begin{ROGER}
@@ -1916,7 +1916,7 @@ Steuerbescheid, dem Umschlag und einer Tube Klebstoff.
 \Seite{67}
 \begin{Regie}
 Auftritt LILLY mit VANESSA von den Garderoben, gerade rechtzeitig um zu 
-sehen, wie CLAUS LISA den Rock herunterreißt. VANESSA ist empört.
+sehen, wie CLAUS LISA den Rock herunterreiÃŸt. VANESSA ist empÃ¶rt.
 \end{Regie}
 
 \begin{PHILIP}
@@ -1927,33 +1927,33 @@ Klebstoff und einem der Sardinenteller vom Telefontisch.\end{Regie}
 \end{PHILIP}
 
 \begin{Regie}
-GUNTHER steht halb auf der Bühne, halb draußen und wartet auf VANESSA.
+GUNTHER steht halb auf der BÃ¼hne, halb drauÃŸen und wartet auf VANESSA.
 Auftritt ROGER aus dem Schlafzimmer. Er sieht sich auf der Galerie um.
-Bei VANESSAs Anblick lässt CLAUS LISA stehen und drängt VANESSA die 
-Treppe hinauf für die nächste Szene, zu der sie allerdings zu spät kommt. Sie 
+Bei VANESSAs Anblick lÃ¤sst CLAUS LISA stehen und drÃ¤ngt VANESSA die 
+Treppe hinauf fÃ¼r die nÃ¤chste Szene, zu der sie allerdings zu spÃ¤t kommt. Sie 
 wehrt CLAUS ab.
-Claus, Heide, Lilly, Carmen trinken Whiskey und übergehen dabei Gerda.
+Claus, Heide, Lilly, Carmen trinken Whiskey und Ã¼bergehen dabei Gerda.
 \end{Regie}
 
 \begin{ROGER}
-	Hast du nicht, äh,
+	Hast du nicht, Ã¤h,
  \begin{Regie}improvisiert.\end{Regie} 
 hast du nicht Gespenster gesehen?
 \end{ROGER}
 
 \begin{Regie}
-VANESSA tritt durch die Wäschekammertür auf... 
-...und beginnt die vorangegangene Szene, die sie versäumt hat, zu spielen.
+VANESSA tritt durch die WÃ¤schekammertÃ¼r auf... 
+...und beginnt die vorangegangene Szene, die sie versÃ¤umt hat, zu spielen.
 \end{Regie}
 
 \begin{VICKI}
- 	Natürlich, wer sonst! Du hast mich doch hier reinbugsiert! In 
-dieses Loch! Zu den schwarzen Bettüchern und lauter so 
+ 	NatÃ¼rlich, wer sonst! Du hast mich doch hier reinbugsiert! In 
+dieses Loch! Zu den schwarzen BettÃ¼chern und lauter so 
 Zeugs!
 \end{VICKI}
 
 \begin{Regie}
-CLAUS verzweifelt über VANESSAs Mangel an Flexibilität.
+CLAUS verzweifelt Ã¼ber VANESSAs Mangel an FlexibilitÃ¤t.
 \end{Regie}
 
 \Einstellung{Schnell Dunkel}
@@ -1962,8 +1962,8 @@ Nach etwa 3 Sekunden:
 \end{Regie}
 \Einstellung{Umbau}
 \begin{Regie}
-Claus, mit Whiskey, und Lisa sitzen auf den Stühlen. Alle anderen sind hinten auf
-der Bühne. Dann:
+Claus, mit Whiskey, und Lisa sitzen auf den StÃ¼hlen. Alle anderen sind hinten auf
+der BÃ¼hne. Dann:
 \end{Regie}
 \Einstellung{Schnell HVB}
 
@@ -1975,14 +1975,14 @@ Moment! Moment! Ich kenne dieses Gesicht!
 Das ist kein Scheich! Das ist ein Sittenstrolch!
 \end{ROGER}
 \begin{GERDA}
-Und, was sie da unten in Basingstoke mit meinem kleinen Mädchen
+Und, was sie da unten in Basingstoke mit meinem kleinen MÃ¤dchen
 vorhaben, will ich gar nicht erst fragen. Aber eins sag ich dir, Vicki ...
 \end{GERDA}
 \begin{Vicki}
 Was denn, Paps?
 \end{Vicki}
 \begin{GERDA}
-Wenn ringsumher die Welt in Stücke bricht, geht nichts über einen ...
+Wenn ringsumher die Welt in StÃ¼cke bricht, geht nichts Ã¼ber einen ...
 \end{GERDA}
 \begin{LISA}
 \begin{Regie} Claus trinkt gerade Whiskey \end{Regie} Ich bin auch schwanger!
@@ -1991,7 +1991,7 @@ Wenn ringsumher die Welt in Stücke bricht, geht nichts über einen ...
 \begin{Regie} Claus setzt Whiskey ab \end{Regie} Uuh!
 \end{CLAUS}
 \begin{Regie}
-Alle erscheinen in den Türen und Fenstern, begierig, mehr zu erfahren.
+Alle erscheinen in den TÃ¼ren und Fenstern, begierig, mehr zu erfahren.
 3 Sekunden Standbild.
 \end{Regie}
 \Einstellung{Schnell Dunkel}
@@ -2005,7 +2005,7 @@ Musik eher leise.
 \end{Regie}
 \Einstellung{Aufbau}
 \begin{Regie}
-Bühne wird umgebaut. Danach geht es mit 3. Akt weiter.
+BÃ¼hne wird umgebaut. Danach geht es mit 3. Akt weiter.
 \end{Regie}
 \Einstellung{Dunkel}
 \Einstellung{Windows Media Player Musik aus}
@@ -2023,7 +2023,7 @@ Carmen geht ab.
 \begin{Regie}
 Musik laut stellen
 \end{Regie}
-\Einstellung{Bühne hell}
+\Einstellung{BÃ¼hne hell}
 \begin{Regie}
 Musik etwa 10 (heute 20!!!) Sekunden laufen lassen
 \end{Regie}
@@ -2036,13 +2036,13 @@ Wenn sie das Telefon abgehoben hat, dann erst ...
 \begin{Regie}
 ... bis sie abwinkt.
 
-Und jetzt läuft der Akt zu Ende ohne Beleuchtung bis ...
+Und jetzt lÃ¤uft der Akt zu Ende ohne Beleuchtung bis ...
 \end{Regie}
 \begin{ALLE:}
 Sardinen! ... BLACK!
 \end{ALLE}
 \begin{Regie}
-Nichts rührt sich - ein lebendes Bild.
+Nichts rÃ¼hrt sich - ein lebendes Bild.
 Dann rennt Carmen eilig ab.
 \end{Regie}
 
@@ -2051,10 +2051,10 @@ Dann rennt Carmen eilig ab.
 \Einstellung{Umbau}
 
 \begin{Regie}
-Alle Schauspieler kommen auf die Bühne.
+Alle Schauspieler kommen auf die BÃ¼hne.
 \end{Regie}
 
-\Einstellung{Bühne hell}
+\Einstellung{BÃ¼hne hell}
 
 \begin{Regie}Beifall\end{Regie}
 

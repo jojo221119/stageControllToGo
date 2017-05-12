@@ -79,7 +79,8 @@ func (s *Scanner) scanText() (tok Token, lit string) {
 	// Create a buffer and read the current character into it.
 	var buf bytes.Buffer
 	buf.WriteRune(s.read())
-	firstWhitespace := true
+	firstLinefeed := true
+	lastCharWasWS := false
 	// Read every subsequent whitespace character into the buffer.
 	// Non-whitespace characters and EOF will cause the loop to exit.
 	for {
@@ -89,17 +90,23 @@ func (s *Scanner) scanText() (tok Token, lit string) {
 		} else if isBackslash(ch) {
 			s.unread()
 			break
-		} else if isWhitespace(ch) {
-			if firstWhitespace {
-				ch = ' ' // unify Whitespaces eg. in case of \n
-				firstWhitespace = false
+		} else if isLinefeed(ch) && firstLinefeed {
+			ch = ' '
+			firstLinefeed = false
+			if !lastCharWasWS { // avoid doubled spaces
 				buf.WriteRune(ch)
-			} else {
-				// ignore further Whitespaces
 			}
+			lastCharWasWS = false
 		} else {
-			buf.WriteRune(ch)
-			firstWhitespace = true
+			if ch != '\r' {
+				if isWhitespace(ch) {
+					lastCharWasWS = true
+				} else {
+					lastCharWasWS = false
+				}
+				buf.WriteRune(ch)
+				firstLinefeed = true
+			}
 		}
 	}
 
@@ -119,7 +126,6 @@ func (s *Scanner) scanCommand() (tok Token, lit string) {
 		if ch := s.read(); ch == eof {
 			break
 		} else if !isLetter(ch) && !isDigit(ch) && ch != '_' {
-			//if ch != '{' {
 			s.unread()
 			//}
 			break
@@ -163,6 +169,10 @@ func (s *Scanner) scanParameter() (tok Token, lit string) {
 // Returns the rune(0) if an error occurs (or io.EOF is returned).
 func (s *Scanner) read() rune {
 	ch, _, err := s.r.ReadRune()
+	if ch == '\ufeff' {
+		ch, _, err = s.r.ReadRune()
+	}
+
 	if err != nil {
 		return eof
 	}
@@ -178,6 +188,8 @@ func (s *Scanner) unread() { _ = s.r.UnreadRune() }
 // isWhitespace returns true if the rune is a space, tab, or newline.
 func isWhitespace(ch rune) bool { return ch == ' ' || ch == '\t' || ch == '\n' || ch == '\r' }
 
+func isLinefeed(ch rune) bool { return ch == '\n' }
+
 // isLetter returns true if the rune is a letter.
 func isLetter(ch rune) bool {
 	return (ch >= 'a' && ch <= 'z') || (ch >= 'A' && ch <= 'Z') || (ch >= '¡' && ch <= 'ÿ')
@@ -185,7 +197,7 @@ func isLetter(ch rune) bool {
 
 // isTextElement returns true if the rune is a letter.
 func isTextElement(ch rune) bool {
-	return (ch == '(' || ch == ')' || ch == '.' || ch == ',' || ch == ':' || ch == ';' || ch == '?' || ch == '!' || ch == '�' || ch == '~' || ch == '\'' || ch == '`' || ch == '^' || ch == '"' || ch == '-')
+	return (ch == '(' || ch == ')' || ch == '.' || ch == ',' || ch == ':' || ch == ';' || ch == '?' || ch == '!' || ch == '�' || ch == '~' || ch == '\'' || ch == '`' || ch == '^' || ch == '"' || ch == '-' || ch == '„' || ch == '”' || ch == '&')
 }
 
 // isDigit returns true if the rune is a digit.

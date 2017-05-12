@@ -8,40 +8,30 @@ import (
 // init size of a document slice
 const INITIAL_LIST_SIZE = 0
 
+// specify the names that are defined for a specific latex snippet
 const TYPE_TEXT = "Text"
 const COMPLEX_TYPE = "Complex"
 
-type Element interface {
-}
-
+// struct to represent the Abstract Syntax Tree (AST) of the result
 type Document struct {
+	// complete latex document
 	Document []TopElement
-}
-
-type Command struct {
-	Type string
-	Body string
-}
-
-type ComplexElement struct {
-	Type string
-	Name string
-	Body []Element
 }
 
 type TopElement struct {
 	Name string
-	Body []ContentElement
 	Line int
+	Body []ContentElement
 }
 
 type ContentElement struct {
 	Type string
-	Body string
 	Line int
+	Body string
 }
 
-// Parser represents a parser.
+
+// Parser class to build the AST.
 type Parser struct {
 	s *Scanner
 	// buffer to enable unread
@@ -58,7 +48,7 @@ func NewParser(r io.Reader) *Parser {
 	return &Parser{s: NewScanner(r)}
 }
 
-// Parse parses a latex document.
+// Parse parses a latex document into an AST.
 func (p *Parser) Parse() (*Document, error) {
 	stmt := &Document{}
 	elementList, error := p.parse()
@@ -70,7 +60,7 @@ func (p *Parser) Parse() (*Document, error) {
 	}
 }
 
-// parses a complex element or the root document. This function is recursive.
+// parses the content into TopElement structs
 func (p *Parser) parse() ([]TopElement, error) {
 	elementList := make([]TopElement, INITIAL_LIST_SIZE)
 
@@ -78,10 +68,9 @@ func (p *Parser) parse() ([]TopElement, error) {
 		// scan next element
 		tok, _, cnt := p.scanIgnoreWhitespace()
 
+// There two main cases: A \begin \end structure with a maximum nesting of twe or settings of the form \Einstellung{Param}
 		switch tok {
-
 		case BEGIN:
-
 			// scan next element to get the param Name
 			tok, lit, _ := p.scanIgnoreWhitespace()
 			if tok != PARAM {
@@ -221,6 +210,16 @@ func (p *Parser) parseBegin() (*ContentElement, error) {
 	element, error := p.parseText()
 	if error != nil {
 		return nil, error
+	}
+
+	tok, lit, _ = p.scanIgnoreWhitespace()
+	if tok != END {
+		return nil, fmt.Errorf("missing \\end")
+	} else {
+		tok, lit, _ = p.scanIgnoreWhitespace()
+		if tok != PARAM {
+			return nil, fmt.Errorf("missing \\end parameter")
+		}
 	}
 
 	contentElement.Body = element.Body
