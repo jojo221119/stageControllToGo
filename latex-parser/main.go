@@ -2,7 +2,7 @@
 package main
 
 import (
-	"StageControllToGo/latex-parser/latex"
+	"gitlab.mary-cap.de/VV/StageControllToGo/latex-parser/latex"
 	"encoding/json"
 	"fmt"
 	"io/ioutil"
