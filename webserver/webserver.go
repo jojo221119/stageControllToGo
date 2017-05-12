@@ -5,6 +5,7 @@ import (
 	"fmt"
 	"io/ioutil"
 	"net/http"
+	"strconv"
 	"strings"
 
 	"gitlab.mary-cap.de/VV/StageControllToGo/latex-parser/latex"
@@ -15,6 +16,11 @@ import (
 	"github.com/julienschmidt/httprouter"
 )
 
+var theaterTextCache struct {
+	path     string
+	document latex.Document
+}
+
 func main() {
 
 	frontendRouter := middleware.NewRouter()
@@ -23,6 +29,7 @@ func main() {
 	apiRouter := middleware.NewRouter()
 	apiRouter.GET("/api/scripts", TextListHandler)
 	apiRouter.GET("/api/scripts/:file", TheaterTextFileHandler)
+	apiRouter.GET("/api/scripts/:file/:page", TheaterTextPaginationHandler)
 
 	//Mock request for play activation
 	apiRouter.POST("/api/plays/:play/scenes/:scene/activate", ActivateScene)
@@ -36,12 +43,12 @@ func main() {
 }
 
 func TheaterTextFileHandler(w http.ResponseWriter, r *http.Request, p httprouter.Params) {
-	filePath := p.ByName("file")
+	filePath := p.ByName("file") + ".txt"
 	fmt.Print("Go Latex parser\n")
 	fmt.Print("Parsing file ")
-	fmt.Print(filePath + ".txt ...\n")
+	fmt.Print(filePath + " ...\n")
 
-	input, err := ioutil.ReadFile("./resources/" + filePath + ".txt") //TODO fix problem with path
+	input, err := ioutil.ReadFile("./resources/" + filePath) //TODO fix problem with path
 	if err != nil {
 		fmt.Print(err.Error())
 		http.Error(w, "The theater text could not be found. Please make sure it is availiable in the right directory", http.StatusNotFound)
@@ -79,6 +86,67 @@ func TextListHandler(w http.ResponseWriter, r *http.Request, p httprouter.Params
 		return
 	}
 	w.Write(j)
+}
+func TheaterTextPaginationHandler(w http.ResponseWriter, r *http.Request, p httprouter.Params) {
+	filePath := p.ByName("file") + ".txt"
+	page := p.ByName("page")
+	var stmt *latex.Document
+	if theaterTextCache.path != filePath {
+		input, err := ioutil.ReadFile("./resources/" + filePath) //TODO fix problem with path
+		if err != nil {
+			fmt.Print(err.Error())
+			http.Error(w, "The theater text could not be found. Please make sure it is availiable in the right directory", http.StatusNotFound)
+			return
+		}
+		stmt, err = latex.NewParser(strings.NewReader(string(input))).Parse()
+		if err != nil {
+			fmt.Print(err.Error())
+			http.Error(w, "Error while parsing the theater text. Please make sure it is formated correctly", http.StatusInternalServerError)
+		}
+		theaterTextCache.path = filePath
+		theaterTextCache.document = *stmt
+	}
+
+	var pageContent latex.Document
+	keep := false
+	for _, element := range theaterTextCache.document.Document {
+		fmt.Println(element.Name)
+		if len(element.Body) == 0 {
+			continue
+		}
+
+		if element.Name == "" && element.Body[0].Type == "Seite" {
+			body, err := strconv.Atoi(element.Body[0].Body)
+			if err != nil {
+				http.Error(w, "Seite with a non-integer value.", http.StatusInternalServerError)
+				return
+			}
+			pg, err := strconv.Atoi(page)
+			if err != nil {
+				http.Error(w, "Invalid pagination parameter", http.StatusInternalServerError)
+				return
+			}
+
+			if body == pg {
+				keep = true
+			} else if body > pg {
+				fmt.Print(element.Name + element.Body[0].Type + element.Body[0].Body)
+				break
+			}
+		}
+		if keep {
+			pageContent.Document = append(pageContent.Document, element)
+		}
+	}
+
+	parsedJSON, err := json.Marshal(pageContent)
+	if err != nil {
+		fmt.Print(err.Error())
+		http.Error(w, "Error while converting the theater text to json.", http.StatusInternalServerError)
+		return
+	}
+
+	w.Write(parsedJSON)
 }
 
 //ActivateScene Comment
