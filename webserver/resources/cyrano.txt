@@ -3,10 +3,10 @@
 \begin{Regie}
 
 Edmond Rostand \\
-CYRANO DE BERGERAC -- gekürzte Fassung \\
-² ²\\
+CYRANO DE BERGERAC -- gekï¿½rzte Fassung \\
+ï¿½ ï¿½\\
 Personen:\\
-\eNARRATEURA	~-- Jörg Unseld \\
+\eNARRATEURA	~-- Jï¿½rg Unseld \\
 \eNARRATEURB	~-- Albert Bodenmiller \\
 \eCYRANO	~-- KF \\
 \eROXANE ~-- Heide Fischer \\
@@ -24,7 +24,7 @@ Ort der Handlung: Paris \\
 
 \begin{Neueseite}
 
-² ²\\
+ï¿½ ï¿½\\
 
 \end{Neueseite}
 
@@ -33,7 +33,7 @@ Ort der Handlung: Paris \\
 \Szenario{I, 1 - 4}
 \end{Neueseite}
 
-\Einstellung{Narrateur}
+\Setting{Narrateur}
 
 
 \begin{Regie}
@@ -49,13 +49,13 @@ Eventuell Lied.
 Eventuell Lied.
 \end{Regie}
 
-\Einstellung{Dunkel}
+\Setting{Dunkel}
 \Auftritt{\eBRET, \eFACHEUX, \eCYRANO} 
 
 \Szenario{I, 4}
 
 
-\Einstellung{Saal}
+\Setting{Saal}
 
 
 \begin{BRET}
@@ -110,17 +110,17 @@ D'Artagnan.
 Regi: Alle ab.
 \end{CUIGY}
 
-\Einstellung{Dunkel}
+\Setting{Dunkel}
 
 
-\Einstellung{Narrateur}
+\Setting{Narrateur}
 
 
 \begin{Regie}
 Eventuell Lied.
 \end{Regie}
 
-\Einstellung{Dunkel}
+\Setting{Dunkel}
 
 
 \begin{Regie}
@@ -132,7 +132,7 @@ Umbaupause
 \Szenario{I, 5 - III, 4}
 \end{Leerzeile}
 
-\Einstellung{Narrateur}
+\Setting{Narrateur}
 \Auftritt{\eNARRATEURB} 
 
 
@@ -144,11 +144,11 @@ Umbaupause
 Eventuell Lied.
 \end{Regie}
 
-\Einstellung{Dunkel}
+\Setting{Dunkel}
 \Szenario{III, 4 - 5}
 
 
-\Einstellung{Strasse}
+\Setting{Strasse}
 \Auftritt{\eCHRISTIAN, \eCYRANO} 
 
 
@@ -172,7 +172,7 @@ Mais je ...
 ... \eCYRANO ~kommt wieder zum Vorschein aus dem Versteck.
 \end{Regie}
 
-\LangsameEinstellung{Licht wird langsam dunkel}
+\Setting{Licht wird langsam dunkel}
 
 
 \begin{CYRANO}
@@ -198,7 +198,7 @@ Et comment puis-je, diantre!\\
 Vous faire \`{a} l'instant m\^{e}me, apprendre?
 \end{CYRANO}
 
-\Einstellung{Strasse und Fenster}
+\Setting{Strasse und Fenster}
 
 
 \begin{CHRISTIAN}
@@ -206,7 +206,7 @@ Vous faire \`{a} l'instant m\^{e}me, apprendre?
 \end{CHRISTIAN}
 
 \begin{Regie}
-... Liebeserklärung an \eROXANE, \eCHRISTIAN ~versaut es.
+... Liebeserklï¿½rung an \eROXANE, \eCHRISTIAN ~versaut es.
 \end{Regie}
 
 \begin{CYRANO}
@@ -215,17 +215,17 @@ Je me disais: tais-toi, Christian! ... Une seconde!\\
 On vient!
 \end{CYRANO}
 
-\Einstellung{Dunkel}
+\Setting{Dunkel}
 
 
-\Einstellung{Narrateur}
+\Setting{Narrateur}
 
 
 \begin{Regie}
 Eventuell Lied.
 \end{Regie}
 
-\Einstellung{Dunkel}
+\Setting{Dunkel}
 
 
 \begin{Regie}
@@ -237,7 +237,7 @@ Umbaupause
 \Szenario{III, 5 - V, 3}
 \end{Leerzeile}
 
-\Einstellung{Narrateur}
+\Setting{Narrateur}
 \Auftritt{\eNARRATEURA} 
 
 
@@ -250,15 +250,15 @@ Eventuell Lied.
 \Auftritt{\eROXANE} 
 \end{Regie}
 
-\Einstellung{Dunkel}
+\Setting{Dunkel}
 \Szenario{V, 4}
 
 
-\Einstellung{Kloster}
+\Setting{Kloster}
 
 
 \begin{Regie}
-Roxane Selbstgespräch, Marthe bringt Sessel.
+Roxane Selbstgesprï¿½ch, Marthe bringt Sessel.
 \end{Regie}
 
 \begin{MARTHE}
@@ -269,7 +269,7 @@ Mais c'est le meilleur du parloir!
 Merci, ma soeur. Il va venir.
 \end{ROXANE}
 
-\Einstellung{Glocken}
+\Setting{Glocken}
 
 
 \begin{ROXANE}
@@ -297,7 +297,7 @@ L\`{a} ... l'heure sonne.
  \begin{Regie}liest den Brief\end{Regie}  
 \end{CYRANO}
 
-\LangsameEinstellung{Licht geht sehr langsam aus außer Spot auf Roxane}
+\Setting{Licht geht sehr langsam aus auï¿½er Spot auf Roxane}
 
 
 \begin{CYRANO}
@@ -309,7 +309,7 @@ Roxane, ...
 Comment pouvez-vous lire \`{a} pr\'{e}sent? Il fait nuit.
 \end{ROXANE}
 
-\LangsameEinstellung{Spot geht langsam auf Cyrano}
+\Setting{Spot geht langsam auf Cyrano}
 
 
 \begin{Regie}
@@ -322,10 +322,10 @@ Frapp\'{e} par un h\'{e}ros, tomber la pointe au coeur!" \\
 -- Oui, je disais cela! ... Le destin est railleur! ...  \begin{Regie}stirbt\end{Regie} 
 \end{CYRANO}
 
-\Einstellung{Dunkel}
+\Setting{Dunkel}
 
 
-\Einstellung{Narrateur}
+\Setting{Narrateur}
 
 
 \begin{Regie}
@@ -344,14 +344,14 @@ ENDE
 
 \end{Leerzeile}
 
-\Einstellung{Dunkel}
+\Setting{Dunkel}
 
 
 \begin{Regie}
 Beifall
 \end{Regie}
 
-\Einstellung{Saal}
+\Setting{Saal}
 
 
 \begin{Regie}

@@ -9,12 +9,12 @@ import { Script } from './script';
 @Injectable()
 export class ScriptProviderService {
 
-  private scriptUrl = '/api/scripts';
+  private url = '/api/scripts';
 
   constructor(private http: Http) { }
 
   getScripts(): Promise<String[]> {
-    return this.http.get(this.scriptUrl)
+    return this.http.get(this.url)
       .toPromise()
       .then(response => response.json() as String[])
       .catch(this.handleError);
@@ -23,8 +23,7 @@ export class ScriptProviderService {
 
 
   getScript(scriptName:String): Promise<Script> {
-    //return Promise.resolve(MOCKSCRIPT)
-    return this.http.get(this.scriptUrl + "/" + scriptName)
+    return this.http.get(this.url + "/" + scriptName)
       .toPromise()
       .then(response => response.json() as Script)
       .catch(this.handleError);

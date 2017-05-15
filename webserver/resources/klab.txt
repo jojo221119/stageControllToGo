@@ -1,7 +1,7 @@
 \begin{Regie}
 Vortrag von Hans-Peter
 \end{Regie}
-\Einstellung{HP}
+\Setting{HP}
 
 \Seite{1}
 
@@ -15,28 +15,28 @@ Version vom \today
 
 \begin{Regie} Requisiten: Gartenbank, Bartisch, Truhe, beleuchtetes Bild \end{Regie}
 
-\Einstellung{Umbau}
-\Einstellung{Dunkel mit Musik}
+\Setting{Umbau}
+\Setting{Dunkel mit Musik}
 
 \vspace{1cm}
 
 \begin{Regie} \bf\Large Szene 1 \end{Regie}
 
-\Einstellung{Zwielicht}
+\Setting{Zwielicht}
 
 \begin{Regie}
 Ziemlich dunkle Szene.
 \end{Regie}
 
 \begin{WOLFHARD} 
-\begin{Regie} Stürmt mit Stuhlbein herein. \end{Regie}
-Jetzt habe ich sie gezüchtigt. Und jetzt bin ich der Rohling.
-Das war immer so. Sie ist die Märtyrerin, und ich bin der Rohling.
+\begin{Regie} Stï¿½rmt mit Stuhlbein herein. \end{Regie}
+Jetzt habe ich sie gezï¿½chtigt. Und jetzt bin ich der Rohling.
+Das war immer so. Sie ist die Mï¿½rtyrerin, und ich bin der Rohling.
 Aber ich habe es sieben Jahre lang ausgehalten; und es fragt sich,
-wer mich so roh machte. Meine Hand war von der Arbeit für sie zu
-müde, als daß ich sie hätte schlagen können.
+wer mich so roh machte. Meine Hand war von der Arbeit fï¿½r sie zu
+mï¿½de, als daï¿½ ich sie hï¿½tte schlagen kï¿½nnen.
 Sie hat immer einen Schmerz, wenn es mir gut geht.
-Sie zählt Geld, wenn ich trinke, und wenn ich Geld zähle,
+Sie zï¿½hlt Geld, wenn ich trinke, und wenn ich Geld zï¿½hle,
 dann weint sie. Aber so ist sie und so sind sie.
 Vom Tage seiner Hochzeit an ist man nicht mehr ein Tier,
 das einer Herrin dient, sondern ein Mensch, der einem
@@ -45,7 +45,7 @@ verdient.
 \end{WOLFHARD}
 
 \begin{KF} 
-\begin{Regie} Tritt während der letzten Sätze auf. \end{Regie}
+\begin{Regie} Tritt wï¿½hrend der letzten Sï¿½tze auf. \end{Regie}
 Was liegt an, Mr. V.?
 \end{KF}
 
@@ -63,22 +63,22 @@ Wir haben n' paar Probleme mit der Firma.
 \end{WOLFHARD}
 
 \begin{KF}
-Ich weiß, was da läuft.
-Wie könnten wir sie fortbringen. 
+Ich weiï¿½, was da lï¿½uft.
+Wie kï¿½nnten wir sie fortbringen. 
 \begin{Regie} im Hinblick auf das Publikum \end{Regie}
 Sie fressen, saufen, rauchen und schwatzen
-und wollen nicht fort! Schließlich ist es doch Ihr Fest.
+und wollen nicht fort! Schlieï¿½lich ist es doch Ihr Fest.
 \end{KF} 
-\begin{Regie} KF zündet Wolfhard die Zigarre an. Bühnenbeleuchtung ganz aus.  \end{Regie}
+\begin{Regie} KF zï¿½ndet Wolfhard die Zigarre an. Bï¿½hnenbeleuchtung ganz aus.  \end{Regie}
 
 \begin{WOLFHARD}
-Also, erledige das. Ich will, daß das heute erledigt wird.
+Also, erledige das. Ich will, daï¿½ das heute erledigt wird.
 \end{WOLFHARD}
 
-\begin{Regie} Wolfhard übergibt das Stuhlbein. \end{Regie}
+\begin{Regie} Wolfhard ï¿½bergibt das Stuhlbein. \end{Regie}
 
 \begin{KF}
-Ich kümmere mich sofort darum.
+Ich kï¿½mmere mich sofort darum.
 \end{KF}
 
 \begin{Regie}
@@ -96,38 +96,38 @@ Donatus tritt auf.
 \end{Regie}
 
 \begin{DONATUS}
-Ich möchte mit Ihnen sprechen.
+Ich mï¿½chte mit Ihnen sprechen.
 \end{DONATUS}
 
 \begin{KF}
-Dann faß dich kurz. In diesem Haus ist nur Platz für einen von uns.
+Dann faï¿½ dich kurz. In diesem Haus ist nur Platz fï¿½r einen von uns.
 \end{KF}
 
 \begin{DONATUS}
-Ich danke Ihnen nochmals. Für mich war es ein schöner Abend.
+Ich danke Ihnen nochmals. Fï¿½r mich war es ein schï¿½ner Abend.
 \end{DONATUS}
 
 \begin{KF}
-Ich habe keine Zeit, dir zu antworten, denn außerdem war es noch mein Stuhl.
+Ich habe keine Zeit, dir zu antworten, denn auï¿½erdem war es noch mein Stuhl.
 \end{KF}
 
 \begin{DONATUS}
-Äh, es ist so komisch, wie Sie die Situation mißdeuten. 
+ï¿½h, es ist so komisch, wie Sie die Situation miï¿½deuten. 
 \begin{Regie} Lacht. \end{Regie}
 \end{DONATUS}
 
 \begin{KF}
-Die Gäste darfst Du nicht beleidigen.
+Die Gï¿½ste darfst Du nicht beleidigen.
 Geh zum Teufel.
 \end{KF}
 
 \begin{Regie}
-KF gibt zwei Schüsse ab. Donatus fällt mit einem Schrei
-vorn, zentral, getroffen auf die Bühne.
+KF gibt zwei Schï¿½sse ab. Donatus fï¿½llt mit einem Schrei
+vorn, zentral, getroffen auf die Bï¿½hne.
 \end{Regie}
 
 \begin{KF}
-Gott sei Dank muß ich nie wieder diese Stimme hören.
+Gott sei Dank muï¿½ ich nie wieder diese Stimme hï¿½ren.
 \end{KF}
 
 \begin{Regie}
@@ -140,14 +140,14 @@ KF ab.
 
 \begin{Regie} \bf\Large Szene 3 \end{Regie}
 
-\Einstellung{Hell}
+\Setting{Hell}
 
 \begin{Regie}
-Beleuchtung hell. AngelikaB, AngelikaM und Bärbel treten auf.
+Beleuchtung hell. AngelikaB, AngelikaM und Bï¿½rbel treten auf.
 \end{Regie}
 
 \begin{AB}
-Das kann doch nicht wahr sein! Ich glaube, das war Schicksal, daß ich
+Das kann doch nicht wahr sein! Ich glaube, das war Schicksal, daï¿½ ich
 heute hier hereinkam.
 Und wo ist das Opfertier?
 \end{AB}
@@ -162,10 +162,10 @@ Kein Tier. Wo denkt ihr hin?!
 \end{AM}
 
 \begin{AB}
-Welch eine Farbe, schaut! Das nenn' ich Opferblut. Seht nur, wie hell er strömt.\end{AB}
+Welch eine Farbe, schaut! Das nenn' ich Opferblut. Seht nur, wie hell er strï¿½mt.\end{AB}
 
 \begin{BAERBEL}
-Recht amüsant, ja, find' ich auch.
+Recht amï¿½sant, ja, find' ich auch.
 \end{BAERBEL}
 
 \begin{AM}
@@ -174,11 +174,11 @@ Du, Mensch? Du bist ja schon beinahe tot.
 \end{AM}
 
 \begin{AB}
-Er erinnert mich aber ganz bestimmt an jemand ... ich weiß nur nicht ...
+Er erinnert mich aber ganz bestimmt an jemand ... ich weiï¿½ nur nicht ...
 \end{AB}
 
 \begin{BAERBEL}
-Das war wie mit Johannes Segmüller. Der hatte nämlich ...
+Das war wie mit Johannes Segmï¿½ller. Der hatte nï¿½mlich ...
 \end{BAERBEL}
 
 \begin{AM} 
@@ -187,23 +187,23 @@ Er versteht keinen Scherz.
 \end{AM}
 
 \begin{BAERBEL}
-Die Geschichte mit Johannes Segmüller war sehr komisch.
-Ich könnte sie ganz kurz erzählen, in einigen Worten,
-es sind vielleicht sechs, sieben Sätze, nicht mehr ...
+Die Geschichte mit Johannes Segmï¿½ller war sehr komisch.
+Ich kï¿½nnte sie ganz kurz erzï¿½hlen, in einigen Worten,
+es sind vielleicht sechs, sieben Sï¿½tze, nicht mehr ...
 \end{BAERBEL}
 
 \begin{AB}
-Ach, das kennen wir doch. Das ist doch so unanständig!
+Ach, das kennen wir doch. Das ist doch so unanstï¿½ndig!
 \end{AB}
 
 \begin{AM}
-Ahnt einer, was das heißt?
+Ahnt einer, was das heiï¿½t?
 Da ist kein Haus mehr, hier und anderswo,
 das nicht um einen Toten trauerte.
 \end{AM}
 
 \begin{BAERBEL}
-Damals lagen ständig ein paar Leichen im Haus herum.
+Damals lagen stï¿½ndig ein paar Leichen im Haus herum.
 \end{BAERBEL}
 
 \begin{AM}
@@ -212,7 +212,7 @@ als ob nichts geschehen sei.
 \end{AM}
 
 \begin{BAERBEL}
-Wir wissen ganz genau, was man in solchen Fällen tun muß.
+Wir wissen ganz genau, was man in solchen Fï¿½llen tun muï¿½.
 \end{BAERBEL}
 
 \begin{Regie}
@@ -220,11 +220,11 @@ Heike tritt mit Hans-Peter auf.
 \end{Regie}
 
 \begin{AM}
-Die Männer fallen, aber andere, junge, wachsen nach.
+Die Mï¿½nner fallen, aber andere, junge, wachsen nach.
 \end{AM}
 
 \begin{HEIKE}
-Bitte nicht. Nach den vielen jungen Männern.
+Bitte nicht. Nach den vielen jungen Mï¿½nnern.
 \end{HEIKE}
 
 \begin{BAERBEL} 
@@ -233,43 +233,43 @@ Wenn ich dich so auf der Schwelle sehe, das ist ein guter Anblick.
 \end{BAERBEL}
 
 \begin{AB}
-Und Brüste hast du: Schön wie Äpfelchen. Augäpfelchen.
+Und Brï¿½ste hast du: Schï¿½n wie ï¿½pfelchen. Augï¿½pfelchen.
 \end{AB}
 
 \begin{BAERBEL}
-Als kleines Mädchen schon warst du ein guter Anblick. 
-\begin{Regie} eher abfällig \end{Regie}
-Aber jetzt blühst du.
+Als kleines Mï¿½dchen schon warst du ein guter Anblick. 
+\begin{Regie} eher abfï¿½llig \end{Regie}
+Aber jetzt blï¿½hst du.
 \end{BAERBEL}
 
 \begin{HP}
-Wir Männer altern auch. 
+Wir Mï¿½nner altern auch. 
 \begin{Regie} Man reagiert schokiert. \end{Regie}
 \end{HP}
 
 \begin{BAERBEL}
-Dir täte etwas Salbe gut, glaub' ich.
+Dir tï¿½te etwas Salbe gut, glaub' ich.
 \end{BAERBEL}
 
 \begin{HP}
-Ja ... Aber das müßte völlig ungezwungen geschehen.
+Ja ... Aber das mï¿½ï¿½te vï¿½llig ungezwungen geschehen.
 \end{HP}
 
 \begin{HEIKE}
 Das kann doch nicht dein Ernst sein!
-Weißt du denn nicht mehr, wer ich bin?
+Weiï¿½t du denn nicht mehr, wer ich bin?
 \end{HEIKE}
 
 \begin{HP}
 Nein, aber ihr Gesicht kommt mir bekannt vor.
-Sie sind niemand, den ich zur Zeit kenne, aber später, auf
+Sie sind niemand, den ich zur Zeit kenne, aber spï¿½ter, auf
 meiner Jagdreise durch Afrika. Stimmt! Sie sehen aus wie jemand,
 dem ich im Dschungel begegnen werde.
 \end{HP}
 
 \begin{HEIKE} 
 \begin{Regie} schreit \end{Regie} Nein! Nein!
-Bist du völlig verrückt geworden?
+Bist du vï¿½llig verrï¿½ckt geworden?
 \end{HEIKE}
 
 \begin{HP}
@@ -282,7 +282,7 @@ Er steht, sagst Du?
 \end{AM}
 
 \begin{HP}
-Ihr habt das Wort des Präsidenten der Vereinigten Staaten.
+Ihr habt das Wort des Prï¿½sidenten der Vereinigten Staaten.
 Spielt es doch einfach mal durch.
 \end{HP}
 
@@ -295,8 +295,8 @@ Da bin aber neugierig.
 \end{HP}
 
 \begin{AM}
-Der Einfall mit den nackten Busen übrigens
-war nicht von mir. Ich war dagegen, wurde aber überstimmt.
+Der Einfall mit den nackten Busen ï¿½brigens
+war nicht von mir. Ich war dagegen, wurde aber ï¿½berstimmt.
 Sei's drum. Es hat gewirkt.
 \end{AM}
 
@@ -305,17 +305,17 @@ Ein Scheinangriff. Vorspiel. Mehr nicht.
 \end{HP}
 
 \begin{AB}
-Entfaltungsfähig?
-Am Anfang winzig und am Ende riesengroß -- ein Rausch des Glücks.
+Entfaltungsfï¿½hig?
+Am Anfang winzig und am Ende riesengroï¿½ -- ein Rausch des Glï¿½cks.
 \end{AB}
 
 \begin{AM}
 Und ob!
-Singen Sie doch etwas, ich höre so gern zu!
+Singen Sie doch etwas, ich hï¿½re so gern zu!
 \end{AM}
 
 \begin{HP} 
-\begin{Regie} geil, schwärmerisch \end{Regie}
+\begin{Regie} geil, schwï¿½rmerisch \end{Regie}
 \begin{verse}
 Und um sie nicht zu entweihen\\
 Ging er einst zu einer Hur\\
@@ -332,15 +332,15 @@ Wollen Sie {\bf das} nicht mit Ihrer Braut tun, das erste Mal?
 \end{AM}
 
 \begin{HEIKE} 
-\begin{Regie} fährt wütend dazwischen \end{Regie}
-Du blöde Gans! An der Stelle denkt er an mich.
-Verstehst du denn überhaupt nichts?
+\begin{Regie} fï¿½hrt wï¿½tend dazwischen \end{Regie}
+Du blï¿½de Gans! An der Stelle denkt er an mich.
+Verstehst du denn ï¿½berhaupt nichts?
 \end{HEIKE}
 
 \begin{AM}
 Du stinkend-fauler Fisch.
 Das kommt auf den Mann an.
-Sie sollten immer an den Schweiß denken, der dran hängt!
+Sie sollten immer an den Schweiï¿½ denken, der dran hï¿½ngt!
 \end{AM}
 
 \begin{HP}
@@ -349,7 +349,7 @@ Das ist sehr gut. Sonst hast du nicht soviel Geist!
 
 \begin{AM}
 Sagst du es in dem Ton? Du hast schon wieder zuviel getrunken!
-Ich will dir Wasser hineintun, du verträgst es nicht.
+Ich will dir Wasser hineintun, du vertrï¿½gst es nicht.
 \end{AM}
 
 \begin{BAERBEL}
@@ -361,11 +361,11 @@ Unser Essen brennt inzwischen an.
 \end{AM}
 
 \begin{Regie}
-AngelikaM und Bärbel gehen ab.
+AngelikaM und Bï¿½rbel gehen ab.
 \end{Regie}
 
 \begin{HEIKE}
-Warum bin ich so nervös?
+Warum bin ich so nervï¿½s?
 \end{HEIKE}
 
 
@@ -375,7 +375,7 @@ Warum bin ich so nervös?
 
 \begin{Regie} \bf\Large Szene 4 \end{Regie}
 
-\begin{Regie} Brigitte tritt während dieser Szene auch auf. \end{Regie}
+\begin{Regie} Brigitte tritt wï¿½hrend dieser Szene auch auf. \end{Regie}
 
 \begin{HP} 
 \begin{Regie} Sieht Donatus. \end{Regie}
@@ -385,12 +385,12 @@ Der Mann braucht Hilfe.
 \end{HP}
 
 \begin{HEIKE}
-Du bist rührend zu ihm. Ich glaube, er hat dich sehr gern.
+Du bist rï¿½hrend zu ihm. Ich glaube, er hat dich sehr gern.
 \end{HEIKE}
 
 \begin{DONATUS} 
-\begin{Regie} stöhnend \end{Regie}
-Ich glaube, es ist Zeit, daß {\bf du} ins Bett gehst.
+\begin{Regie} stï¿½hnend \end{Regie}
+Ich glaube, es ist Zeit, daï¿½ {\bf du} ins Bett gehst.
 \end{DONATUS}
 
 \begin{HEIKE}
@@ -402,13 +402,13 @@ Ich glaube, es ist Zeit, daß {\bf du} ins Bett gehst.
 Wolltet noch mal den Kriegsheld spielen, wie?
 Die Frauen etwa?
 Und so was nennt sich: Mann!
-Kein Wunder, daß die Frauen immer dreister werden.
+Kein Wunder, daï¿½ die Frauen immer dreister werden.
 \end{HP}
 
 \begin{HEIKE}
-Ich hab gewußt, du wirst das sagen!
-Wenn wir erst verheiratet sind, hoffe ich nur, daß ich es überhaupt mit dir
-aushalten kann. Aber ich bin durchaus nicht mehr überzeugt davon, daß
+Ich hab gewuï¿½t, du wirst das sagen!
+Wenn wir erst verheiratet sind, hoffe ich nur, daï¿½ ich es ï¿½berhaupt mit dir
+aushalten kann. Aber ich bin durchaus nicht mehr ï¿½berzeugt davon, daï¿½
 wir heiraten werden.
 \end{HEIKE}
 
@@ -417,7 +417,7 @@ Das reicht. Ich steig aus. Ich steig aus.
 \end{HP}
 
 \begin{HEIKE}
-Reiß dich zusammen.
+Reiï¿½ dich zusammen.
 \end{HEIKE}
 
 \begin{HP}
@@ -426,21 +426,21 @@ Das ist Wahnsinn. Nein, nein, ich halt es nicht mehr aus.
 
 \begin{HEIKE}
 Ja! Geh, holder Skorpion, geh!
-Dein Wassermann wünscht
-dir für 
+Dein Wassermann wï¿½nscht
+dir fï¿½r 
 \begin{Regie} giftig \end{Regie} {\bf immer} alles Gute. 
 \begin{Regie} Wendet
 sich von HP ab Richtung Donatus. \end{Regie}
 \end{HEIKE}
 
 \begin{HP} 
-\begin{Regie} Stürzt niedergeschmettert weg. \end{Regie}
+\begin{Regie} Stï¿½rzt niedergeschmettert weg. \end{Regie}
 Mir ist schlecht ... ach, ist mir schlecht.
 \end{HP}
 
 \begin{BRIGITTE} 
 \begin{Regie} Hatte diese Szene beobachtet. \end{Regie}
-Schlagsahne esse ich für mein Leben gern.
+Schlagsahne esse ich fï¿½r mein Leben gern.
 \end{BRIGITTE}
 
 \begin{AB} 
@@ -453,7 +453,7 @@ Sie?
 \end{HP}
 
 \begin{AB}
-Und außerdem ist es kurz.
+Und auï¿½erdem ist es kurz.
 \end{AB}
 
 \begin{HP}
@@ -466,7 +466,7 @@ wieder nach Pittsburgh.
 \end{AB}
 
 \begin{HP}
-Ihre Brüste ...
+Ihre Brï¿½ste ...
 \end{HP}
 
 \begin{AB}
@@ -474,8 +474,8 @@ Ja, die Leute sind ganz scharf drauf.
 \end{AB}
 
 \begin{BRIGITTE}
-Ja, man muß sich den ganzen Mund damit vollstopfen.
-Dann ist es, als ob man keine Zähne mehr hätte.
+Ja, man muï¿½ sich den ganzen Mund damit vollstopfen.
+Dann ist es, als ob man keine Zï¿½hne mehr hï¿½tte.
 \end{BRIGITTE} 
 
 \begin{HP}
@@ -504,7 +504,7 @@ Ach, wer ist denn das? Bist du es, Teddy?
 \end{HEIKE}
 
 \begin{DONATUS} 
-\begin{Regie} zunächst arg stöhnend, langsam zusichkommend, sich schließlich
+\begin{Regie} zunï¿½chst arg stï¿½hnend, langsam zusichkommend, sich schlieï¿½lich
 erhebend \end{Regie} 
 Hm ... du bist sehr attrak ... Oh, kleinen Augenblick ... Kleinen
 Augenblick.
@@ -512,29 +512,29 @@ Bevor wir anfangen ...
 \end{DONATUS}
 
 \begin{HEIKE}
-möchte ich Sie ein's fragen:
+mï¿½chte ich Sie ein's fragen:
 Liebst du mich? Oder liebst du mich nicht?
 \end{HEIKE}
 
 \begin{DONATUS}
 Nicht, nein, nein, Liebling, nicht.
-Du bist ein wunderschönes Mädchen,
+Du bist ein wunderschï¿½nes Mï¿½dchen,
 Aber ich gerate so sehr in Versuchung.
 Ich darf nicht mit dir gesehen werden.
 \end{DONATUS}
 
 \begin{HEIKE} 
-Ich muß wissen, was passiert ist, es gibt doch nichts, was du mir nicht
-sagen könntest.
+Ich muï¿½ wissen, was passiert ist, es gibt doch nichts, was du mir nicht
+sagen kï¿½nntest.
 \end{HEIKE}
 
 \begin{Regie}
-AngelikaM und Bärbel kommen dazu.
+AngelikaM und Bï¿½rbel kommen dazu.
 \end{Regie}
 
 \begin{DONATUS}
-Oh, Gott, ich verhungere! Hast Du ein Stück Käsetorte oder ein
-Würstchen oder so etwas?
+Oh, Gott, ich verhungere! Hast Du ein Stï¿½ck Kï¿½setorte oder ein
+Wï¿½rstchen oder so etwas?
 \end{DONATUS}
 
 \begin{AM}
@@ -546,7 +546,7 @@ Spielt gar keine Rolle. Ich bin nicht hungrig.
 \end{HEIKE}
 
 \begin{BAERBEL}
-Es ist aber ein ziemlich großer Schmorbraten.
+Es ist aber ein ziemlich groï¿½er Schmorbraten.
 \end{BAERBEL}
 
 \begin{DONATUS}
@@ -554,12 +554,12 @@ Schmorbraten!
 \end{DONATUS}
 
 \begin{BAERBEL}
-Das ist doch das wenigste, was wir tun können.
+Das ist doch das wenigste, was wir tun kï¿½nnen.
 \end{BAERBEL}
 
 \begin{DONATUS}
-Ja, gut. Schön. Dann tun wir das doch. Allerdings, ich habe
-einen großen Appetit. 
+Ja, gut. Schï¿½n. Dann tun wir das doch. Allerdings, ich habe
+einen groï¿½en Appetit. 
 \begin{Regie} dann zu Heike \end{Regie}
 Wollen wir nicht ... hier reingehen und uns etwas besser kennenlernen?
 \end{DONATUS}
@@ -570,12 +570,12 @@ Das ist ja genial!
 
 \begin{DONATUS} 
 \begin{Regie} mit Heike abgehend \end{Regie}
-Alles ist motiviert. Es hat Fluß ... Wunderbar.
+Alles ist motiviert. Es hat Fluï¿½ ... Wunderbar.
 \end{DONATUS}
 
 \begin{HEIKE}
 Jetzt ist es nicht mehr lauwarm und konstruiert. Es ist so voller Leben.
-Es ist so voller Leidenschaft. Es knistert vor flammender Sexualität ...
+Es ist so voller Leidenschaft. Es knistert vor flammender Sexualitï¿½t ...
 Endlich ist es fleischlich.
 \end{HEIKE}
 
@@ -588,11 +588,11 @@ Endlich ist es fleischlich.
 \begin{Regie} \bf\Large Szene 6 \end{Regie}
 
 \begin{ULLA} 
-\begin{Regie} rast auf die Bühne \end{Regie}
+\begin{Regie} rast auf die Bï¿½hne \end{Regie}
 Ich hab die Schnauze voll,
 ich hab die Schnauze voll,
 verstehst du mich? Du kannst deine Gorillas rumscheuchen, wie's dir
-paßt, aber ich hab's bis hierhin.
+paï¿½t, aber ich hab's bis hierhin.
 \end{ULLA}
 
 \begin{KF} 
@@ -602,7 +602,7 @@ Hier ist der Wein. Was hast du denn?
 
 \begin{ULLA}
 Ich teil mir nicht mehr die Garderobe mit anderen, und ich habe es satt,
-daß man mich anrempelt und auf mir herumtrampelt.
+daï¿½ man mich anrempelt und auf mir herumtrampelt.
 \end{ULLA}
 
 \begin{BAERBEL}
@@ -618,9 +618,9 @@ Das darf doch nicht wahr sein, du bist so ein Hornochse.
 \end{ULLA}
 
 \begin{KF}
-Und die Möbel und die Arbeit von fünf Monaten. Daran denkst du nicht?
-Warum wälzen sie sich herum vor Freude über die dreckigen Zoten, die sie
-singen, weil du mit ihnen tanzt wie im Puff, bis die besten Stühle
+Und die Mï¿½bel und die Arbeit von fï¿½nf Monaten. Daran denkst du nicht?
+Warum wï¿½lzen sie sich herum vor Freude ï¿½ber die dreckigen Zoten, die sie
+singen, weil du mit ihnen tanzt wie im Puff, bis die besten Stï¿½hle
 kaputtgehen.
 \end{KF}
 
@@ -629,7 +629,7 @@ Keine von diesen Schnepfen kann tanzen.
 \end{ULLA}
 
 \begin{BAERBEL}
-Schnepfen? Du hast es gerade nötig, guck dich doch selber an.
+Schnepfen? Du hast es gerade nï¿½tig, guck dich doch selber an.
 \end{BAERBEL}
 
 \begin{AM}
@@ -637,7 +637,7 @@ Ihr langweilt uns mit Hingebung.
 \end{AM}
 
 \begin{BAERBEL}
-Vielleicht gehen wir jetzt, um die anderen Möbel anzuschauen.
+Vielleicht gehen wir jetzt, um die anderen Mï¿½bel anzuschauen.
 \end{BAERBEL}
 
 \begin{Regie}
@@ -645,12 +645,12 @@ Alle bis auf KF und Ulla gehen ab.
 \end{Regie}
 
 \begin{KF}
-Ja, jetzt sind sie draußen, und jetzt beginnt unsere Hochzeitsnacht.
+Ja, jetzt sind sie drauï¿½en, und jetzt beginnt unsere Hochzeitsnacht.
 Das ist sie.
 \end{KF}
 
 \begin{ULLA}
-Na, gut, okay, okay. Aber sag bloß nicht irgendwas Peinliches, ja? 
+Na, gut, okay, okay. Aber sag bloï¿½ nicht irgendwas Peinliches, ja? 
 \end{ULLA}
 
 \begin{KF}
@@ -659,10 +659,10 @@ Nein! In der Hochzeitsnacht.
 
 \begin{ULLA} 
 \begin{Regie} aus der Rolle fallend \end{Regie}
-Frau Inspizientin! Ich kann den Text nicht sprechen. Er ist völlig
+Frau Inspizientin! Ich kann den Text nicht sprechen. Er ist vï¿½llig
 sinnlos. Er ist doof. Ich kapier ihn nicht. 
 \begin{Regie} schmollend \end{Regie}
-Und ich küsse überhaupt gar keinen.
+Und ich kï¿½sse ï¿½berhaupt gar keinen.
 \end{ULLA}
 
 \begin{ASG}
@@ -675,8 +675,8 @@ Das ist nur ne Menge Kauzerwelsch.
 \end{ULLA}
 
 \begin{ASG}
-Ich muß wirklich sagen, reizend!
-Kauderwelsch. Es hat keinen Sinn, sich darüber zu unterhalten.
+Ich muï¿½ wirklich sagen, reizend!
+Kauderwelsch. Es hat keinen Sinn, sich darï¿½ber zu unterhalten.
 Stecken Sie Ihre Nase nicht in Sachen, die Sie nichts angehen.
 \end{ASG}
 
@@ -693,7 +693,7 @@ Nein, ich mach mich doch nicht selber zum Idioten.
 \end{ULLA}
 
 \begin{ASG}
-Das wird nicht mehr viel nützen. Aber für dieses Stück werden Sie
+Das wird nicht mehr viel nï¿½tzen. Aber fï¿½r dieses Stï¿½ck werden Sie
 viel Zeit haben.
 \end{ASG}
 
@@ -708,7 +708,7 @@ Ich finde, sie richtet mehr Schaden an als du denkst.
 
 \begin{ULLA} 
 \begin{Regie} schreiend zu KF \end{Regie}
-Was weißt du denn? Du hast keine Ahnung! Halt's Maul.
+Was weiï¿½t du denn? Du hast keine Ahnung! Halt's Maul.
 \end{ULLA}
 
 \begin{ASG}
@@ -717,14 +717,14 @@ Verflucht nochmal, lassen Sie die Witze.
 
 \begin{ULLA}
 Ach, sieh mal an! Frau Eingeschnappt! Sprechen kann ich ihn schon ...
-Er ist nur dämlich. 
-Na, ja, das ist sehr schwer, mir fällt die zweite Hälfte
+Er ist nur dï¿½mlich. 
+Na, ja, das ist sehr schwer, mir fï¿½llt die zweite Hï¿½lfte
 nie ein. 
 \begin{Regie} versucht wieder in die Rolle zu kommen \end{Regie}
 \end{ULLA}
 
 \begin{KF} 
-\begin{Regie} ihr auf die Sprünge helfend \end{Regie}
+\begin{Regie} ihr auf die Sprï¿½nge helfend \end{Regie}
 Sein ...
 \end{KF}
 
@@ -732,7 +732,7 @@ Sein ...
 \begin{Regie} jetzt wieder in der Rolle \end{Regie}
 ... oder nicht sein! Ha!
 Das Herz ist labyrinthinisch, ein Irrgarten voll brutaler Fallgruben
-und häßlicher Hindernisse.
+und hï¿½ï¿½licher Hindernisse.
 \end{ULLA}
 
 \begin{KF}
@@ -740,11 +740,11 @@ So steht uns doch heute die Nacht bevor, ...
 \end{KF}
 
 \begin{ULLA}
-Heut nacht doch nit. Dat erledijen wir morjen oder übermorjen.
+Heut nacht doch nit. Dat erledijen wir morjen oder ï¿½bermorjen.
 \end{ULLA}
 
 \begin{KF}
-wo wir unter den Augen der Familie in eigenen Wänden ...
+wo wir unter den Augen der Familie in eigenen Wï¿½nden ...
 \end{KF}
 
 \begin{ULLA}
@@ -768,11 +768,11 @@ Schwachsinn!
 \end{ULLA}
 
 \begin{KF}
-Höre mein Flehen an. Ich halt's nicht mehr aus.
+Hï¿½re mein Flehen an. Ich halt's nicht mehr aus.
 \end{KF}
 
 \begin{ULLA}
-Warum nit, jetzt wär et nit mehr jefährlich.
+Warum nit, jetzt wï¿½r et nit mehr jefï¿½hrlich.
 \end{ULLA}
 
 \begin{KF}
@@ -784,7 +784,7 @@ O.k. Dann tun wir et eben. Aber auf die schnelle Tour, wie damals in London.
 \end{ULLA}
 
 \begin{KF}
-Du bist hübsch. Deine weiße Brust.
+Du bist hï¿½bsch. Deine weiï¿½e Brust.
 \end{KF}
 
 \begin{ULLA}
@@ -793,11 +793,11 @@ Mach dir nicht in die Hosen.
 
 \begin{KF} 
 \begin{Regie} zu sich \end{Regie}
-Die trägt mir noch den Starrkrampf ein!
+Die trï¿½gt mir noch den Starrkrampf ein!
 \end{KF}
 
 \begin{ULLA}
-Wieso bist du so nervös, sag mal?
+Wieso bist du so nervï¿½s, sag mal?
 \end{ULLA}
 
 \begin{KF}
@@ -805,26 +805,26 @@ Ganz ruhig bleiben.
 \end{KF}
 
 \begin{ULLA}
-Und ob! Aber ich hab' da 'n paar Ideen, wie wir's aufmöbeln können.
+Und ob! Aber ich hab' da 'n paar Ideen, wie wir's aufmï¿½beln kï¿½nnen.
 \end{ULLA}
 
 \begin{KF}
-Wieso Möbel? Was meinst du? Was soll los sein?
+Wieso Mï¿½bel? Was meinst du? Was soll los sein?
 Nur weil der Leim schlecht war?
-Auf das Lumpenzeug in den Läden kann man sich ja nicht verlassen.
+Auf das Lumpenzeug in den Lï¿½den kann man sich ja nicht verlassen.
 \end{KF}
 
 \begin{ULLA}
-Was ist denn das für ne Andeutung? Ich kapier das nicht.
+Was ist denn das fï¿½r ne Andeutung? Ich kapier das nicht.
 \end{ULLA}
 
 \begin{KF}
 Gut, wenn du willst, Geliebte: Hol ein Bett. Es eilt zwar etwas,
-aber wenn du willst: Nun schön.
+aber wenn du willst: Nun schï¿½n.
 \end{KF}
 
 \begin{ULLA}
-Wenn ich das Wort Bett höre, wird mir ganz schwach.
+Wenn ich das Wort Bett hï¿½re, wird mir ganz schwach.
 Es ist nicht zu fassen, heute nacht gibt es ein Bett. Kissen! Bettzeug!
 \end{ULLA}
 
@@ -834,7 +834,7 @@ Kissen? Haben wir noch nie gebraucht.
 \end{KF}
 
 \begin{ULLA}
-Mir kommt et vor, als wenn ich en wundervollen Traum hätt.
+Mir kommt et vor, als wenn ich en wundervollen Traum hï¿½tt.
 Hoffentlich bleibt et kein Traum!
 \end{ULLA}
 
@@ -858,24 +858,24 @@ weil die Schauspieler so sensibel sind.
 \begin{Regie} Brigitte tritt auf. \end{Regie}
 
 \begin{BRIGITTE}
-Schade, daß kein Licht war, die Betten sind wirklich sehr schön.
+Schade, daï¿½ kein Licht war, die Betten sind wirklich sehr schï¿½n.
 \end{BRIGITTE}
 
 \begin{KF} 
-\begin{Regie} verstört \end{Regie}
+\begin{Regie} verstï¿½rt \end{Regie}
 Was? Wie war das gleich?
 \end{KF}
 
 \begin{HP}
-Dann kann ich Ihnen nur sagen, schwenken Sie Ihre Geschütze herum. 
+Dann kann ich Ihnen nur sagen, schwenken Sie Ihre Geschï¿½tze herum. 
 \begin{Regie} trompetet \end{Regie}
 \end{HP}
 
 \begin{ULLA}
-Das wär prima. Isch hann so nen Hunger. Da is wat zum Saufen.
+Das wï¿½r prima. Isch hann so nen Hunger. Da is wat zum Saufen.
 \end{ULLA}
 
-\begin{Regie} Monika tritt mit Bärbel und AngelikaM auf.  \end{Regie}
+\begin{Regie} Monika tritt mit Bï¿½rbel und AngelikaM auf.  \end{Regie}
 
 \begin{MONIKA}
 Was redet ihr denn immer miteinander, Kinder?
@@ -886,11 +886,11 @@ Das ist auf dein Wohl, Mutter.
 \end{KF}
 
 \begin{MONIKA}
-Knöpf das wieder zu. Das schickt sich nicht.
+Knï¿½pf das wieder zu. Das schickt sich nicht.
 \end{MONIKA}
 
 \begin{BRIGITTE}
-Ich möchte die Sachen für die Weihnachtsfeier abholen.
+Ich mï¿½chte die Sachen fï¿½r die Weihnachtsfeier abholen.
 \end{BRIGITTE}
 
 \begin{Regie} Wolfhard und Christa treten auf. Beim Auftreten:\end{Regie}
@@ -898,7 +898,7 @@ Ich möchte die Sachen für die Weihnachtsfeier abholen.
 \begin{CHRISTA} 
 \begin{Regie} zu Wolfhard \end{Regie}
 Liebster, gibst du mir mein Stichwort im zweiten Akt bitte etwas
-früher? Du weißt doch, du zitierst da in deiner Rolle Hamlet?
+frï¿½her? Du weiï¿½t doch, du zitierst da in deiner Rolle Hamlet?
 \end{CHRISTA}
 
 \begin{WOLFHARD}
@@ -908,16 +908,16 @@ Wer ist dieser Hamlet-Kerl? Wohnt der hier in der Gegend?
 \begin{Regie} Christa geht auf Hans-Peter zu \end{Regie}
 
 \begin{CHRISTA}
-Ist das eine Freude? Ist das schön, dich zu sehen.
+Ist das eine Freude? Ist das schï¿½n, dich zu sehen.
 Ich hab allen etwas mitgebracht.
 \end{CHRISTA}
 
 \begin{HP}
-Ach, wie rücksichtsvoll.
+Ach, wie rï¿½cksichtsvoll.
 \end{HP}
 
 \begin{CHRISTA}
-Nur etwas Seife und hübsch duftendes und etwas Weihrauch.
+Nur etwas Seife und hï¿½bsch duftendes und etwas Weihrauch.
 \end{CHRISTA}
 
 \begin{WOLFHARD}
@@ -929,7 +929,7 @@ Wenn du etwas halten willst, halte deinen Mund!
 \end{AM}
 
 \begin{WOLFHARD}
-Was darf ich denn hier überhaupt? Nur für alles blechen?
+Was darf ich denn hier ï¿½berhaupt? Nur fï¿½r alles blechen?
 \end{WOLFHARD}
 
 \begin{Regie}
@@ -938,8 +938,8 @@ Donatus tritt auf.
 
 \begin{DONATUS} 
 \begin{Regie} zu Brigitte \end{Regie}
-Zwanzig Jahre bin ich weggewesen, aber ich habe nie aufgehört,
-an dich zu denken. In Melbourne träumte ich einmal nachts von dir.
+Zwanzig Jahre bin ich weggewesen, aber ich habe nie aufgehï¿½rt,
+an dich zu denken. In Melbourne trï¿½umte ich einmal nachts von dir.
 Und als ich in San Franzisko landete, empfand ich eine seltsame
 Genugtuung. Nun war ich wieder im selben Land mit dir.
 \end{DONATUS}
@@ -953,7 +953,7 @@ Es ist unbekannt, aber gesprochen war es gut.
 \end{WOLFHARD}
 
 \begin{BRIGITTE}
-Bloß ein bißchen breit, finde ich.
+Bloï¿½ ein biï¿½chen breit, finde ich.
 \end{BRIGITTE}
 
 \begin{AB}
@@ -961,24 +961,24 @@ Es ist dicht, hat eine Botschaft, ist sozialkritisch.
 \end{AB}
 
 \begin{AM}
-Wenn Männer etwas wollen, reden sie geschraubt.
+Wenn Mï¿½nner etwas wollen, reden sie geschraubt.
 \end{AM}
 
 \begin{BRIGITTE}
-Ich muß dir 
-\begin{Regie} zu Donatus \end{Regie} was gestehen. Wir haben ein Verhältnis.
+Ich muï¿½ dir 
+\begin{Regie} zu Donatus \end{Regie} was gestehen. Wir haben ein Verhï¿½ltnis.
 Er ist schon so lange Zeit hinter mir her.
 Eines Abends sind wir was trinken gegangen und haben angefangen, ...
-über Kunst und Literatur, Freud und Nietzsche zu reden. Und um eine
-Behauptung zu bekräftigen über griechische Ethymologie, ...
-fiel mir auf, daß er dafür seinen Hosenschlitz aufgeknöpft hatte.
+ï¿½ber Kunst und Literatur, Freud und Nietzsche zu reden. Und um eine
+Behauptung zu bekrï¿½ftigen ï¿½ber griechische Ethymologie, ...
+fiel mir auf, daï¿½ er dafï¿½r seinen Hosenschlitz aufgeknï¿½pft hatte.
 \end{BRIGITTE}
 
 \begin{Regie} Schweigen \end{Regie}
 
 \begin{MONIKA}
 Warum redet denn niemand? 
-\begin{Regie} Pause \end{Regie} Ich weiß von nichts.
+\begin{Regie} Pause \end{Regie} Ich weiï¿½ von nichts.
 \end{MONIKA}
 
 \begin{BRIGITTE}
@@ -987,16 +987,16 @@ Er ging von selbst.
 
 \begin{AB} 
 \begin{Regie} zu Brigitte \end{Regie}
-Das ist das schändlichste heut. Jetzt hast du dich
-selbst übertroffen. Jetzt ist nichts mehr heilig.
+Das ist das schï¿½ndlichste heut. Jetzt hast du dich
+selbst ï¿½bertroffen. Jetzt ist nichts mehr heilig.
 \end{AB}
 
 \begin{BRIGITTE}
-Das überrascht mich nicht.
+Das ï¿½berrascht mich nicht.
 \end{BRIGITTE}
 
 \begin{HP}
-Nein, nein, nein, bitte, bitte, ich will nichts mehr hören.
+Nein, nein, nein, bitte, bitte, ich will nichts mehr hï¿½ren.
 \end{HP}
 
 \begin{BAERBEL}
@@ -1004,33 +1004,33 @@ Begreifst du nicht, sie lieben sich.
 \end{BAERBEL}
 
 \begin{KF}
-Ihr könnt doch nicht einfach solche Sachen machen.
-Ich weiß garnicht, wie ich es euch erklären soll.
+Ihr kï¿½nnt doch nicht einfach solche Sachen machen.
+Ich weiï¿½ garnicht, wie ich es euch erklï¿½ren soll.
 Das ist nicht nur strafbar, das ist auch schlecht ...
-das ist völlig unmöglich. Sowas geht einfach nicht.
-Kein Mensch würde das verstehen.
+das ist vï¿½llig unmï¿½glich. Sowas geht einfach nicht.
+Kein Mensch wï¿½rde das verstehen.
 \end{KF}
 
 \begin{CHRISTA}
-Ich kann Ihnen garnicht sagen, wie glücklich mich Ihr Urteil macht
-und wie dankbar ich dafür bin.
+Ich kann Ihnen garnicht sagen, wie glï¿½cklich mich Ihr Urteil macht
+und wie dankbar ich dafï¿½r bin.
 \end{CHRISTA}
 
 \begin{AM}
-Nie soll ein Hausfreund, nie ein Ehemann mir nahen mit gezücktem Spieß.
+Nie soll ein Hausfreund, nie ein Ehemann mir nahen mit gezï¿½cktem Spieï¿½.
 \end{AM}
 
 \begin{BRIGITTE}
-Ich bin der Meinung, es ist reziprok. Für mich ist er ganz toll.
+Ich bin der Meinung, es ist reziprok. Fï¿½r mich ist er ganz toll.
 Seine Technik ist sagenhaft.
 \end{BRIGITTE}
 
 \begin{BAERBEL}
-Sag bloß. Interessant. Rein mechanisch oder wie?
+Sag bloï¿½. Interessant. Rein mechanisch oder wie?
 \end{BAERBEL}
 
 \begin{HP}
-Ich bin ... es ist eine traurige Realität des Marktes ... das kann ich Ihnen
+Ich bin ... es ist eine traurige Realitï¿½t des Marktes ... das kann ich Ihnen
 sagen.
 \end{HP}
 
@@ -1040,24 +1040,24 @@ Ihr ... ihr redet alle an der Sache vorbei.
 
 \begin{BRIGITTE}
 Vielleicht sind dir meine Ansichten nicht intellektuell genug.
-Vielleicht sind sie dir zu einfältig.
+Vielleicht sind sie dir zu einfï¿½ltig.
 \end{BRIGITTE}
 
 \begin{Regie} Heike tritt auf. \end{Regie}
 
 \begin{HEIKE}
-Bitte verzeiht mir. Meine Fußpflegerin hatte einen Schlaganfall.
+Bitte verzeiht mir. Meine Fuï¿½pflegerin hatte einen Schlaganfall.
 Sie kippte nach vorne auf ihre Polierfeile und rammte sie mir in die
 Zehe.
-Ach ist das schön, euch zu sehen.
+Ach ist das schï¿½n, euch zu sehen.
 \end{HEIKE}
 
 \begin{ULLA}
-Träume sind nur verkleidete Gefühle. Je mehr man seine schmerzhaften
+Trï¿½ume sind nur verkleidete Gefï¿½hle. Je mehr man seine schmerzhaften
 Erlebnisse nicht als Handicap ansieht, desto leichter wird man damit fertig.
 \end{ULLA}
 
-\Einstellung{Dunkel}
+\Setting{Dunkel}
 
 
 \vspace{1cm}
@@ -1066,7 +1066,7 @@ Erlebnisse nicht als Handicap ansieht, desto leichter wird man damit fertig.
 
 \begin{Regie} \bf\Large Szene 8 \end{Regie}
 
-\Einstellung{Hell}
+\Setting{Hell}
 
 \begin{HEIKE}
 Welch ein Dialog! Das ist besser als Brecht, ... Walter Jens
@@ -1074,7 +1074,7 @@ kommt nie an dich heran.
 Es ist so voller Leidenschaft, ... es ist so voller Leben.
 Welch ein Unterschied zur dieser ersten Fassung ... du
 hattest dich noch nicht gefunden. Die Idee war da, aber hatte sich noch
-nicht herauskristallisiert. Du mußtest es erst gestaltet sehen,
+nicht herauskristallisiert. Du muï¿½test es erst gestaltet sehen,
 und jetzt das!
 \end{HEIKE}
 
@@ -1083,7 +1083,7 @@ Ja, es ist gut. Besonders die Moral!
 \end{HP}
 
 \begin{AB}
-Ich bin Bühnenschriftstellerin.
+Ich bin Bï¿½hnenschriftstellerin.
 Das war eine Zote.
 \end{AB}
 
@@ -1096,7 +1096,7 @@ Aber es ist Kraft darinnen.
 \end{DONATUS}
 
 \begin{BRIGITTE}
-Begießt ihn Schwestern, daß er wieder blüht.
+Begieï¿½t ihn Schwestern, daï¿½ er wieder blï¿½ht.
 \end{BRIGITTE}
 
 \begin{CHRISTA}
@@ -1108,7 +1108,7 @@ Es ist also eine kraftvolle Sauerei.
 Das ist schlimmer als eine schwache.
 Wenn einer ein Talent zu Schweinereien hat,
 ist das etwa entschuldigend?
-Sie gehören überhaupt nicht in so ein Stück.
+Sie gehï¿½ren ï¿½berhaupt nicht in so ein Stï¿½ck.
 \end{WOLFHARD}
 
 \begin{HEIKE}
@@ -1130,7 +1130,7 @@ Das ist allerdings wahr.
 \end{HP}
 
 \begin{AB}
-Das glaube ich auch. Bei all den Tragödien, die ich als Polizistin
+Das glaube ich auch. Bei all den Tragï¿½dien, die ich als Polizistin
 sehe. Sie haben keine Ahnung, was in Brooklyn so alles passiert.
 \end{AB}
 
@@ -1139,37 +1139,37 @@ Und noch was. Ich will das Sagen bei diesen Broadway-Bonzen haben.
 \end{WOLFHARD}
 
 \begin{HP}
-Du meine Güte, das wird ein schöner Schreck für den General werden.
+Du meine Gï¿½te, das wird ein schï¿½ner Schreck fï¿½r den General werden.
 \end{HP}
 
 \begin{ULLA}
-Ach du lieven Jott, aus den Theaterstücken, die Sie sich laufend
+Ach du lieven Jott, aus den Theaterstï¿½cken, die Sie sich laufend
 ankucken, lernen Se wohl jar nix?
-In den Stücken sind wenigstens halbwegs vernünftige Leute.
+In den Stï¿½cken sind wenigstens halbwegs vernï¿½nftige Leute.
 Dat kann man von Ihnen nich saren.
 \end{ULLA}
 
 \begin{AM}
-Natürlich, er schreibt entsetzliche Sachen.
+Natï¿½rlich, er schreibt entsetzliche Sachen.
 \end{AM}
 
 \begin{HP}
 Nein. Ich denke nur, ich hab vielleicht die Figur
-noch zu aseptisch aufgefaßt. Sie muß doch auch eine
+noch zu aseptisch aufgefaï¿½t. Sie muï¿½ doch auch eine
 sexuelle Seite haben, denn  sonst ...
 \end{HP}
 
 \begin{BRIGITTE}
-Nein ... nein. Nicht doch. Sie ist für mich die beste
+Nein ... nein. Nicht doch. Sie ist fï¿½r mich die beste
 weibliche Rolle.
 \end{BRIGITTE}
 
 \begin{WOLFHARD}
-Früher hat sie mal in 'ner Bar mit dem Hintern gewackelt, wißt ihr?
+Frï¿½her hat sie mal in 'ner Bar mit dem Hintern gewackelt, wiï¿½t ihr?
 \end{WOLFHARD}
 
 \begin{AB}
-Wir Frauen sind zu allem fähig. Ja!
+Wir Frauen sind zu allem fï¿½hig. Ja!
 \end{AB}
 
 \begin{ULLA}
@@ -1182,14 +1182,14 @@ wenn die Schauspieler echt klingen.
 \end{KF}
 
 \begin{CHRISTA}
-Ich bedauere die unglückliche Verbindung Ihres Neffen mit dem Theater.
-Er ist doch ständig
-dem Einfluß des Theaters ausgesetzt und manche bekommen schließlich
+Ich bedauere die unglï¿½ckliche Verbindung Ihres Neffen mit dem Theater.
+Er ist doch stï¿½ndig
+dem Einfluï¿½ des Theaters ausgesetzt und manche bekommen schlieï¿½lich
 wirklich ein Interesse daran.
 \end{CHRISTA}
 
 \begin{AM}
-Bei dem brauchen Sie keine Angst haben. Der haßt das Theater.
+Bei dem brauchen Sie keine Angst haben. Der haï¿½t das Theater.
 \end{AM}
 
 \begin{CHRISTA}
@@ -1197,22 +1197,22 @@ Wirklich?
 \end{CHRISTA}
 
 \begin{BAERBEL}
-Ich hab's mir überlegt. Dann lieber Krieg.
+Ich hab's mir ï¿½berlegt. Dann lieber Krieg.
 \end{BAERBEL}
 
 \begin{CHRISTA}
-Nun, so lange er dabei glücklich ist und, was viel wichtiger ist,
-so lange Sie dabei glücklich sind.
+Nun, so lange er dabei glï¿½cklich ist und, was viel wichtiger ist,
+so lange Sie dabei glï¿½cklich sind.
 \end{CHRISTA}
 
 \begin{AM}
-Hhm. Hhm. Hhm. Jeder von den Ärmsten, die Geld hinblättern,
-um das Stück zu sehen, tut mir mächtig leid.
+Hhm. Hhm. Hhm. Jeder von den ï¿½rmsten, die Geld hinblï¿½ttern,
+um das Stï¿½ck zu sehen, tut mir mï¿½chtig leid.
 \end{AM}
 
 \begin{KF}
-Ich schreibe keine Kassenschlager. Meine Stücke sind Kunst ...
-Sie sind bewußt so geschrieben, daß sie keiner aufführt.
+Ich schreibe keine Kassenschlager. Meine Stï¿½cke sind Kunst ...
+Sie sind bewuï¿½t so geschrieben, daï¿½ sie keiner auffï¿½hrt.
 \end{KF}
 
 
@@ -1226,10 +1226,10 @@ Sie sind bewußt so geschrieben, daß sie keiner aufführt.
 \begin{Regie} \bf\Large Szene 9 \end{Regie}
 
 \begin{Regie}
-Alle haben ein Weinglas. Formieren sich während der Szene zum Halbkreis.
+Alle haben ein Weinglas. Formieren sich wï¿½hrend der Szene zum Halbkreis.
 \end{Regie}
 
-\begin{Regie} Bärbel und AngelikaM treten mit Wein auf. \end{Regie}
+\begin{Regie} Bï¿½rbel und AngelikaM treten mit Wein auf. \end{Regie}
 
 \begin{HP}
 Und jetzt den Wein!
@@ -1241,13 +1241,13 @@ Und jetzt den Wein!
 \begin{DONATUS} 
 \begin{Regie} Donatus kommt dazu \end{Regie}
 Guten Morgen. 
-\begin{Regie} wendet sich an AngelikaM \end{Regie} Wäre es fürchterlich
-langweilig von mir, wenn ich nur ein warmes Wasser mit Zitrone nähme?
+\begin{Regie} wendet sich an AngelikaM \end{Regie} Wï¿½re es fï¿½rchterlich
+langweilig von mir, wenn ich nur ein warmes Wasser mit Zitrone nï¿½hme?
 \end{DONATUS}
 
 \begin{AM}
-Aber ob es sich auch hält? Willst du nicht lieber trinken, als deine
-Weisheit zum besten geben. Sonst trinkst du doch auch so unmäßig. 
+Aber ob es sich auch hï¿½lt? Willst du nicht lieber trinken, als deine
+Weisheit zum besten geben. Sonst trinkst du doch auch so unmï¿½ï¿½ig. 
 \begin{Regie}
 Schenkt ihm Wein ein. \end{Regie}
 \end{AM}
@@ -1259,7 +1259,7 @@ Schenk frisch ein, Jakob.
 
 \begin{CHRISTA}
 Ich schenke aus. 
-\begin{Regie} Schenkt unterstützt von Bärbel und AngelikaM
+\begin{Regie} Schenkt unterstï¿½tzt von Bï¿½rbel und AngelikaM
 allen Wein ein. \end{Regie}
 \end{CHRISTA}
 
@@ -1274,24 +1274,24 @@ Wir machen ihn selber. Es ist Holunderwein.
 
 \begin{CHRISTA}
 Holunderwein! Ach, ich habe keinen Holunderwein mehr getrunken, seit
-ich ein kleines Mädchen war.
+ich ein kleines Mï¿½dchen war.
 \end{CHRISTA}
 
 \begin{AM}
-Aus Samos. Und vom Besten. Rein und unvermischt. Kein Grämmchen
+Aus Samos. Und vom Besten. Rein und unvermischt. Kein Grï¿½mmchen
 Zusatz drin.
 \end{AM}
 
 \begin{BAERBEL} 
-\begin{Regie} für sich, zum Publikum \end{Regie}
+\begin{Regie} fï¿½r sich, zum Publikum \end{Regie}
 Es ist ja auch ganz einfach: Auf ein viertel Liter Holunderwein
-nehme ich einen Teelöffel Arsenik, einen halben Teelöffel Strychnin
-und ein paar Körnchen Zyankali.
+nehme ich einen Teelï¿½ffel Arsenik, einen halben Teelï¿½ffel Strychnin
+und ein paar Kï¿½rnchen Zyankali.
 \end{BAERBEL}
 
 \begin{KF} 
 \begin{Regie} kriegt das mit, zu sich, etwas psychopathisch  \end{Regie}
-Das dürfte eine tolle Wirkung haben!
+Das dï¿½rfte eine tolle Wirkung haben!
 \end{KF}
 
 \begin{BRIGITTE}
@@ -1304,7 +1304,7 @@ Willst du nicht noch Wein holen?
 
 \begin{KF}
 Er ist im Keller! 
-\begin{Regie} zu Bärbel \end{Regie} Gib mir den Schlüssel!
+\begin{Regie} zu Bï¿½rbel \end{Regie} Gib mir den Schlï¿½ssel!
 \end{KF}
 
 \begin{BAERBEL}
@@ -1312,11 +1312,11 @@ Ich werde unseren Keller nicht entweihen lassen!
 \end{BAERBEL}
 
 \begin{AM} 
-Der Keller ist überfüllt!
+Der Keller ist ï¿½berfï¿½llt!
 \end{AM}
 
 \begin{DONATUS}
-Überfüllt? Mit was?
+ï¿½berfï¿½llt? Mit was?
 \end{DONATUS}
 
 \begin{HP}
@@ -1334,7 +1334,7 @@ Runde \end{Regie} brauchen wir noch.
 \end{AM}
 
 \begin{KF}
-Jetzt trinken wir! Auf das Wohl der Gemütlichkeit!
+Jetzt trinken wir! Auf das Wohl der Gemï¿½tlichkeit!
 \end{KF}
 
 
@@ -1352,7 +1352,7 @@ Nicht sprechen ...
 \end{HEIKE}
 
 \begin{ULLA}
-Oh ja, schön, ... das wird ... vielleicht angenehm.
+Oh ja, schï¿½n, ... das wird ... vielleicht angenehm.
 \end{ULLA}
 
 \begin{HEIKE}
@@ -1360,13 +1360,13 @@ Nein, nein, nicht sprechen. Bitte nicht sprechen.
 \end{HEIKE}
 
 \begin{AM} 
-\begin{Regie} hintergründig \end{Regie}
+\begin{Regie} hintergrï¿½ndig \end{Regie}
 Und weil heute Festtag ist, alles umsonst.
 \end{AM}
 
 \begin{CHRISTA}
 Heute findet man nicht mehr viel Holunderwein.
-Ich dachte, ich hätte mein letztes Glas längst getrunken.
+Ich dachte, ich hï¿½tte mein letztes Glas lï¿½ngst getrunken.
 \end{CHRISTA}
 
 \begin{AM}
@@ -1381,7 +1381,7 @@ Hier, {\bf das} ist das letzte.
 \begin{Regie} Alle heben ihr Glas an die Lippen. Vorhang.
 \end{Regie}
 
-\Einstellung{Dunkel mit Musik}
+\Setting{Dunkel mit Musik}
 
 \vspace*{3cm}
 
@@ -1390,12 +1390,12 @@ Hier, {\bf das} ist das letzte.
 \end{Regie}
 
 
-\Einstellung{Hell}
+\Setting{Hell}
 
 \begin{Regie} Wenn Beifall abebbt, dann Saallicht an und:
 \end{Regie}
 
-\Einstellung{Umbau}
+\Setting{Umbau}
 
-\Einstellung{Aufbau}
+\Setting{Aufbau}
 
