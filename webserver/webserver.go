@@ -55,9 +55,9 @@ func Log(handler http.Handler) http.Handler {
 func TheaterTextFileHandler(w http.ResponseWriter, r *http.Request, p httprouter.Params) {
 	filePath := p.ByName("file")
 	log.Printf("Go Latex parser\n")
-	log.Printf("Parsing file" + filePath + ".txt ...")
+	log.Printf("Parsing file " + filePath + ".txt ...")
 
-	input, err := ioutil.ReadFile("./resources/" + filePath) //TODO fix problem with path
+	input, err := ioutil.ReadFile("resources/" + filePath) //TODO fix problem with path
 	if err != nil {
 		log.Printf(err.Error())
 		http.Error(w, "The theater text could not be found. Please make sure it is availiable in the right directory", http.StatusNotFound)
@@ -108,15 +108,15 @@ func TheaterTextPaginationHandler(w http.ResponseWriter, r *http.Request, p http
 
 	var stmt *latex.Document
 	if theaterTextCache.path != filePath {
-		input, err := ioutil.ReadFile("./resources/" + filePath) //TODO fix problem with path
+		input, err := ioutil.ReadFile("resources/" + filePath) //TODO fix problem with path
 		if err != nil {
-			fmt.Print(err.Error())
+			log.Print(err.Error())
 			http.Error(w, "The theater text could not be found. Please make sure it is availiable in the right directory", http.StatusNotFound)
 			return
 		}
 		stmt, err = latex.NewParser(strings.NewReader(string(input))).Parse()
 		if err != nil {
-			fmt.Print(err.Error())
+			log.Print(err.Error())
 			http.Error(w, "Error while parsing the theater text. Please make sure it is formated correctly", http.StatusInternalServerError)
 		}
 		theaterTextCache.path = filePath
@@ -125,18 +125,21 @@ func TheaterTextPaginationHandler(w http.ResponseWriter, r *http.Request, p http
 
 	if page == "pages" {
 		var pages []string
-		for _, element := range theaterTextCache.document.Document {
-			if len(element.Body) == 0 {
+		for _, subelement := range theaterTextCache.document.Document {
+			if len(subelement.Body) == 0 {
 				continue
 			}
-			if element.Name == "" && element.Body[0].Type == "Seite" {
-				pages = append(pages, element.Body[0].Body)
+			for _, body := range subelement.Body {
+				if body.Type == "Seite" {
+					pages = append(pages, body.Body)
+				}
 			}
+
 		}
 		parsedJSON, err := json.Marshal(pages)
 
 		if err != nil {
-			fmt.Print(err.Error())
+			log.Print(err.Error())
 			http.Error(w, "List of pagenumbers could not be parsed to json", http.StatusInternalServerError)
 			return
 		}
@@ -146,39 +149,53 @@ func TheaterTextPaginationHandler(w http.ResponseWriter, r *http.Request, p http
 
 	var pageContent latex.Document
 	keep := false
+	lastpage := 0
 	for _, element := range theaterTextCache.document.Document {
 
+		// ignore empty elements that had been caused by \\ before support of this was added
 		if len(element.Body) == 0 {
 			continue
 		}
+		for _, subelement := range element.Body {
+			if subelement.Type == "Seite" {
+				body, err := strconv.Atoi(subelement.Body)
+				if err != nil {
+					http.Error(w, "Seite with a non-integer value.", http.StatusInternalServerError)
+					return
+				}
+				pg, err := strconv.Atoi(page)
+				if err != nil {
+					http.Error(w, "Invalid pagination parameter", http.StatusInternalServerError)
+					return
+				}
 
-		if element.Name == "" && element.Body[0].Type == "Seite" {
-			body, err := strconv.Atoi(element.Body[0].Body)
-			if err != nil {
-				http.Error(w, "Seite with a non-integer value.", http.StatusInternalServerError)
-				return
-			}
-			pg, err := strconv.Atoi(page)
-			if err != nil {
-				http.Error(w, "Invalid pagination parameter", http.StatusInternalServerError)
-				return
-			}
+				// check for page errors
+				if body <= lastpage {
+					http.Error(w, "Error with paging: page numbers are invalid or in wrong sequence", http.StatusInternalServerError)
+					log.Printf("Encountered page number %d, but expected a number higher %d", body, lastpage)
+					return
+				} else {
+					lastpage = body
+				}
 
-			if body == pg {
-				keep = true
-			} else if body > pg {
-				fmt.Print(element.Name + element.Body[0].Type + element.Body[0].Body)
-				break
+				if body == pg {
+					keep = true
+				} else {
+					log.Print(element.Name + subelement.Type + subelement.Body)
+					keep = false
+					break
+				}
+			}
+			if keep {
+				pageContent.Document = append(pageContent.Document, element)
 			}
 		}
-		if keep {
-			pageContent.Document = append(pageContent.Document, element)
-		}
+
 	}
 
 	parsedJSON, err := json.Marshal(pageContent)
 	if err != nil {
-		fmt.Print(err.Error())
+		log.Print(err.Error())
 		http.Error(w, "Error while converting the theater text to json.", http.StatusInternalServerError)
 		return
 	}
