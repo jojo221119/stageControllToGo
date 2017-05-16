@@ -17,9 +17,10 @@ export class ScriptViewComponent implements OnInit {
   private scriptName: String;
   script:Element[] = null;
 
-  constructor(private scriptProviderService:ScriptProviderService,
-  private route: ActivatedRoute,
-  private settingsService:SettingsService) {}
+  constructor(
+    private scriptProviderService:ScriptProviderService,
+    private route: ActivatedRoute,
+    private settingsService:SettingsService) {}
 
   ngOnInit() {
 

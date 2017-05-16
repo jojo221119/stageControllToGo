@@ -33,7 +33,7 @@ func main() {
 	apiRouter.GET("/api/scripts/:file/:page", TheaterTextPaginationHandler)
 
 	//Mock request for play activation
-	apiRouter.POST("/api/plays/:play/scenes/:scene/activate", ActivateScene)
+	apiRouter.POST("/api/plays/:play/scenes/:scene/activate", ActivateSetting)
 
 	middleware := middleware.Middleware{}
 
@@ -53,7 +53,7 @@ func Log(handler http.Handler) http.Handler {
 }
 
 func TheaterTextFileHandler(w http.ResponseWriter, r *http.Request, p httprouter.Params) {
-	filePath := p.ByName("file")
+	filePath := p.ByName("file") + ".txt"
 	log.Printf("Go Latex parser\n")
 	log.Printf("Parsing file" + filePath + ".txt ...")
 
@@ -110,13 +110,13 @@ func TheaterTextPaginationHandler(w http.ResponseWriter, r *http.Request, p http
 	if theaterTextCache.path != filePath {
 		input, err := ioutil.ReadFile("./resources/" + filePath) //TODO fix problem with path
 		if err != nil {
-			fmt.Print(err.Error())
+			log.Print(err.Error())
 			http.Error(w, "The theater text could not be found. Please make sure it is availiable in the right directory", http.StatusNotFound)
 			return
 		}
 		stmt, err = latex.NewParser(strings.NewReader(string(input))).Parse()
 		if err != nil {
-			fmt.Print(err.Error())
+			log.Print(err.Error())
 			http.Error(w, "Error while parsing the theater text. Please make sure it is formated correctly", http.StatusInternalServerError)
 		}
 		theaterTextCache.path = filePath
@@ -136,7 +136,7 @@ func TheaterTextPaginationHandler(w http.ResponseWriter, r *http.Request, p http
 		parsedJSON, err := json.Marshal(pages)
 
 		if err != nil {
-			fmt.Print(err.Error())
+			log.Print(err.Error())
 			http.Error(w, "List of pagenumbers could not be parsed to json", http.StatusInternalServerError)
 			return
 		}
@@ -167,7 +167,7 @@ func TheaterTextPaginationHandler(w http.ResponseWriter, r *http.Request, p http
 			if body == pg {
 				keep = true
 			} else if body > pg {
-				fmt.Print(element.Name + element.Body[0].Type + element.Body[0].Body)
+				log.Print(element.Name + element.Body[0].Type + element.Body[0].Body)
 				break
 			}
 		}
@@ -178,7 +178,7 @@ func TheaterTextPaginationHandler(w http.ResponseWriter, r *http.Request, p http
 
 	parsedJSON, err := json.Marshal(pageContent)
 	if err != nil {
-		fmt.Print(err.Error())
+		log.Print(err.Error())
 		http.Error(w, "Error while converting the theater text to json.", http.StatusInternalServerError)
 		return
 	}
@@ -186,13 +186,15 @@ func TheaterTextPaginationHandler(w http.ResponseWriter, r *http.Request, p http
 	w.Write(parsedJSON)
 }
 
-//ActivateScene Comment
-func ActivateScene(w http.ResponseWriter, r *http.Request, p httprouter.Params) {
+//ActivateSetting Comment
+func ActivateSetting(w http.ResponseWriter, r *http.Request, p httprouter.Params) {
 
 	playName := p.ByName("play")
-	sceneName := p.ByName("scene")
+	settingName := p.ByName("scene")
 
-	log.Printf("Activate scene: " + sceneName + " in play: " + playName + "\n")
+	//Hier Eventhandler aufrufen
+	//evef.ActivateSetting(settingName)
+	log.Printf("Activate scene: " + settingName + " in play: " + playName + "\n")
 
 	w.WriteHeader(http.StatusOK)
 

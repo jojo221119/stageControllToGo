@@ -1,3 +1,6 @@
+<div class="side-menu">
+  <app-side-menu scriptName={{scriptName}}></app-side-menu>
+</div>
 <div *ngFor="let element of script" class="content-container">
 
   <div *ngIf="element.Name" class="text-head">
@@ -12,6 +15,8 @@
         </div>
       </template>
       <template ngSwitchCase="Seite" style="display: inline-block">
+        <a name={{typedElement.Body}}></a>
+        
         <!--
         <div class="text content">
           {{typedElement.Body}}
