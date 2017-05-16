@@ -44,7 +44,7 @@
         </div>
       </template>
       <template ngSwitchCase="Setting">
-        <div class="setting content" (click)="activateSetting(typedElement.Body)">
+        <div class="setting content" (click)="activateSetting($event, typedElement.Body)">
           {{typedElement.Body}}
         </div>
       </template>

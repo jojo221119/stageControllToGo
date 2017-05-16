@@ -31,7 +31,8 @@ export class ScriptViewComponent implements OnInit {
 
   }
 
-  activateSetting(sceneName:String) {
+  activateSetting(event, sceneName:String) {
+    event.target.className += " visited";
     this.settingsService.activateSetting(this.scriptName, sceneName).subscribe(res => res, err => console.log(<any>err));
   }
 

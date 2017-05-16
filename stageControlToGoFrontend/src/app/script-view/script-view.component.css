@@ -43,8 +43,8 @@
   cursor: pointer;
 }
 
-.setting:visited {
-  background-color: red;
+.visited {
+  background-color: red !important;
 }
 
 .content {
