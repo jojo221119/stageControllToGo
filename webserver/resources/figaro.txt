@@ -9,14 +9,11 @@ Frei nach Beaumarchais von Peter Turrini
 Personen
 
 	Figaro:	ein Bediensteter --
-	Karl Friedrich
-
+	Karl Friedrich \\
 	Susanne:	eine Zofe --
-	Konni
-
+	Konni \\
 	Graf Almaviva:	ein Schlossherr --
-	Donatus
-
+	Donatus\\
 	Gräfin Almaviva:	seine Gemahlin --
 	Bärbel
 
