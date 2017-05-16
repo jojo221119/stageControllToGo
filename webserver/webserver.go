@@ -60,12 +60,16 @@ func TheaterTextFileHandler(w http.ResponseWriter, r *http.Request, p httprouter
 	}
 	// in case no error occured
 	w.Header().Set("Content-Type", "application/json")
+	w.Header().Set("charset", "utf-8")
+
 	w.Write(parsedJSON)
 }
 
 func TextListHandler(w http.ResponseWriter, r *http.Request, p httprouter.Params) {
 	files, _ := ioutil.ReadDir("resources/")
 	w.Header().Set("Content-Type", "application/json")
+	w.Header().Set("charset", "utf-8")
+
 	var fileNames []string
 	for _, file := range files {
 		name := file.Name()[0 : len(file.Name())-4]
