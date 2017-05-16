@@ -1,5 +1,11 @@
-Theaterstück auswählen:
+<h1>Theaterstück auswählen:</h1>
 
-<a *ngFor="let text of texts" href="/scripts/{{text}}" class="scriptLink">
-  {{text}}
-</a>
+<ol>
+  <li *ngFor="let text of texts">
+  <div class="col-xl-4">
+    <a href="/scripts/{{text}}" class="scriptLink">{{text}}</a>
+  </div>
+  <div  class="col-xl-8">
+  </div>
+  </li>
+</ol>
