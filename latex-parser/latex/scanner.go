@@ -191,10 +191,9 @@ func (s *Scanner) read() rune {
 		s.buf.n -= 1
 	} else {
 		ch, _, err = s.r.ReadRune()
-	}
-
-	if ch == '\ufeff' {
-		ch, _, err = s.r.ReadRune()
+		if ch == '\ufeff' {
+			ch, _, err = s.r.ReadRune()
+		}
 	}
 
 	if err != nil {
