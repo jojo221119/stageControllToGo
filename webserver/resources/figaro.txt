@@ -48,23 +48,23 @@ Musik ab Titel 2 leise (ST auf etwa 1/8, etwa 8 Uhr-Stellung) anschalten.
 
 \Seite{9}
 
-\AudioEinstellung{Telefon}
-\Einstellung{Dunkel mit Musik leise}
+\Setting{Telefon}
+\Setting{Dunkel mit Musik leise}
 \begin{Regie}
 Zuschauer nehmen Platz.
 
 Jetzt geht es los:
 \end{Regie}
 
-\Einstellung{Aufbau}
+\Setting{Aufbau}
 \begin{Regie}
 Donatus macht Ansage.
 \end{Regie}
-\Einstellung{Dunkel}
+\Setting{Dunkel}
 \begin{Regie}
 Titel 1 sehr laut (ST etwa auf weniger als 1/2 oder 11 Uhr-Stellung) anschalten. 
 \end{Regie}
-\LangsameEinstellung{Titel 1 (45s laut)}
+\Setting{Titel 1 (45s laut)}
 \begin{Regie}
 Cherubin und Susanne rennen hinter die Bühne.
 Figaro tritt auf.
@@ -89,7 +89,7 @@ Arbeit sorgt er für das verschärfte Wohl seiner Untergebenen.
 Siebenundvierzig auf elf ...
 \end{FIGARO}
 
-\LangsameEinstellung{Es wird langsam hell}
+\Setting{Es wird langsam hell}
 
 \begin{SUSANNE}
  \begin{Regie}Susanne schleicht von hinten heran und setzt sich auf Figaros Rücken.\end{Regie} 
@@ -1060,7 +1060,7 @@ Der Graf? O Gott!
 
 \end{CHERUBIN}
 
-\Einstellung{Voll Hell}
+\Setting{Voll Hell}
 
 \begin{Regie}
 Der Graf tritt ein. Vor ihm schreitet ein Diener. Er 
@@ -2054,7 +2054,7 @@ Dreieck der Weiber, auch der treibt beizeiten ...
 
 \end{CHERUBIN}
 
-\LangsameEinstellung{Lied Cherubin}
+\Setting{Lied Cherubin}
 
 \begin{Regie}
 Cherubin und der Diener singen ein 
@@ -2115,8 +2115,8 @@ Dort gibt es lauter Helden, 	 \\
 ich hab' nur an dich gedacht.
 \end{CHERUBIN}
 
-\Einstellung{Dunkel}
-\Einstellung{Umbau mit Musik leise}
+\Setting{Dunkel}
+\Setting{Umbau mit Musik leise}
  \begin{Regie}Musik leise ab Titel 2\end{Regie} 
 
 \Seite{32}
@@ -2131,7 +2131,7 @@ hilft der Gräfin beim Anziehen.
 Musik aus!\end{Regie} 
 \end{Regie}
 
-\Einstellung{Hell}
+\Setting{Hell}
 
 \begin{GREFIN}
 Was sagst du nun, mein Mädchen? Der Graf hat 
@@ -2888,7 +2888,7 @@ Cherubin verschwindet in die Garderobe. Die Gräfin
 öffnet die Tür. Der Graf stürzt herein
 \end{Regie}
 
-\Einstellung{Voll Hell}
+\Setting{Voll Hell}
 
 \begin{GRAF}
 Wo ist er? 
@@ -3006,7 +3006,7 @@ Sie gehen mit, Gräfin.
 Graf und Gräfin ab. Susanne kommt aus ihrem Zimmer.
 \end{Regie}
 
-\Einstellung{Hell}
+\Setting{Hell}
 
 \begin{SUSANNE}
 Bei allen Brennesseln der Sierra! Mußte der 
@@ -3070,7 +3070,7 @@ Exzellenz, der besonders wohlgeborene Graf von Almaviva ...
 Cherubin springt. Susanne stürzt zum Fenster. 
 \end{Regie}
 
-\SchnelleEinstellung{Schnell Gang}
+\Setting{Schnell Gang}
 
 \begin{Regie}
 Cherubin verschwindet hinter der Bühne.
@@ -3080,7 +3080,7 @@ Cherubin verschwindet hinter der Bühne.
 Er hat's geschafft. 
 \end{SUSANNE}
 
-\LangsameEinstellung{Es wird langsam hell}
+\Setting{Es wird langsam hell}
 
 \begin{SUSANNE}
 So ein mutiger Kerl. Herr Graf, 
@@ -3092,7 +3092,7 @@ Susanne verschwindet in der Garderobe. Der Diener,
 Graf und Gräfin treten auf.
 \end{Regie}
 
-\Einstellung{Voll Hell}
+\Setting{Voll Hell}
 
 \begin{DIENER}
 ... Herr über zweihundert Rinder und Mägde. Großcomptur von ...
@@ -3865,7 +3865,7 @@ Stirne\end{Regie}  Und das auf deine Klugheit.
 Was für ein Paar!	 
 \end{GREFIN}
 
-\LangsameEinstellung{Lied Graefin}
+\Setting{Lied Graefin}
 
 \begin{Regie}
 Umbau	 
@@ -3906,17 +3906,17 @@ wie Dinge, die ich nicht mag.
 \end{GREFIN}
 
 
-\Einstellung{Dunkel}
+\Setting{Dunkel}
 
 \begin{Regie} Pause. Licht im Saal an. \end{Regie}
 
-\Einstellung{Dunkel mit Musik leise}
+\Setting{Dunkel mit Musik leise}
 
 \Seite{50}
 
 \begin{Regie} Nach der Pause. Licht im Saal aus. \end{Regie}
 
-\Einstellung{Umbau mit Musik leise}
+\Setting{Umbau mit Musik leise}
 
 \begin{Regie}
 Dritter Akt
@@ -3928,7 +3928,7 @@ Musik aus.
 \end{Regie}
 
 
-\Einstellung{Voll Hell}
+\Setting{Voll Hell}
 
 \begin{Regie}
 Es klopft. Bazillus verschwindet auf einen Wink des 
@@ -5487,7 +5487,7 @@ Ich habe Angst, Frau Gräfin.
 Du mußt stark sein, Susanne. 	 
 \end{GREFIN}
 
-\Einstellung{Umbau}
+\Setting{Umbau}
 
 \begin{Regie}
 Die beiden ab. 
@@ -5495,7 +5495,7 @@ Der Saal wird geschmückt.
 Graf und Bazillus auf. 
 \end{Regie}
 
-\Einstellung{Couch}
+\Setting{Couch}
 
 \begin{BAZILLUS}
 Susanne muß jeden Augenblick hier sein, Herr Graf.
@@ -5731,7 +5731,7 @@ das die Därme in den Händen trägt. \begin{Regie}lacht\end{Regie}
 Schlagen Sie! Schlagen Sie!
 \end{SUSANNE}
 
-\LangsameEinstellung{Strobo}
+\Setting{Strobo}
 
 \begin{SUSANNE}
 Dieser Schmerz macht mich lebendig! 
@@ -5746,7 +5746,7 @@ Der Graf schlägt wild auf Susanne ein. Figaro kommt.
 Er stürzt sich auf den Grafen und erwürgt ihn mit der Peitsche. 
 \end{Regie}
 
-\LangsameEinstellung{langsam heller}
+\Setting{langsam heller}
 
 \begin{FIGARO}
 Wir müssen weg. Er ist tot.
@@ -5958,7 +5958,7 @@ mich umziehen. Welches Kleid nehme ich für diesen
 Abend?  \begin{Regie}ab\end{Regie} 	 
 \end{GREFIN}
 
-\LangsameEinstellung{Couch2}
+\Setting{Couch2}
 
 \begin{BAZILLUS}
  \begin{Regie}steigt aus seiner Truhe. Er sieht den toten Grafen 
@@ -5971,15 +5971,15 @@ Almaviva. Bald scheint dir der Mond durch den Bauch.
  \begin{Regie}Bazillus ab.\end{Regie}
 \end{BAZILLUS}
 
-\Einstellung{Dunkel}
+\Setting{Dunkel}
  \begin{Regie}Ende. Beifall\end{Regie}
-\Einstellung{Umbau}
+\Setting{Umbau}
 
 \begin{Regie}
 Alle Schauspieler kommen auf die Bühne.
 \end{Regie}
 
-\Einstellung{Voll Hell}
+\Setting{Voll Hell}
 
 \begin{Regie}Beifall\end{Regie}
 

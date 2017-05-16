@@ -2,7 +2,6 @@ package main
 
 import (
 	"encoding/json"
-	"fmt"
 	"io/ioutil"
 	"net/http"
 	"strconv"
@@ -20,6 +19,8 @@ var theaterTextCache struct {
 	path     string
 	document latex.Document
 }
+
+const port = "8080"
 
 func main() {
 
@@ -39,40 +40,52 @@ func main() {
 	middleware.Add(apiRouter, false)
 	middleware.Add(frontendRouter, true)
 
-	log.Fatal(http.ListenAndServe(":8080", middleware))
+	log.Printf("Starting server listen on localhost:" + port)
+
+	log.Fatal(http.ListenAndServe(":"+port, Log(middleware)))
+}
+
+func Log(handler http.Handler) http.Handler {
+	return http.HandlerFunc(func(w http.ResponseWriter, r *http.Request) {
+		log.Printf("%s %s %s", r.RemoteAddr, r.Method, r.URL)
+		handler.ServeHTTP(w, r)
+	})
 }
 
 func TheaterTextFileHandler(w http.ResponseWriter, r *http.Request, p httprouter.Params) {
-	filePath := p.ByName("file") + ".txt"
-	fmt.Print("Go Latex parser\n")
-	fmt.Print("Parsing file ")
-	fmt.Print(filePath + " ...\n")
+	filePath := p.ByName("file")
+	log.Printf("Go Latex parser\n")
+	log.Printf("Parsing file" + filePath + ".txt ...")
 
 	input, err := ioutil.ReadFile("./resources/" + filePath) //TODO fix problem with path
 	if err != nil {
-		fmt.Print(err.Error())
+		log.Printf(err.Error())
 		http.Error(w, "The theater text could not be found. Please make sure it is availiable in the right directory", http.StatusNotFound)
 		return
 	}
 	stmt, err := latex.NewParser(strings.NewReader(string(input))).Parse()
 	if err != nil {
-		fmt.Print(err.Error())
+		log.Printf(err.Error())
 		http.Error(w, "Error while parsing the theater text. Please make sure it is formated correctly", http.StatusInternalServerError)
 	}
 	parsedJSON, err := json.Marshal(stmt)
 	if err != nil {
-		fmt.Print(err.Error())
+		log.Printf(err.Error())
 		http.Error(w, "Error while converting the theater text to json.", http.StatusInternalServerError)
 		return
 	}
 	// in case no error occured
 	w.Header().Set("Content-Type", "application/json")
+	w.Header().Set("charset", "utf-8")
+
 	w.Write(parsedJSON)
 }
 
 func TextListHandler(w http.ResponseWriter, r *http.Request, p httprouter.Params) {
 	files, _ := ioutil.ReadDir("resources/")
 	w.Header().Set("Content-Type", "application/json")
+	w.Header().Set("charset", "utf-8")
+
 	var fileNames []string
 	for _, file := range files {
 		name := file.Name()[0 : len(file.Name())-4]
@@ -81,7 +94,7 @@ func TextListHandler(w http.ResponseWriter, r *http.Request, p httprouter.Params
 	j, err := json.Marshal(fileNames)
 
 	if err != nil {
-		fmt.Print(err.Error())
+		log.Printf(err.Error())
 		http.Error(w, "Could not get the list of theater texts!", http.StatusInternalServerError)
 		return
 	}
@@ -179,7 +192,7 @@ func ActivateScene(w http.ResponseWriter, r *http.Request, p httprouter.Params) 
 	playName := p.ByName("play")
 	sceneName := p.ByName("scene")
 
-	fmt.Print("Activate scene: " + sceneName + " in play: " + playName + "\n")
+	log.Printf("Activate scene: " + sceneName + " in play: " + playName + "\n")
 
 	w.WriteHeader(http.StatusOK)
 
