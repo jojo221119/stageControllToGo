@@ -53,7 +53,7 @@ func Log(handler http.Handler) http.Handler {
 }
 
 func TheaterTextFileHandler(w http.ResponseWriter, r *http.Request, p httprouter.Params) {
-	filePath := p.ByName("file")
+	filePath := p.ByName("file") + ".txt"
 	log.Printf("Go Latex parser\n")
 	log.Printf("Parsing file " + filePath + ".txt ...")
 
