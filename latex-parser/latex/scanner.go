@@ -10,6 +10,10 @@ import (
 type Scanner struct {
 	r       *bufio.Reader
 	linecnt int
+	buf     struct {
+		rune [2]rune
+		n    int // buffer size (max=2)
+	}
 }
 
 // NewScanner returns a new instance of Scanner.
@@ -88,8 +92,15 @@ func (s *Scanner) scanText() (tok Token, lit string) {
 			s.unread()
 			break
 		} else if isBackslash(ch) {
-			s.unread()
-			break
+			ch = s.read()
+			if isBackslash(ch) {
+				buf.WriteRune('\n')
+			} else {
+				s.unread()
+				s.unread()
+				break
+			}
+
 		} else if isLinefeed(ch) && firstLinefeed {
 			ch = ' '
 			firstLinefeed = false
@@ -173,9 +184,16 @@ func (s *Scanner) scanParameter() (tok Token, lit string) {
 // read reads the next rune from the bufferred reader.
 // Returns the rune(0) if an error occurs (or io.EOF is returned).
 func (s *Scanner) read() rune {
-	ch, _, err := s.r.ReadRune()
-	if ch == '\ufeff' {
+	var ch rune
+	var err error
+	if s.buf.n != 0 {
+		ch = s.buf.rune[s.buf.n-1]
+		s.buf.n -= 1
+	} else {
 		ch, _, err = s.r.ReadRune()
+		if ch == '\ufeff' {
+			ch, _, err = s.r.ReadRune()
+		}
 	}
 
 	if err != nil {
@@ -184,11 +202,15 @@ func (s *Scanner) read() rune {
 	if ch == '\n' {
 		s.linecnt += 1
 	}
+	s.buf.rune[1] = s.buf.rune[0]
+	s.buf.rune[0] = ch
 	return ch
 }
 
 // unread places the previously read rune back on the reader.
-func (s *Scanner) unread() { _ = s.r.UnreadRune() }
+func (s *Scanner) unread() {
+	s.buf.n += 1
+}
 
 // isWhitespace returns true if the rune is a space, tab, or newline.
 func isWhitespace(ch rune) bool { return ch == ' ' || ch == '\t' || ch == '\n' || ch == '\r' }
