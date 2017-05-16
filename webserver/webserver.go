@@ -173,14 +173,16 @@ func TheaterTextPaginationHandler(w http.ResponseWriter, r *http.Request, p http
 				if body <= lastpage {
 					http.Error(w, "Error with paging: page numbers are invalid or in wrong sequence", http.StatusInternalServerError)
 					log.Printf("Encountered page number %d, but expected a number higher %d", body, lastpage)
+					return
 				} else {
 					lastpage = body
 				}
 
 				if body == pg {
 					keep = true
-				} else if body > pg {
+				} else {
 					log.Print(element.Name + subelement.Type + subelement.Body)
+					keep = false
 					break
 				}
 			}
