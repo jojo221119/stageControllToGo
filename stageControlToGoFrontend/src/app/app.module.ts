@@ -3,7 +3,6 @@ import { NgModule } from '@angular/core';
 import { FormsModule } from '@angular/forms';
 import { HttpModule } from '@angular/http';
 import { AppComponent } from './app.component';
-import { ElementViewerComponent } from './element-viewer/element-viewer.component';
 import { ScriptViewComponent } from './script-view/script-view.component';
 import { RouterModule, Routes } from '@angular/router';
 import { StartPageComponent } from './start-page/start-page.component';
@@ -15,7 +14,6 @@ const appRoutes: Routes =
 @NgModule({
   declarations: [
     AppComponent,
-    ElementViewerComponent,
     ScriptViewComponent,
     StartPageComponent
   ],
