@@ -7,7 +7,7 @@ import (
 	"strconv"
 	"strings"
 
-	"gitlab.mary-cap.de/VV/StageControllToGo/latex-parser/latex"
+	"github.com/jojo221119/StageControllToGo/latex-parser/latex"
 
 	"log"
 
@@ -45,6 +45,7 @@ func main() {
 	log.Fatal(http.ListenAndServe(":"+port, Log(middleware)))
 }
 
+//Log takes a http Handler and logs the remoteAddr, the httpMethod and the request.
 func Log(handler http.Handler) http.Handler {
 	return http.HandlerFunc(func(w http.ResponseWriter, r *http.Request) {
 		log.Printf("%s %s %s", r.RemoteAddr, r.Method, r.URL)
@@ -203,7 +204,7 @@ func TheaterTextPaginationHandler(w http.ResponseWriter, r *http.Request, p http
 	w.Write(parsedJSON)
 }
 
-//ActivateScene Comment
+//ActivateScene activates the scene specified in the request.
 func ActivateScene(w http.ResponseWriter, r *http.Request, p httprouter.Params) {
 
 	playName := p.ByName("play")
