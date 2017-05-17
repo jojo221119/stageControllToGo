@@ -1,4 +1,4 @@
-import {TypedElement} from './typed-Element';
+import {TypedElement} from './typed-element';
 
 export class Element {
   Line:number;
