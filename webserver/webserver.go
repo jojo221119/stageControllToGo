@@ -7,7 +7,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/jojo221119/StageControllToGo/latex-parser/latex"
+	"github.com/jojo221119/stageControllToGo/latex-parser/latex"
 
 	"log"
 
