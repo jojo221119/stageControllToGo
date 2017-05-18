@@ -6,6 +6,7 @@ import { AppComponent } from './app.component';
 import { ScriptViewComponent } from './script-view/script-view.component';
 import { RouterModule, Routes } from '@angular/router';
 import { StartPageComponent } from './start-page/start-page.component';
+import { SideMenuComponent } from './side-menu/side-menu.component';
 const appRoutes: Routes = 
 [
   {path: 'scripts/:scriptName', component: ScriptViewComponent},
@@ -15,7 +16,8 @@ const appRoutes: Routes =
   declarations: [
     AppComponent,
     ScriptViewComponent,
-    StartPageComponent
+    StartPageComponent,
+    SideMenuComponent
   ],
   imports: [
     BrowserModule,

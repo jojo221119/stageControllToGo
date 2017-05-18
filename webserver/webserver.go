@@ -23,7 +23,7 @@ func main() {
 	apiRouter.GET("/api/scripts/:file/:page", theaterTextHandler.TheaterTextPaginationHandler)
 
 	//Mock request for play activation
-	apiRouter.POST("/api/plays/:play/scenes/:scene/activate", ActivateScene)
+	apiRouter.POST("/api/plays/:play/scenes/:scene/activate", ActivateSetting)
 
 	middleware := middleware.Middleware{}
 
@@ -43,13 +43,17 @@ func Log(handler http.Handler) http.Handler {
 	})
 }
 
-//ActivateScene activates the scene specified in the request.
-func ActivateScene(w http.ResponseWriter, r *http.Request, p httprouter.Params) {
+
+//ActivateSetting activates the setting specified in the request
+func ActivateSetting(w http.ResponseWriter, r *http.Request, p httprouter.Params) {
+
 
 	playName := p.ByName("play")
-	sceneName := p.ByName("scene")
+	settingName := p.ByName("scene")
 
-	log.Printf("Activate scene: " + sceneName + " in play: " + playName + "\n")
+	//Hier Eventhandler aufrufen
+	//evef.ActivateSetting(settingName)
+	log.Printf("Activate scene: " + settingName + " in play: " + playName + "\n")
 
 	w.WriteHeader(http.StatusOK)
 
