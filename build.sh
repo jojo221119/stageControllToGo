@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 backend () {
     cd webserver
@@ -15,12 +15,12 @@ frontend () {
     cd ..
 }
 
-if [ "$1" == '' ]; then 
+if [ "$1" == "" ]; then 
     frontend
     backend
 fi
 
-while [ "$1" != '' ]
+while [ "$1" != "" ]
     do 
         [ "$1" == "-b" ] && backend && shift 
         [ "$1" == "-f" ] && frontend && shift 
@@ -30,5 +30,9 @@ cd webserver
 
 echo "Start webserver"
 
-./webserver.exe
+if [[ "$OSTYPE" == "msys" ]]; then
+    ./webserver.exe
+else 
+    ./webserver
+fi
 
