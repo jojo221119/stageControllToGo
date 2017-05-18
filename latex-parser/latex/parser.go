@@ -1,11 +1,12 @@
 package latex
 
 import (
+	"fmt"
 	"io"
 	"log"
 )
 
-// init size of a document slice
+//INITIAL_LIST_SIZE is the init size of a document slice
 const INITIAL_LIST_SIZE = 0
 
 // specify the names that are defined for a specific latex snippet
@@ -73,7 +74,7 @@ func (p *Parser) parse() ([]TopElement, error) {
 			// scan next element to get the param Name
 			tok, lit, cnt := p.scanIgnoreWhitespace()
 			if tok != PARAM {
-				return nil, log.Errorf("encountered \\begin without parameter in line %d", cnt)
+				return nil, fmt.Errorf("encountered \\begin without parameter in line %d", cnt)
 			}
 			topElement := &TopElement{}
 			topElement.Name = lit
@@ -109,7 +110,7 @@ func (p *Parser) parse() ([]TopElement, error) {
 		}
 	}
 	// input terminates with the EOF token
-	return nil, log.Errorf("unexpected termination of loop")
+	return nil, fmt.Errorf("unexpected termination of loop")
 }
 
 // parse a contentElementList
@@ -171,11 +172,11 @@ func (p *Parser) parseBody(isWithinBegin bool) ([]ContentElement, error) {
 
 		case PARAM:
 			// params should only occur after an command
-			return nil, log.Errorf("found parameter %q without a command in line %d", lit, cnt)
+			return nil, fmt.Errorf("found parameter %q without a command in line %d", lit, cnt)
 			break
 
 		case ILLEGAL:
-			return nil, log.Errorf("found %q in line %d, expected known keyword or Text", lit, cnt)
+			return nil, fmt.Errorf("found %q in line %d, expected known keyword or Text", lit, cnt)
 			break
 
 		case EOF:
@@ -184,7 +185,7 @@ func (p *Parser) parseBody(isWithinBegin bool) ([]ContentElement, error) {
 			break
 
 		default:
-			return nil, log.Errorf("unexpected %q in line %d", lit, cnt)
+			return nil, fmt.Errorf("unexpected %q in line %d", lit, cnt)
 		}
 
 	}
@@ -196,7 +197,7 @@ func (p *Parser) parseBegin() (*ContentElement, error) {
 	// Read parameter
 	tok, lit, cnt := p.scanIgnoreWhitespace()
 	if tok != PARAM {
-		return nil, log.Errorf("Error, expected Parameter after \\begin in line %d", cnt)
+		return nil, fmt.Errorf("Error, expected Parameter after \\begin in line %d", cnt)
 	}
 	if lit != "Regie" {
 		log.Printf("Warning, found %q in line %d, expected Regie\n", lit, cnt)
@@ -213,11 +214,11 @@ func (p *Parser) parseBegin() (*ContentElement, error) {
 
 	tok, lit, _ = p.scanIgnoreWhitespace()
 	if tok != END {
-		return nil, log.Errorf("missing \\end")
+		return nil, fmt.Errorf("missing \\end")
 	} else {
 		tok, lit, _ = p.scanIgnoreWhitespace()
 		if tok != PARAM {
-			return nil, log.Errorf("missing \\end parameter")
+			return nil, fmt.Errorf("missing \\end parameter")
 		}
 	}
 
@@ -236,7 +237,7 @@ func (p *Parser) parseSetting() (*ContentElement, error) {
 	if tok == COMMAND {
 		contentElement.Type = lit
 	} else {
-		return nil, log.Errorf("found %q in line %d, expected COMMAND", lit, cnt)
+		return nil, fmt.Errorf("found %q in line %d, expected COMMAND", lit, cnt)
 	}
 
 	// Read parameter
@@ -262,7 +263,7 @@ func (p *Parser) parseText() (*ContentElement, error) {
 		contentElement.Type = TYPE_TEXT
 		contentElement.Body = lit
 	} else {
-		return nil, log.Errorf("found %q in line %d, expected TEXT", lit, cnt)
+		return nil, fmt.Errorf("found %q in line %d, expected TEXT", lit, cnt)
 	}
 
 	// Return the successfully parsed text.
