@@ -9,3 +9,9 @@ span {
     font-size: 1.5em;
     color: #5fb200;
 }
+
+.fixed {
+    position: fixed;
+    overflow-y: scroll;
+    height: 93%;
+}

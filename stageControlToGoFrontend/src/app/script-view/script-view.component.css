@@ -61,6 +61,7 @@
 
 /deep/ li {
   padding-left: 25px;
+  padding-right: 1em;
 }
 
 /deep/ li:hover {
