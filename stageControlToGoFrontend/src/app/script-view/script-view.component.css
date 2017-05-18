@@ -53,3 +53,30 @@
   padding: 0.5em;
 }
 
+/deep/ ul {
+  list-style: none;
+  font-size: 1.5em;
+  padding-left: 0;
+}
+
+/deep/ li {
+  padding-left: 25px;
+}
+
+/deep/ li:hover {
+    background-color: #5fb200;
+    cursor: pointer;
+}
+
+.side-menu {
+    background-color: #545454;
+    padding-left: 0;
+    padding-right: 0;
+    border-radius: 0em 0.5em 0.5em 0em;
+}
+
+/deep/ .jumbotron {
+  padding-bottom: 0;
+  padding-left: 0 !important;
+  padding-top: 0;
+}

@@ -1,6 +1,11 @@
-<div class="side-menu">
+<div class="row">
+<div class="side-menu col-xs-3 col-sm-2 col-md-2 col-lg-2">
+  <div class="test">
   <app-side-menu scriptName={{scriptName}}></app-side-menu>
+  </div>
 </div>
+<div class="col-xs-9 col-sm-10 col-md-10 col-lg-10">
+  
 <div *ngFor="let element of script" class="content-container">
 
   <div *ngIf="element.Name" class="text-head">
@@ -58,4 +63,8 @@
       </div>
     </ng-container>
   </ng-container>
+
+</div>
+</div>
+
 </div>

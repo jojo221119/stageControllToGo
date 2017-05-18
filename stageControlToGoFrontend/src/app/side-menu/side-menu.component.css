@@ -1,0 +1,11 @@
+a {
+    color: white;
+    text-decoration: none;
+}
+
+span {
+    font-weight: bold;
+    padding-left: 25px;
+    font-size: 1.5em;
+    color: #5fb200;
+}
