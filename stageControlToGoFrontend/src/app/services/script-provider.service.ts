@@ -4,7 +4,7 @@ import { Http } from "@angular/http";
 
 import 'rxjs/add/operator/toPromise';
 
-import { Script } from './script';
+import { Script } from '../classes/script';
 
 @Injectable()
 export class ScriptProviderService {

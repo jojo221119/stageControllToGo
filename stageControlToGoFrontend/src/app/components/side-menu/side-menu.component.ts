@@ -1,5 +1,5 @@
 import { Component, OnInit, Input } from '@angular/core';
-import { ScriptProviderService } from '../script-provider.service';
+import { ScriptProviderService } from '../../services/script-provider.service';
 
 @Component({
   selector: 'app-side-menu',

@@ -1,9 +1,11 @@
 import { Component, OnInit } from '@angular/core';
-import { ScriptProviderService } from '../script-provider.service';
-import { Script } from '../script';
-import { Element } from '../element';
 import { ActivatedRoute, Params } from "@angular/router";
-import { SettingsService } from '../settings.service';
+
+
+import { Script } from '../../classes/script';
+import { Element } from '../../classes/element';
+import { SettingsService } from '../../services/settings.service';
+import { ScriptProviderService } from '../../services/script-provider.service';
 
 import 'rxjs/add/operator/switchMap';
 

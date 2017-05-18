@@ -1,0 +1,41 @@
+<div class="row">
+  <div class="col-sm-12">
+    <ol class="breadcrumb">
+      <li><a [routerLink]="['/']">Startseite</a></li>
+      <li><a [routerLink]="['/play/edit/', playName]">Einstellungen</a></li>
+      <li><a [routerLink]="['/play/edit/', playName, 'scenes', scene, 'effects']">Effekte</a></li>
+      <li class="active">Neuer Effekt</li>
+    </ol>
+  </div>
+</div>
+<div class="row">
+  <div class="col-sm-12">
+    <h1>Neuen Effekt anlegen</h1>
+  </div>
+</div>
+<br />
+<div class="row">
+  <div class="col-sm-12">
+    <form class="form-inline">
+      <div class="form-group">
+        <label>Name</label>
+        <input type="text" class="form-control" name="name" [(ngModel)]="name" placeholder="Name">
+      </div>
+      <div class="form-group">
+        <label>Status</label>
+        <select class="form-control" name="state" [(ngModel)]="state">
+          <option></option>
+          <option *ngFor="let state of states">{{state.Name}}</option>
+        </select>
+      </div>
+      <div class="form-group">
+        <label>Kanal</label>
+        <select class="form-control" name="devChannel" [(ngModel)]="devChannel">
+          <option></option>
+          <option *ngFor="let deviceChannel of deviceChannels">{{deviceChannel.Name}}</option>
+        </select>
+      </div>
+      <button type="submit" class="btn btn-default" (click)="createEffect(name, state, devChannel)">Speichern</button>
+    </form>
+  </div>
+</div>
