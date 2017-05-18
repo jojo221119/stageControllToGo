@@ -1,6 +1,24 @@
 .scriptLink {
-  display: block;
-  height: 2em;
-  font-size: 1.2em;
-  margin: 0.5em;
+    background-color: #545454;
+    text-align: center;
+    border-radius: 0.5em;
+    color: white;
+    padding-left: 0.3em;
+    padding-right: 0.3em;
+    padding-bottom: 0.1em;
+    padding-top: 0.1em;
+    text-decoration: none;
+}
+
+.scriptLink:hover {
+  background: green;
+}
+
+ol {
+      font-size: 1.8em;
+}
+
+h1 {
+  font-weight: bold
+
 }

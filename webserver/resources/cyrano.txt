@@ -1,12 +1,6 @@
-
-
 \begin{Regie}
-
-Edmond Rostand \\
-CYRANO DE BERGERAC -- gek�rzte Fassung \\
-� �\\
-Personen:\\
-\eNARRATEURA	~-- J�rg Unseld \\
+x:\\
+\eNARRATEURA	~-- Jörg Unseld \\
 \eNARRATEURB	~-- Albert Bodenmiller \\
 \eCYRANO	~-- KF \\
 \eROXANE ~-- Heide Fischer \\
@@ -24,7 +18,7 @@ Ort der Handlung: Paris \\
 
 \begin{Neueseite}
 
-� �\\
+² ²\\
 
 \end{Neueseite}
 
@@ -33,7 +27,7 @@ Ort der Handlung: Paris \\
 \Szenario{I, 1 - 4}
 \end{Neueseite}
 
-\Setting{Narrateur}
+\Einstellung{Narrateur}
 
 
 \begin{Regie}
@@ -49,13 +43,13 @@ Eventuell Lied.
 Eventuell Lied.
 \end{Regie}
 
-\Setting{Dunkel}
-\Auftritt{\eBRET, \eFACHEUX, \eCYRANO} 
+\Einstellung{Dunkel}
+\Auftritt{BRET, FACHEUX, CYRANO} 
 
 \Szenario{I, 4}
 
 
-\Setting{Saal}
+\Einstellung{Saal}
 
 
 \begin{BRET}
@@ -63,26 +57,26 @@ C'est fou!
 \end{BRET}
 
 \begin{FACHEUX}
-Le com\'{e}dien Montfleury ...
+Le comdien Montfleury ...
 \end{FACHEUX}
 
 \begin{Regie}
-... Cyrano ohrfeigt und tritt \eFACHEUX
+... Cyrano ohrfeigt und tritt FACHEUX
 \end{Regie}
 
 \begin{FACHEUX}
-Au secours! \`{A} la garde!  \begin{Regie}ab\end{Regie} 
+Au secours! A la garde!  \begin{Regie}ab\end{Regie} 
 \end{FACHEUX}
 
 \begin{CYRANO}
 Avis ... cuir!
 
-\Auftritt{\eGUICHE}
+\Auftritt{GUICHE}
 \end{CYRANO}
 
 \begin{GUICHE}
 Mais ...
-\Auftritt{\eVALVERT}
+\Auftritt{VALVERT}
 \end{GUICHE}
 
 \begin{VALVERT}
@@ -98,11 +92,11 @@ Il fanfaronne!
 \end{Alle}
 
 \begin{MOUSQUETAIRE}
-Monsieur ... tr\'{e}pignant!  \begin{Regie}ab\end{Regie} 
+Monsieur ... trepignant!  \begin{Regie}ab\end{Regie} 
 \end{MOUSQUETAIRE}
 
 \begin{CYRANO}
- \begin{Regie}\`{a} Cuigy\end{Regie}  Comment s'appelle donc ce monsieur?
+ \begin{Regie}a Cuigy\end{Regie}  Comment s'appelle donc ce monsieur?
 \end{CYRANO}
 
 \begin{CUIGY}
@@ -110,17 +104,17 @@ D'Artagnan.
 Regi: Alle ab.
 \end{CUIGY}
 
-\Setting{Dunkel}
+\Einstellung{Dunkel}
 
 
-\Setting{Narrateur}
+\Einstellung{Narrateur}
 
 
 \begin{Regie}
 Eventuell Lied.
 \end{Regie}
 
-\Setting{Dunkel}
+\Einstellung{Dunkel}
 
 
 \begin{Regie}
@@ -132,8 +126,8 @@ Umbaupause
 \Szenario{I, 5 - III, 4}
 \end{Leerzeile}
 
-\Setting{Narrateur}
-\Auftritt{\eNARRATEURB} 
+\Einstellung{Narrateur}
+\Auftritt{NARRATEURB} 
 
 
 \begin{NARRATEURB}
@@ -144,24 +138,24 @@ Umbaupause
 Eventuell Lied.
 \end{Regie}
 
-\Setting{Dunkel}
+\Einstellung{Dunkel}
 \Szenario{III, 4 - 5}
 
 
-\Setting{Strasse}
-\Auftritt{\eCHRISTIAN, \eCYRANO} 
+\Einstellung{Strasse}
+\Auftritt{CHRISTIAN, CYRANO} 
 
 
 \begin{Regie}
-\eCHRISTIAN ~und \eCYRANO ~unterhalten sich.
+CHRISTIAN ~und CYRANO ~unterhalten sich.
 \end{Regie}
 
 \begin{Regie}
-\eCYRANO ~versteckt sich. \eCHRISTIAN ~und \eROXANE ~unterhalten sich.
+\eCYRANO ~versteckt sich. CHRISTIAN ~und ROXANE ~unterhalten sich.
 \end{Regie}
 
 \begin{Regie}
-... \eROXANE ~verschwindet.
+... ROXANE ~verschwindet.
 \end{Regie}
 
 \begin{CHRISTIAN}
@@ -169,14 +163,14 @@ Mais je ...
 \end{CHRISTIAN}
 
 \begin{Regie}
-... \eCYRANO ~kommt wieder zum Vorschein aus dem Versteck.
+... CYRANO ~kommt wieder zum Vorschein aus dem Versteck.
 \end{Regie}
 
-\Setting{Licht wird langsam dunkel}
+\LangsameEinstellung{Licht wird langsam dunkel}
 
 
 \begin{CYRANO}
-C'est un succ\`{e}s. 
+C'est un succes. 
 \Szenario{III, 6}
 \end{CYRANO}
 
@@ -190,42 +184,42 @@ Non, monsieur.
 
 \begin{CHRISTIAN}
 Je meurs si je ne rentre \\
-En gr\^{a}ce, \`{a} l'instant m\^{e}me ...
+En grace, a l'instant meme ...
 \end{CHRISTIAN}
 
 \begin{CYRANO}
 Et comment puis-je, diantre!\\
-Vous faire \`{a} l'instant m\^{e}me, apprendre?
+Vous faire a l'instant meme, apprendre?
 \end{CYRANO}
 
-\Setting{Strasse und Fenster}
+\Einstellung{Strasse und Fenster}
 
 
 \begin{CHRISTIAN}
- \begin{Regie}ihn am Arm fassend\end{Regie}  Oh! l\`{a}, tiens, vois!
+ \begin{Regie}ihn am Arm fassend\end{Regie}  Oh! la, tiens, vois!
 \end{CHRISTIAN}
 
 \begin{Regie}
-... Liebeserkl�rung an \eROXANE, \eCHRISTIAN ~versaut es.
+... Liebeserklärung an \eROXANE, \eCHRISTIAN ~versaut es.
 \end{Regie}
 
 \begin{CYRANO}
-Mais d'\^{e}tre all\'{e} trop loin, moi-m\^{e}me je me gronde; \\
+Mais d'etre alle trop loin, moi-meme je me gronde; \\
 Je me disais: tais-toi, Christian! ... Une seconde!\\
 On vient!
 \end{CYRANO}
 
-\Setting{Dunkel}
+\Einstellung{Dunkel}
 
 
-\Setting{Narrateur}
+\Einstellung{Narrateur}
 
 
 \begin{Regie}
 Eventuell Lied.
 \end{Regie}
 
-\Setting{Dunkel}
+\Einstellung{Dunkel}
 
 
 \begin{Regie}
@@ -237,7 +231,7 @@ Umbaupause
 \Szenario{III, 5 - V, 3}
 \end{Leerzeile}
 
-\Setting{Narrateur}
+\Einstellung{Narrateur}
 \Auftritt{\eNARRATEURA} 
 
 
@@ -247,18 +241,18 @@ Umbaupause
 
 \begin{Regie}
 Eventuell Lied.
-\Auftritt{\eROXANE} 
+\Auftritt{ROXANE} 
 \end{Regie}
 
-\Setting{Dunkel}
+\Einstellung{Dunkel}
 \Szenario{V, 4}
 
 
-\Setting{Kloster}
+\Einstellung{Kloster}
 
 
 \begin{Regie}
-Roxane Selbstgespr�ch, Marthe bringt Sessel.
+Roxane Selbstgespräch, Marthe bringt Sessel.
 \end{Regie}
 
 \begin{MARTHE}
@@ -269,11 +263,11 @@ Mais c'est le meilleur du parloir!
 Merci, ma soeur. Il va venir.
 \end{ROXANE}
 
-\Setting{Glocken}
+\Einstellung{Glocken}
 
 
 \begin{ROXANE}
-L\`{a} ... l'heure sonne.
+La ... l'heure sonne.
 \end{ROXANE}
 
 \begin{Regie}
@@ -290,14 +284,14 @@ L\`{a} ... l'heure sonne.
 \end{Regie}
 
 \begin{ROXANE}
- \begin{Regie}gibt \eCYRANO ~den Brief\end{Regie}  Ouvrez ... lisez!
+ \begin{Regie}gibt CYRANO ~den Brief\end{Regie}  Ouvrez ... lisez!
 \end{ROXANE}
 
 \begin{CYRANO}
  \begin{Regie}liest den Brief\end{Regie}  
 \end{CYRANO}
 
-\Setting{Licht geht sehr langsam aus au�er Spot auf Roxane}
+\LangsameEinstellung{Licht geht sehr langsam aus außer Spot auf Roxane}
 
 
 \begin{CYRANO}
@@ -306,10 +300,10 @@ Roxane, ...
 
 \begin{ROXANE}
  \begin{Regie}legt die Hand auf Cyranos Schulter\end{Regie} 
-Comment pouvez-vous lire \`{a} pr\'{e}sent? Il fait nuit.
+Comment pouvez-vous lire a present? Il fait nuit.
 \end{ROXANE}
 
-\Setting{Spot geht langsam auf Cyrano}
+\LangsameEinstellung{Spot geht langsam auf Cyrano}
 
 
 \begin{Regie}
@@ -317,15 +311,15 @@ Comment pouvez-vous lire \`{a} pr\'{e}sent? Il fait nuit.
 \end{Regie}
 
 \begin{CYRANO}
-"D'un coup d'\'{e}p\'{e}e, \\
-Frapp\'{e} par un h\'{e}ros, tomber la pointe au coeur!" \\
+"D'un coup d'epee, \\
+Frappe par un heros, tomber la pointe au coeur!" \\
 -- Oui, je disais cela! ... Le destin est railleur! ...  \begin{Regie}stirbt\end{Regie} 
 \end{CYRANO}
 
-\Setting{Dunkel}
+\Einstellung{Dunkel}
 
 
-\Setting{Narrateur}
+\Einstellung{Narrateur}
 
 
 \begin{Regie}
@@ -344,14 +338,14 @@ ENDE
 
 \end{Leerzeile}
 
-\Setting{Dunkel}
+\Einstellung{Dunkel}
 
 
 \begin{Regie}
 Beifall
 \end{Regie}
 
-\Setting{Saal}
+\Einstellung{Saal}
 
 
 \begin{Regie}
