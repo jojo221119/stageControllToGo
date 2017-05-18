@@ -1,19 +1,19 @@
 <div class="row">
-  <div class="col-sm-12">
-    <ol class="breadcrumb">
-      <li><a [routerLink]="['/']">Startseite</a></li>
-      <li class="active">Neues Theaterstück</li>
-    </ol>
-  </div>
+    <div class="col-sm-12">
+        <ol class="breadcrumb">
+            <li><a [routerLink]="['/plays']">Startseite</a></li>
+            <li class="active">Neues Theaterstück</li>
+        </ol>
+    </div>
 </div>
 <div class="row">
-  <div class="col-sm-12">
-    <h1>Name des Theaterstücks eingeben</h1>
-    <div class="input-group">
-      <input type="text" class="form-control" placeholder="Name" [(ngModel)]="name">
-      <span class="input-group-btn">
+    <div class="col-sm-12">
+        <h1>Name des Theaterstücks eingeben</h1>
+        <div class="input-group">
+            <input type="text" class="form-control" placeholder="Name" [(ngModel)]="name">
+            <span class="input-group-btn">
         <a class="btn btn-default" (click)='createPlay(name)'>Weiter</a>
       </span>
+        </div>
     </div>
-  </div>
 </div>
