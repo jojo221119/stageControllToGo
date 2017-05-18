@@ -3,9 +3,10 @@ package latex
 import (
 	"fmt"
 	"io"
+	"log"
 )
 
-// init size of a document slice
+//INITIAL_LIST_SIZE is the init size of a document slice
 const INITIAL_LIST_SIZE = 0
 
 // specify the names that are defined for a specific latex snippet
@@ -199,9 +200,9 @@ func (p *Parser) parseBegin() (*ContentElement, error) {
 		return nil, fmt.Errorf("Error, expected Parameter after \\begin in line %d", cnt)
 	}
 	if lit != "Regie" {
-		fmt.Printf("Warning, found %q in line %d, expected Regie\n", lit, cnt)
+		log.Printf("Warning, found %q in line %d, expected Regie\n", lit, cnt)
 		_, lit, _ := p.scanIgnoreWhitespace()
-		fmt.Printf("Text: %q", lit)
+		log.Printf("Text: %q", lit)
 		p.unscan()
 	}
 
