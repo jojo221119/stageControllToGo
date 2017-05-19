@@ -1,0 +1,363 @@
+
+
+\begin{Regie}
+
+Edmond Rostand \\
+CYRANO DE BERGERAC -- gekürzte Fassung \\
+² ²\\
+Personen:\\
+\eNARRATEURA	~-- Jörg Unseld \\
+\eNARRATEURB	~-- Albert Bodenmiller \\
+\eCYRANO	~-- KF \\
+\eROXANE ~-- Heide Fischer \\
+\eCHRISTIAN ~-- Marita Berger  \\
+\eFACHEUX	~-- Marita Berger  \\
+\eMARTHE	~-- Doris Jochum  \\
+\eVALVERT ~-- Doris Jochum  \\
+\eBRET ~-- ???  \\
+\eGUICHE ~-- ???  \\
+\eCUIGY ~-- \\
+\eMOUSQUETAIRE ~-- \\
+Ort der Handlung: Paris \\
+
+\end{Regie}
+
+\begin{Neueseite}
+
+² ²\\
+
+\end{Neueseite}
+
+\begin{Neueseite}
+
+\Szenario{I, 1 - 4}
+\end{Neueseite}
+
+\Einstellung{Narrateur}
+
+
+\begin{Regie}
+Eventuell Lied.
+\Auftritt{\eNARRATEURA} 
+\end{Regie}
+
+\begin{NARRATEURA}
+...  \begin{Regie}ab\end{Regie} 
+\end{NARRATEURA}
+
+\begin{Regie}
+Eventuell Lied.
+\end{Regie}
+
+\Einstellung{Dunkel}
+\Auftritt{\eBRET, \eFACHEUX, \eCYRANO} 
+
+\Szenario{I, 4}
+
+
+\Einstellung{Saal}
+
+
+\begin{BRET}
+C'est fou!
+\end{BRET}
+
+\begin{FACHEUX}
+Le com\'{e}dien Montfleury ...
+\end{FACHEUX}
+
+\begin{Regie}
+... Cyrano ohrfeigt und tritt \eFACHEUX
+\end{Regie}
+
+\begin{FACHEUX}
+Au secours! \`{A} la garde!  \begin{Regie}ab\end{Regie} 
+\end{FACHEUX}
+
+\begin{CYRANO}
+Avis ... cuir!
+
+\Auftritt{\eGUICHE}
+\end{CYRANO}
+
+\begin{GUICHE}
+Mais ...
+\Auftritt{\eVALVERT}
+\end{GUICHE}
+
+\begin{VALVERT}
+Il fanfaronne!
+\end{VALVERT}
+
+\begin{Regie}
+ ... Nase ... Duell
+\end{Regie}
+
+\begin{Alle}
+ \begin{Regie}Nach dem Duell schreien alle durcheinander.\end{Regie} 
+\end{Alle}
+
+\begin{MOUSQUETAIRE}
+Monsieur ... tr\'{e}pignant!  \begin{Regie}ab\end{Regie} 
+\end{MOUSQUETAIRE}
+
+\begin{CYRANO}
+ \begin{Regie}\`{a} Cuigy\end{Regie}  Comment s'appelle donc ce monsieur?
+\end{CYRANO}
+
+\begin{CUIGY}
+D'Artagnan.
+Regi: Alle ab.
+\end{CUIGY}
+
+\Einstellung{Dunkel}
+
+
+\Einstellung{Narrateur}
+
+
+\begin{Regie}
+Eventuell Lied.
+\end{Regie}
+
+\Einstellung{Dunkel}
+
+
+\begin{Regie}
+Umbaupause
+\end{Regie}
+
+\begin{Leerzeile}
+
+\Szenario{I, 5 - III, 4}
+\end{Leerzeile}
+
+\Einstellung{Narrateur}
+\Auftritt{\eNARRATEURB} 
+
+
+\begin{NARRATEURB}
+...  \begin{Regie}ab\end{Regie} 
+\end{NARRATEURB}
+
+\begin{Regie}
+Eventuell Lied.
+\end{Regie}
+
+\Einstellung{Dunkel}
+\Szenario{III, 4 - 5}
+
+
+\Einstellung{Strasse}
+\Auftritt{\eCHRISTIAN, \eCYRANO} 
+
+
+\begin{Regie}
+\eCHRISTIAN ~und \eCYRANO ~unterhalten sich.
+\end{Regie}
+
+\begin{Regie}
+\eCYRANO ~versteckt sich. \eCHRISTIAN ~und \eROXANE ~unterhalten sich.
+\end{Regie}
+
+\begin{Regie}
+... \eROXANE ~verschwindet.
+\end{Regie}
+
+\begin{CHRISTIAN}
+Mais je ...
+\end{CHRISTIAN}
+
+\begin{Regie}
+... \eCYRANO ~kommt wieder zum Vorschein aus dem Versteck.
+\end{Regie}
+
+\LangsameEinstellung{Licht wird langsam dunkel}
+
+
+\begin{CYRANO}
+C'est un succ\`{e}s. 
+\Szenario{III, 6}
+\end{CYRANO}
+
+\begin{CHRISTIAN}
+Au secours!
+\end{CHRISTIAN}
+
+\begin{CYRANO}
+Non, monsieur. 
+\end{CYRANO}
+
+\begin{CHRISTIAN}
+Je meurs si je ne rentre \\
+En gr\^{a}ce, \`{a} l'instant m\^{e}me ...
+\end{CHRISTIAN}
+
+\begin{CYRANO}
+Et comment puis-je, diantre!\\
+Vous faire \`{a} l'instant m\^{e}me, apprendre?
+\end{CYRANO}
+
+\Einstellung{Strasse und Fenster}
+
+
+\begin{CHRISTIAN}
+ \begin{Regie}ihn am Arm fassend\end{Regie}  Oh! l\`{a}, tiens, vois!
+\end{CHRISTIAN}
+
+\begin{Regie}
+... Liebeserklärung an \eROXANE, \eCHRISTIAN ~versaut es.
+\end{Regie}
+
+\begin{CYRANO}
+Mais d'\^{e}tre all\'{e} trop loin, moi-m\^{e}me je me gronde; \\
+Je me disais: tais-toi, Christian! ... Une seconde!\\
+On vient!
+\end{CYRANO}
+
+\Einstellung{Dunkel}
+
+
+\Einstellung{Narrateur}
+
+
+\begin{Regie}
+Eventuell Lied.
+\end{Regie}
+
+\Einstellung{Dunkel}
+
+
+\begin{Regie}
+Umbaupause
+\end{Regie}
+
+\begin{Leerzeile}
+
+\Szenario{III, 5 - V, 3}
+\end{Leerzeile}
+
+\Einstellung{Narrateur}
+\Auftritt{\eNARRATEURA} 
+
+
+\begin{NARRATEURA}
+...  \begin{Regie}ab\end{Regie} 
+\end{NARRATEURA}
+
+\begin{Regie}
+Eventuell Lied.
+\Auftritt{\eROXANE} 
+\end{Regie}
+
+\Einstellung{Dunkel}
+\Szenario{V, 4}
+
+
+\Einstellung{Kloster}
+
+
+\begin{Regie}
+Roxane Selbstgespräch, Marthe bringt Sessel.
+\end{Regie}
+
+\begin{MARTHE}
+Mais c'est le meilleur du parloir!
+\end{MARTHE}
+
+\begin{ROXANE}
+Merci, ma soeur. Il va venir.
+\end{ROXANE}
+
+\Einstellung{Glocken}
+
+
+\begin{ROXANE}
+L\`{a} ... l'heure sonne.
+\end{ROXANE}
+
+\begin{Regie}
+...
+\end{Regie}
+
+\begin{Leerzeile}
+
+\Szenario{V, 5}
+\end{Leerzeile}
+
+\begin{Regie}
+...
+\end{Regie}
+
+\begin{ROXANE}
+ \begin{Regie}gibt \eCYRANO ~den Brief\end{Regie}  Ouvrez ... lisez!
+\end{ROXANE}
+
+\begin{CYRANO}
+ \begin{Regie}liest den Brief\end{Regie}  
+\end{CYRANO}
+
+\LangsameEinstellung{Licht geht sehr langsam aus außer Spot auf Roxane}
+
+
+\begin{CYRANO}
+Roxane, ...
+\end{CYRANO}
+
+\begin{ROXANE}
+ \begin{Regie}legt die Hand auf Cyranos Schulter\end{Regie} 
+Comment pouvez-vous lire \`{a} pr\'{e}sent? Il fait nuit.
+\end{ROXANE}
+
+\LangsameEinstellung{Spot geht langsam auf Cyrano}
+
+
+\begin{Regie}
+... 
+\end{Regie}
+
+\begin{CYRANO}
+"D'un coup d'\'{e}p\'{e}e, \\
+Frapp\'{e} par un h\'{e}ros, tomber la pointe au coeur!" \\
+-- Oui, je disais cela! ... Le destin est railleur! ...  \begin{Regie}stirbt\end{Regie} 
+\end{CYRANO}
+
+\Einstellung{Dunkel}
+
+
+\Einstellung{Narrateur}
+
+
+\begin{Regie}
+Eventuell Lied.
+\end{Regie}
+
+\begin{Leerzeile}
+
+\end{Leerzeile}
+
+\begin{Regie}
+ENDE
+\end{Regie}
+
+\begin{Leerzeile}
+
+\end{Leerzeile}
+
+\Einstellung{Dunkel}
+
+
+\begin{Regie}
+Beifall
+\end{Regie}
+
+\Einstellung{Saal}
+
+
+\begin{Regie}
+Verbeugungen
+\end{Regie}
+
+\begin{Regie}
+Eventuell weitere Lieder.
+\end{Regie}

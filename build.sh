@@ -1,17 +1,17 @@
 #!/bin/bash
 
 backend () {
-    cd webserver
+    cd backend
     echo "build backend"
     go build
     cd ..  
 }
 
 frontend () {
-    cd stageControlToGoFrontend
+    cd frontend
     echo "build frontend"
     ng build
-    cp dist/* ../webserver/assets/ -r
+    cp dist/* ../backend/assets/ -r
     cd ..
 }
 
@@ -26,7 +26,7 @@ while [ "$1" != "" ]
         [ "$1" == "-f" ] && frontend && shift 
 done
 
-cd webserver
+cd backend
 
 echo "Start webserver"
 

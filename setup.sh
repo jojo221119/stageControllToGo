@@ -18,7 +18,7 @@ fi
 
 echo "get project from github"
 
-go get github.com/jojo221119/stageControllToGo/latex-parser/latex
+go get github.com/jojo221119/stageControllToGo/backend
 go get github.com/gnampfelix/Dionysos
 
 cd github.com/jojo221119/stageControllToGo

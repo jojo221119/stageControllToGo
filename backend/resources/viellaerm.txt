@@ -1,0 +1,4490 @@
+\Seite{1}
+
+
+\begin{Regie}
+
+\normalsize
+William Shakespeare \\
+VIEL L�RM UM NICHTS -- bearbeitete Fassung Version vom 23.01.13\\
+� �\\
+Personen:\\
+\eDONPEDRO	~Prinz von Arragon -- Donatus Thaer \\
+\eBENEDIKT ~aus Padua Begleiter von Pedro -- Karl Friedrich Gebhardt \\
+\eCLAUDIO ~aus Florenz -- Chris Linder  \\
+\eDONJUAN	~Pedros Halbbruder -- Udo Diesterheft \\
+\eBORACHIO  ~Begleiter Don Juans -- Heiner Klaasen van Husen \\
+\eCONRAD ~ -- Demetra Fourkiotis \\
+\eLEONATO ~Gouverneurin von Messina -- Barbara Raff \\
+\eANTONIO	~ihre Schwester -- Alexandra M�schel \\
+\eMOENCH ~ -- Enid Mayer\\
+\eHERO	~Leonatas Tochter -- Sevda Hartmann \\
+\eMARGARETHE	~Heros Kammerfrauen -- Ursula Ihlein \\
+\eURSULA ~ -- Demetra Fourkiotis\\
+\eBEATRICE	~eine Waise, Leonatas Nichte -- Konstanze Sch�fer-T�rk \\
+\eHOLZAPFEL	~ein Amtmann -- Peter Schacht \\
+\eSCHLEHWEIN	~Unteramtmann -- Isabelle Kindermann \\
+\eSCHREIBER ~ -- Ursula Ihlein \\
+\eALITHA ~eine S�ngerin -- Julia Barrios \\
+Ort der Handlung: Messina \\
+
+\end{Regie}
+
+\begin{Neueseite}
+
+\Seite{2}
+� �\\
+
+\end{Neueseite}
+
+\begin{Neueseite}
+
+\Seite{3}
+\Szenario{I, 1}
+\Setting{Umbau}
+\begin{Regie} Au�en, Bank \end{Regie}
+\Auftritt{\eLEONATO ~Gouverneurin von Messina, \eANTONIO, ihre Schwester} 
+\Setting{Dunkel}
+\Setting{Hell}
+\Auftritt{\eHERO, ihre Tochter, \eBEATRICE, ihre Nichte} 
+\end{Neueseite}
+
+\begin{LEONATO}
+Ich entnehme diesem Brief, dass Don Pedro von Aragonien heute Abend hier in 
+Messina eintrifft.\\
+Schwester, wie viele M�nner hat man bei dem Unternehmen verloren?  
+\end{LEONATO}
+
+\begin{ANTONIO}
+Nicht der Rede wert, und keinen von Bedeutung.  
+\end{ANTONIO}
+
+\begin{LEONATO}
+Ich sehe hier, dass Don Pedro einen jungen Florentiner namens Claudio mit Auszeichnungen �berh�uft.  
+\end{LEONATO}
+
+\begin{ANTONIO}
+Er ist seinem Alter weit voraus und hat �ber alle Erwartung alle
+Erwartungen weit �ber\-troffen. Er sieht, wenn ich so sagen darf, aus wie ein Lamm und k�mpft wie ein L�we. 
+\end{ANTONIO}
+
+\begin{BEATRICE}
+Sagen Sie, ist Signor Hau von Stecher mit heiler Haut davongekommen oder nicht?  
+\end{BEATRICE}
+
+\begin{ANTONIO}
+Mir ist keiner dieses Namens bekannt, Fr�ulein, so einen gab es nicht in der Armee, jedenfalls nicht unter den Offizieren.  
+\end{ANTONIO}
+
+\begin{LEONATO}
+Nach wem fragst du, Beatrice?  
+\end{LEONATO}
+
+\begin{HERO}
+Meine Kusine meint Signor Benedikt aus Padua.  
+\end{HERO}
+
+\begin{ANTONIO}
+Oh, der hat's �berlebt, der ist ganz der Alte geblieben.  
+\end{ANTONIO}
+
+\begin{BEATRICE}
+Sagen Sie, wie viele hat er in dieser Schlacht geschlachtet -- und gefressen? Oder vielmehr: wie viele hat er geschlachtet? Denn ich versprach ihm, alle zu fressen, die er schlachten w�rde.  
+\end{BEATRICE}
+
+\begin{LEONATO}
+Also wirklich, Nichte, du gehst zu grob mit Signor Benedikt um. Aber er wird's dir heimzahlen, da bin ich sicher. 
+\end{LEONATO}
+
+\begin{ANTONIO}
+Er hat sich in diesem Krieg sehr verdient gemacht, Fr�ulein Naseweis.  
+\end{ANTONIO}
+
+\begin{BEATRICE}
+Ein guter Soldat bei den Fr�ulein. Und was ist er bei M�nnern?  
+\end{BEATRICE}
+
+\begin{ANTONIO}
+Ein Mann unter den M�nnern, ein Herr unter den Herrn, gestopft voll hochachtbarer Eigenschaften.  
+\end{ANTONIO}
+
+\begin{BEATRICE}
+Einverstanden. Auf jeden Fall ein ausgestopfter Mann. Nur was das Stopfen angeht. Na ja, wir sind alle sterblich. 
+\end{BEATRICE}
+
+\begin{ANTONIO}
+Ich sehe, Nichte, der Herr ist bei Ihnen nicht gut angeschrieben. 
+\end{ANTONIO}
+
+\begin{BEATRICE}
+Nein, andernfalls w�rde ich den Zettel verbrennen. Aber sagen Sie doch, wer ist der neue Kumpan? Gibt's da keinen jungen Schl�ger, der mit ihm die H�lle loslassen will? 
+\end{BEATRICE}
+
+\begin{ANTONIO}
+Er ist meist in Gesellschaft des ehrenwerten Claudio. 
+\end{ANTONIO}
+
+\begin{BEATRICE}
+O Gott, den wird er anfallen wie eine Seuche, man holt ihn sich schneller als die Pest, wer ihn hat, wird augenblicklich verr�ckt. Gott steh dem armen Claudio bei! Wer sich den Benedikt zugezogen hat, wird ihn nicht unter tausend Pfund wieder los. 
+\Seite{4}
+\end{BEATRICE}
+
+\begin{ANTONIO}
+Hier kommt Don Pedro. \\
+\Auftritt{\eDONPEDRO, \eCLAUDIO, \eBENEDIKT ~und \eDONJUAN, der Bastard}
+\end{ANTONIO}
+
+\begin{DONPEDRO}
+Meine liebe Signora Leonata, eilen Sie Ihrer Heimsuchung entgegen? Es ist sonst nicht Mode, sich gro� in Unkosten zu st�rzen, und Sie st�rzen uns entgegen.  
+\end{DONPEDRO}
+
+\begin{LEONATO}
+Sie waren mir noch nie eine Heimsuchung, mein F�rst. Wenn Heimsuchungen vorbei sind, bleibt die Erleichterung zur�ck, aber wenn Sie abreisen, bleibt die Trauer, und die Freude verabschiedet sich. 
+\end{LEONATO}
+
+\begin{DONPEDRO}
+Sie nehmen die Last auf die allzu leichte Schulter. -- Ich vermute, das ist Ihre Tochter? 
+\end{DONPEDRO}
+
+\begin{LEONATO}
+Die meine und wohl auch die meines werten Gemahls, Gott hab' ihn
+selig.
+\end{LEONATO}
+
+\begin{BENEDIKT}
+Hatte er denn je Zweifel daran, Signora Leonata?
+\end{BENEDIKT}
+
+\begin{LEONATO}
+Signor Benedikt, eigentlich nicht, denn Sie steckten damals
+noch in den Kinderschuhen.
+\end{LEONATO}
+
+\begin{DONPEDRO}
+Das hat gesessen, Benedikt. Jetzt d�rfen wir uns denken,
+wo du heute steckst als Mann.\\
+Wirklich, das Fr�ulein ist der ganze Vater. Meinen Gl�ckwunsch, Fr�ulein, Sie sind Ihrem verehrungsw�rdigen Herrn Vater wie aus dem Gesicht geschnitten.  
+\end{DONPEDRO}
+
+\begin{BENEDIKT}
+Wenn auch jener ohne Zweifel ihr verehrungsw�rdiger Vater war,
+so wird sie um nichts in der Welt sein verehrungsw�rdiges Gesicht zwischen den Ohren haben wollen, so �hnlich sie ihm auch ist.  
+\end{BENEDIKT}
+
+\begin{Regie}
+\eLEONATO ~und \eDONPEDRO ~unterhalten sich leise im Hintergrund.
+\end{Regie}
+
+\begin{BEATRICE}
+Ich wundere mich, was Sie immer reden, Signor Benedikt, kein Mensch h�rt Ihnen zu.  
+\end{BEATRICE}
+
+\begin{BENEDIKT}
+Was, Fr�ulein Zicke von Hochmut, Sie leben auch noch? 
+\end{BENEDIKT}
+
+\begin{BEATRICE}
+Wie soll einem der Hochmut vergehen, wenn er mit solchen Ver�chtlichkeiten wie Signor Benedikt fettgef�ttert wird? Sogar die H�flichkeit wird zu Hochmut, wenn Sie sich blicken lassen. 
+\end{BEATRICE}
+
+\begin{BENEDIKT}
+ Dann ist die H�flichkeit ein Wechselbalg. Alle Damen lieben mich, Sie ausgenommen. Ich wollte, mein Herz w�rde mir sagen, dass ich nicht ganz herzlos bin, denn ich liebe keine.  
+\end{BENEDIKT}
+
+\begin{BEATRICE}
+Ein Segen f�r die Frauen. Sie h�tten es mit einem schlimmen Liebhaber zu tun bekommen. Ich danke Gott und meinem kalten Blut, dass wir insoweit �bereinstimmen. Lieber h�re ich meinen Hund nach einer Kr�he bellen, als einen Mann um Liebe winseln.  
+\end{BEATRICE}
+
+\begin{BENEDIKT}
+Gott erhalte Ihnen diese �berzeugung! Das wird dem einen oder anderen Herren das Schicksal eines zerkratzten Gesichts ersparen. 
+\Seite{5}
+\end{BENEDIKT}
+
+\begin{BEATRICE}
+Ein paar Kratzer k�nnten nichts schlimmer machen an einem Gesicht wie Ihrem.  
+\end{BEATRICE}
+
+\begin{BENEDIKT}
+Ja nun, Sie h�tten Sprachlehrerin an der Papageienschule werden sollen.  
+\end{BENEDIKT}
+
+\begin{BEATRICE}
+Ein Vogel mit meiner Zunge ist besser als ein Pferd mit Ihrem Maul.  
+\end{BEATRICE}
+
+\begin{BENEDIKT}
+Wenn doch mein Pferd so schnell w�re wie Ihre Zunge, und so ausdauernd. Aber machen Sie ruhig weiter, in Gottes Namen, ich sage nichts mehr. 
+\end{BENEDIKT}
+
+\begin{BEATRICE}
+Wenn's ernst wird, ziehen Sie den Schwanz ein und passen, das kenn ich schon von fr�her.  
+\end{BEATRICE}
+
+\begin{DONPEDRO}
+Das w�re alles, Signora Leonata. -- Signor Claudio und Signor Benedikt, meine alte Freundin Leonata hat uns alle eingeladen. 
+\end{DONPEDRO}
+
+\begin{LEONATO}
+ \begin{Regie}zu \eDONJUAN\end{Regie}  Erlauben Sie mir, Sie nach Ihrer gl�cklichen Auss�hnung mit dem Prinzen, Ihrem Bruder, willkommen zu hei�en. Ich stehe Ihnen ganz zu Diensten. 
+\end{LEONATO}
+
+\begin{DONJUAN}
+Ich danke Ihnen, ich rede nicht viel, aber ich danke Ihnen.  
+\end{DONJUAN}
+
+\begin{LEONATO}
+M�chten Sie vorausgehen? 
+\end{LEONATO}
+
+\begin{DONPEDRO}
+Ihren Arm, Signora Leonata, wir gehen zusammen. 
+\end{DONPEDRO}
+
+\begin{Regie}
+alle ab au�er \eBENEDIKT ~und \eCLAUDIO 
+\end{Regie}
+
+\begin{Leerzeile}
+
+\end{Leerzeile}
+
+\begin{CLAUDIO}
+Benedikt, ist dir Leonatas Tochter aufgefallen? 
+\end{CLAUDIO}
+
+\begin{BENEDIKT}
+Aufgefallen nicht, aber gesehen hab ich sie. 
+\end{BENEDIKT}
+
+\begin{CLAUDIO}
+Findest du sie nicht hinrei�end? 
+\end{CLAUDIO}
+
+\begin{BENEDIKT}
+Fragst du mich als ein ehrlicher Mensch um meine ehrliche Meinung, oder soll ich dir wie �blich in meiner Rolle als erkl�rter Weiberfeind antworten? 
+\end{BENEDIKT}
+
+\begin{CLAUDIO}
+Nein, bitte sag ernsthaft, was du denkst. 
+\end{CLAUDIO}
+
+\begin{BENEDIKT}
+Also ich denke, sie ist zu kurz f�r ein langes Lob, zu d�nn f�r ein dickes Lob -- und zu klein f�r ein gro�es Lob; das einzige Kompliment, das ich ihr machen kann, ist: w�re sie anders als sie ist, w�re sie unh�bsch, und weil sie nichts anderes ist, gef�llt sie mir nicht. 
+\end{BENEDIKT}
+
+\begin{CLAUDIO}
+Du glaubst, ich mache Witze. Bitte sag mir ehrlich, wie sie dir gef�llt. 
+\end{CLAUDIO}
+
+\begin{BENEDIKT}
+Du bist so hartn�ckig, willst du sie dir kaufen? 
+\end{BENEDIKT}
+
+\begin{CLAUDIO}
+So ein Juwel ist nicht zu kaufen. 
+\end{CLAUDIO}
+
+\begin{BENEDIKT}
+Aber sicher doch, sogar mit D�schen, zum Reinstecken. Aber sag mal, du kriegst so einen K�lberblick.
+\end{BENEDIKT}
+
+\begin{CLAUDIO}
+In meinen Augen ist sie das hinrei�endste Fr�ulein, das ich im Leben gesehen habe. 
+\end{CLAUDIO}
+
+\begin{BENEDIKT}
+Ich kann noch ohne Brille sehen und sehe nichts davon. Nimm ihre Kusine, zum Beispiel, wenn sie nicht diese Furie im Bauch h�tte, w�r sie ihr an Sch�nheit �ber wie der erste Mai dem letzten Dezember. Aber ich hoffe, du hast nicht vor, Ehemann zu werden, oder doch? 
+\end{BENEDIKT}
+
+\begin{CLAUDIO}
+Und wenn ich eingefleischter Junggeselle w�re, w�rde ich mir selbst nicht �ber den Weg trauen, falls Hero meine Frau werden wollte. 
+\Seite{6}
+\end{CLAUDIO}
+
+\begin{BENEDIKT}
+Ist es so weit gekommen? Ja gibt's denn auf der Welt keinen Mann mehr, der den Hut auf dem Kopf behalten kann, ohne dass man denken muss, er hat H�rner drunter? Nur weiter so, wenn du unbedingt den Hals ins Joch stecken willst, reib dich wund und verseufze die Sonntage. Schau, da kommt Don Pedro zur�ck und sucht dich. \\
+\Auftritt{\eDONPEDRO}
+\end{BENEDIKT}
+
+\begin{DONPEDRO}
+Was habt ihr denn f�r Heimlichkeiten, dass ihr nicht mit zu Leonata hereinkommt? 
+\end{DONPEDRO}
+
+\begin{BENEDIKT}
+Er ist verliebt. Sie werden fragen: in wen? Beachten Sie, wie kurz die Antwort ist: in Hero, Leonatas kurze Tochter. 
+\end{BENEDIKT}
+
+\begin{CLAUDIO}
+Dass ich sie liebe, das f�hl ich. 
+\end{CLAUDIO}
+
+\begin{DONPEDRO}
+Dass sie es wert ist, das wei� ich. 
+\end{DONPEDRO}
+
+\begin{BENEDIKT}
+Dass ich weder f�hle, wie man sie lieben kann, noch wei�, wo der Wert ist, das ist meine �berzeugung, die kein Feuer aus mir rausschmilzt. 
+\end{BENEDIKT}
+
+\begin{DONPEDRO}
+Du warst immer ein halsstarriger Ketzer, in deiner Verachtung der Sch�nheit.
+\end{DONPEDRO}
+
+\begin{CLAUDIO}
+Und konntest die Rolle nie durchhalten, ohne selbst Hand an deine Triebe zu legen. 
+\end{CLAUDIO}
+
+\begin{BENEDIKT}
+Dass mich eine Frau geboren hat, daf�r danke ich ihr; dass sie mich aufgezogen hat, daf�r ebenfalls ergebensten Dank. Ich will den Frauen nicht das Unrecht antun, auch nur einer von ihnen zu misstrauen, und deshalb will ich mir selbst das Recht antun, keiner zu vertrauen. Also kurz und b�ndig: Ich bleibe Junggeselle. 
+\end{BENEDIKT}
+
+\begin{DONPEDRO}
+Ich werde dich noch bleich vor Liebe sehen, ehe ich verbleiche. 
+\end{DONPEDRO}
+
+\begin{BENEDIKT}
+Bleich vor Wut, bleich vor Krankheit, bleich vor Hunger, gn�diger Herr, aber nicht bleich vor Liebe. Beweisen Sie mir bitte sch�n, dass ich jemals aus Liebe mehr Blut verlier als ich mit einer Flasche Rotwein ersetzen kann.
+\end{BENEDIKT}
+
+\begin{DONPEDRO}
+Wenn Amor nicht alle Pfeile im S�ndenpfuhl Venedig verschossen hat, wird er dich noch das Beben lehren.  
+\end{DONPEDRO}
+
+\begin{BENEDIKT}
+Ich erwarte also ein Erdbeben.  
+\end{BENEDIKT}
+
+\begin{DONPEDRO}
+Nun gut, kommt Zeit, kommt Zahmheit. Inzwischen, Benedikt, geh zu Leonata, Empfehlung von mir, sag ihr, ich werde beim Abendessen nicht fehlen. Sie hat gewaltige Vorbereitungen getroffen. 
+\end{DONPEDRO}
+
+\begin{BENEDIKT}
+Den Auftrag werde ich gerade noch bew�ltigen, und somit empfehle ich mich.  \begin{Regie}ab\end{Regie} 
+\end{BENEDIKT}
+
+\begin{Leerzeile}
+
+\end{Leerzeile}
+
+\begin{DONPEDRO}
+Du magst sie also, Claudio? 
+\Seite{7}
+\end{DONPEDRO}
+
+\begin{CLAUDIO}
+O mein Herr,\\
+Vom Krieg zur�ck r�umen auch Kriegsgedanken\\
+Das Feld; an ihre Stelle treten dr�ngend\\
+Friedliche, sanfte W�nsche, die mir fl�stern: \\
+	Wie sch�n die junge Hero ist.
+\end{CLAUDIO}
+
+\begin{DONPEDRO}
+Dann fang gleich an, den Liebhaber zu spielen, \\
+Und jedermann mit Hymnen zu erm�den. \\
+Wenn du die sch�ne Hero liebst -- nur zu, \\
+Und ich werd's ihr und ihrer Mutter sagen, \\
+Und du bekommst sie. Das ist doch der Grund, \\
+Warum du diese zarten Worte drechselst?
+\end{DONPEDRO}
+
+\begin{CLAUDIO}
+Wie einf�hlsam verstehen Sie die Liebe! \\
+Wie Sie den Kummer von der Nase lesen! \\
+Nur, dass die Liebe nicht zu pl�tzlich scheint \\
+Hab ich ein bisschen weiter ausgeholt.
+\end{CLAUDIO}
+
+\begin{DONPEDRO}
+Wozu die Br�cke breiter als den Fluss? \\
+Die Notlage entschuldigt sich stets selbst. \\
+Was n�tzlich ist, ist gut. Fest steht, du liebst, \\
+Und ich werd dir die Wege dazu ebnen. \\
+Heut Abend gibt's hier einen Maskenball. \\
+Komm, lass uns alles in die Wege leiten. 
+\end{DONPEDRO}
+
+\begin{Regie}
+alle ab 
+\end{Regie}
+
+\begin{Neueseite}
+
+\Seite{8}
+\Szenario{I, 2: Szene ist gestrichen}
+\Szenario{I, 3}
+\begin{Regie} Au�en, Bank \end{Regie}
+\Setting{Hell}
+\Auftritt{\eDONJUAN, der Bastard, und sein Gef�hrte \eCONRAD}
+\end{Neueseite}
+
+\begin{CONRAD}
+Gottverdammich, gn�diger Herr! Warum sind Sie so ma�los verstimmt? 
+\end{CONRAD}
+
+\begin{DONJUAN}
+Weil ich unm��ig viel Ursache dazu habe, darum bin ich auch unm��ig verstimmt. 
+\end{DONJUAN}
+
+\begin{CONRAD}
+ \begin{Regie}macht ihn an\end{Regie}  Sie sollten auf die Stimme der Lust h�ren. 
+\end{CONRAD}
+
+\begin{DONJUAN}
+Und w�rd ich drauf h�ren, was h�tte ich davon? 
+\end{DONJUAN}
+
+\begin{CONRAD}
+Keine Verbesserung der Stellung, aber Sie tragen es dann mit mehr Fassung. 
+\end{CONRAD}
+
+\begin{DONJUAN}
+Du behauptest immer, du w�rst im d�stern Saturn geboren. Da wundert's mich, wo du doch angeblich im d�stern Saturn geboren bist, dass gerade du moralische Medizin bei m�rderischen Missgeschicken empfiehlst. Ich kann mich nicht verstellen. Ich bin grimmig, wenn ich Grund habe, und dann lache ich nicht �ber andrer Leute Witze. Ich esse, wenn ich Hunger habe, und dann warte ich nicht auf andrer Leute Appetit. Ich schlafe, wenn ich m�de bin, und dann k�mmere ich mich einen Dreck um andrer Leute Probleme. Ich lache, wenn ich lustig bin, und dann nehme ich auf andrer Leute Wehwehchen keine R�cksicht. 
+\end{DONJUAN}
+
+\begin{CONRAD}
+Gut und sch�n, aber Sie sollten das nicht so deutlich zur Schau stellen, solange man Sie beobachtet. Erst k�rzlich haben Sie sich mit Ihrem Bruder �berworfen, und gerade erst hat er sich mit Ihnen ausges�hnt. Sie k�nnen unm�glich in seiner Gunst Wurzeln schlagen, wenn Sie nicht selber Sch�nwetter machen. Sie m�ssen lernen, sich den Sonnenschein f�r die Ernte selbst zu schaffen. 
+\end{CONRAD}
+
+\begin{DONJUAN}
+Ich bin lieber Brennnessel im Dickicht als Rose in seiner Gunst. Zu meinem Charakter passt viel besser, dass alle mich hassen, als dass ich mir affektierte Faxen anz�chte, um mir irgendjemands Wohlwollen abzuschmeicheln. Soviel steht fest, ich bin kein speichelleckender Biedermann, aber den aufrichtigen B�sewicht kann man mir nicht absprechen. Man hat mir Vertrauen und einen Maulkorb geschenkt, ich habe jede Freiheit an meiner Fu�kette. In meinem K�fig auch noch den Affen zu spielen, lehne ich ab. H�tte ich meinen Mund, w�rde ich bei�en. H�tte ich meine Freiheit, w�rde ich nach meiner Fasson leben. Bis dahin lass mich, wie ich bin, und versuch nicht, mich zu �ndern. 
+\end{DONJUAN}
+
+\begin{CONRAD}
+K�nnten Sie nicht von Ihrer Unzufriedenheit wenigstens irgendeinen Gebrauch machen? 
+\end{CONRAD}
+
+\begin{DONJUAN}
+Ich mache immer Gebrauch davon, das ist so Brauch bei mir. Wer kommt da? \\
+\Seite{9}
+\Auftritt{\eBORACHIO}
+\end{DONJUAN}
+
+\begin{DONJUAN}
+Was gibt's Neues, Borachio? 
+\end{DONJUAN}
+
+\begin{BORACHIO}
+Ich komme von einem gro�en Abendessen. Der Prinz, Ihr Bruder, wird von Leonata k�niglich bewirtet; ich kann Ihnen mitteilen, man plant eine Heirat. 
+\end{BORACHIO}
+
+\begin{DONJUAN}
+W�re das nicht der passende Grundstock f�r irgendeine Gemeinheit? Wer ist denn der T�lpel, der sich dem Ungl�ck an den Hals wirft? 
+\end{DONJUAN}
+
+\begin{BORACHIO}
+Denken Sie nur, die rechte Hand Ihres Bruders. 
+\end{BORACHIO}
+
+\begin{DONJUAN}
+Wer? Dieser un�bertreffliche Claudio? 
+\end{DONJUAN}
+
+\begin{BORACHIO}
+Eben der. 
+\end{BORACHIO}
+
+\begin{DONJUAN}
+Ein junger Bock! Und wer, und wer? Wen hat er im Auge? 
+\end{DONJUAN}
+
+\begin{BORACHIO}
+Nun, Hero, Leonatas Tochter und Erbin. 
+\end{BORACHIO}
+
+\begin{DONJUAN}
+Ein naseweises Huhn! Woher wei�t du das? 
+\end{DONJUAN}
+
+\begin{BORACHIO}
+Ich sollte die Zimmer mit Duftholz ausr�uchern, und wie ich da gerade in einem muffigen Saal besch�ftigt bin, kommen der Prinz und Claudio rein, H�ndchen haltend, tief im Gespr�ch. Ich schnell hinter einen Vorhang, und da h�r ich, wie man verabredet, dass der Prinz zuerst Hero f�r sich selbst werben soll, und wenn er sie hat, gibt er sie dem Grafen Claudio. 
+\end{BORACHIO}
+
+\begin{DONJUAN}
+Kommt, da wollen wir hin. Das kann Wasser auf meine M�hle sein. Dieser Empork�mmling holt sich den Ruhm aus meiner Niederlage. Wenn ich dem ein Kreuz anh�nge, ist es f�r mich ein Segen. Ihr beide seid zuverl�ssig und steht zu mir? 
+\end{DONJUAN}
+
+\begin{CONRAD}
+Auf Leben, Lust und Tod. 
+\end{CONRAD}
+
+\begin{DONJUAN}
+Dann auf zum Schlemmerfest. Ihre gr��te Freude ist, dass sie mich kleingekriegt haben.
+Wenn blo� der Koch auf meiner Seite w�re! Wollen wir rausfinden, was sich machen l�sst? 
+\end{DONJUAN}
+
+\begin{BORACHIO}
+Wir stehen Ihnen zur Verf�gung, gn�diger Herr. 
+\Setting{Umbau}
+\end{BORACHIO}
+
+\begin{Regie}
+alle ab 
+\end{Regie}
+
+\begin{Neueseite}
+
+\Seite{10}
+\Szenario{II, 1}
+\begin{Regie} Au�en, ohne Bank, Benedikt baut um \end{Regie}
+\Auftritt{\eLEONATO, ihre Schwester \eANTONIO, ihre Tochter \eHERO, 
+ihre Nichte \eBEATRICE, \eMARGARETHE ~und \eURSULA}
+\Setting{Hell}
+\end{Neueseite}
+
+\begin{LEONATO}
+War Graf Juan nicht zum Abendessen da?  
+\end{LEONATO}
+
+\begin{ANTONIO}
+Ich habe ihn nicht gesehen.  
+\end{ANTONIO}
+
+\begin{BEATRICE}
+Wie s�uerlich dieser Herr immer aussieht! Wenn ich ihn anschaue, hab ich jedes Mal eine Stunde Sodbrennen. 
+\end{BEATRICE}
+
+\begin{HERO}
+Er hat ein melancholisches Temperament.  
+\end{HERO}
+
+\begin{BEATRICE}
+Das m�sste ein umwerfender Mann sein, der die Mitte zwischen ihm und Benedikt hielte. Der eine ist wie eine Bilds�ule und sagt gar nichts, und der andere ist ein Angeber und schwatzt immerzu.  
+\end{BEATRICE}
+
+\begin{ANTONIO}
+Das hie�e also: die H�lfte von Signor Benedikts Beredsamkeit auf Don Juans Zunge und die H�lfte von Don Juans Melancholie auf Signor Benedikts Gesicht.  
+\end{ANTONIO}
+
+\begin{BEATRICE}
+Wenn der dann noch sch�ne Beine, breite Schultern und Geld in der Tasche h�tte, da k�nnte so ein Mann jede Frau auf der Welt herumkriegen -- wenn sie will!  
+\end{BEATRICE}
+
+\begin{LEONATO}
+Also wirklich, Nichte, mit deiner b�sen Zunge kriegst du im Leben keinen Mann.  
+\end{LEONATO}
+
+\begin{ANTONIO}
+In der Tat, sie ist zu b�se.  
+\end{ANTONIO}
+
+\begin{BEATRICE}
+"Zu" b�se ist mehr als b�se. Da entgeht mir ein Geschenk Gottes, denn es hei�t, "Gott gibt einer b�sen Kuh kurze H�rner", und einer zu b�sen Kuh gibt er dann wohl gar keine.  
+\end{BEATRICE}
+
+\begin{ANTONIO}
+Ergo, weil du zu b�se bist, wird Gott dir keine H�rner geben.  
+\end{ANTONIO}
+
+\begin{BEATRICE}
+Richtig, weil er mir keinen Mann gibt. Eine Gnade, um die ich ihn jeden Morgen und Abend auf Knien bitte.\\
+Da strick ich mir lieber blaue Str�mpfe und bleib Jungfrau bis zum seligen Ende.
+\end{BEATRICE}
+
+\begin{ANTONIO}
+Das Ende wird bitter: Blaustr�mpfige Jungfrauen kommen in die H�lle.  
+\end{ANTONIO}
+
+\begin{BEATRICE}
+Nein, nur bis zum H�llentor, denn da kommt mir der Teufel mit H�rnern auf dem Kopf entgegen, ganz wie ein Ehemann, und sagt: "Geh in den Himmel, Beatrice, geh in den Himmel, hier ist kein Platz f�r Blaustr�mpfe!" Also ich rauf zu St. Peter im Himmel, und der zeigt mir die Wolke, wo die Unverheirateten sitzen, und da leben wir herrlich und in Freuden bis in alle Ewigkeit.  
+\end{BEATRICE}
+
+\begin{LEONATO}
+Nun, Nichte, ich gebe die Hoffnung nicht auf, auch dich eines Tages als Ehefrau zu sehen. 
+\end{LEONATO}
+
+\begin{BEATRICE}
+Erst wenn Gottvater die M�nner aus einem andern Stoff macht als aus Erde. Ist das nicht beleidigend f�r eine Frau, sich von einem St�ck Dreck beherrschen zu lassen? Und einem Dreckst�ck Rechenschaft �ber ihr Leben zu schulden? Nein, Tante, ohne mich. Adams S�hne sind meine Br�der, und soviel ich wei�, ist Inzucht eine S�nde. 
+\Seite{11}
+\end{BEATRICE}
+
+\begin{LEONATO}
+Die Masken kommen. Macht Platz. \\
+\Auftritt{Alle setzen die Masken auf. 
+\eDONPEDRO, \eCLAUDIO, \eBENEDIKT, \eDONJUAN, \eBORACHIO ~und andere
+Maskierte mit einer Trommel treten auf.}
+\end{LEONATO}
+
+\begin{DONPEDRO}
+Mein Fr�ulein, wollen Sie mit einem Freunde ein bisschen spazieren gehen? 
+\end{DONPEDRO}
+
+\begin{HERO}
+Wenn Sie sch�n langsam gehen, lieb schauen und nichts sagen, dann hab ich nichts gegen 
+einen Gang, besonders dann nicht, wenn ich weggehe. 
+\end{HERO}
+
+\begin{DONPEDRO}
+Mit mir zusammen? 
+\end{DONPEDRO}
+
+\begin{HERO}
+Vielleicht, wenn mir's passt. 
+\end{HERO}
+
+\begin{DONPEDRO}
+Und wird's Ihnen passen? 
+\end{DONPEDRO}
+
+\begin{HERO}
+Wenn mir Ihr Gesicht passt. Aber wenn der Kern wie die Schale ist... ! 
+\end{HERO}
+
+\begin{DONPEDRO}
+Meine Maske ist meine Larve. Darunter bin ich Schmetterling. 
+\end{DONPEDRO}
+
+\begin{HERO}
+Ich verstehe, Sie flattern von Knospe zu Knospe. 
+\end{HERO}
+
+\begin{DONPEDRO}
+\cfp Speak low, if you speak love.\\
+Sprechen Sie leise, wenn Sie von Liebe sprechen.  \begin{Regie}zieht sie zur Seite\end{Regie}  \\
+\end{DONPEDRO}
+
+\begin{BORACHIO}
+Ich wollte, du liebtest mich. 
+\end{BORACHIO}
+
+\begin{MARGARETHE}
+ O Liebster, das kann ich dir nicht antun. Ich habe eine Menge b�ser Eigenschaften. 
+\end{MARGARETHE}
+
+\begin{BORACHIO}
+Zum Beispiel? 
+\end{BORACHIO}
+
+\begin{MARGARETHE}
+Ich bete laut. 
+\end{MARGARETHE}
+
+\begin{BORACHIO}
+Desto lieber bist du mir. Wer's h�rt, kann Amen sagen. 
+\end{BORACHIO}
+
+\begin{MARGARETHE}
+Gott schicke mir einen guten T�nzer! 
+\end{MARGARETHE}
+
+\begin{BORACHIO}
+Amen. 
+\end{BORACHIO}
+
+\begin{MARGARETHE}
+Und Gott schaff ihn mir aus den Augen, wenn der Tanz vorbei ist! -- Die Antwort, Messdiener! 
+\end{MARGARETHE}
+
+\begin{BORACHIO}
+Nicht n�tig. Der Messdiener hat seine Antwort.
+\end{BORACHIO}
+
+\begin{Regie}
+Sie treten beiseite. 
+\end{Regie}
+
+\begin{Leerzeile}
+
+\end{Leerzeile}
+
+\begin{BEATRICE}
+Wollen Sie mir nicht sagen, wer das gesagt hat? 
+\end{BEATRICE}
+
+\begin{BENEDIKT}
+Nein, Sie m�ssen entschuldigen. 
+\end{BENEDIKT}
+
+\begin{BEATRICE}
+Sie wollen mir auch nicht sagen, wer Sie sind? 
+\end{BEATRICE}
+
+\begin{BENEDIKT}
+Jetzt nicht. 
+\end{BENEDIKT}
+
+\begin{BEATRICE}
+Dass ich hochm�tig bin und meine Pointen aus Witzb�chern klaue -- das kann nur Signor Benedikt gesagt haben. 
+\end{BEATRICE}
+
+\begin{BENEDIKT}
+Wer ist das? 
+\end{BENEDIKT}
+
+\begin{BEATRICE}
+Ich bin sicher, Sie kennen ihn gut. 
+\Seite{12}
+\end{BEATRICE}
+
+\begin{BENEDIKT}
+Nein, bestimmt nicht. 
+\end{BENEDIKT}
+
+\begin{BEATRICE}
+Hat er Sie nie zum Lachen gebracht? 
+\end{BEATRICE}
+
+\begin{BENEDIKT}
+Bitte sagen Sie mir doch, wer ist das denn? 
+\end{BENEDIKT}
+
+\begin{BEATRICE}
+Das ist der Hanswurst des Prinzen, ein todlangweiliger Schwachkopf, sein einziges Talent ist, unglaubliche Tratschereien zu verbreiten. Befreundet ist er nur mit Schmierlappen, und die m�gen ihn nicht wegen seines Witzes, sondern wegen seiner Niedertr�chtigkeit. Er spielt immer den Clown und den Fiesling zugleich, und dann lachen sie �ber ihn und verdreschen ihn dann. Ich bin sicher, er segelt hier irgendwo in meinem Kielwasser. Wenn er mich nur mal entern wollte! \\
+
+\end{BEATRICE}
+
+\begin{Regie}
+Musik 
+\end{Regie}
+
+\begin{Leerzeile}
+
+\end{Leerzeile}
+
+\begin{BEATRICE}
+Wir m�ssen den Anf�hrern folgen. 
+\end{BEATRICE}
+
+\begin{BENEDIKT}
+In allem, was gut ist. 
+\end{BENEDIKT}
+
+\begin{BEATRICE}
+Wenn sie uns zu was Schlechtem f�hren, verlasse ich sie bei der n�chsten Runde. 
+\end{BEATRICE}
+
+\begin{Regie}
+Alle au�er \eDONJUAN, \eBORACHIO ~und \eCLAUDIO ~gehen tanzend ab.
+\end{Regie}
+
+\begin{Leerzeile}
+
+\end{Leerzeile}
+
+\begin{DONJUAN}
+Fast scheint's, als w�r mein Bruder selbst in Hero verliebt, er hat Leonata auf die Seite genommen, um ihr den Antrag zu machen. Die Damen folgen Hero, nur eine Maske bleibt zur�ck. 
+\end{DONJUAN}
+
+\begin{BORACHIO}
+ \begin{Regie}apart zu \eDONJUAN\end{Regie}  Und das ist Claudio, ich erkenne ihn am Gang. 
+\end{BORACHIO}
+
+\begin{DONJUAN}
+ \begin{Regie}zu \eCLAUDIO\end{Regie}  Sind Sie nicht Signor Benedikt? 
+\end{DONJUAN}
+
+\begin{CLAUDIO}
+Gut beobachtet, ich bin's. 
+\end{CLAUDIO}
+
+\begin{DONJUAN}
+Signor, mein Bruder hat Sie sehr ins Herz geschlossen. Er ist in Hero verliebt; ich bitte Sie, reden Sie ihm das aus. Sie ist keine Partie f�r ihn in seiner Stellung. Sie w�rden als Ehrenmann gegen ihn handeln. 
+\end{DONJUAN}
+
+\begin{CLAUDIO}
+Woher wissen Sie denn, dass er sie liebt? 
+\end{CLAUDIO}
+
+\begin{DONJUAN}
+Ich h�rte, wie er Leidenschaft beteuerte. 
+\end{DONJUAN}
+
+\begin{BORACHIO}
+Ich auch, er schwur, er wollte sie heute Nacht noch heiraten. 
+\end{BORACHIO}
+
+\begin{DONJUAN}
+Komm, wir wollen zum Bankett. 
+\end{DONJUAN}
+
+\begin{Regie}
+\eBORACHIO ~versteckt sich und \eDONJUAN ~ab
+\end{Regie}
+
+\begin{Leerzeile}
+
+\end{Leerzeile}
+
+\begin{CLAUDIO}
+Als Benedikt hab ich mit ihm gesprochen --\\
+Als Claudio h�rte ich die schlimme Nachricht. \\
+Soviel steht fest, der Prinz wirbt f�r sich selbst. \\
+Und ich hab's nie geglaubt. Hero, ade!
+\end{CLAUDIO}
+
+\begin{Neueseite}
+
+\Seite{13}
+\Auftritt{\eBENEDIKT}
+\end{Neueseite}
+
+\begin{BENEDIKT}
+Claudio? 
+\end{BENEDIKT}
+
+\begin{CLAUDIO}
+Lass mich allein.  \begin{Regie}ab\end{Regie} 
+\end{CLAUDIO}
+
+\begin{Leerzeile}
+
+\end{Leerzeile}
+
+\begin{BENEDIKT}
+Ach je, das getretene H�ndchen verkriecht sich hinterm Ofen!\\
+\Auftritt{\eDONPEDRO}
+\end{BENEDIKT}
+
+\begin{DONPEDRO}
+Beatrice hat mit dir ein H�hnchen zu rupfen. Ein Herr hat ihr beim Tanzen gesagt, dass du sehr �bel von ihr redest. 
+\end{DONPEDRO}
+
+\begin{BENEDIKT}
+Nein, im Gegenteil, sie hat von mir gesprochen, dass es kein Klotz ausgehalten h�tte! Reden wir nicht mehr von ihr, betrachten wir sie als die h�llische Furie der Zwietracht. Kurz, Schreck und Graus und Aufruhr, wo sie geht und steht. \\
+\Auftritt{\eBEATRICE ~und \eCLAUDIO} 
+\end{BENEDIKT}
+
+\begin{DONPEDRO}
+Da geht sie. 
+\end{DONPEDRO}
+
+\begin{BENEDIKT}
+Haben Sie einen Auftrag f�r mich ans Ende der Welt? Sie k�nnten mich f�r eine Winzigkeit zu den Antipoden schicken. Ich hole Ihnen einen Zahnstocher aus Hinterasien, ich frage den Koloss von Rhodos nach seiner Schuhgr��e, ich besorge Ihnen ein Barthaar des Kaisers von China, ich �bernehme jeden Kurierdienst zu den Pygm�en, ehe ich drei Worte mit dieser Hy�ne wechsele. Haben Sie keinen Auftrag f�r mich? 
+\end{BENEDIKT}
+
+\begin{DONPEDRO}
+Keinen, ich bitte nur um deine Gesellschaft. 
+\end{DONPEDRO}
+
+\begin{BENEDIKT}
+Um Gottes willen, gn�diger Herr, tun Sie mir das nicht an! Fr�ulein Giftzahn ertrage ich nicht.  \begin{Regie}ab\end{Regie}  
+\end{BENEDIKT}
+
+\begin{Leerzeile}
+
+\end{Leerzeile}
+
+\begin{DONPEDRO}
+H�ren Sie, mein Fr�ulein, Sie haben Signor Benedikts Herz verloren. 
+\end{DONPEDRO}
+
+\begin{BEATRICE}
+Es ist wahr, gn�diger Herr, er hatte es mir fr�her mal geliehen, und ich hab ihm Zinsen gezahlt, zwei Herzen f�r sein eines. Aber ich hab es mit Falschgeld verzinst, denn er hat's mir mit gezinkten Karten abgewonnen, und Sie k�nnen daher sagen, dass ich's verloren habe. 
+\end{BEATRICE}
+
+\begin{DONPEDRO}
+Fr�ulein, Sie haben ihn aufs Kreuz gelegt! 
+\end{DONPEDRO}
+
+\begin{BEATRICE}
+Das soll er mal nicht mit mir machen, denn ich m�chte nicht Mutter von Schwachk�pfen werden. Ich habe den Grafen Claudio mitgebracht, der mir soeben
+in die Arme stolperte.
+\end{BEATRICE}
+
+\begin{DONPEDRO}
+Was ist denn los, Graf? Warum so niedergeschlagen?
+\end{DONPEDRO}
+
+\begin{CLAUDIO}
+Nicht niedergeschlagen, gn�diger Herr.
+\Seite{14}
+\end{CLAUDIO}
+
+\begin{DONPEDRO}
+Was denn? Krank?
+\end{DONPEDRO}
+
+\begin{CLAUDIO}
+Auch nicht.
+\end{CLAUDIO}
+
+\begin{BEATRICE}
+Unser s��er Graf ist nicht krank, nicht niedergeschlagen,
+nicht fr�hlich und nicht wohlauf, sondern nur h�flich und dabei gelb vor
+Eifersucht wie eine Pampelmuse und genauso sauer.
+\end{BEATRICE}
+
+\begin{DONPEDRO}
+Ich glaube wirklich, Fr�ulein, Sie haben recht,
+aber ich schw�re, er sieht die Sache falsch.
+H�r, Claudio, ich hab in deinem Namen geworben und die sch�ne Hero ist gewonnen.
+Ich habe mit ihrer Mutter gesprochen, -- und sie war einverstanden. Setz den Hochzeitstag fest, und der liebe Gott geb dir seinen Segen! \\
+\end{DONPEDRO}
+
+\begin{Leerzeile}
+
+\Auftritt{\eLEONATO ~und \eHERO}
+\end{Leerzeile}
+
+\begin{LEONATO}
+Herr Graf, nehmen Sie meine Tochter, und mit ihr mein Verm�gen. Don Pedro hat alles arrangiert, und der Himmel sage Amen dazu. 
+\end{LEONATO}
+
+\begin{BEATRICE}
+Sagen Sie was, Graf, Sie sind an der Reihe. 
+\end{BEATRICE}
+
+\begin{CLAUDIO}
+Schweigen ist Gold. Wenn ich sagen k�nnte, wie gl�cklich ich bin, w�rs damit nicht weit her. Mein Fr�ulein, wie Sie die Meinige sind, bin ich der Ihrige. Ich �bergeb mich Ihnen und erwarte sehns�chtig die Gegengabe. 
+\end{CLAUDIO}
+
+\begin{BEATRICE}
+Sag was, Kusine, oder wenn du nicht kannst, stopf ihm den Mund mit einem Kuss, damit er auch nichts mehr sagt. 
+\end{BEATRICE}
+
+\begin{DONPEDRO}
+Fr�ulein, Sie haben wirklich ein munteres Herz. 
+\end{DONPEDRO}
+
+\begin{BEATRICE}
+Unbedingt, gn�diger Herr, ich bin ihm dankbar, dem lieben Kleinen, es bleibt immer im Windschatten des Kummers. Meine Kusine sagt ihm ins Ohr, dass er in ihrem Herzen ist. 
+\end{BEATRICE}
+
+\begin{CLAUDIO}
+So ist es, Kusine. 
+\end{CLAUDIO}
+
+\begin{BEATRICE}
+Lieber Gott, schon wieder ein neuer Verwandter! Jeder kommt unter die Haube, nur ich verschrumpele wie D�rrobst. Ich muss in der Ecke sitzen und seufzen: Ach, einen Mann! einen Mann! 
+\end{BEATRICE}
+
+\begin{DONPEDRO}
+Ich schaff Ihnen einen. 
+\end{DONPEDRO}
+
+\begin{BEATRICE}
+Da empfehle ich mich lieber.  \begin{Regie}ab\end{Regie}  
+\end{BEATRICE}
+
+\begin{Leerzeile}
+
+\end{Leerzeile}
+
+\begin{DONPEDRO}
+Eine sehr am�sante junge Dame. 
+Von einem Ehemann will sie wohl nichts wissen? 
+\end{DONPEDRO}
+
+\begin{HERO}
+Um nichts in der Welt! Bewerber spottet sie in die Flucht. 
+\end{HERO}
+
+\begin{DONPEDRO}
+Sie w�re die richtige Frau f�r Benedikt. 
+\end{DONPEDRO}
+
+\begin{HERO}
+Da sei Gott vor, nach einer Woche Ehe h�tten sie einander ins Irrenhaus geredet. 
+\end{HERO}
+
+\begin{DONPEDRO}
+Claudio, wann willst du mit deiner Braut zur Kirche? 
+\Seite{15}
+\end{DONPEDRO}
+
+\begin{CLAUDIO}
+Morgen, gn�diger Herr. Bis die Liebe alle Rechte hat, geht die Zeit auf Kr�cken. 
+\end{CLAUDIO}
+
+\begin{LEONATO}
+Nicht vor Montag, teurer Schwiegersohn, das ist genau eine Woche, und das ist noch viel zu kurz, um alles so einzurichten, wie ich's gern h�tte. 
+\end{LEONATO}
+
+\begin{DONPEDRO}
+Du sch�ttelst den Kopf �ber den langen Aufschub, aber ich verspreche dir, Claudio, uns wird nicht langweilig sein. Ich will bis dahin eine Herkulesarbeit zustande bringen, das hei�t, ich will Signor Benedikt und Fr�ulein Beatrice bis zur Raserei ineinander verliebt 
+	machen. Ich h�tte sie gerne als Paar, und die Kuppelei wird ganz sicher klappen, wenn ihr drei mich unterst�tzt, wie ich's euch sage. 
+\end{DONPEDRO}
+
+\begin{LEONATO}
+Ich stehe zur Verf�gung, gn�diger Herr, und wenn es mich zehn schlaflose N�chte kostet. 
+\end{LEONATO}
+
+\begin{CLAUDIO}
+Ich auch, gn�diger Herr. 
+\end{CLAUDIO}
+
+\begin{DONPEDRO}
+Und Sie, sch�nste Hero? 
+\end{DONPEDRO}
+
+\begin{HERO}
+Wenn alles anst�ndig zugeht, will ich meiner Kusine gern zu einem Ehemann verhelfen. 
+\end{HERO}
+
+\begin{DONPEDRO}
+Wenn das gelingt, so ist Amor nicht l�nger der Bogensch�tze, sein Ruhm wird auf uns fallen, und wir sind dann die einzig wahren Liebesg�tter. 
+\end{DONPEDRO}
+
+\begin{Regie}
+alle ab 
+\end{Regie}
+
+\begin{Neueseite}
+
+\Seite{16}
+\Szenario{II, 2}
+\Auftritt{\eDONJUAN, \eBORACHIO ~kommt aus Versteck}
+\end{Neueseite}
+
+\begin{DONJUAN}
+So ist es. Graf Claudio heiratet Hero, Leonatas Tochter. 
+\end{DONJUAN}
+
+\begin{BORACHIO}
+Ja, gn�diger Herr, aber ich kann es durchkreuzen. 
+\end{BORACHIO}
+
+\begin{DONJUAN}
+Jedes Kreuz, jedes Hindernis, jede Fu�angel wird Medizin f�r mich sein. Ich bin krank vor Hass auf ihn, und alles, was seine W�nsche durchkreuzt, ist mir recht. Wie willst du die Heirat verhindern? 
+\end{DONJUAN}
+
+\begin{BORACHIO}
+Ehrlich geht's nicht, gn�diger Herr, aber so heimlich, dass keine Unehrlichkeit an mir h�ngen bleibt. 
+\end{BORACHIO}
+
+\begin{DONJUAN}
+Sag mir kurz wie. 
+\end{DONJUAN}
+
+\begin{BORACHIO}
+Ich glaube, ich sagte Ihnen schon vor einem Jahr, dass ich bei Margarethe, Heros Kammerjungfer, einen Stein im Brett habe. 
+\end{BORACHIO}
+
+\begin{DONJUAN}
+Ich erinnere mich. 
+\end{DONJUAN}
+
+\begin{BORACHIO}
+Ich kann sie veranlassen, dass sie nachts zu den ungew�hnlichsten Zeitpunkten aus Fr�ulein Heros Schlafzimmerfenster schaut. 
+\end{BORACHIO}
+
+\begin{DONJUAN}
+Wieso ist das der Anfang f�r das Ende dieser Hochzeit? 
+\end{DONJUAN}
+
+\begin{BORACHIO}
+Daraus das Gift zu ziehen ist Ihre Sache. Sagen wir, Sie gehen zum Prinzen, Ihrem Bruder, Sie sagen ihm, dass es ihm keine Ehre macht, den hochgesch�tzten Claudio -- den Sie gewaltig rausstreichen m�ssen -- mit einem dreckigen Hurenst�ck zu verheiraten wie mit dieser Hero. 
+\end{BORACHIO}
+
+\begin{DONJUAN}
+Und wie beweise ich das? 
+\end{DONJUAN}
+
+\begin{BORACHIO}
+Genug Beweise, um den Prinzen zu missbrauchen, Claudio zu qu�len, Hero zu verderben und Leonata zu t�ten. Was wollen Sie mehr? 
+\end{BORACHIO}
+
+\begin{DONJUAN}
+Um denen was anzutun, tu ich alles. 
+\end{DONJUAN}
+
+\begin{BORACHIO}
+Also dann, finden Sie einen passenden Augenblick, um sich Don Pedro und Graf Claudio alleine vorzunehmen. Sagen Sie ihnen, Sie w�ssten, Hero liebte mich. 
+Bieten Sie ihnen an, Hero und mich in flagranti zu beobachten. Sie sollen mich 
+	vor ihrem Schlafzimmerfenster sehen und h�ren, wie ich Margarethe Hero nenne und Margarethe mich Borachio -- richten Sie es ein, dass es gerade die Nacht vor der Hochzeit ist. 
+\end{BORACHIO}
+
+\begin{DONJUAN}
+Da soll draus werden, was will, ich werd es in Szene setzen. Sei schlau bei der Ausf�hrung, und ich zahl dir tausend Dukaten. 
+\end{DONJUAN}
+
+\begin{BORACHIO}
+Seien Sie entschieden im Beschuldigen und meine Schl�ue wird sich sehen lassen k�nnen. 
+\end{BORACHIO}
+
+\begin{DONJUAN}
+Ich erkundige mich gleich nach dem Hochzeitstag.
+\Setting{Umbau}
+\end{DONJUAN}
+
+\begin{Regie}
+beide ab 
+\end{Regie}
+
+\begin{Neueseite}
+
+\Seite{17}
+\Szenario{II, 3}
+\Setting{Hell}
+\Auftritt{\eBENEDIKT}
+\begin{Regie} Au�en, Bank, Benedikt baut um \end{Regie}
+\end{Neueseite}
+
+\begin{BENEDIKT}
+Dieser Claudio! Leute werden zu Schwachk�pfen, sobald sie sich auf die Liebe einlassen. \\
+Eine Frau mag klug sein -- na und? Eine Frau mag anst�ndig sein -- na und? Eine Frau mag sch�n sein -- na sch�n. Bis nicht alle Vorz�ge in einer Frau vereinigt sind, vereinige ich mich mit keiner. Reich muss sie sein, damit f�ngts schon mal an; klug, das sowieso; anst�ndig, sonst nehm ich sie nicht; sch�n, sonst schau ich nicht zweimal; z�rtlich, sonst kann sie wegbleiben; gro�z�gig und tolerant, das versteht sich von selbst, und gepflegte Konversation erwart ich sowie musische Neigungen -- dann w�re mir ihre Haarfarbe nicht so wichtig.\\
+Aha! der Prinz und der Amour�se. Ich verstecke mich im Geb�sch. 
+ \begin{Regie}versteckt sich\end{Regie}  \\
+\Auftritt{\eDONPEDRO, \eLEONATO ~und \eCLAUDIO}
+\end{BENEDIKT}
+
+\begin{DONPEDRO}
+Wollen wir das Lied jetzt h�ren?
+\end{DONPEDRO}
+
+\begin{CLAUDIO}
+Gern, gn�dger Herr. Wie still der Abend ist, \\
+So stumm, er will den Harmonien lauschen.
+\end{CLAUDIO}
+
+\begin{DONPEDRO}
+Siehst du, wo sich der Benedikt versteckt?
+\end{DONPEDRO}
+
+\begin{CLAUDIO}
+Ich seh es, gn�diger Herr; nach diesem Lied \\
+Wird unserm Fuchs mal kr�ftig eingeheizt.\\
+\Auftritt{\eALITHA ~tritt mit Musikanten auf.} 
+\end{CLAUDIO}
+
+\begin{DONPEDRO}
+Komm, Alitha, sing uns das Lied noch mal.
+\end{DONPEDRO}
+
+\begin{ALITHA}
+Mein F�rst, Sie woll'n solch eine schlechte Stimme \\
+Das Liedchen doch nicht zweimal sch�nden lassen. 
+\end{ALITHA}
+
+\begin{DONPEDRO}
+Noch immer ist's ein Zeichen hohen K�nnens, \\
+Die eigene Vollendung schlecht zu machen. \\
+Nun bitte sing, lass mich nicht so drum werben. 
+\end{DONPEDRO}
+
+\begin{ALITHA}
+Wenn Sie schon Werbung sagen, muss ich singen, \\
+Denn mancher wirbt um die, von der er denkt, \\
+Sie sei's nicht wert, und wirbt trotzdem und schw�rt \\
+Ihr trotzdem Liebe.
+\end{ALITHA}
+
+\begin{DONPEDRO}
+Nein, bitte, lass jetzt gut sein, \\
+Und wenn du weiter diskutieren willst, \\
+Dann tu's in Noten.
+\Seite{18}
+\end{DONPEDRO}
+
+\begin{ALITHA}
+Die Not mit diesen Noten! \\
+Bei meinen Noten lohnt nicht das Notieren.
+\end{ALITHA}
+
+\begin{DONPEDRO}
+Benotet sie doch ihre eignen Noten! \\
+Die Not um deine Noten ist unn�tig. Los!
+\end{DONPEDRO}
+
+\begin{BENEDIKT}
+ \begin{Regie}apart\end{Regie}  Ah, himmlische Kl�nge! Oh, jetzt packt ihn die seelische Verz�ckung! Also, wie doch die D�rme eines Schafs die Seele eines Menschen in Wallung bringen, wirklich seltsam! Was mich angeht, Blasmusik ist mir lieber. 
+\end{BENEDIKT}
+
+\begin{ALITHA}
+ \begin{Regie}singt\end{Regie}  Seufzt nicht so, M�dchen, seufzt nicht schwer, \\
+�     �Treulos warn M�nner immer, \\
+Ein Bein an Land, eins auf dem Meer, \\
+�     �Best�ndig sind sie nimmer. \\
+�     �H�rt auf zu flehn, \\
+�     �Lasst sie ruhig gehn, \\
+Und freut euch, statt zu schluchzen, \\
+Auf dass die Seufzer schnell verwehn, \\
+�     �Um Hei�a�a zu juchzen. \\
+Singt nicht von Kummer, nicht von Leid, \\
+�     �Von Grillen, die verdrie�en, \\
+So war der M�nner Trug allzeit, \\
+�     �Seit Fr�hlingstriebe sprie�en. \\
+�     �H�rt auf zu flehn, \\
+�     �Lasst sie ruhig gehn, etc.
+\end{ALITHA}
+
+\begin{DONPEDRO}
+Wirklich ein sch�nes Lied.
+\end{DONPEDRO}
+
+\begin{ALITHA}
+Und eine schlechte S�ngerin, gn�diger Herr. 
+\end{ALITHA}
+
+\begin{DONPEDRO}
+Aber nein, nicht doch, f�r den Notfall singst du gut genug.
+\end{DONPEDRO}
+
+\begin{BENEDIKT}
+ \begin{Regie}apart\end{Regie}  H�tte ein Hund so geheult, sie h�tten ihn aufgeh�ngt. 
+\end{BENEDIKT}
+
+\begin{DONPEDRO}
+Also verstehst du, Alitha? Bring uns ein exzellentes Musikst�ck, es soll morgen Nacht vor Fr�ulein Heros Schlafzimmer gespielt werden. 
+\end{DONPEDRO}
+
+\begin{ALITHA}
+Ich tue, was ich kann, gn�diger Herr. 
+\end{ALITHA}
+
+\begin{DONPEDRO}
+Gut so. Adieu. 
+\end{DONPEDRO}
+
+\begin{ALITHA}
+ \begin{Regie}ab\end{Regie} 
+\end{ALITHA}
+
+\begin{Leerzeile}
+
+\end{Leerzeile}
+
+\begin{DONPEDRO}
+Kommen Sie, Signora Leonata. Wie sagten Sie vorhin, Ihre Nichte Beatrice sei in Signor Benedikt verliebt? 
+\end{DONPEDRO}
+
+\begin{LEONATO}
+Oh ja!
+\end{LEONATO}
+
+\begin{CLAUDIO}
+ \begin{Regie}apart zu \eDONPEDRO ~und \eLEONATO\end{Regie}  Und jetzt legen wir den K�se in die Falle.  \begin{Regie}laut\end{Regie}  Nie h�tte ich gedacht, dass dieses Fr�ulein sich verlieben k�nnte. 
+\end{CLAUDIO}
+
+\begin{LEONATO}
+Ich auch nicht. Und ausgerechnet f�r Signor Benedikt schw�rmt sie, vor dem sie sich bisher allem Anschein nach gesch�ttelt hat. 
+\end{LEONATO}
+
+\begin{BENEDIKT}
+ \begin{Regie}apart\end{Regie}  Ist das m�glich? Bl�st der Wind aus der Ecke? 
+\end{BENEDIKT}
+
+\begin{LEONATO}
+Ich wei� wirklich nicht, was ich davon halten soll, aber sie liebt ihn leidenschaftlich rasend, man macht sich keinen Begriff davon. 
+\Seite{19}
+\end{LEONATO}
+
+\begin{DONPEDRO}
+Vielleicht spielt sie nur Theater. 
+\end{DONPEDRO}
+
+\begin{CLAUDIO}
+Verstellung wahrscheinlich. 
+\end{CLAUDIO}
+
+\begin{LEONATO}
+O Gott, nein! Verstellung? Seit wann sind die Theaterleidenschaften so echt wie Naturleidenschaften? Sie spielt sie nicht, sie lebt sie. 
+\end{LEONATO}
+
+\begin{DONPEDRO}
+Was f�r Symptome treten auf? 
+\end{DONPEDRO}
+
+\begin{CLAUDIO}
+ \begin{Regie}apart zu \eLEONATO ~und \eDONPEDRO\end{Regie}  Jetzt langsam die Leine einziehen, der Fisch bei�t an! 
+\end{CLAUDIO}
+
+\begin{LEONATO}
+Symptome? Ja also -- also, sie sitzt Ihnen da -- wie -- Hero hat Ihnen ja gesagt, wie. 
+\end{LEONATO}
+
+\begin{CLAUDIO}
+Das ist wahr, sie sagte es, wie. 
+\end{CLAUDIO}
+
+\begin{DONPEDRO}
+Ja wie denn? -- Sie sehen mich erstaunt. Ich h�tte gedacht, ihr Herz w�re gegen Liebesattacken gewappnet. 
+\end{DONPEDRO}
+
+\begin{LEONATO}
+Ich h�tte auch darauf geschworen -- besonders gegen Benedikt. 
+\end{LEONATO}
+
+\begin{BENEDIKT}
+ \begin{Regie}apart\end{Regie}  Wenn's nicht die Ehrbarkeit selbst sagen w�rde, hielte ich das Ganze f�r einen Jux. Aber hinter soviel W�rde kann kein Betrug sein. 
+\end{BENEDIKT}
+
+\begin{CLAUDIO}
+ \begin{Regie}apart zu \eDONPEDRO ~und \eLEONATO\end{Regie}  Er hat angebissen, weiter. 
+\end{CLAUDIO}
+
+\begin{DONPEDRO}
+Hat sie Benedikt von ihrer Zuneigung schon was merken lassen? 
+\end{DONPEDRO}
+
+\begin{LEONATO}
+Eben nicht, sie schw�rt, sie wird's nie tun. Darum qu�lt sie sich ja so. 
+\end{LEONATO}
+
+\begin{CLAUDIO}
+Stimmt, das hat Hero so erz�hlt. "Soll ich" sagt sie, "die ich ihn so oft mit Verachtung gestraft habe, soll ich ihm jetzt schreiben, dass ich ihn liebe?" 
+\end{CLAUDIO}
+
+\begin{LEONATO}
+Das sagt sie, wenn sie gerade einen Brief an ihn angefangen hat. Zwanzigmal jede Nacht steht sie auf und sitzt im Hemd und schreibt einen ganzen Bogen voll. Hero sagt uns alles. 
+\end{LEONATO}
+
+\begin{CLAUDIO}
+Weil Sie gerade von einem Bogen Papier sprechen -- da f�llt mir diese Geschichte ein, die Hero erz�hlt hat. 
+\end{CLAUDIO}
+
+\begin{LEONATO}
+Ach die, wo sie den Bogen faltet, und Anrede und Unterschrift, Benedikt und Beatrice, liegen pl�tzlich aufeinander? 
+\end{LEONATO}
+
+\begin{CLAUDIO}
+Die meine ich. 
+\end{CLAUDIO}
+
+\begin{LEONATO}
+Oh, sie zerriss den Brief in tausend Fetzen und tobte gegen sich selbst.
+\end{LEONATO}
+
+\begin{CLAUDIO}
+Dann f�llt sie auf die Knie, weint, schluchzt, schl�gt sich die Brust, rei�t sich das Haar, betet, flucht: "O liebster Benedikt! Gott, gib mir Geduld!"
+\end{CLAUDIO}
+
+\begin{LEONATO}
+Genauso hat Hero es erz�hlt. Die Ekstase hat sie so fortgerissen, dass Hero manchmal f�rchtet, sie k�nnte sich aus Verzweiflung was antun. Das ist wirklich wahr. 
+\end{LEONATO}
+
+\begin{DONPEDRO}
+Es w�re doch gut, wenn irgendjemand Benedikt Bescheid sagt, wenn sie es selbst nicht tut. 
+\end{DONPEDRO}
+
+\begin{CLAUDIO}
+Wozu? Er w�rde sich einen Spa� daraus machen und das arme M�dchen nur noch mehr qu�len. 
+\end{CLAUDIO}
+
+\begin{DONPEDRO}
+Wenn er das t�te, sollte man ihn aufh�ngen. Sie ist ein ganz ungew�hnlich reizendes M�dchen, und ohne jeden Zweifel anst�ndig. 
+\Seite{20}
+\end{DONPEDRO}
+
+\begin{CLAUDIO}
+Und au�erordentlich klug. 
+\end{CLAUDIO}
+
+\begin{DONPEDRO}
+Aber den Benedikt liebt sie!?! 
+\end{DONPEDRO}
+
+\begin{LEONATO}
+Sie tut mir leid. 
+\end{LEONATO}
+
+\begin{DONPEDRO}
+Bitte erz�hlen Sie es Benedikt und h�ren Sie, wie er sich dazu stellt. 
+\end{DONPEDRO}
+
+\begin{LEONATO}
+Meinen Sie, dass das Sinn h�tte? 
+\end{LEONATO}
+
+\begin{DONPEDRO}
+Nein, w�rde sie ihm ihre Gef�hle zeigen, w�re es gut m�glich, dass er sie verachtete. Der Mann ist, wie wir alle wissen, hochn�sig und sp�ttisch. 
+\end{DONPEDRO}
+
+\begin{CLAUDIO}
+Aber er hat einen guten Kern. 
+\end{CLAUDIO}
+
+\begin{DONPEDRO}
+Ja, er sieht gut aus. 
+\end{DONPEDRO}
+
+\begin{CLAUDIO}
+Ich halte ihn auch f�r sehr klug. 
+\end{CLAUDIO}
+
+\begin{DONPEDRO}
+Sicher, hin und wieder ist da so ein Funke Intelligenz. 
+\end{DONPEDRO}
+
+\begin{CLAUDIO}
+Und f�r tapfer halt ich ihn auch. 
+\end{CLAUDIO}
+
+\begin{DONPEDRO}
+Wie dem auch sei, Ihre Nichte tut mir leid. Wollen wir Benedikt suchen und ihn aufkl�ren? 
+\end{DONPEDRO}
+
+\begin{CLAUDIO}
+Auf keinen Fall, gn�diger Herr; sie muss eben dar�ber hinwegkommen. 
+\end{CLAUDIO}
+
+\begin{LEONATO}
+Unm�glich. Eher geht sie darunter zugrunde. 
+\end{LEONATO}
+
+\begin{DONPEDRO}
+Also h�ren wir erst, was Hero Neues wei�. \begin{Regie} Gong!!! \end{Regie}
+\end{DONPEDRO}
+
+\begin{LEONATO}
+Das Essen ist fertig. 
+\end{LEONATO}
+
+\begin{DONPEDRO}
+ \begin{Regie}zu \eLEONATO ~und \eCLAUDIO ~apart\end{Regie}  Wir wollen Beatrice auftragen, dass sie ihn zum Essen ruft. 
+\end{DONPEDRO}
+
+\begin{Regie}
+\eDONPEDRO, \eCLAUDIO ~und \eLEONATO ~ab
+\end{Regie}
+
+\begin{Leerzeile}
+
+\end{Leerzeile}
+
+\begin{BENEDIKT}
+ \begin{Regie}tritt vor\end{Regie}  Das kann doch keine Intrige sein. Das Gespr�ch war zu ernsthaft. Hero l�gt nicht. Sie haben Mitleid mit dem Fr�ulein. Ihre Leidenschaft scheint auf dem Siedepunkt zu sein. In mich verliebt? Auf sowas muss man eingehen.\\
+Sie sagen, das Fr�ulein sei sch�n -- das stimmt, ich kann's bezeugen. Und anst�ndig -- ich kann's nicht widerlegen. Und klug -- au�er in ihrer Liebe zu mir. Nun, das ist vielleicht keine Erweiterung ihres Horizontes, aber auch kein Beweis ihrer Dummheit, denn ich werde mich furchtbar in sie verlieben. Ich riskiere zwar, dass man dumme Bemerkungen und faule Witze auf meine Kosten rei�t. 
+\cfp But doth not the appetite alter?
+Aber darf man keine neuen Bed�rfnisse entwickeln?\\
+Doch. Die Welt muss bev�lkert werden. Als ich sagte, ich w�rde als Junggeselle sterben, hatte ich nicht gedacht, dass ich bis zu meiner Hochzeit �berleben w�rde.\\
+Da kommt Beatrice. Ohne Frage, sie ist ein sch�nes M�dchen! Ich entdecke tats�chlich Anzeichen von Liebe an ihr.
+\end{BENEDIKT}
+
+\begin{Neueseite}
+
+\Seite{21}
+\Auftritt{\eBEATRICE}
+\end{Neueseite}
+
+\begin{BEATRICE}
+Gegen meinen Willen hat man mich hergeschickt, Sie zum Essen zu rufen.
+\end{BEATRICE}
+
+\begin{BENEDIKT}
+Ich danke f�r die M�he, sch�ne Beatrice. 
+\end{BENEDIKT}
+
+\begin{BEATRICE}
+Um Ihren Dank bem�he ich mich so wenig, wie Sie sich beim Danken bem�hen. W�r's m�hsam, gewesen, w�r ich nicht gekommen. 
+\end{BEATRICE}
+
+\begin{BENEDIKT}
+Der Auftrag war also ein Vergn�gen f�r Sie? 
+\end{BENEDIKT}
+
+\begin{BEATRICE}
+O ja, mein Vergn�gen h�tte auf einer Messerspitze reichlich Platz. Sie haben wohl keinen Appetit, Signor, leben Sie wohl.  \begin{Regie}ab\end{Regie}  
+\end{BEATRICE}
+
+\begin{Leerzeile}
+
+\end{Leerzeile}
+
+\begin{BENEDIKT}
+Ha! "Gegen meinen Willen hat man mich hergeschickt" -- das hat sie doppelsinnig gemeint. "Um Ihren Dank bem�he ich mich so wenig, wie Sie sich beim Danken bem�hen" -- das hei�t soviel wie: Jede M�he f�r Sie f�llt mir so leicht wie Danken. Wenn ich da kein Erbarmen mit ihr habe, bin ich ein Rohling.
+Wenn ich sie nicht liebe, bin ich ein Schn�sel.
+Ich werde mir sofort ihr Bild beschaffen.  \begin{Regie}ab\end{Regie}  
+
+\end{BENEDIKT}
+
+\begin{Neueseite}
+
+\Seite{22}
+\Szenario{III, 1}
+\begin{Regie} Au�en, Bank \end{Regie}
+\Auftritt{\eMARGARETHE ~und \eURSULA}
+\Setting{Hell}
+\end{Neueseite}
+
+\Auftritt{\eHERO}
+\begin{HERO}
+Schnell, Margarethe, lauf zum gro�en Saal, \\
+Dort findest du Kusine Beatrice \\
+Mit Claudio und dem Prinzen im Gespr�ch. \\
+Sag ihr ins Ohr, dass ich mit Ursula \\
+Im Garten bin und unsre Unterhaltung \\
+Nur sie betrifft; sag ihr, du h�ttst gelauscht, \\
+Und rat ihr, sich im Dickicht anzuschleichen, \\
+Wo Gei�blatt, das im Licht der Sonne reifte, \\
+Dem Licht den Zutritt sperrt -- und dort versteckt \\
+Wird sie uns reden h�rn. Das ist dein Part. \\
+Mach deine Sache gut, lass uns allein.
+\end{HERO}
+
+\begin{MARGARETHE}
+Verlassen Sie sich drauf, ich bring sie her.  \begin{Regie}ab\end{Regie} 
+\end{MARGARETHE}
+
+\begin{Leerzeile}
+
+\end{Leerzeile}
+
+\begin{HERO}
+Ursel, h�r zu, wenn Beatrice kommt, \\
+Darf nur von Benedikt die Rede sein. \\
+Wenn ich ihn nenne, ist es deine Rolle, \\
+Um ihn zu jubeln, wie's kein Mann verdient. \\
+Und ich erz�hl dann dir, wie Benedikt \\
+Um Beatrices Liebe krankt. Aus diesem Stoff \\
+Schnitzt auch der kleine Amor seine Pfeile, \\
+Die durch die Ohren in die Herzen dringen.\\
+\Auftritt{\eBEATRICE}
+\end{HERO}
+
+\begin{HERO}
+Da sieh nur, Beatrice h�pft als Kiebitz \\
+Von Busch zu Busch, uns zu belauschen. Los jetzt.
+\end{HERO}
+
+\begin{URSULA}
+ \begin{Regie}leise\end{Regie}  Der Spa� beim Angeln ist, wenn man den Fisch \\
+Im klaren Wasser munter paddeln sieht, \\
+Grad dann, wenn er den Angelhaken schluckt. \\
+So angeln wir nach Beatrice, die \\
+Soeben in den B�schen Deckung nimmt. \\
+Nur keine Angst, ich kenne meinen Part.
+\end{URSULA}
+
+\begin{HERO}
+ \begin{Regie}leise\end{Regie}  Dann n�her ran, dass ihr kein Wort entgeht \\
+Vom falschen, s��en K�der, den wir legen.
+\end{HERO}
+
+\begin{Regie}
+Sie gehen n�her.
+\end{Regie}
+
+\begin{HERO}
+Nein, Ursula, sie ist zu unversch�mt, \\
+Ich kenn ihr Herz, es ist so kalt und wild \\
+Wie Falken in der Felswand.
+\Seite{23}
+\end{HERO}
+
+\begin{URSULA}
+Ist es wahr, \\
+Dass Benedikt sie hei� und gl�hend liebt?
+\end{URSULA}
+
+\begin{HERO}
+Das sagt der Prinz und auch mein Br�utigam. 
+\end{HERO}
+
+\begin{URSULA}
+Und bat man Sie, ihr davon zu erz�hlen? 
+\end{URSULA}
+
+\begin{HERO}
+Sie dr�ngten mich, ich sollte es ihr sagen; \\
+Ich hab sie �berzeugt um seinetwillen, \\
+Dass er die Liebe niederk�mpfen muss \\
+Und Beatrice nichts erfahren darf.
+\end{HERO}
+
+\begin{URSULA}
+Und warum das? Verdient denn nicht auch er \\
+Ein warmes, weiches und gl�ckliches Bett, \\
+Wie es ihm Beatrice bieten kann?
+\end{URSULA}
+
+\begin{HERO}
+O lieber Gott! Ich wei�, dass er verdient, \\
+Was einem Mann nur je zu g�nnen ist. \\
+Doch nie hat die Natur ein Frauenherz \\
+Aus solchem stolzen Stoff gemacht wie ihrs. \\
+Spott und Verachtung schie�t ihr aus den Augen, \\
+Sie l�stert, was sie sieht, und �bersch�tzt \\
+Den eignen Witz, dass alles andre ihr \\
+Nur platt und matt erscheint. Sie kann nicht lieben, \\
+Kann Geist und Form der Liebe nicht empfinden, \\
+So selbstverliebt ist sie!
+\end{HERO}
+
+\begin{URSULA}
+Das denk ich auch, \\
+Und drum hat's keinen Zweck, dass sie erf�hrt, \\
+Wie er sie liebt. Sie w�rd ihn nur verspotten.
+\end{URSULA}
+
+\begin{HERO}
+Da hast du recht. Ich sah noch keinen Mann, \\
+Egal wie klug, wie nobel, jung und sch�n, \\
+Dem sie den Vorteil nicht zum Nachteil dreht. \\
+Wenn blond, schw�rt sie, er w�re gut als Schwester; \\
+Wenn schwarz, ist der Natur beim Fratzenzeichnen \\
+Die Tinte ausgelaufen; ist er gro�, \\
+Nennt sie ihn einen Lanzenschaft mit Ohren, \\
+Wenn klein, dann will sie ihn als Brosche tragen; \\
+Spricht er, dann wird er Dudelsack getauft, \\
+Schweigt er, dann hei�t es, Stockfisch mag sie nicht. \\
+So st�lpt sie jeden Mann von rechts auf links \\
+Und w�rdigt Wahrheit nicht und nicht die Tugend, \\
+Wie Schlichtheit und Verdienst verlangen darf. 
+\end{HERO}
+
+\begin{URSULA}
+Ja ja, so M�kelei empfiehlt sich nicht. 
+\end{URSULA}
+
+\begin{HERO}
+O nein, so wirr, so gegen alle Form \\
+Wie Beatrice -- mit so was eckt man an. \\
+Wer traut sich denn und sagt es ihr? Ich nicht. \\
+Die bl�st mich in die Luft. Jawohl. Die lacht \\
+Mich l�cherlich, quetscht mich mit Witz zu Mus! \\
+Soll Benedikt wie Glut im Ascheneimer \\
+Doch an den Seufzern innerlich ersticken! \\
+Viel besser totgeseufzt als totgel�stert! \\
+Das ist genauso schlimm wie totgekitzelt. 
+\Seite{24}
+\end{HERO}
+
+\begin{URSULA}
+Man sollte trotzdem h�ren, was sie sagt. 
+\end{URSULA}
+
+\begin{HERO}
+Nein. Lieber geh ich selbst zu Benedikt \\
+Und rat ihm, seine Liebe zu ersticken. \\
+Wahre Verleumdungen denk ich mir aus \\
+Und mach sie schlecht bei ihm. Man glaubt es kaum, \\
+Wie schnell ein Wort die Leidenschaft vergiftet. 
+\end{HERO}
+
+\begin{URSULA}
+Oh, tun Sie ihr nicht solches Unrecht an! \\
+So blind verrannt kann sie doch gar nicht sein, \\
+Wenn sie soviel Verstand hat, wie man sagt, \\
+Um eine solche gl�nzende Partie \\
+Wie Signor Benedikt zur�ckzuweisen. 
+\end{URSULA}
+
+\begin{HERO}
+In ganz Italien gibt es keinen Mann \\
+Wie ihn -- versteht sich, Claudio ausgenommen.
+\end{HERO}
+
+\begin{URSULA}
+Ich bitte, seien Sie mir nicht b�se, Fr�ulein, \\
+Ich zieh Herrn Benedikt halt allen vor.\\
+Und wann winkt nun Ihr Ehegl�ck, mein Fr�ulein? 
+\end{URSULA}
+
+\begin{HERO}
+Bald, jeden Tag, ab morgen! Komm jetzt mit mir, \\
+Ich zeig dir meine Kleider, sag mir dann, \\
+Was mir am besten steht zum Hochzeitstag. 
+\end{HERO}
+
+\begin{URSULA}
+ \begin{Regie}apart\end{Regie}  Die ist geleimt, wir haben sie gefangen. 
+\end{URSULA}
+
+\begin{HERO}
+ \begin{Regie}apart\end{Regie}  Die Liebe kommt als Zufall zu uns allen. \\
+Amor schie�t Pfeile, manchmal stellt er Fallen. 
+\end{HERO}
+
+\begin{Regie}
+\eHERO ~und \eURSULA ~ab 
+\end{Regie}
+
+\begin{Leerzeile}
+
+\end{Leerzeile}
+
+\begin{BEATRICE}
+Was braust mir da im Ohr? Das ist die H�h! \\
+So spricht man �ber meinen Stolz und mich? \\
+H�rt, Spott und Hohn und M�dchenstolz, adieu! \\
+Auf dieses Ruhmesblatt verzichte ich! \\
+So lieb mich, Benedikt, dann lieb ich dich, \\
+Ich z�hm das wilde Herz f�r deine Hand. \\
+Und liebst du echt, verlock ich z�rtlich dich, \\
+Dass du uns zwei verkn�pfst mit heilgem Band. \\
+Man h�rt, du bist es wert, und ich kann schw�ren, \\
+Ich wusst es schon, und besser als vom H�ren!
+\Setting{Umbau}
+\end{BEATRICE}
+
+\begin{Regie}
+ab
+
+\end{Regie}
+
+\begin{Neueseite}
+
+\Seite{25}
+\Szenario{III, 2}
+\begin{Regie} Au�en, Bank \end{Regie}
+\Setting{Hell}
+\Auftritt{\eDONPEDRO, \eCLAUDIO, \eBENEDIKT ~und \eLEONATO}
+\end{Neueseite}
+
+\begin{DONPEDRO}
+Ich bleibe nur noch bis zu deiner Hochzeit, dann reise ich nach Aragonien ab. 
+\end{DONPEDRO}
+
+\begin{CLAUDIO}
+Ich werde Sie begleiten, gn�diger Herr, wenn Sie erlauben. 
+\end{CLAUDIO}
+
+\begin{DONPEDRO}
+Nein, so kurz nach der Hochzeit w�r das doch ein schwerer Schlag f�r dein Ehegl�ck. Man darf einem Kind nicht sein neues Kleid zeigen und dann das Anziehn verbieten. Ich werde mir Benedikt zur Gesellschaft ausbitten. Von der Haarspitze bis zum Fu�nagel ist er der lautere Frohsinn. Er hat Amor zwei- oder dreimal die Bogensehne durchgeschnitten, und seitdem getraut der kleine Hallodri sich nicht mehr, nach ihm zu schie�en. Benedikt hat ein Herz wie eine Glocke mit der Zunge als Kl�ppel -- denn was das Herz denkt, das l�utet die Zunge. 
+\end{DONPEDRO}
+
+\begin{BENEDIKT}
+Ich bin nicht mehr derselbe. 
+\end{BENEDIKT}
+
+\begin{LEONATO}
+Meine Rede. Ich finde, Sie sind ernsthafter geworden. 
+\end{LEONATO}
+
+\begin{CLAUDIO}
+Hoffentlich ist er verliebt. 
+\end{CLAUDIO}
+
+\begin{DONPEDRO}
+O du heiliger Himmel! Der hat keinen warmen Blutstropfen im Leib, wie soll er da zur Liebe f�hig sein? Er ist ernst, weil er kein Geld hat. 
+\end{DONPEDRO}
+
+\begin{BENEDIKT}
+Ich habe Zahnweh. 
+\end{BENEDIKT}
+
+\begin{DONPEDRO}
+Ziehen lassen! 
+\end{DONPEDRO}
+
+\begin{BENEDIKT}
+Zum Henker! 
+\end{BENEDIKT}
+
+\begin{CLAUDIO}
+Nein, zum Zahnarzt. 
+\end{CLAUDIO}
+
+\begin{DONPEDRO}
+Zahnweh? Deswegen das Gejammer? 
+\end{DONPEDRO}
+
+\begin{CLAUDIO}
+Das sind doch nur ganz kleine L�cher. 
+\end{CLAUDIO}
+
+\begin{Alle}
+ \begin{Regie}lachen\end{Regie} 
+\end{Alle}
+
+\begin{BENEDIKT}
+\cfp Well, every one can master a grief but he that has it.
+Also, �ber Schmerzen lachen ist kein Kunstst�ck, wenn der andere sie hat. 
+\end{BENEDIKT}
+
+\begin{LEONATO}
+Ich glaube auch, er ist verliebt. 
+\end{LEONATO}
+
+\begin{DONPEDRO}
+Ich sehe nichts Verliebtes an ihm, au�er seiner Verliebtheit in ausl�ndische Moden. -- Bolero mit Goldtroddeln. Entweder ist er verliebt in diesen Bl�dsinn, wie ich meine, oder er ist bl�dsinnig verliebt, wie du meinst. 
+\end{DONPEDRO}
+
+\begin{CLAUDIO}
+Wenn er nicht verliebt ist, darf man keinem Zeichen mehr trauen. Er b�rstet jeden Morgen seine M�tze, was bedeutet das? 
+\end{CLAUDIO}
+
+\begin{DONPEDRO}
+Er parf�miert sich. Riecht ihr den Braten? 
+\end{DONPEDRO}
+
+\begin{CLAUDIO}
+Das hei�t soviel wie, der s��e Knabe ist verliebt. 
+\end{CLAUDIO}
+
+\begin{LEONATO}
+Der beste Beweis ist seine Melancholie. 
+\end{LEONATO}
+
+\begin{CLAUDIO}
+Wann hat er sich sonst den Hals gewaschen? 
+\end{CLAUDIO}
+
+\begin{DONPEDRO}
+In der Tat, da tun sich Abgr�nde auf. Ich folgere, er ist verliebt. 
+\Seite{26}
+\end{DONPEDRO}
+
+\begin{CLAUDIO}
+Und ich wei� sogar, wer ihn wiederliebt. 
+\end{CLAUDIO}
+
+\begin{DONPEDRO}
+Das m�chte ich auch wissen. Ich wette, eine, die ihn nicht kennt. 
+\end{DONPEDRO}
+
+\begin{CLAUDIO}
+O doch, und trotz seiner Fehler liegt sie vor ihm auf dem Bauch. 
+\end{CLAUDIO}
+
+\begin{DONPEDRO}
+Warum legt er sie nicht auf den R�cken? 
+\end{DONPEDRO}
+
+\begin{BENEDIKT}
+Mein Zahnweh wird durch so was nicht besser. \\
+Signora Leonata, kommen Sie ein paar Schritte auf die Seite, ich habe mir acht oder neun weise Worte f�r Sie �berlegt, die diese Paviane nicht zu h�ren brauchen. 
+\end{BENEDIKT}
+
+\begin{Regie}
+\eBENEDIKT ~und \eLEONATO ~ab 
+\end{Regie}
+
+\begin{Leerzeile}
+
+\end{Leerzeile}
+
+\begin{DONPEDRO}
+Ich wette mein Leben, er h�lt um Beatrice an. 
+\end{DONPEDRO}
+
+\begin{CLAUDIO}
+Eindeutig. Hero und Margarethe haben inzwischen Beatrice eingeseift, da werden sich die beiden Kr�hen nicht mehr hacken, wenn sie sich treffen. \\
+\Auftritt{\eDONJUAN}
+\end{CLAUDIO}
+
+\begin{DONJUAN}
+Mein F�rst und Bruder, Gott sch�tze Sie! 
+\end{DONJUAN}
+
+\begin{DONPEDRO}
+Tag, Bruder. 
+\end{DONPEDRO}
+
+\begin{DONJUAN}
+Wenn ich nicht ungelegen komme, w�rde ich gern mit Ihnen sprechen. 
+\end{DONJUAN}
+
+\begin{DONPEDRO}
+Allein? 
+\end{DONPEDRO}
+
+\begin{DONJUAN}
+Wenn es m�glich w�re. Aber Graf Claudio kann es h�ren, denn was ich zu sagen habe, geht ihn an. 
+\end{DONJUAN}
+
+\begin{DONPEDRO}
+Was ist denn los? 
+\end{DONPEDRO}
+
+\begin{DONJUAN}
+ \begin{Regie}zu \eCLAUDIO\end{Regie}  Sie haben vor, morgen zu heiraten? 
+\end{DONJUAN}
+
+\begin{DONPEDRO}
+Das wissen Sie doch. 
+\end{DONPEDRO}
+
+\begin{DONJUAN}
+Ich wei� nicht, was er tun wird, wenn er erst wei�, was ich wei�. 
+\end{DONJUAN}
+
+\begin{CLAUDIO}
+Wenn es ein Hindernis gibt, sagen Sie mir's. 
+\end{CLAUDIO}
+
+\begin{DONJUAN}
+Sie meinen vielleicht, ich sei nicht Ihr Freund, aber das wird sich sp�ter herausstellen, Sie werden anders denken, wenn ich Ihnen alles mitgeteilt habe. Ich glaube, mein Bruder h�lt gro�e St�cke auf Sie und hat Ihnen aus Freundschaft diese Heirat vermittelt -- gut gemeint und schlecht beraten! 
+\end{DONJUAN}
+
+\begin{DONPEDRO}
+Was wollen Sie damit sagen? 
+\end{DONPEDRO}
+
+\begin{DONJUAN}
+Ich bin hier, um Ihnen zu sagen -- ich fasse mich kurz, es wird schon zuviel dar�ber geredet -- das Fr�ulein ist Ihnen untreu. 
+\end{DONJUAN}
+
+\begin{CLAUDIO}
+Wer, Hero? 
+\end{CLAUDIO}
+
+\begin{DONJUAN}
+Eben die -- Leonatas Hero, Ihre Hero, jedermanns Hero. 
+\end{DONJUAN}
+
+\begin{CLAUDIO}
+Untreu? 
+\end{CLAUDIO}
+
+\begin{DONJUAN}
+Das Wort ist viel zu sch�n f�r ihr abscheuliches Verhalten. Ich m�chte sagen, sie ist weit schlimmer. Denken Sie sich sogar das Schlimmste, ich werde es best�tigen. Fragen Sie nichts mehr, bis wir den Beweis sehen. Kommen Sie heute Abend mit mir, Sie werden sehen, wie man in ihr Schlafzimmerfenster steigt, selbst in der Nacht vor Ihrem Hochzeitstag. Wenn Sie sie dann noch lieben, heiraten Sie nur. F�r Ihre Ehre w�re es aber besser, wenn Sie es sich noch mal �berlegen. 
+\Seite{27}
+\end{DONJUAN}
+
+\begin{CLAUDIO}
+Ist das m�glich? 
+\end{CLAUDIO}
+
+\begin{DONPEDRO}
+Das glaube ich nicht. 
+\end{DONPEDRO}
+
+\begin{DONJUAN}
+Wenn Sie vor dem Augenschein Angst haben, behaupten Sie nicht, Sie w�ssten es besser. Wenn Sie mir folgen, zeige ich Ihnen genug. Und wenn Sie alles geh�rt und gesehen haben, dann handeln Sie entsprechend. 
+\end{DONJUAN}
+
+\begin{CLAUDIO}
+Sehe ich heute Nacht das Geringste, was gegen die Heirat spricht, werde ich sie morgen vor der Trauung in Gegenwart aller blo�stellen. 
+\end{CLAUDIO}
+
+\begin{DONPEDRO}
+Und weil ich dir geholfen habe, sie zu erobern, werde ich dir genauso helfen, sie anzuprangern. 
+\end{DONPEDRO}
+
+\begin{DONJUAN}
+Ich will mich nicht weiter �ber sie ereifern, bis Sie meine Zeugen sind. Lassen Sie sich nichts anmerken bis Mitternacht, dann wird alles offenbar. 
+\end{DONJUAN}
+
+\begin{DONPEDRO}
+Was f�r ein Ungl�ckstag! 
+\end{DONPEDRO}
+
+\begin{CLAUDIO}
+Was f�r ein heilloser Betrug! 
+\end{CLAUDIO}
+
+\begin{DONJUAN}
+Was f�r eine Katastrophe -- rechtzeitig verhindert!
+Das werden Sie sagen, wenn Sie gesehen haben, wie es weitergeht.
+\Setting{Umbau}
+\end{DONJUAN}
+
+\begin{Regie}
+alle ab 
+\end{Regie}
+
+\begin{Regie}
+Es muss f�r die Fensterszene schon umgebaut werden. 
+Holzapfel und Schlehwein bauen um.
+\end{Regie}
+
+\begin{Neueseite}
+
+\Seite{28}
+\Szenario{III, 3}
+\Auftritt{\eHOLZAPFEL, \eSCHLEHWEIN, \\
+sprechen zum Publikum als Wachmannschaft, gehen eventuell ins Publikum}
+\Setting{Hell}
+\end{Neueseite}
+
+\begin{HOLZAPFEL}
+ \begin{Regie}zum Publikum\end{Regie}  \cfp Are you good men and true?\\
+M�nner, seid ihr M�nner? 
+\end{HOLZAPFEL}
+
+\begin{SCHLEHWEIN}
+ \begin{Regie}zum Publikum, es ermunternd\end{Regie}  Jawohl, mit Haut und Haaren, sonst werdet ihr auf einen viel schlechteren Posten gesetzt als den Wachtposten. 
+\end{SCHLEHWEIN}
+
+\begin{HOLZAPFEL}
+So eine Strafe ist noch zuviel Belohnung, wenn ihr keine Untertanengesinnung habt. M�nner, ihr seid als Wache des Prinzen Pedro spezial ausgew�hlt. 
+\end{HOLZAPFEL}
+
+\begin{SCHLEHWEIN}
+Erteilen Sie ihnen die Befehlsausgaben, Holzapfel. 
+\end{SCHLEHWEIN}
+
+\begin{HOLZAPFEL}
+Erstens: wer hat nach eurer Meinung die h�chste Konsistenz zum Wachtmeister? 
+\end{HOLZAPFEL}
+
+\begin{SCHLEHWEIN}
+Willi Kn�ppel oder Hans Bullermann, beide k�nnen lesen und schreiben. 
+\end{SCHLEHWEIN}
+
+\begin{HOLZAPFEL}
+Vortreten, Bullermann! Gott hat Ihnen den richtigen Namen gegeben. Eine gesunde Physik ist eine Gottesgabe, aber Lesen und Schreiben kommt aus der Natur. 
+\end{HOLZAPFEL}
+
+\begin{SCHLEHWEIN}
+Alles beides, Herr Holzapfel. 
+\end{SCHLEHWEIN}
+
+\begin{HOLZAPFEL}
+ \begin{Regie}zum Publikum\end{Regie}  Also f�r Ihre Physik danken Sie Gott und �bertreiben Sie sich nicht. Das mit dem Schreiben und Lesen k�nnen Sie fallenlassen, wo man kein Aufheben von Nichtigkeiten macht. Wir meinen, dass Sie die richtige Senilit�t und Quantifikation zum Wachtmeister haben. Sie tragen die Laterne. Ihr Auftrag: alle verd�chtigen Exkremente festnehmen. Sie rufen jedermann zu: Halt! Im Namen des Prinzen. 
+\end{HOLZAPFEL}
+
+\begin{SCHLEHWEIN}
+Und wenn jetzt einer nicht halten will? 
+\end{SCHLEHWEIN}
+
+\begin{HOLZAPFEL}
+Dann einfach nicht beachten und laufen lassen! Andere Wachen zu Hilfe rufen und das Subjekt durch �bermacht entmutigen. 
+\end{HOLZAPFEL}
+
+\begin{SCHLEHWEIN}
+Wenn einer auf Anruf nicht stehen bleibt, ist er kein Untertan des Prinzen. 
+\end{SCHLEHWEIN}
+
+\begin{HOLZAPFEL}
+Richtig! Und ihr k�mmert euch nur um die Untertanen. Macht keinen L�rm in den Stra�en. Spektakulieren und Wandalieren im Dienst ist nicht intolerant und erlaubt. 
+\end{HOLZAPFEL}
+
+\begin{SCHLEHWEIN}
+ \begin{Regie}zu \eHOLZAPFEL ~ins Publikum deutend\end{Regie} 
+Die wollen lieber schlafen als reden. Beim Reden kann man ja nicht wachen. 
+\end{SCHLEHWEIN}
+
+\begin{HOLZAPFEL}
+Sehr gut! Sie reden wie der geborene Nachtw�chter. Wer schl�ft, kann auch keine Vorschriften �bertreten. Gebt Acht, dass man euch nicht die Waffen stiehlt. Au�erdem m�sst ihr in alle Kneipen einkehren und die Besoffenen auffordern, ins Bett zu gehen. 
+\end{HOLZAPFEL}
+
+\begin{SCHLEHWEIN}
+Und wenn sie nicht wollen? 
+\Seite{29}
+\end{SCHLEHWEIN}
+
+\begin{HOLZAPFEL}
+Ruhe bewahren und warten, bis sie n�chtern sind. Wenn sie dann immer noch nicht ins Bett wollen, habt ihr euch in der Pers�nlichkeit geirrt. 
+\end{HOLZAPFEL}
+
+\begin{SCHLEHWEIN}
+ \begin{Regie}ins Publikum\end{Regie}  Verstanden!?
+\end{SCHLEHWEIN}
+
+\begin{HOLZAPFEL}
+Falls ihr einem Dieb begegnet, d�rft ihr kraft eures Amtes den Verdacht haben, dass er nicht ehrlich ist. Je weniger Umgang ihr mit solchen Kriminalern habt, um so besser f�r euren Ruf. 
+\end{HOLZAPFEL}
+
+\begin{SCHLEHWEIN}
+Wenn sie wissen, dass er ein Dieb ist, sollen sie einen solchen Kriminaler dann nicht verhaften? 
+\end{SCHLEHWEIN}
+
+\begin{HOLZAPFEL}
+Im Prinzip ja, ihr k�nnt kraft eures Amtes, aber ich sage, wer Pech anfasst, besudelt sich. Das Sauberste ist: wenn ihr einen Dieb verhaftet, verlangt von ihm den Beweis, dass er sich wegstiehlt. 
+\end{HOLZAPFEL}
+
+\begin{SCHLEHWEIN}
+Sie galten schon immer als hocherb�rmlicher Mensch, Kollege. 
+\end{SCHLEHWEIN}
+
+\begin{HOLZAPFEL}
+Sehr wahr. Ich kann keiner Fliege was zuleide tun, um wie viel mehr einem anst�ndigen Menschen. \\
+Wenn Sie nachts ein Kind schreien h�ren, m�ssen Sie die Amme zum Verstillen rufen. 
+\end{HOLZAPFEL}
+
+\begin{SCHLEHWEIN}
+Aber wenn die Amme schl�ft und nicht h�rt? 
+\end{SCHLEHWEIN}
+
+\begin{HOLZAPFEL}
+Einfach weitergehen. Lassen Sie das Kind die Amme wecken. Das Schaf, das das B�h des Lammes nicht h�rt, h�rt auch nicht das Muh des Bullen. 
+\end{HOLZAPFEL}
+
+\begin{SCHLEHWEIN}
+Das ist sehr wahr. 
+\end{SCHLEHWEIN}
+
+\begin{HOLZAPFEL}
+Das w�r dann alles.  \begin{Regie}ins Publikum\end{Regie}  
+Sie, Bullermann, repr�sentieren die Person des Prinzen. Wenn Sie ihm nachts begegnen, k�nnen Sie ihn festnehmen. 
+\end{HOLZAPFEL}
+
+\begin{SCHLEHWEIN}
+Nein, das geht, glaube ich, nicht. 
+\end{SCHLEHWEIN}
+
+\begin{HOLZAPFEL}
+Zehn zu eins: er kann ihn festnehmen. Man muss die amtlichen Statuen kennen. 
+Nat�rlich nur, wenn der Prinz Lust hat. Ein Polizist muss immer h�flich sein, und es ist doch eine Unh�flichkeit, jemand gegen seinen Willen zu verhaften. 
+\end{HOLZAPFEL}
+
+\begin{SCHLEHWEIN}
+Von der Seite hab ich's noch gar nicht betrachtet. 
+\end{SCHLEHWEIN}
+
+\begin{HOLZAPFEL}
+Aha, hah, volle Zw�lf! Gute Nacht, meine Herrn, wenn besondere Vorkommnisse hereintreten, dann ruft mich! Nehmt eure f�nf Sinne in die Hand und den Nebenmann, und gute Nacht. Kommen Sie, Schlehwein. 
+\end{HOLZAPFEL}
+
+\begin{SCHLEHWEIN}
+Also, Leute, ihr habt die Konstruktionen.
+Wir wollen uns bis zwei auf die Kirchenbank setzen und dann ins Bett gehen. 
+\end{SCHLEHWEIN}
+
+\begin{HOLZAPFEL}
+Nur noch eins, Leute. Gebt auf Signora Leonatas Haus Acht,
+morgen ist Hochzeit, da wird's heut auf die Nacht viel Spektakel geben.
+Also gute Nacht, seid allergisch. 
+\Setting{Nacht}
+\end{HOLZAPFEL}
+
+\begin{Regie}
+\eHOLZAPFEL ~und \eSCHLEHWEIN ~gehen in Deckung.
+
+\Setting{Rotlicht}
+
+\eDONPEDRO, \eCLAUDIO ~und \eDONJUAN ~schleichen sich an.
+\end{Regie}
+
+\begin{Regie}
+\cfpp Fensterszene mit \eMARGARETHE ~und \eBORACHIO. \eDONPEDRO,
+\eCLAUDIO ~und \eDONJUAN ~beobachten das,
+und gehen schlie�lich ab.
+Wenn BH erscheint, dann
+\Setting{Dunkel}
+
+\end{Regie}
+
+\begin{Neueseite}
+
+\Seite{30}
+\Setting{Morgen}
+\Auftritt{\eBORACHIO ~und \eCONRAD}
+\end{Neueseite}
+
+\begin{BORACHIO}
+He, Ciciolina! 
+\end{BORACHIO}
+
+\begin{SCHLEHWEIN}
+ \begin{Regie}ins Publikum fl�sternd\end{Regie}  Ruhe! Nicht bewegen! 
+\end{SCHLEHWEIN}
+
+\begin{BORACHIO}
+Ciciolina, h�r doch! 
+\end{BORACHIO}
+
+\begin{CONRAD}
+Mann, ich steh dir schon auf den F��en. 
+\end{CONRAD}
+
+\begin{BORACHIO}
+Ach so, und ich dachte schon, mich tritt ein Pferd. 
+\end{BORACHIO}
+
+\begin{CONRAD}
+Darauf antworte ich gar nicht. Erz�hl jetzt deine Geschichte. 
+\end{CONRAD}
+
+\begin{BORACHIO}
+Stell dich unter das Vordach, es f�ngt gleich an zu gie�en. Besoffen wie ich bin, werd ich dir alles erz�hlen. 
+\end{BORACHIO}
+
+\begin{SCHLEHWEIN}
+ \begin{Regie}ins Publikum fl�sternd\end{Regie}  Eine Verr�terei, Leute. Haltet euch raus. 
+\end{SCHLEHWEIN}
+
+\begin{BORACHIO}
+Stell dir vor, ich hab bei meinem Herrn Don Juan tausend Dukaten verdient. 
+\end{BORACHIO}
+
+\begin{CONRAD}
+Ist das m�glich, dass eine Sauerei so hoch bezahlt wird? 
+\end{CONRAD}
+
+\begin{BORACHIO}
+Frag lieber, ob es m�glich ist, dass eine Sau so reich sein kann. Denn wenn eine reiche Sau eine arme Sau braucht, kann die arme Sau jeden Preis verlangen. 
+\end{BORACHIO}
+
+\begin{CONRAD}
+Das wundert mich. 
+\end{CONRAD}
+
+\begin{BORACHIO}
+Man sieht, dass du vom Leben keine Ahnung hast. Was hat der modische Schnitt von Jacke und Hose mit dem Kerl, der darin steckt zu tun? 
+\end{BORACHIO}
+
+\begin{CONRAD}
+Sicher, auf �u�erlichkeiten sollte man keinen Wert legen. 
+\end{CONRAD}
+
+\begin{BORACHIO}
+Ja also, was ist dann die Mode? 
+\end{BORACHIO}
+
+\begin{CONRAD}
+Tja -- die Mode ist die Mode... 
+\end{CONRAD}
+
+\begin{BORACHIO}
+Hach! Man kann auch sagen, ein Depp ist ein Depp! Die Mode, begreifst du, ist reiner Beschiss! 
+\end{BORACHIO}
+
+\begin{SCHLEHWEIN}
+ \begin{Regie}ins Publikum fl�sternd\end{Regie}  Reinhard Schiss? -- Den kenn ich! Der lebt seit sieben Jahren von schwerem Einbruchdiebstahl und l�uft rum wie ein F�rst. Den Namen kenn ich. 
+\end{SCHLEHWEIN}
+
+\begin{BORACHIO}
+War da eben was? 
+\end{BORACHIO}
+
+\begin{CONRAD}
+Nein, der Wetterhahn hat gequietscht. 
+\end{CONRAD}
+
+\begin{BORACHIO}
+Verstehst du also, sage ich dir, was f�r ein Beschiss diese Mode ist, wie sie jedem von 17 bis 70 das Hirn im Kopf rumdreht, wie sie einen ummodelt, bis du aussiehst wie Pippin der Pinsel oder Kunibert der Karierte oder Stanislaus der Gestreifte? Und was wird da alles gestopft und gemacht, bis dir das ausgestopfte Gemachte aus der Hose platz? 
+\end{BORACHIO}
+
+\begin{CONRAD}
+Wei� ich doch alles, und auch, dass die Mode mehr Kleider auftr�gt als ein Mensch. Aber hat dir die Mode auch das Hirn umgedreht? Du schwafelst philosophisch und kommst von deiner Geschichte ab. 
+\end{CONRAD}
+
+\begin{Neueseite}
+
+\Seite{31}
+\Auftritt{\eDONJUAN}
+\end{Neueseite}
+
+\begin{BORACHIO}
+Nicht so weit, wie du denkst. Heut Nacht hab ich bei Fr�ulein Heros Kammerjungfer, der Margarethe, gefensterlt, wobei sie aber modisch als Hero kost�miert war. Sie lehnt sich also aus dem Schlafzimmerfenster ihrer Herrin zu mir nach drau�en, sagt mir tausendmal Gutnacht ...
+\end{BORACHIO}
+
+\begin{DONJUAN}
+Du f�ngst die Geschichte falsch an, du h�ttest erst sagen sollen, dass der Prinz und Claudio und ich, Dein Herr hinter einer Hecke stehen, versteckt und gedeckt, und alles ausgeheckt von deinem Herrn, und die ganze Schmalzszene beobachten. 
+\end{DONJUAN}
+
+\begin{CONRAD}
+Und lieber gn�diger Herr, Margarethe haben sie f�r Hero gehalten? 
+\end{CONRAD}
+
+\begin{DONJUAN}
+Zwei von ihnen, der Prinz und Claudio. Teils wegen meiner L�gen, die sie geglaubt haben, und teils wegen der dunklen Nacht, die sie get�uscht hat, aber vor allem wegen deiner schuftigen Schauspielerei, Borachio, die jede meiner Verleumdungen best�tigt hat, ist Claudio wie rasend weggerannt; hat geschworn, wie verabredet morgen fr�h in der Kirche zu sein und sie dort mit der Geschichte von heute Nacht vor der ganzen Versammlung blo�zustellen und ohne Ehering nach Hause zu schicken. 
+\end{DONJUAN}
+
+\begin{SCHLEHWEIN}
+Halt!
+\end{SCHLEHWEIN}
+
+\begin{DONJUAN}
+ \begin{Regie}flieht\end{Regie} 
+\end{DONJUAN}
+
+\begin{Leerzeile}
+
+\end{Leerzeile}
+
+\begin{SCHLEHWEIN}
+Im Namen des Prinzen! 
+\end{SCHLEHWEIN}
+
+\begin{HOLZAPFEL}
+Wir haben hier ein durchgetriebenes Objekt bei der ruchlosesten Opposition festgestellt, die je in diesem Lande erh�rt wurde. 
+\end{HOLZAPFEL}
+
+\begin{SCHLEHWEIN}
+Ein gewisser Herr Reinhard Schiss geh�rt auch dazu. Ich kenne ihn. 
+\end{SCHLEHWEIN}
+
+\begin{CONRAD}
+Aber Leute, Leute -- 
+\end{CONRAD}
+
+\begin{HOLZAPFEL}
+Den Schiss holen wir auch noch aus euch raus! 
+\end{HOLZAPFEL}
+
+\begin{CONRAD}
+Leute -- 
+\end{CONRAD}
+
+\begin{SCHLEHWEIN}
+Maul halten! -- Mitkommen! -- Wir sind f�r euch zum Gehorchen da! 
+\end{SCHLEHWEIN}
+
+\begin{BORACHIO}
+Du wirst sehen, wenn die uns verh�ren,
+wird uns H�ren und Sehen vergehen, ich schw�r's dir. 
+\end{BORACHIO}
+
+\begin{CONRAD}
+Ach was, das ist ein Versehn mit dem Verh�r,
+die haben sich verh�rt aus Versehen. Komm, wir gehorchen.
+\Setting{Umbau}
+\end{CONRAD}
+
+\begin{Regie}
+alle ab 
+Innen, Bank, Spiegel, Konni baut um
+\end{Regie}
+
+\begin{Neueseite}
+
+\Seite{32}
+\Szenario{III, 4}
+\Auftritt{\eHERO, \eMARGARETHE}
+\Setting{Hell}
+\end{Neueseite}
+
+\begin{MARGARETHE}
+Den andern Kragen fand ich h�bscher, Fr�ulein. 
+\end{MARGARETHE}
+
+\begin{HERO}
+Nein, ich trage den hier. 
+\end{HERO}
+
+\begin{MARGARETHE}
+Glauben Sie mir, er ist nicht so sch�n, Ihre Kusine wird Ihnen das gleiche sagen. 
+\end{MARGARETHE}
+
+\begin{HERO}
+Meine Kusine spinnt, und du auch. Ich werde keinen andern als den tragen. 
+\end{HERO}
+
+\begin{MARGARETHE}
+Ihre Haube finde ich ganz s��, wenn nur die Haare ein klein bisschen brauner w�ren. Und Ihr Kleid ist wirklich einmalig. Ich habe das Kleid der Herzogin von Mailand gesehen, von dem alle reden. 
+\end{MARGARETHE}
+
+\begin{HERO}
+Das w�r sch�ner, hei�t es. 
+\end{HERO}
+
+\begin{MARGARETHE}
+Nie im Leben, das ist nur ein Nachthemd gegen Ihres. Goldstoff mit Silberpaspeln, aufgestickte Perlen, lange Arme mit Zier�rmeln, Unterfutter aus hellblauer Seide. Neineinein, was Schnitt, Raffinesse, Eleganz und Geschmack angeht, ist Ihres zehnmal mehr wert. 
+\end{MARGARETHE}
+
+\begin{HERO}
+Geb Gott, dass ich es mit Freude trage, denn mir ist das Herz so schwer. 
+\end{HERO}
+
+\begin{MARGARETHE}
+Es wird bald noch schwerer werden durch das Gewicht eines Mannes. 
+\end{MARGARETHE}
+
+\begin{HERO}
+Pfui, sch�mst du dich nicht? 
+\end{HERO}
+
+\begin{MARGARETHE}
+F�r was, gn�diges Fr�ulein? Hab ich was Unanst�ndiges gesagt? Sogar bei einem Bettler ist doch die Ehe was Anst�ndiges. Oder meinen Sie, Ihr Mann ist was Unanst�ndiges, bis er Ehemann ist? Ach so, jetzt versteh ich, ich soll mich f�r das unfeine Wort "Mann" entschuldigen -- pardon: eines Gatten! So k�nnen schlechte Gedanken harmlose Worte verdrehen. Ich rede nie unanst�ndig. "Das Gewicht eines Gatten." -- ist das jetzt anst��ig? Find ich nicht, wenn's der richtige Gatte ist, der die richtige Gattin beschwert; sonst ist es leichtfertiges Begatten, und hat so wenig Gewicht, dass man bass ist. Fragen Sie Fr�ulein Beatrice, da kommt sie. \\
+\Auftritt{\eBEATRICE}
+\end{MARGARETHE}
+
+\begin{HERO}
+Guten Morgen, Beatrice. 
+\end{HERO}
+
+\begin{BEATRICE}
+Morgen, Hero. 
+\end{BEATRICE}
+
+\begin{HERO}
+Was ist denn los? Du sprichst so andante. 
+\Seite{33}
+\end{HERO}
+
+\begin{BEATRICE}
+Das Allegro hab ich hinter mir, f�rchte ich. 
+\end{BEATRICE}
+
+\begin{MARGARETHE}
+Also, singen wir unbeschwert "Nimm's leicht mit der Liebe", was uns leichtf�llt, wenn keine schweren B�sse dr�berliegen. Sie singen und ich tanze. 
+\end{MARGARETHE}
+
+\begin{BEATRICE}
+Du tanzt mir sowieso auf zu vielen Hochzeiten! Und f�llst dabei so leicht auf den R�cken, dass du noch mal mit dickem Bauch aufstehst. 
+\end{BEATRICE}
+
+\begin{MARGARETHE}
+Eine dicke Unterstellung, und leichtfertig! Aber damit werd ich leicht fertig. 
+\end{MARGARETHE}
+
+\begin{BEATRICE}
+Es ist fast f�nf, Kusine, Zeit, dass du fertig wirst, auch wenn's schwer f�llt. -- Aber mir geht's ja heute so schlecht -- oijoijoijoijoijoi! 
+\end{BEATRICE}
+
+\begin{MARGARETHE}
+Ja, was haben wir denn? Wallungen oder Wadenkr�mpfe? 
+\end{MARGARETHE}
+
+\begin{BEATRICE}
+Die zwei Anfangsbuchstaben reichen: WW hab ich. 
+\end{BEATRICE}
+
+\begin{MARGARETHE}
+Also, ich fress einen Besen, wenn Sie nicht das Gebetbuch ge�ndert haben. 
+\end{MARGARETHE}
+
+\begin{BEATRICE}
+Wie meinst du das? 
+\end{BEATRICE}
+
+\begin{MARGARETHE}
+Nur so, nur so, aber Gott schicke jedem, was sein Herz begehrt. 
+\end{MARGARETHE}
+
+\begin{HERO}
+Diese Handschuhe hat mir Claudio geschickt. Sie sind ganz parf�miert. 
+\end{HERO}
+
+\begin{BEATRICE}
+Ich rieche nichts, ich bin ganz verstopft. 
+\end{BEATRICE}
+
+\begin{MARGARETHE}
+Eine Jungfrau und verstopft? Tja, so eine Erk�ltung holt man sich schnell. 
+\end{MARGARETHE}
+
+\begin{BEATRICE}
+Ogottogottogott! Seit wann rei�t du Witze? 
+\end{BEATRICE}
+
+\begin{MARGARETHE}
+Seit Ihnen keine mehr einfallen. Passt das nicht zu mir? 
+\end{MARGARETHE}
+
+\begin{BEATRICE}
+Man bemerkt sie nicht gleich. Du solltest sie dir an den Hut stecken. -- Lieber Gott, ich bin wirklich krank. 
+\end{BEATRICE}
+
+\begin{MARGARETHE}
+Sie sollten sich eine Fieberdistel kommen lassen, eine sogenannte carduus benedictus, und sie an die Brust nehmen. Nichts hilft besser gegen Hitzewellen. 
+\end{MARGARETHE}
+
+\begin{HERO}
+Das war ein Distelstich. 
+\end{HERO}
+
+\begin{BEATRICE}
+Benedictus! warum Benedictus? Was meinst du damit? 
+\end{BEATRICE}
+
+\begin{MARGARETHE}
+Meinen? Was werd ich f�r eine Meinung meinen, ich meine einfach carduus benedictus. Sie meinen vielleicht, ich meinte, Sie seien verliebt. Aber Fr�ulein, ich bin doch nicht so dumm, dass ich meine, was ich m�chte, und ich m�chte nicht meinen, was ich k�nnte, ich k�nnte nicht mal meinen, wenn ich meine Meinung verneinen w�rde, dass Sie verliebt sind, jemals verliebt sein werden oder �berhaupt verliebt sein k�nnten. Aber Benedikt war auch so einer und jetzt ist er menschlich geworden. Er schwor, nie zu heiraten, und trotz dieser Herzens�berzeugung isst er heute aus der gleichen Sch�ssel wie alle andern. Ob man Sie noch bekehren kann, wei� ich nicht, aber ich habe neuerdings den Eindruck, Sie sehen normalen Frauen schon viel �hnlicher. 
+\end{MARGARETHE}
+
+\begin{BEATRICE}
+Was ist denn das f�r ein Ton? 
+\end{BEATRICE}
+
+\begin{MARGARETHE}
+Kein Halbton. \\
+\Seite{34}
+\Auftritt{\eURSULA}
+\end{MARGARETHE}
+
+\begin{URSULA}
+Fr�ulein, es ist soweit. Der Prinz, der Graf, Signor Benedikt, Don Juan und alle jungen Herren aus der Stadt sind da, um Sie in die Kirche zu f�hren. 
+\end{URSULA}
+
+\begin{HERO}
+Helft mir, helft mir beim Anziehen, Kusine, Margarethe, Ursula. 
+\Setting{Umbau}
+\end{HERO}
+
+\begin{Regie}
+alle ab 
+\end{Regie}
+
+\begin{Neueseite}
+
+\Seite{35}
+\Szenario{III, 5}
+\begin{Regie} Innen, Leer, Margarethe baut um \end{Regie}
+\Auftritt{\eLEONATO, \eHOLZAPFEL, \eSCHLEHWEIN }
+\Setting{Hell}
+\end{Neueseite}
+
+\begin{LEONATO}
+Leute, was wollt ihr von mir?
+\end{LEONATO}
+
+\begin{HOLZAPFEL}
+Gn�dige Frau, ich h�tte gerne eine Kompetenz mit Ihnen, betrefflich auf Sie. 
+\end{HOLZAPFEL}
+
+\begin{LEONATO}
+Aber kurz, bitte; Ihr seht, ich bin eilig. 
+\end{LEONATO}
+
+\begin{HOLZAPFEL}
+Ja, genau das, gn�dige Frau. 
+\end{HOLZAPFEL}
+
+\begin{SCHLEHWEIN}
+Wirklich, das, gn�dige Frau. 
+\end{SCHLEHWEIN}
+
+\begin{LEONATO}
+Ja also was, Leute? 
+\end{LEONATO}
+
+\begin{HOLZAPFEL}
+Der Schlehwein ist etwas herumschweifig, gn�dige Frau -- ein alter Mann, gn�dige Frau, aber sein Verstand ist nicht so dumpf, da sei Gott vor, wie ich ihm das w�nsche, und sonst hat er eine ehrliche alte Haut. 
+\end{HOLZAPFEL}
+
+\begin{SCHLEHWEIN}
+Ja, ich danke dem Herrgott, ich bin so ehrlich wie jeder andere auf der Welt, der genauso alt ist wie ich und nicht ehrlicher. 
+\end{SCHLEHWEIN}
+
+\begin{HOLZAPFEL}
+Mach hier keine Odeurs, Schlehwein, sie hat es eilig. 
+\end{HOLZAPFEL}
+
+\begin{LEONATO}
+Leute, ihr seid penetrant. 
+\end{LEONATO}
+
+\begin{HOLZAPFEL}
+Sie sind zu g�tig, gn�dige Frau, wir sind nur als herzogliche Gerichtsbeamte angerichtet. An meiner Stelle kann ich sagen, w�re ich auch so penetrant wie ein K�nig, ich w�rde Ihnen alles zu F��en ablassen. 
+\end{HOLZAPFEL}
+
+\begin{LEONATO}
+Deine ganze Penetranz, was? 
+\end{LEONATO}
+
+\begin{HOLZAPFEL}
+Ja, und wenn's tausendmal mehr w�re, als es ist, denn man h�rt soviel Pomp�ses von Ihnen in der Stadt. Ich bin nur ein armer Mann -- aber so was freut mich. 
+\end{HOLZAPFEL}
+
+\begin{SCHLEHWEIN}
+Mich freuts auch. 
+\end{SCHLEHWEIN}
+
+\begin{LEONATO}
+Und mich w�rds freuen, wenn Ihr zur Sache kommen wolltet. 
+\end{LEONATO}
+
+\begin{SCHLEHWEIN}
+Gn�dige Frau, unsere Wache hat letzte Nacht einige gef�hrlich verunsicherte Elemente aufgegriffen. 
+\end{SCHLEHWEIN}
+
+\begin{HOLZAPFEL}
+Ein guter alter Mann, gn�dige Frau, aber er redet immer. "Das Alter kommt, aber der Verstand geht." So ist das Leben. Aber gut gesprochen, Schlehwein, wirklich. Tja, der liebe Gott ist ein braver Mann. Wenn zwei auf einem Pferd reiten, muss einer hinten sitzen. Eine treue Seele, meiner Treu, wie je nur eine das Brot gebissen und ins Gras gebrochen hat. Mit Gott soll man nicht rechten, es k�nnen nicht alle Menschen gleich sein. Ja, alter Schlehwein... 
+\end{HOLZAPFEL}
+
+\begin{LEONATO}
+Aber dir kann er nicht das Wasser reichen. 
+\end{LEONATO}
+
+\begin{HOLZAPFEL}
+Den seinen reichts der Herr im Schlaf, gn�dige Frau. 
+\end{HOLZAPFEL}
+
+\begin{LEONATO}
+Ich gehe jetzt. 
+\end{LEONATO}
+
+\begin{HOLZAPFEL}
+Nur ein Wort, gn�dige Frau. Unsere Wache hat da zwei sehr malizi�se Personalien verhaftet, und wir m�chten sie heute Morgen von Ihnen examinieren lassen. 
+\Seite{36}
+\end{HOLZAPFEL}
+
+\begin{LEONATO}
+Macht das Examen selber und bringt mir das Protokoll. Ich bin sehr in Eile, wie ihr seht. 
+\end{LEONATO}
+
+\begin{HOLZAPFEL}
+Es wird komplottiert �bergeben. 
+\end{HOLZAPFEL}
+
+\begin{LEONATO}
+Holt euch im Haus was zu trinken, ehe ihr geht. Wiedersehn. \\
+\Auftritt{\eMARGARETHE}
+\end{LEONATO}
+
+\begin{MARGARETHE}
+Gn�dige Frau, man wartet auf Sie die Braut zu f�hren. 
+\end{MARGARETHE}
+
+\begin{LEONATO}
+Ich bin soweit, ich komme schon. 
+\end{LEONATO}
+
+\begin{Regie}
+\eLEONATO ~und \eMARGARETHE ~ab
+\end{Regie}
+
+\begin{Leerzeile}
+
+\end{Leerzeile}
+
+\begin{HOLZAPFEL}
+Kollege, geh du zum Schreiber, er soll seine Feder und das Tintenfass ins Gef�ngnis mitbringen. Wir m�ssen diese Kerle exekutieren. 
+\end{HOLZAPFEL}
+
+\begin{SCHLEHWEIN}
+Da muss man mit Delikatessen ans Werk gehen. 
+\end{SCHLEHWEIN}
+
+\begin{HOLZAPFEL}
+Wir werden keinen Gedanken sparen.
+Bei meinem Gips werden die Herren aus dem Verstand fahren.
+Hol nur den Schriftsteller, um unsere Exkommunikation aufzuschreiben,
+und triff mich im Gef�ngnis. 
+\Setting{Umbau}
+\end{HOLZAPFEL}
+
+\begin{Regie}
+beide ab 
+\end{Regie}
+
+\begin{Regie}
+Gro�e Pause
+
+\TextTeilEnde
+
+\TextTeilAnfang
+
+\Setting{Umbau}
+\end{Regie}
+
+\begin{Neueseite}
+
+\Seite{37}
+\Szenario{IV, 1}
+\begin{Regie} Innen, Leer \end{Regie}
+\Auftritt{\eDONPEDRO, \eDONJUAN, \eMOENCH, \eCLAUDIO, \eBENEDIKT}
+\Setting{Hell}
+\Auftritt{\eLEONATO, \eHERO, \eBEATRICE}
+\end{Neueseite}
+
+\begin{LEONATO}
+Machen Sie's kurz, Pater. Nur die allernotwendigsten Formalit�ten, die einzelnen Ehepflichten k�nnen Sie den beiden sp�ter erkl�ren. 
+\end{LEONATO}
+
+\begin{MOENCH}
+Sie sind hier, gn�diger Herr, um sich diesem Fr�ulein zu verm�hlen? 
+\end{MOENCH}
+
+\begin{CLAUDIO}
+Nein. 
+\end{CLAUDIO}
+
+\begin{LEONATO}
+Um mit ihr verm�hlt zu werden, Pater, verm�hlen m�ssen Sie. 
+\end{LEONATO}
+
+\begin{MOENCH}
+Sie sind hier, gn�diges Fr�ulein, um mit diesem Herrn Grafen verm�hlt zu werden? 
+\end{MOENCH}
+
+\begin{HERO}
+Ja. 
+\end{HERO}
+
+\begin{MOENCH}
+Wenn jemand ein Hindernis wei�, warum die beiden nicht zusammenkommen k�nnen, so beschw�re ich ihn bei seinem Seelenheil, es laut zu sagen. 
+\end{MOENCH}
+
+\begin{CLAUDIO}
+Wissen Sie eins, Hero? 
+\end{CLAUDIO}
+
+\begin{HERO}
+Keines, mein Herr. 
+\end{HERO}
+
+\begin{MOENCH}
+Wissen Sie eins, Graf? 
+\end{MOENCH}
+
+\begin{LEONATO}
+Ich bin so frei, an seiner Stelle zu antworten: Nein! 
+\end{LEONATO}
+
+\begin{CLAUDIO}
+\cfp O, what men dare do! What men may do! What men daily do,
+not knowing what they do!
+Welche Freiheiten sich die Leute doch heraus nehmen! Was sie sich rausnehmen d�rfen! Was sie sich t�glich rausnehmen und wissen nicht, was sie tun! 
+\end{CLAUDIO}
+
+\begin{BENEDIKT}
+Aha, ein letzter Scherz als Junggeselle! Haha, saukomisch! 
+\end{BENEDIKT}
+
+\begin{CLAUDIO}
+Platz da, Pater! Sagen Sie, Signora: \\
+Wollen Sie mir, freiwillig, ohne Zwang, \\
+Dies M�dchen geben, Ihre Tochter? 
+\end{CLAUDIO}
+
+\begin{LEONATO}
+Aus freiem Willen, wie Gott sie mir gab. 
+\end{LEONATO}
+
+\begin{CLAUDIO}
+Was kann ich nur als Gegengabe schenken, \\
+Um Ihnen dieses Schmuckst�ck aufzuwiegen? 
+\end{CLAUDIO}
+
+\begin{DONPEDRO}
+Nichts, au�er Sie erstatten sie zur�ck. 
+\end{DONPEDRO}
+
+\begin{CLAUDIO}
+Mein Prinz, Sie lehren mich, was Danken hei�t. \\
+Hier, Leonata, haben Sie sie wieder, \\
+Sie d�rfen dieses Fr�chtchen selbst behalten. \\
+Die Ehre hat sie sich nur angeschminkt. \\
+Seht nur, wie eine Jungfrau wird sie rot! \\
+Beweist nicht diese zart versch�mte R�te \\
+Die reinste Sittsamkeit? Ja schw�rt ihr nicht, \\
+Wie sie da steht, dass sie noch Jungfrau ist \\
+Nach diesem �u�ern Schein? Sie ist es nicht! \\
+Sie kennt die Hitze in den Lotterbetten. \\
+Rot wird sie nicht aus Keuschheit, nur aus Schuld. 
+\Seite{38}
+\end{CLAUDIO}
+
+\begin{LEONATO}
+Was soll das hei�en?
+\end{LEONATO}
+
+\begin{CLAUDIO}
+Keine Hochzeit, hei�t das. \\
+Mit Huren kn�pf ich keine zarten Bande. 
+\end{CLAUDIO}
+
+\begin{LEONATO}
+Mein Herr, wenn Sie sie etwa pr�fen wollten \\
+Und ihren schwachen Widerstand durchbrachen \\
+Und ihr die Jungfernschaft genommen haben --
+\end{LEONATO}
+
+\begin{CLAUDIO}
+Ich wei�, Sie meinen: wenn ich selbst sie hatte, \\
+Hatt' sie in mir den Ehemann umarmt \\
+Und h�tt nur Sp�teres vorweggenommen. \\
+Nein, Leonata! \\
+Mit keinem Wort hab ich's bei ihr versucht, \\
+Nein, wie ein Bruder war ich ihr, der Schwester, \\
+Versch�mt -- und sch�chtern und voll reiner Liebe. 
+\end{CLAUDIO}
+
+\begin{HERO}
+Und ich? Erschien ich anders als die Schwester? 
+\end{HERO}
+
+\begin{CLAUDIO}
+Misch dich nicht ein! Den Schein kann ich beschreiben. \\
+Du schienst mir wie Diana in den W�ldern, \\
+Keusch wie die Knospe vor der Bl�tezeit, \\
+Doch du bist z�gelloser in der Lust \\
+Als Venus oder als das geile Vieh, \\
+Das gierig sich im Schwei� des Fleisches w�lzt. 
+\end{CLAUDIO}
+
+\begin{HERO}
+Sie sind nicht mehr Sie selbst! Was reden Sie? 
+\end{HERO}
+
+\begin{LEONATO}
+Mein Prinz, Sie sagen nichts? 
+\end{LEONATO}
+
+\begin{DONPEDRO}
+Was soll ich sagen? \\
+Ich bin entehrt, denn ich hab mitgeholfen, \\
+Den Freund an eine Hure zu verkuppeln. 
+\end{DONPEDRO}
+
+\begin{LEONATO}
+H�r ich denn richtig oder tr�ume ich? 
+\end{LEONATO}
+
+\begin{DONJUAN}
+Sie h�ren richtig und die ganze Wahrheit. 
+\end{DONJUAN}
+
+\begin{BENEDIKT}
+Die Hochzeit wird wohl nichts.
+\end{BENEDIKT}
+
+\begin{HERO}
+"Wahrheit"? O Gott! 
+\end{HERO}
+
+\begin{CLAUDIO}
+Leonata, steh ich hier? \\
+Ist da der Prinz? Ist das des Prinzen Bruder? \\
+Ist das da Hero? Sind unsre Augen unser? 
+\end{CLAUDIO}
+
+\begin{LEONATO}
+Das alles ist so, doch was soll das, Graf? 
+\end{LEONATO}
+
+\begin{CLAUDIO}
+Erlauben Sie mir eine Frage nur an Hero. \\
+Als Mutter haben Sie ein Recht an ihr, \\
+Befehlen Sie, dass sie die Wahrheit redet. 
+\end{CLAUDIO}
+
+\begin{LEONATO}
+So wahr du meine Tochter bist -- die Wahrheit. 
+\end{LEONATO}
+
+\begin{HERO}
+O Gott im Himmel! Was geschieht mit mir? \\
+Was soll denn diese Art Verh�r mit mir? 
+\end{HERO}
+
+\begin{CLAUDIO}
+Sie sollen Ihren wahren Namen nennen. 
+\end{CLAUDIO}
+
+\begin{HERO}
+Ist der nicht Hero? Wer kann ihn beschmutzen \\
+Mit einem echten Vorwurf? 
+\Seite{39}
+\end{HERO}
+
+\begin{CLAUDIO}
+Hero selbst. 
+Denn Hero selbst besch�digt Heros Ruf. \\
+Mit welchem Mann sprachen Sie gestern Nacht \\
+An Ihrem Fenster zwischen elf und zw�lf? \\
+Wenn Sie unschuldig sind, antworten Sie. 
+\end{CLAUDIO}
+
+\begin{HERO}
+Ich sprach mit keinem Mann zu dieser Zeit. 
+\end{HERO}
+
+\begin{DONPEDRO}
+Nun, damit sind Sie schuldig. Leonata, \\
+Es tut mir leid f�r Sie: an Eides Statt: \\
+Mein Bruder, ich, der tiefgekr�nkte Graf \\
+Sahen und h�rten sie vergangne Nacht \\
+Mit irgendeinem Kerl am Fenster reden, \\
+Der uns danach frech grinsend eingestand, \\
+Es h�tten w�stere Zusammenk�nfte \\
+Wohl tausendmal schon heimlich stattgefunden. 
+\end{DONPEDRO}
+
+\begin{DONJUAN}
+Pfui Teufel, Signora, man kann nicht dr�ber reden, \\
+Nicht einmal daran denken! \\
+Die Sprache ist nicht delikat genug, \\
+Anst��iges zu meiden. Drum, mein Fr�ulein, --\\
+Tja, ich beklage Ihren Lebenswandel. 
+\end{DONJUAN}
+
+\begin{CLAUDIO}
+O Hero! Was h�tt aus dir werden k�nnen, \\
+W�r nur die H�lfte deiner Sch�nheit auch \\
+Im Herzen und im Denken eingebettet. \\
+Auf Nimmerwiedersehn, h�ssliche Sch�nheit! \\
+Du reine S�nde und s�ndhafte Reine! \\
+Nur wegen dir verschlie� ich mich der Liebe, \\
+Und nehm ab heut den Argwohn mir zur Brille, \\
+Dass alles Sch�ne mir verd�chtig scheint \\
+Und nie mehr werd ich Freude daran haben. 
+\end{CLAUDIO}
+
+\begin{LEONATO}
+Hat niemand einen Dolch f�r meine Brust? 
+\end{LEONATO}
+
+\begin{HERO}
+ \begin{Regie}wird ohnm�chtig\end{Regie} 
+\end{HERO}
+
+\begin{BEATRICE}
+Was ist denn, Hero, warum sinkst du um? 
+\end{BEATRICE}
+
+\begin{DONJUAN}
+Kommt, gehn wir. Das, was hier ans Licht kam, raubt \\
+Ihr alle Lebenskraft. 
+\end{DONJUAN}
+
+\begin{Regie}
+\eDONPEDRO, \eDONJUAN ~und \eCLAUDIO ~gehen ab.
+\end{Regie}
+
+\begin{Leerzeile}
+
+\end{Leerzeile}
+
+\begin{BENEDIKT}
+Wie geht es ihr?
+\end{BENEDIKT}
+
+\begin{BEATRICE}
+Ich glaub, sie stirbt -- hilf, Tante! \\
+Hero, wach auf! So helft doch -- Tante -- Benedikt! 
+\end{BEATRICE}
+
+\begin{LEONATO}
+Schicksal, zieh nicht die schwere Hand zur�ck. \\
+Nichts Bessres kann man ihrer Schande w�nschen, \\
+Als jetzt den Tod. 
+\Seite{40}
+\end{LEONATO}
+
+\begin{BEATRICE}
+Hero, was ist mit dir? 
+\end{BEATRICE}
+
+\begin{MOENCH}
+Vertrauen Sie, Fr�ulein. 
+\end{MOENCH}
+
+\begin{LEONATO}
+Du schl�gst die Augen auf? 
+\end{LEONATO}
+
+\begin{MOENCH}
+Ja, warum nicht? 
+\Seite{41}
+\end{MOENCH}
+
+\begin{LEONATO}
+Warum! Ja wirft nicht jede Kreatur \\
+Nach ihr mit Steinen? Leugnet sie vielleicht \\
+Die Schuld, die ihr aus allen Poren sieht? \\
+Leb lieber nicht, Hero, schlie� deine Augen. \\
+W�rd ich nicht glauben, dass du bald verreckst, \\
+Ich w�rde dir nach meinen Fl�chen \\
+Selber ans Leben gehn. --  \\
+Warum hab ich mich je an dir gefreut? \\
+So liebt ich sie -- und die, die ist gefallen \\
+In Gossendreck, und auch dem weiten Meer \\
+Fehlt es an Wasser, um sie reinzuwaschen. \\
+Und auch an Salz, um dieses faule Fleisch \\
+Vor F�ulnis zu bewahren! 
+\end{LEONATO}
+
+\begin{BENEDIKT}
+Langsam, Signora! \\
+Ich f�r mein Teil bin derartig erstaunt, \\
+Dass selbst mir die Worte fehlen. 
+\end{BENEDIKT}
+
+\begin{BEATRICE}
+Auf meinen Eid, man hat Hero verleumdet. 
+\end{BEATRICE}
+
+\begin{BENEDIKT}
+Schliefen Sie letzte Nacht in ihrem Zimmer? 
+\end{BENEDIKT}
+
+\begin{BEATRICE}
+Nein, diesmal nicht, doch bis zur letzten Nacht \\
+Schlief ich ein Jahr lang neben ihr im Bett. 
+\end{BEATRICE}
+
+\begin{LEONATO}
+Beweis! Beweis! Oh, das best�tigt nur, \\
+Was man schon hieb- und stichfest vorgebracht! \\
+W�rden zwei Prinzen, w�rde Claudio l�gen, \\
+Der sie so liebte, dass ihm Tr�nen kamen, \\
+Als er verklagen musste? -- Lasst sie sterben. 
+\end{LEONATO}
+
+\begin{MOENCH}
+Jetzt h�rt auch mal auf mich, \\
+Denn ich hab deshalb nur solang geschwiegen \\
+Und allen Dingen ihren Lauf gelassen, \\
+Um mir das Fr�ulein anzusehn. Ich sah \\
+Wohl tausendmal, wie ihr das Blut zu Kopf \\
+Gestiegen ist, und tausendmal, wie sie \\
+Schneewei� verblasste in schuldloser Scham. \\
+In ihren Augen sah ich so ein Feuer --\\
+Darin verbrannte dieser Prinzen Irrtum \\
+Von Treuelosigkeit. Traut meinem Wissen nicht, \\
+Nicht meinem Alter, Stand, Beruf noch Amt, \\
+Wenn dieses Fr�ulein hier nicht schuldlos fiel \\
+Durch einen schlimmen Irrtum. 
+\end{MOENCH}
+
+\begin{LEONATO}
+Das kann nicht sein. \\
+Leugnen tut sie nichts. \\
+Warum wolln Sie mit Ausreden verdecken, \\
+Was nackt und unverh�llt zutage liegt? 
+\end{LEONATO}
+
+\begin{MOENCH}
+Fr�ulein, wer ist's, mit dem man Sie verklagt? 
+\end{MOENCH}
+
+\begin{HERO}
+Die mich verklagen, wissens, ich wei� keinen. \\
+Wenn ich von irgendeinem Mann mehr wei�, \\
+Als Sittsamkeit und Anstand mir erlauben, \\
+Will ich f�r keine S�nde Gnade! -- O meine Mutter, \\
+Beweisen Sie mir, dass ich je zur Unzeit \\
+Mit einem Mann sprach oder letzte Nacht \\
+Mich unterhielt mit irgendeinem Wesen -- \\
+Dann hasst mich, sto�t mich fort, qu�lt mich zu Tode! 
+\end{HERO}
+
+\begin{MOENCH}
+Irgendein Irrtum muss die Prinzen t�uschen. 
+\end{MOENCH}
+
+\begin{BENEDIKT}
+Von den drei Herrn sind zwei die Ehre selbst -- \\
+Das hei�t, man hat sie hinters Licht gef�hrt.  \\
+Dann treibt Juan, der Bastard, falsches Spiel,  \\
+Denn der gef�llt sich sehr in Schweinereien. 
+\end{BENEDIKT}
+
+\begin{LEONATO}
+Ich wei� nicht. Ist es wahr, dann bring ich sie \\
+Mit eigenen H�nden um. Tun sie ihr unrecht, \\
+Dann werden diese Herrn mich kennen lernen.
+\end{LEONATO}
+
+\begin{MOENCH}
+Nicht so schnell. \\
+Vertraun Sie hierin lieber meinem Rat. \\
+Die Prinzen glauben Ihre Tochter tot. \\
+Verstecken Sie sie heimlich eine Weile, \\
+Und geben Sie bekannt, sie sei gestorben. \\
+Den Schein des Trauerfalles wahren Sie \\
+Mit Grabinschrift auf der Familiengruft, \\
+Mit allen Riten und Zeremonien, \\
+Wie ein Begr�bnis es nun mal verlangt. 
+\end{MOENCH}
+
+\begin{LEONATO}
+Und wohin f�hrt das alles? Was dann weiter? 
+\end{LEONATO}
+
+\begin{MOENCH}
+Sie starb, so muss man �berall verbreiten, \\
+Im Augenblick, als Claudio sie verklagte. \\
+Wer so was h�rt, beweint, bedauert und -- \\
+Entschuldigt sie. So geht's auch Claudio; \\
+H�rt er, dass sie an seinen Worten starb, \\
+Dann setzt ein Traumbild ihres Lebens heimlich \\
+Das M�hlrad seiner Gr�belei in Gang, \\
+Und dann wird jede ihrer Eigenschaften \\
+Von einer neuen Aura eingeh�llt, \\
+Und zarter, r�hrender und lebensvoller \\
+Entsteht sie vor den Augen seiner Seele, \\
+Als sie im Leben war. Dann trauert er, \\
+Wenn seine Liebe jemals echt gewesen, \\
+Und w�nscht, er h�tte sie nicht angeklagt, \\
+Auch wenn die Klage sehr zu Recht bestand. \\
+Wenn alles schief geht, k�nnen Sie sie immer \\
+Noch in ein abgeschiednes Kloster stecken. \\
+Das Beste w�r's f�r ihren wunden Ruf, \\
+Fern allen Blicken und Beleidigungen. 
+\Seite{42}
+\end{MOENCH}
+
+\begin{BENEDIKT}
+Folgen Sie seinem Rat, Signora Leonata. \\
+Sie wissen, dass ich Claudio und dem Prinzen \\
+Verbunden bin in Zuneigung und Treue, \\
+Doch werde ich auf Ehrenwort hierbei \\
+Stumm und verschwiegen sein.
+\end{BENEDIKT}
+
+\begin{LEONATO}
+Eh ich im Leid ertrinke, \\
+Da halt ich mich an diesem Strohhalm fest. 
+\end{LEONATO}
+
+\begin{MOENCH}
+Es ist das Beste so. Doch jetzt ans Werk. \\
+Neu ist die Krankheit, neu die Medizin. \\
+\cfp Come, lady, die to live ... have patience and endure\\
+Sie, Fr�ulein, sterben in das Leben. -- Ihr Hochzeitsfest \\
+Ist nur verschoben worden. Drum Geduld. 
+\end{MOENCH}
+
+\begin{Regie}
+alle ab au�er \eBENEDIKT ~und \eBEATRICE
+\end{Regie}
+
+\LatexKommando{\small}
+
+
+\begin{BENEDIKT}
+Fr�ulein Beatrice, haben Sie die ganze Zeit geweint? 
+\end{BENEDIKT}
+
+\begin{BEATRICE}
+Ja, und ich werde noch eine ganze Zeitlang weiterweinen. 
+\end{BEATRICE}
+
+\begin{BENEDIKT}
+Das m�cht ich aber nicht w�nschen. 
+\end{BENEDIKT}
+
+\begin{BEATRICE}
+Brauchen Sie auch nicht, ich tu's freiwillig. 
+\end{BEATRICE}
+
+\begin{BENEDIKT}
+Ich glaube, man tut Hero unrecht. 
+\end{BENEDIKT}
+
+\begin{BEATRICE}
+Oh, was k�nnte der Mann von mir verlangen, der Hero zu ihrem Recht verhilft! 
+\end{BEATRICE}
+
+\begin{BENEDIKT}
+Gibt's irgendeinen Weg, Ihnen diesen Freundschaftsdienst zu erweisen? 
+\end{BENEDIKT}
+
+\begin{BEATRICE}
+Einen schnurgeraden Weg, aber keinen solchen Freund. 
+\end{BEATRICE}
+
+\begin{BENEDIKT}
+Soll's denn ein Mann sein? 
+\end{BENEDIKT}
+
+\begin{BEATRICE}
+Es ist M�nnerarbeit, aber nicht Ihre. 
+\end{BEATRICE}
+
+\begin{BENEDIKT}
+Und doch gef�llt mir nichts auf der Welt so gut wie Sie -- ist das befremdlich? 
+\end{BENEDIKT}
+
+\begin{BEATRICE}
+So befremdlich, wie es mir fremd ist. Ich k�nnte genauso gut sagen, dass auch mir nichts auf der Welt so gut gef�llt wie Sie. Ihr Pech, wenn Sie mir ein Wort glauben, �brigens ich l�ge nie. Ich bekenne nichts, aber ich w�rde nie leugnen. Meine Kusine tut mir leid. 
+\end{BEATRICE}
+
+\begin{BENEDIKT}
+Beatrice, du liebst mich! Ich schw�re, dass du, Sie mich lieben! 
+\end{BENEDIKT}
+
+\begin{BEATRICE}
+Verschlucken Sie sich nicht beim Schw�ren. 
+\end{BEATRICE}
+
+\begin{BENEDIKT}
+Ich verschw�r mich beim Schlucken, weil Sie mich lieben, und wenn einer sagt, dass ich Sie nicht liebe, den schluck ich, das schw�r ich. 
+\end{BENEDIKT}
+
+\begin{BEATRICE}
+Wollen Sie das nicht lieber wieder schlucken, was Sie da ausgespuckt haben? 
+\Seite{43}
+\end{BEATRICE}
+
+\begin{BENEDIKT}
+Nicht mit goldenen L�ffeln w�rde ich's schlucken. Ich schw�re, ich liebe dich! 
+\end{BENEDIKT}
+
+\begin{BEATRICE}
+O Gott, sei meiner armen Seele gn�dig! 
+\end{BEATRICE}
+
+\begin{BENEDIKT}
+Hast du ges�ndigt? 
+\end{BENEDIKT}
+
+\begin{BEATRICE}
+Sie haben mich in einer schwachen Stunde erwischt, auch ich wollte Ihnen gestehen, dass ich dich liebe. 
+\end{BEATRICE}
+
+\begin{BENEDIKT}
+O ja, o ja, o ja, tun Sie das! 
+\end{BENEDIKT}
+
+\begin{BEATRICE}
+\cfp I love you with so much of my heart that none is left to protest.
+Ich liebe dich so stark, dass ich zu schwach bin, es Ihnen zu sagen. 
+\end{BEATRICE}
+
+\begin{BENEDIKT}
+O sag mir, was ich f�r dich tun soll. 
+\end{BENEDIKT}
+
+\begin{BEATRICE}
+T�te Claudio. 
+\end{BEATRICE}
+
+\begin{BENEDIKT}
+Was? Nie im Leben! 
+\end{BENEDIKT}
+
+\begin{BEATRICE}
+Sie t�ten mich mit Ihrer Weigerung. Leben Sie wohl. 
+\end{BEATRICE}
+
+\begin{BENEDIKT}
+ \begin{Regie}nimmt ihre Hand\end{Regie}  Aber so warten Sie doch. 
+\end{BENEDIKT}
+
+\begin{BEATRICE}
+Ich bin noch hier, aber ich bin schon weg. Sie wissen nicht, was Liebe hei�t. Lassen Sie mich los. 
+\end{BEATRICE}
+
+\begin{BENEDIKT}
+Beatrice -- 
+\end{BENEDIKT}
+
+\begin{BEATRICE}
+Also, ich gehe jetzt. 
+\end{BEATRICE}
+
+\begin{BENEDIKT}
+Erst wieder Freunde sein. 
+\end{BENEDIKT}
+
+\begin{BEATRICE}
+Auf meine Freundschaft sind Sie wilder als auf die Degen meiner Feinde. 
+\end{BEATRICE}
+
+\begin{BENEDIKT}
+Ist Claudio Ihr Feind? 
+\end{BENEDIKT}
+
+\begin{BEATRICE}
+Hat er sich nicht eindeutig als Schwein ausgewiesen? Hat er nicht meine Kusine verleumdet, verspottet und entehrt? O wenn ich Mann w�re! O ja, erst auf H�nden tragen bis zum H�ndereichen und dann �ffentliche Beschuldigung, heimt�ckische Beleidigung, schamlose Beschimpfung -- O Gott, ich will ein Mann sein! Ich w�rde ihn �ffentlich in Scheiben schneiden. 
+\end{BEATRICE}
+
+\begin{BENEDIKT}
+So h�r doch, Beatrice -- 
+\end{BENEDIKT}
+
+\begin{BEATRICE}
+Mit einem Mann nachts am Fenster gesprochen! Eine himmelschreiende L�ge! 
+\end{BEATRICE}
+
+\begin{BENEDIKT}
+Ja, aber nein, Beatrice -- 
+\end{BENEDIKT}
+
+\begin{BEATRICE}
+O Hero! Rufmord! Verleumdung! Sie ist ruiniert! 
+\end{BEATRICE}
+
+\begin{BENEDIKT}
+Beatr -- 
+\end{BENEDIKT}
+
+\begin{BEATRICE}
+Prinzen und Grafen! Nat�rlich, ein prinzlicher Zeuge, ein gr�flicher Graf, ein verprinzeltes Gr�flein, ein Schnurzipurzelchen, dieser Liebhaber da! W�r ich doch ein Mann um seinetwillen, oder h�tte ich einen Freund, der um meinetwillen Mann w�re! M�nner sind 
+Waschlappen, man kann sie auswringen, bis das Schmalz tropft, nur im Anp�beln und S��holzraspeln sind sie stark. Wer kr�ftig flucht und angibt, kann sich die Heldentaten sparen. Ich kann nicht als Mann der Tat leben, also sterbe ich als Frau unter Tr�nen. 
+\end{BEATRICE}
+
+\begin{BENEDIKT}
+So h�r doch, Beatrice, ich hebe die Hand zum Schwur: ich liebe dich! 
+\end{BENEDIKT}
+
+\begin{BEATRICE}
+Sie sollten mir zuliebe die Hand zu was anderem als zum Schw�ren heben. 
+\end{BEATRICE}
+
+\begin{BENEDIKT}
+Sind Sie zutiefst �berzeugt, dass Graf Claudio Hero Unrecht getan hat?
+\end{BENEDIKT}
+
+\begin{BEATRICE}
+Bis auf den Grund meiner Seele. 
+\end{BEATRICE}
+
+\LatexKommando{\footnotesize}
+
+
+\begin{BENEDIKT}
+Genug, z�hlen Sie auf mich, ich werde ihn fordern.
+Ich k�sse Ihre Hand und verlasse Sie. Bei dieser Hand,
+Claudio soll mir Rechenschaft geben. Gehn Sie und tr�sten Sie Hero,
+ich muss herumerz�hlen, dass sie tot ist. Leben Sie wohl.   \begin{Regie}ab\end{Regie}  
+\end{BENEDIKT}
+
+\LatexKommando{\normalsize}
+\begin{Regie}
+\Setting{Umbau}
+Schlehwein baut Tisch auf
+\end{Regie}
+
+
+\begin{Neueseite}
+
+\Seite{44}
+\Szenario{IV, 2}
+\begin{Regie} Innen, Tisch \end{Regie}
+\Setting{Hell}
+\Auftritt{\eHOLZAPFEL, \eSCHLEHWEIN, \eSCHREIBER, \eCONRAD ~und \eBORACHIO}
+\end{Neueseite}
+
+\begin{HOLZAPFEL}
+Sind alle Verschworenen angesammelt? 
+\end{HOLZAPFEL}
+
+\begin{SCHLEHWEIN}
+Es fehlt ein Stuhl und ein Kissen f�r den Schreiber. 
+\end{SCHLEHWEIN}
+
+\begin{SCHREIBER}
+Wer sind die Delinquenten? 
+\end{SCHREIBER}
+
+\begin{HOLZAPFEL}
+Das bin ich und Kollege Schlehwein. 
+\end{HOLZAPFEL}
+
+\begin{SCHLEHWEIN}
+Ja, wir haben Konstruktion, sie zu experimentieren. 
+\end{SCHLEHWEIN}
+
+\begin{SCHREIBER}
+Ja, aber wer sind die Verbrecher f�r das Verh�r? Sie sollen vortreten. 
+\end{SCHREIBER}
+
+\begin{HOLZAPFEL}
+Jawohl, sollen sie. Austreten! Wie hei�t du, Freundchen? 
+\end{HOLZAPFEL}
+
+\begin{BORACHIO}
+Borachio. 
+\end{BORACHIO}
+
+\begin{HOLZAPFEL}
+Schreiben Sie, Borachio. Dein Name, Weib? 
+\end{HOLZAPFEL}
+
+\begin{CONRAD}
+H�ren Sie, ich bin eine Dame und hei�e Ciciolina. 
+\end{CONRAD}
+
+\begin{HOLZAPFEL}
+Schreiben Sie: Frau Ciciolina Dame. Leute, glaubt ihr an Gott? 
+\end{HOLZAPFEL}
+
+\begin{CONRAD}
+ \begin{Regie}gleichzeitig mit \eBORACHIO\end{Regie} 
+\end{CONRAD}
+
+\begin{BORACHIO}
+H�ren Sie mal, wir hoffen ... 
+\end{BORACHIO}
+
+\begin{HOLZAPFEL}
+Schreiben Sie, die Dilettanten hoffen, sie glauben an Gott, und schreib Gott vorneweg, denn beh�te Gott, dass Gott hinter solchen Leuten steht! Leute, man riecht euch schon an der Nase an, dass ihr kein Protokoll braucht, um wie Saupack dazustehen, und das wird auch von offizieller Seite verd�chtigt. Wie verstellt ihr euch dazu. 
+\end{HOLZAPFEL}
+
+\begin{CONRAD}
+Das sind wir nicht. 
+\end{CONRAD}
+
+\begin{HOLZAPFEL}
+Ein gerissenes Luder, das steht fest. Aber ich werde schon mit ihr herumspringen. Komm du mir mal hierher, du da. Ein Wort von Ohr zu Ohr. Ich sage dir also, wir haben uns verd�chtigt, dass ihr zwei St�ck Saupack seid. 
+\end{HOLZAPFEL}
+
+\begin{BORACHIO}
+Das sind wir nicht. 
+\end{BORACHIO}
+
+\begin{HOLZAPFEL}
+Das hab ich mir gedacht, wei� der Teufel, die haben sich abgesprochen. Hast du aufgeschrieben, dass sie es nicht sind? 
+\end{HOLZAPFEL}
+
+\begin{SCHREIBER}
+Herr Holzapfel, das Verh�r l�uft falsch. Sie m�ssen die Wache verh�ren, die sie festgenommen hat. 
+\end{SCHREIBER}
+
+\begin{HOLZAPFEL}
+Ja, das ist am Irrationellsten. Die Wache soll vortreten: 
+ \begin{Regie}ins Publikum\end{Regie}  Leute, das ist ein Befehl: verklagt diese Deliquetten. 
+\end{HOLZAPFEL}
+
+\begin{SCHLEHWEIN}
+ \begin{Regie}ins Publikum deutend\end{Regie}  
+Der Mann hier hat gesagt, dass Don Juan, der Bruder des Prinzen, eine Sau ist. 
+\end{SCHLEHWEIN}
+
+\begin{HOLZAPFEL}
+Schreiben Sie: Prinz Juan ist eine Sau. Aber das ist ja glatter Meineid, einen Prinzenbruder Sau zu nennen! 
+\end{HOLZAPFEL}
+
+\begin{BORACHIO}
+Herr Amtmann -- 
+\end{BORACHIO}
+
+\begin{HOLZAPFEL}
+Schnauze, Mann! Deine Physiologie gef�llt mir nicht, nur damit du Bescheid wei�t. 
+\Seite{45}
+\end{HOLZAPFEL}
+
+\begin{SCHREIBER}
+Was hat er noch gesagt? 
+\end{SCHREIBER}
+
+\begin{SCHLEHWEIN}
+Er h�tte tausend Dukaten von Don Juan bekommen, weil er Fr�ulein Hero ruiniert hat. 
+\end{SCHLEHWEIN}
+
+\begin{HOLZAPFEL}
+Eindeutig -- schwerer Raub�berfall. 
+\end{HOLZAPFEL}
+
+\begin{SCHLEHWEIN}
+Und Ruhest�rung. 
+\end{SCHLEHWEIN}
+
+\begin{SCHREIBER}
+Sonst noch was? 
+\end{SCHREIBER}
+
+\begin{SCHLEHWEIN}
+Und dass Graf Claudio vorhatte, wie er sagte, die Hero vor der ganzen Versammlung zu entbl��en und nicht zu verehelichen. 
+\end{SCHLEHWEIN}
+
+\begin{HOLZAPFEL}
+Unhold! Das wird dich um die ewige Verdammnis bringen! 
+\end{HOLZAPFEL}
+
+\begin{SCHREIBER}
+Was noch? 
+\end{SCHREIBER}
+
+\begin{SCHLEHWEIN}
+Das w�r alles. 
+\end{SCHLEHWEIN}
+
+\begin{SCHREIBER}
+Und das ist mehr, als ihr leugnen k�nnt. Don Juan ist seit heutigem Dato fl�chtig, Hero wurde in besagter Art und Weise beschuldigt sowie in ebenderselben dito versto�en und dieserhalb unerwarteten Todes abgegangen aus Kummer hier�ber. Herr Amtmann, lassen Sie die Leute fesseln und zu Signora Leonata bringen, ich gehe vor und zeige ihr das Protokoll.  \begin{Regie}ab\end{Regie}  
+\end{SCHREIBER}
+
+\begin{Leerzeile}
+
+\end{Leerzeile}
+
+\begin{HOLZAPFEL}
+Nehmt einen Strick, wir m�ssen sie strangulieren. 
+\end{HOLZAPFEL}
+
+\begin{SCHLEHWEIN}
+Ja, an den H�nden. 
+\end{SCHLEHWEIN}
+
+\begin{CONRAD}
+Finger weg, du Bl�dmann! 
+\end{CONRAD}
+
+\begin{HOLZAPFEL}
+Herrgottnochmal, wo ist der Schreiber? Er soll aufschreiben: der prinzliche Amtmann ist ein Bl�dmann. Los, bandagiert sie. Subjekt, Sie! 
+\end{HOLZAPFEL}
+
+\begin{CONRAD}
+Lass mich los, du Arsch! 
+\end{CONRAD}
+
+\begin{HOLZAPFEL}
+Ja hast du denn keine Verachtung vor meinem Amt? Keine Verachtung vor meinem Alter? Wenn sie doch dokumentiert h�tte, dass ich ein Arsch bin! Leute, vergesst nicht, dass ich ein Arsch bin, auch wenn's keiner doktriniert hat, erinnert euch: ich bin ein Arsch! Du Infamistin, du hast nur Piet�ten im Sinn, daf�r habe ich Zeugen.
+Ich bin ein kluger Kopf, und dazu Beamter! Und noch dazu Familienvater!
+Und noch dazu eine stadtbekannte Person! Ich bin Jurisprudent und wohlhabend,
+und ich habe viel durchgemacht, und Pedant bin ich auch. Bringt sie weg.
+\cfp O that I had been writ down an ass.
+\end{HOLZAPFEL}
+
+\begin{Regie}
+alle ab au�er Holzapfel 
+Innen, Leer, Holzapfel baut um
+\end{Regie}
+
+\begin{HOLZAPFEL}
+W�r ich nur ein dokumentierter Arsch! 
+\end{HOLZAPFEL}
+
+
+\begin{Neueseite}
+
+\Seite{46}
+\Szenario{V, 1}
+\begin{Regie} Innen, Leer \end{Regie}
+\Setting{Hell}
+\end{Neueseite}
+
+\Auftritt{\eLEONATO ~und ihre Schwester \eANTONIO}
+\begin{ANTONIO}
+Du bringst dich noch ins Grab auf diese Art. \\
+Es ist nicht klug, dem Schmerz so nachzugeben \\
+Aus Eigenqu�lerei. 
+\end{ANTONIO}
+Nein, nein, man predigt immer denen gern \\
+Geduld, die sich unter dem Ungl�ck kr�mmen, \\
+Doch kein Mensch hat die Kraft und F�higkeit \\
+Zu solch hehrer Moral, wenn es ihn dann \\
+Am eignen Leibe trifft. Drum keinen Rat. \\
+Mein Schmerz schreit lauter als die sch�nen Spr�che. 
+\end{LEONATO}
+
+\begin{ANTONIO}
+Dann unterscheidet nichts die Frau vom Kind. 
+\end{ANTONIO}
+
+\begin{LEONATO}
+Lass mich in Ruh. \\
+\cfp I will be flesh and blood.\\
+Ich bin aus Fleisch und Blut.
+\end{LEONATO}
+
+\begin{ANTONIO}
+Dann kehr nicht alle Qual gegen dich selbst, \\
+Zahl doch das Leid den Urhebern zur�ck. 
+\end{ANTONIO}
+
+\begin{LEONATO}
+Das erste kluge Wort; das werd ich tun. \\
+Im Innern wei� ich, Hero ist verleumdet, \\
+Und das soll Claudio wissen und der Prinz \\
+Und alle, die sie in den Dreck gezogen. 
+\end{LEONATO}
+
+\begin{ANTONIO}
+Da kommen Claudio und der Prinz gerannt. \\
+\Auftritt{\eDONPEDRO ~und \eCLAUDIO}
+\end{ANTONIO}
+
+\begin{DONPEDRO}
+Morgen, Morgen. 
+\end{DONPEDRO}
+
+\begin{CLAUDIO}
+Guten Tag die Damen. 
+\end{CLAUDIO}
+
+\begin{LEONATO}
+H�rn Sie, ein Wort! 
+\end{LEONATO}
+
+\begin{DONPEDRO}
+Wir sind sehr eilig, leider. 
+\end{DONPEDRO}
+
+\begin{LEONATO}
+Ach! Eilig, Herr! Dann weiter alles Gute! \\
+Los, eilen Sie! Sie werden dann schon sehn. 
+\end{LEONATO}
+
+\begin{DONPEDRO}
+Nein, nicht doch, Signora, keinen Streit mit uns. 
+\end{DONPEDRO}
+
+\begin{ANTONIO}
+Wenn sie sich Recht mit Streit verschaffen k�nnte, \\
+Dann blieb wohl der und jener auf der Strecke. 
+\Seite{47}
+\end{ANTONIO}
+
+\begin{CLAUDIO}
+Wer tut ihr denn hier unrecht? 
+\end{CLAUDIO}
+
+\begin{LEONATO}
+Du, du tust mir Unrecht, Heuchler, du! \\
+-- Lass blo� die Hand von deinem Degen fort, \\
+Ich f�rcht mich nicht. 
+\end{LEONATO}
+
+\begin{CLAUDIO}
+Dass mir die Hand abf�llt, \\
+Wenn sie sich gegen ehrbare Damen hebt! \\
+Die Hand am Schwert hat gar nichts zu bedeuten. 
+\end{CLAUDIO}
+
+\begin{LEONATO}
+Rotzl�mmel, mach dich ja nicht lustig hier! \\
+Ich bin noch nicht verkalkt und nicht verr�ckt, \\
+Ich prahl nicht unterm Narrenhut des schwachen Geschlechts. \\
+Du hast mein Kind und mich so tief verletzt, \\
+Dass ich R�cksicht und Stand vergessen muss. \\
+Ich sage, du betrogst mein armes Kind. \\
+Deine Verleumdung hat sie umgebracht, \\
+Sie liegt begraben neben ihren Ahnen -- \\
+Oh, in einer Gruft, wo nie die Schande schlief, \\
+Nur ihre jetzt, die dein Verbrechen ist! 
+\end{LEONATO}
+
+\begin{CLAUDIO}
+Was, mein Verbrechen? 
+\end{CLAUDIO}
+
+\begin{LEONATO}
+Deines, Claudio, deins. 
+\end{LEONATO}
+
+\begin{DONPEDRO}
+Sie haben unrecht, Signora.
+\end{DONPEDRO}
+
+\begin{LEONATO}
+Nein, mein Prinz. 
+\end{LEONATO}
+
+\begin{ANTONIO}
+Bei Gott, ich hatt' sie lieb, \\
+Und sie ist tot, von Schweinen totgeredet, \\
+Milchb�rte! Schw�tzer! Affen! Hosenkacker! \\
+Das sind dumm-freche Stenze, Mode-Bubis, \\
+Verlogen, h�misch, heimt�ckisch und dreist, \\
+M�nnlich verwegen in brutalen Hosen, \\
+Ansonsten hei�e Luft.
+\end{ANTONIO}
+
+\begin{LEONATO}
+Aber Antonia -- 
+\end{LEONATO}
+
+\begin{ANTONIO}
+Lass mich, weg, \\
+Misch dich nicht ein, ich mach das alles schon. 
+\end{ANTONIO}
+
+\begin{DONPEDRO}
+Ich m�chte Sie nicht reizen, meine Damen. \\
+Dass Ihre Tochter starb, geht mir sehr nah. \\
+Doch auf mein Wort, es wurde nur gesagt, \\
+Was klar und eindeutig bewiesen war. 
+\end{DONPEDRO}
+
+\begin{LEONATO}
+Mein Herr, mein Herr --
+\end{LEONATO}
+
+\begin{DONPEDRO}
+Ich will nichts weiter h�ren. 
+\end{DONPEDRO}
+
+\begin{LEONATO}
+Nichts? Schwester, komm. Sie h�ren noch von mir. 
+\end{LEONATO}
+
+\begin{ANTONIO}
+Ja, wer nicht h�ren will, wird f�hlen m�ssen. 
+\end{ANTONIO}
+
+\begin{Regie}
+\eLEONATO ~und \eANTONIO ~ab
+\end{Regie}
+
+\begin{Neueseite}
+
+\Seite{48}
+\Auftritt{\eBENEDIKT}
+\end{Neueseite}
+
+\begin{DONPEDRO}
+Schau mal, da kommt ja der, den wir suchen.
+\end{DONPEDRO}
+
+\begin{CLAUDIO}
+Na Wertester, was gibt es Neues? 
+\end{CLAUDIO}
+
+\begin{BENEDIKT}
+Guten Tag, gn�diger Herr. 
+\end{BENEDIKT}
+
+\begin{DONPEDRO}
+Willkommen, Benedikt. Du h�ttest hier beinah ein Beinah-Duell erleben k�nnen. 
+\end{DONPEDRO}
+
+\begin{CLAUDIO}
+Um Zahnesbreite h�tten uns zwei Weiber die zwei Nasen abgebissen. 
+\end{CLAUDIO}
+
+\begin{DONPEDRO}
+Leonata und ihre Schwester. Wie findest du das? 
+\end{DONPEDRO}
+
+\begin{BENEDIKT}
+In falschem Streit liegt wenig wahre Ehre. Ich habe euch gesucht. 
+\end{BENEDIKT}
+
+\begin{CLAUDIO}
+Und wir haben uns nach dir die Hacken abgelaufen, denn wir sind hochkar�tig melancholisch und suchen jemand, der uns wieder aufp�ppelt. W�rdest du deine Witze auspacken? 
+\end{CLAUDIO}
+
+\begin{BENEDIKT}
+Der Witz steckt hier in der Scheide, soll ich ziehen? \\
+ \begin{Regie}apart zu \eCLAUDIO\end{Regie}  Herr Graf, Sie sind ein Schwein, ich mache keine Witze. Ich bin zu jeder Genugtuung bereit, Ort, Zeit und Waffe �berlasse ich dir. Wenn du nicht antrittst, werde ich �berall ausposaunen, dass du ein Feigling bist. Du hast ein Fr�ulein in den Tod getrieben, ich bin der Zorn Gottes. Wie ist deine Antwort? 
+\end{BENEDIKT}
+
+\begin{CLAUDIO}
+Gut, ich komme, es wird mir ein Fest sein. 
+\end{CLAUDIO}
+
+\begin{DONPEDRO}
+Was, ein Fest? Wie, wo? 
+\end{DONPEDRO}
+
+\begin{BENEDIKT}
+Also, ich gehe jetzt. Vergiss unsere Verabredung nicht.\\
+ \begin{Regie}zu \eDONPEDRO\end{Regie}  Gn�diger Herr, ich danke Ihnen f�r Ihre G�te. Ab jetzt muss ich mich Ihrer Gesellschaft entziehen. Ihr Bruder, der Bastard, ist aus Messina geflohen. Sie haben gemeinschaftlich ein unschuldiges M�dchen unter die Erde gebracht.\\
+ \begin{Regie}zu \eCLAUDIO\end{Regie}  Und Sie, Herr Popogesicht, wir sprechen uns noch.  \begin{Regie}ab\end{Regie}  
+\end{BENEDIKT}
+
+\begin{Leerzeile}
+
+\end{Leerzeile}
+
+\begin{DONPEDRO}
+Er meint es ernst. 
+\end{DONPEDRO}
+
+\begin{CLAUDIO}
+T�dlich ernst. Ich m�chte wetten, alles aus Liebe zu Beatrice. 
+\end{CLAUDIO}
+
+\begin{DONPEDRO}
+Er hat dich gefordert. 
+\end{DONPEDRO}
+
+\begin{CLAUDIO}
+Ganz offiziell. 
+\end{CLAUDIO}
+
+\begin{DONPEDRO}
+Was f�r ein Mann! Den Degen in der Hand und den Verstand in der Hose.
+\end{DONPEDRO}
+
+\begin{CLAUDIO}
+Neben einem Affen sieht er wie ein Mensch aus. Falls nicht der Affe die Hose anzieht. 
+\end{CLAUDIO}
+
+\begin{DONPEDRO}
+Schluss jetzt mit den Scherzen. Das war ernst: er sagte, mein Bruder sei geflohen.
+\end{DONPEDRO}
+
+\begin{Neueseite}
+
+\Seite{49}
+\Auftritt{\eHOLZAPFEL, \eSCHLEHWEIN, W\klein{ACHEN}, \eBORACHIO, \eCONRAD}
+\end{Neueseite}
+
+\begin{HOLZAPFEL}
+Widerstand hat f�r uns keinen Zweck, mein Herr. Die Justiz zerkleinert jeden, da k�nnen Sie alle Ihre Rosinen ruhig auf die Waagschale werfen. Wenn Sie einmal einen Meineid schw�ren, werden wir Ihnen das schon beibringen. 
+\end{HOLZAPFEL}
+
+\begin{DONPEDRO}
+Zwei von meines Bruders Leuten in Fesseln? Borachio ist dabei! 
+\end{DONPEDRO}
+
+\begin{CLAUDIO}
+Fragen Sie doch, was sie angestellt haben, gn�diger Herr. 
+\end{CLAUDIO}
+
+\begin{DONPEDRO}
+Amtmann, was haben diese Leute verbrochen? 
+\end{DONPEDRO}
+
+\begin{HOLZAPFEL}
+Herr, sie haben einen falschen Rapport begangen, zweitens haben sie die Unwahrheit ver�u�ert, ferner sind es Deb�tanten, die sechstens und letztens ein Fr�ulein verunziert haben, drittens haben sie unrichtige Dinge verifiziert, und schlie�lich sind es verlogene Komplexe. 
+\end{HOLZAPFEL}
+
+\begin{DONPEDRO}
+Erstens, ich frage, was sie getan haben, drittens, ich frage, was ihr Vergehen ist, sechstens und letztens, warum sind sie verhaftet, und zurguterletzt, wie lautet die Anklage. 
+\end{DONPEDRO}
+
+\begin{CLAUDIO}
+Sehr gut formuliert, genau nach Muster. Man kann's nicht pr�ziser fragen. 
+\end{CLAUDIO}
+
+\begin{DONPEDRO}
+Leute, was habt ihr angestellt, dass man euch zum Verh�r schleppt? Dieser gebildete Beamte ist zu scharfsinnig, als dass man ihn verstehen k�nnte. Was hat's gegeben? 
+\end{DONPEDRO}
+
+\begin{BORACHIO}
+Gn�digster Herr, lassen Sie mich nicht erst vor Gericht stellen, h�ren Sie mich an, und dann soll Graf Claudio mich umbringen. Ich habe sogar Ihnen selbst ein X f�r ein U vorgemacht: was Ihr Scharfsinn nicht bemerkte, haben diese Trottel ans Licht gebracht. Sie haben mich belauscht, wie ich nachts Ciciolina erz�hlte, dass Ihr Bruder Don Juan mich angestiftet hat, Fr�ulein Hero zu verleumden, und dass er Sie in den Garten gef�hrt hat, um zuzusehen, wie ich Margarethe, die Heros Kleider trug, den Hof machte, und wie Sie Hero versto�en haben vor allen Hochzeitsg�sten. Mein Gest�ndnis ist protokolliert. Ich will es lieber mit meinem Tod besiegeln, als alles zu meiner Schande noch mal erz�hlen. Das Fr�ulein ist an meinen und meines Herrn falschen Anklagen gestorben, ich will nur noch den passenden Lohn f�r diese Schweinerei, und dann Punktum. 
+\end{BORACHIO}
+
+\begin{DONPEDRO}
+Mir ist eiskalt geworden, als er sprach. 
+\end{DONPEDRO}
+
+\begin{CLAUDIO}
+Ich habe jedes Wort wie Gift geschluckt. 
+\end{CLAUDIO}
+
+\begin{DONPEDRO}
+Und dazu hat mein Bruder dich verleitet? 
+\end{DONPEDRO}
+
+\begin{BORACHIO}
+Ja, und mich hoch bezahlt f�r den Verrat. 
+\end{BORACHIO}
+
+\begin{DONPEDRO}
+Der ganze Mann besteht nur aus Gemeinheit. \\
+Gleich nach der Wahnsinnstat ist er geflohn. 
+\end{DONPEDRO}
+
+\begin{CLAUDIO}
+Jetzt erst erscheint mir wieder Heros Bild \\
+Genauso sch�n wie in der ersten Liebe. 
+\end{CLAUDIO}
+
+\begin{HOLZAPFEL}
+Los, schaff die Alimente zur�ck, unser Schreiber hat bei Signora Leonata l�ngst sein Gesch�ft verrichtet.  Und Leute, vergesst nicht, zu gegebenen  Stunden an gegebenen �rtlichkeiten darauf zu spekulieren, dass ich ein Arsch bin. 
+
+\Seite{50}
+\Auftritt{\eLEONATO, ihre Schwester \eANTONIO}
+\end{HOLZAPFEL}
+
+\begin{LEONATO}
+Wo ist der Schuft? Ich will die Augen sehen, \\
+Damit ich sie bei andern gleich erkenne \\
+Und mich dann vorsehn kann. Wer von den zwein? 
+\end{LEONATO}
+
+\begin{BORACHIO}
+Der, der Sie ruiniert hat, das bin ich. 
+\end{BORACHIO}
+
+\begin{LEONATO}
+Du also hast mein unschuldiges Kind \\
+Mit deiner Tat gemordet? 
+\end{LEONATO}
+
+\begin{BORACHIO}
+Ich allein. 
+\end{BORACHIO}
+
+\begin{LEONATO}
+Ach was, du Lump, nein, du bel�gst dich selbst! \\
+Hier steht ein Paar hochehrenwerter M�nner, \\
+Ein dritter floh -- die mischten alle mit. \\
+Ich danke, Prinz, f�r meiner Tochter Tod. \\
+Verzeichnen Sie es unter Heldentaten. \\
+Ein edles Werk war's, sagen Sie doch selbst. 
+\end{LEONATO}
+
+\begin{CLAUDIO}
+Ich wei� nicht, wie Sie um Verzeihung bitten, \\
+Doch reden muss ich. Nennen Sie die Rache, \\
+Erfinden Sie die allerschwerste Bu�e, \\
+Ich trage sie. Doch meine S�nde lag \\
+Allein im Missverst�ndnis. 
+\end{CLAUDIO}
+
+\begin{DONPEDRO}
+Meine auch. \\
+Ich beug mich jedem noch so schweren Joch, \\
+Mit dem Sie mich beladen. 
+\end{DONPEDRO}
+
+\begin{LEONATO}
+Ich kann nicht bitten: "Bittet sie zu leben". \\
+Das w�r unm�glich. Doch ich bitt Sie beide, \\
+Sagt allen Leuten in Messina hier, \\
+Dass sie unschuldig starb.  \\
+Auf morgen fr�h lad ich Sie in mein Haus, \\
+Und k�nnen Sie mein Schwiegersohn nicht werden, \\
+Sein Sie mein Neffe. Meiner Schwester Tochter \\
+Ist fast das Abbild meiner toten Hero, \\
+Und sie allein beerbt uns einmal beide. \\
+Geben Sie ihr, was mein Kind haben sollte, \\
+Und dann stirbt meine Rache. 
+\end{LEONATO}
+
+\begin{CLAUDIO}
+Edle Frau! \\
+Die �bergro�e G�te macht mich weinen. \\
+Ihr Angebot nehm ich gern an, ab jetzt \\
+Verf�gen Sie nur immer �ber mich. 
+\Seite{51}
+\end{CLAUDIO}
+
+\begin{LEONATO}
+Dann werde ich Sie morgen fr�h erwarten, \\
+F�r heute gute Nacht. Und diesen Kerl \\
+Soll man mit Margarethe konfrontieren, \\
+Die, glaub ich, auch zu dem Komplott geh�rt, \\
+Bezahlt von Ihrem Bruder.
+\end{LEONATO}
+
+\begin{BORACHIO}
+Sie wei� von nichts \\
+Und wusste nie, was vorging jene Nacht, \\
+War immer treu, gehorsam und ergeben \\
+In allem, was ich von ihr wei�. 
+\end{BORACHIO}
+
+\begin{HOLZAPFEL}
+Au�erdem, gn�dige Frau, was noch nicht wei� auf schwarz zu lesen steht: diese  \begin{Regie}auf \eCONRAD ~deutend\end{Regie}  Notarische hat mich einen Arsch genannt, lassen Sie das bei der Strafausmessung beschwerend dazukommen. 
+\end{HOLZAPFEL}
+
+\begin{SCHLEHWEIN}
+Au�erdem hat die Wache noch von einem Herrn Schiss geh�rt, der leiht sich Geld in Gottes Namen aus, und will man's zur�ckhaben, blickt er zum Himmel, sagt "Vergelts, Gott!" und da werden die Leute jetzt hartherzig, und wollen um Gottes willen nichts mehr verleihen: bitte examinieren Sie ihn diesbetrefflich. 
+\end{SCHLEHWEIN}
+
+\begin{LEONATO}
+Ich danke dir f�r deinen vorbildlichen Einsatz. 
+\end{LEONATO}
+
+\begin{HOLZAPFEL}
+Ich bin Ihr allersenilster Diener, gn�dige Frau, ich werde Gott f�r Sie loben. 
+\end{HOLZAPFEL}
+
+\begin{LEONATO}
+Das ist f�r eure M�he. 
+\end{LEONATO}
+
+\begin{SCHLEHWEIN}
+Wir danken f�r die Kollekte. 
+\end{SCHLEHWEIN}
+
+\begin{HOLZAPFEL}
+Gn�dige Frau, ich apportiere Ihnen diesen  \begin{Regie}auf \eBORACHIO ~deutend\end{Regie}  Notariellen, der sich gewaschen hat, und �berlasse Sie diesem Verbrecher. Nehmen Sie sich ihn zum Exempel als Beispiel f�r die andern. Gott beh�te Sie. Ich w�nsche Ihnen alles Gute und gute Verbesserung. Ich bin so frei, Sie zu verabschieden, und wenn es ein Wiedersehen gibt, m�ge Gott uns davor beh�ten.
+\end{HOLZAPFEL}
+
+\begin{LEONATO}
+Lasst sie alle beide laufen! Geht endlich. 
+\end{LEONATO}
+
+\begin{Regie}
+\eHOLZAPFEL, \eSCHLEHWEIN, \eSCHREIBER, \eBORACHIO, \eCONRAD ~ab 
+\end{Regie}
+
+\begin{Leerzeile}
+
+\end{Leerzeile}
+
+\begin{LEONATO}
+Wir sehen uns morgen fr�h, meine Herrn. 
+\end{LEONATO}
+
+\begin{ANTONIO}
+Adieu, die Herrn, wir werden Sie erwarten. 
+\end{ANTONIO}
+
+\begin{DONPEDRO}
+Wir werden nicht fehlen. 
+\end{DONPEDRO}
+
+\begin{CLAUDIO}
+Heut Nacht will ich um Hero weinen. 
+\Setting{Umbau}
+\end{CLAUDIO}
+
+\begin{Regie}
+alle ab 
+\end{Regie}
+
+\begin{Neueseite}
+
+\Seite{52}
+\Szenario{V, 2}
+\begin{Regie} Innen, Bank, Margarethe baut um \end{Regie}
+\Auftritt{\eMARGARETHE ~stickt.}
+\Setting{Hell}
+\Auftritt{\eBENEDIKT}
+\end{Neueseite}
+
+\begin{BENEDIKT}
+Allerliebste, sch�nste Margarethe, tu ein gutes Werk an mir und verhilf mir zu einer Unterredung mit Beatrice. 
+\end{BENEDIKT}
+
+\begin{MARGARETHE}
+Schreiben Sie mir daf�r eine Lobeshymne auf meine Sch�nheit? 
+\end{MARGARETHE}
+
+\begin{BENEDIKT}
+Ein Sonett mit eingeschraubtem Stil. Kein zweiter Mann wird dir sowas drechseln, und das hast du auch verdient. 
+\end{BENEDIKT}
+
+\begin{MARGARETHE}
+Was, kein Mann wird mich drechseln? Ja soll ich denn ewig unbehobelt bleiben? 
+\end{MARGARETHE}
+
+\begin{BENEDIKT}
+Du hast einen Witz wie ein Kettenhund -- er ist so verbissen. 
+\end{BENEDIKT}
+
+\begin{MARGARETHE}
+Ihr Witz ist mehr wie eine Hummel -- sehr dick und sticht nicht. 
+\end{MARGARETHE}
+
+\begin{BENEDIKT}
+Auch noch Herrenwitze. Margarethe! Nimmt eine Frau so was in den Mund? Aber ruf jetzt bitte Beatrice, wir wollen die Waffen begraben. 
+\end{BENEDIKT}
+
+\begin{MARGARETHE}
+Geben Sie mir Ihren Pfeil, ich hab einen K�cher. 
+\end{MARGARETHE}
+
+\begin{BENEDIKT}
+Sei vorsichtig beim Reinstecken, die Pfeilspitze ist empfindlich. Ein sehr gef�hrliches Spielzeug f�r kleine M�dchen. 
+\end{BENEDIKT}
+
+\begin{MARGARETHE}
+Also gut, ich werde Beatrice rufen, sie hat bestimmt die Beine zur Hand.  \begin{Regie}ab\end{Regie}  
+\end{MARGARETHE}
+
+\begin{Leerzeile}
+
+\end{Leerzeile}
+
+\begin{BENEDIKT}
+Dann kommt sie auch. \\
+ \begin{Regie}singt\end{Regie}    Du, du liegst mir im Herzen, \\
+Du, du liegst mir im Sinn, \\
+Du, du bist schuld dran mit deinen Scherzen, \\
+Dass ich ganz j�mmerlich bin -- \\
+Jedenfalls im Dichten, aber in der Liebe, in der Liebe nehm ich's mit jedem Dichter auf. Wie bei denen immer Troilus und Paris und Leander und diese ganzen antiken Weiberhelden so aalglatt durch die Blankverse schwimmen.\\
+Nein, ich bin nicht zum Dichter geboren, und ich kann auch nicht in Kreuzreimen lieben. \\
+\Auftritt{\eBEATRICE}
+\end{BENEDIKT}
+
+\begin{BENEDIKT}
+Beatrice, sind Sie wirklich gekommen, weil ich Sie gerufen habe? 
+\end{BENEDIKT}
+
+\begin{BEATRICE}
+Ja, Signor, ich werde auch wieder gehen, wenn Sie mich darum bitten. 
+\end{BEATRICE}
+
+\begin{BENEDIKT}
+O, bleiben Sie nur so lange. 
+\end{BENEDIKT}
+
+\begin{BEATRICE}
+"Soo lange" -- ich falle Ihnen l�stig, leben Sie wohl. Doch ehe ich gehe, m�chte ich wissen, weswegen ich gekommen bin, n�mlich, was zwischen Ihnen und Claudio vorgefallen ist. 
+\Seite{53}
+\end{BEATRICE}
+
+\begin{BENEDIKT}
+Nur faule Witze, und deswegen will ich dich jetzt k�ssen. 
+\end{BENEDIKT}
+
+\begin{BEATRICE}
+Faule Witze sind wie faule Z�hne, sie machen einen faulen Atem, und darum gehe ich jetzt lieber ungek�sst. 
+\end{BEATRICE}
+
+\begin{BENEDIKT}
+Deine Witze sind so schrecklich, dass jedes Wort vor Schreck seinen Witz verliert. Aber kurz und gut, Claudio hat meine Herausforderung angenommen, und entweder h�re ich jetzt von ihm, oder ich nenne ihn �ffentlich Feigling. Und jetzt sage mir, in welche meiner schlechten Eigenschaften hast du dich zuerst verliebt? 
+\end{BENEDIKT}
+
+\begin{BEATRICE}
+In alle zusammen. Du bist ein Idealzustand aus Fehlern, keine gute Eigenschaft darf die Harmonie st�ren. Und f�r welche meiner Qualit�ten haben Sie zuerst die Liebe erlitten? 
+\end{BEATRICE}
+
+\begin{BENEDIKT}
+Die Liebe erlitten! Das haben Sie sch�n gesagt, ich erleide die Liebe, denn ich liebe Sie gegen meinen Willen. 
+\end{BENEDIKT}
+
+\begin{BEATRICE}
+Ah, ich verstehe, Sie lieben mich gegen Ihr Herz. Armes Herzchen! Wenn Sie mich also Ihrem verhassten Herzen zum Trotz lieben, will ich Ihrem Herzen Ihnen zuliebe trotzen, denn ich kann nicht das lieben, was mein Freund hasst. 
+\end{BEATRICE}
+
+\begin{BENEDIKT}
+Du und ich, wir sind zu klug, um uns friedlich zu lieben. \\
+Wie geht's Ihrer Kusine? 
+\end{BENEDIKT}
+
+\begin{BEATRICE}
+Sehr schlecht. 
+\end{BEATRICE}
+
+\begin{BENEDIKT}
+Und Ihnen selbst? 
+\end{BENEDIKT}
+
+\begin{BEATRICE}
+Auch sehr schlecht. 
+\end{BEATRICE}
+
+\begin{BENEDIKT}
+Seien Sie gottesf�rchtig, verliebt und bessern Sie sich. Ich werde mich verabschieden, denn hier hat es jemand sehr eilig. \\
+\Auftritt{\eURSULA}
+\end{BENEDIKT}
+
+\begin{URSULA}
+Gn�diges Fr�ulein, Sie sollen zu Ihrer Tante kommen. Da ist ein Riesenwirbel. Es hat sich herausgestellt, dass Fr�ulein Hero falsch beschuldigt wurde und der Prinz und Claudio �bel hereingefallen sind. Don Juan ist der Urheber von allem, und der ist fort und geflohen. Wollen Sie nicht kommen? 
+\end{URSULA}
+
+\begin{BEATRICE}
+Wollen Sie das mit anh�ren? 
+\end{BEATRICE}
+
+\begin{BENEDIKT}
+Ich will in deinem Herzen leben, in deinem Scho� sterben,
+und in deinen Augen begraben sein,
+und vor allem will ich mit dir zu deiner Tante gehen. 
+\Setting{Umbau}
+\end{BENEDIKT}
+
+\begin{Regie}
+alle ab. 
+Innen, Sarg, M�nch baut auf
+\end{Regie}
+
+\begin{Neueseite}
+
+\Seite{54}
+\Szenario{V, 3}
+\begin{Regie} Innen, Sarg, M�nch baut auf \end{Regie}
+\Auftritt{\eALITHA ~mit Lampe?.}
+\Setting{NachtGrab}
+\Auftritt{\eCLAUDIO, \eDONPEDRO ~mit Lampe?.}
+\end{Neueseite}
+
+\begin{CLAUDIO}
+Ist das hier die Familiengruft? 
+\end{CLAUDIO}
+
+\begin{DONPEDRO}
+Ja. 
+\end{DONPEDRO}
+
+\begin{ALITHA}
+ \begin{Regie}singt die Grabrede\end{Regie}  Umgebracht mit Hohneswort \\
+	Liegt hier Hero tot und kalt. \\
+Lohn wird ihr an jenem Ort, \\
+	Wo ihr Name ewig schallt. \\
+Leben, das in Schmach geendet, \\
+Lebt im Tod zu Ruhm gewendet.
+\end{ALITHA}
+
+\begin{CLAUDIO}
+ \begin{Regie}h�ngt das Schriftst�ck auf\end{Regie}  \\
+Ihr zum Lob h�ng hier am Grabe, \\
+Wenn ich selbst schon lang eins habe. \\
+Musik, stimmt an, und singt die Todeshymne. 
+\end{CLAUDIO}
+
+\begin{ALITHA}
+ \begin{Regie}singt\end{Regie} 
+Gnad uns, G�ttin keuscher Nacht, \\
+Die dein M�gdlein umgebracht. \\
+Schmerzlich klingen Trauerlieder, \\
+Und wir knien vorm Grabe nieder. \\
+Mitternacht, h�r die Schmach, \\
+Hilf uns klagen weh und ach. \\
+�     �Feierlich, feierlich. \\
+Gr�ber g�hnen schauerlich -- \\
+Geisterscharen n�hern sich -- \\
+�     �Feierlich, feierlich.
+\end{ALITHA}
+
+\begin{CLAUDIO}
+Friedlich soll dein Leib hier ruhn, \\
+Will hier j�hrlich Bu�e tun. 
+\end{CLAUDIO}
+
+\begin{DONPEDRO}
+Es tagt, ihr Herrn, l�scht eure Fackeln aus, \\
+Ich danke allen, lasst uns jetzt, lebt wohl. 
+\end{DONPEDRO}
+
+\begin{CLAUDIO}
+Es soll nun jeder seines Weges gehen. 
+\end{CLAUDIO}
+
+\begin{DONPEDRO}
+Den Trauerflor wolln wir beiseite legen, \\
+Und dann zu Leonatas Feier gehn! 
+\end{DONPEDRO}
+
+\begin{CLAUDIO}
+Komm nun das Gl�ck uns gl�klicher entgegen, \\
+Als hier, wo wir vor lauter Jammer stehn! 
+\Setting{Umbau}
+\end{CLAUDIO}
+
+\begin{Regie}
+alle ab
+\end{Regie}
+
+\begin{Neueseite}
+
+\Seite{55}
+\Szenario{V, 4}
+\begin{Regie} Innen, Leer, Benedikt baut um \end{Regie}
+\Auftritt{\eLEONATO, \eANTONIO, \eBENEDIKT, \eBEATRICE, \eMARGARETHE, \eURSULA, \eMOENCH ~und \eHERO}
+\Setting{Hell}
+\end{Neueseite}
+
+\begin{MOENCH}
+Hab ich nicht gleich gesagt, dass sie unschuldig ist? 
+\end{MOENCH}
+
+\begin{LEONATO}
+Das sind auch Claudio und der Prinz, die sie \\
+Aus einem Irrtum, wie gesagt, verklagten. \\
+Doch Margarethe tr�gt gewisse Schuld, \\
+Zwar gegen ihren Willen, wie es nun \\
+In der Vernehmung klar zutage trat. 
+\end{LEONATO}
+
+\begin{ANTONIO}
+Nun bin ich froh, dass alles gl�cklich endet. 
+\end{ANTONIO}
+
+\begin{BENEDIKT}
+Ich auch, sonst h�tte mich mein Wort verpflichtet, \\
+Vom jungen Claudio Rechenschaft zu fordern. 
+\end{BENEDIKT}
+
+\begin{LEONATO}
+Nun, meine Damen, und du, meine Tochter, \\
+Zieht euch zur�ck in dieses Nebenzimmer, \\
+Und wenn ich nach euch schicke, kommt maskiert. \\
+Der Prinz und Claudio werden gleich erscheinen, \\
+Du wei�t, was du sodann zu tun hast, Schwester: \\
+Du wirst die Mutter deiner Nichte spielen \\
+Und sie dem jungen Claudio verm�hlen. 
+\end{LEONATO}
+
+\begin{Regie}
+Hero, Beatrice, Margarethe, Ursula ab
+\end{Regie}
+
+\begin{Leerzeile}
+
+\end{Leerzeile}
+
+\begin{ANTONIO}
+Mit t�dlich ernster Miene tu ich das. 
+\end{ANTONIO}
+
+\begin{BENEDIKT}
+Ich muss Sie, glaub ich, auch bem�hen, Pater. 
+\end{BENEDIKT}
+
+\begin{MOENCH}
+Wozu, Signor? 
+\end{MOENCH}
+
+\begin{BENEDIKT}
+Zum Trauen oder Trauern -- wie man's nimmt. \\
+Signora Leonata -- Ihre Nichte -- nun -- \\
+Wirft mir ein wohlwollendes Auge zu. 
+\end{BENEDIKT}
+
+\begin{LEONATO}
+Das hat ihr Hero in den Kopf gesetzt. 
+\end{LEONATO}
+
+\begin{BENEDIKT}
+Ich werfe auch ein liebevolles Auge. 
+\end{BENEDIKT}
+
+\begin{LEONATO}
+Mit Liebe vollgef�llt wurd's Ihnen von \\
+Don Pedro, mir und Claudio. Doch was wolln Sie? 
+\end{LEONATO}
+
+\begin{BENEDIKT}
+Sie sprechen irgendwie in R�tseln, Signora. \\
+Mein Wille? Wollen will ich, dass Ihr Wille \\
+Sich unserm Willen f�gt und wir uns heute \\
+Im ehrenvollen Ehestand verbinden, \\
+-- wobei ich Ihre Hilfe br�uchte, Pater. 
+\end{BENEDIKT}
+
+\begin{LEONATO}
+Ich bin auf Ihrer Seite. 
+\end{LEONATO}
+
+\begin{MOENCH}
+Ich ebenfalls. \\
+Hier kommt der Prinz mit Claudio.
+\end{MOENCH}
+
+\begin{Neueseite}
+
+\Seite{56}
+\Auftritt{\eDONPEDRO ~und \eCLAUDIO}
+\end{Neueseite}
+
+\begin{DONPEDRO}
+Wundersch�nen guten Morgen allen. 
+\end{DONPEDRO}
+
+\begin{LEONATO}
+Guten Morgen, Prinz, und guten Morgen, Claudio. \\
+Wir warten schon. Sind Sie denn auch entschlossen, \\
+Sich meiner Schwester Tochter zu verm�hlen? 
+\end{LEONATO}
+
+\begin{CLAUDIO}
+Und w�r sie potth�sslich, ich halte Wort. 
+\end{CLAUDIO}
+
+\begin{LEONATO}
+Dann ruf sie, Schwester. 
+\end{LEONATO}
+
+\begin{ANTONIO}
+ \begin{Regie}ruft hinter die Kulisse\end{Regie}  M�dchen kommt. Der Priester ist bereit.
+\end{ANTONIO}
+
+\begin{Leerzeile}
+
+\Auftritt{Die maskierten Frauen treten auf.}
+\end{Leerzeile}
+
+\begin{CLAUDIO}
+An welche Dame muss ich mich jetzt halten? 
+\end{CLAUDIO}
+
+\begin{ANTONIO}
+Hier diese da, und Ihnen geb ich sie. 
+\end{ANTONIO}
+
+\begin{CLAUDIO}
+Dann ist sie mein. Zeigen Sie Ihr Gesicht, mein Schatz. 
+\end{CLAUDIO}
+
+\begin{ANTONIO}
+Erst nachher, wenn Sie Hand in Hand mit ihr \\
+Vor diesem Priester stehen beim Eheschwur. 
+\end{ANTONIO}
+
+\begin{CLAUDIO}
+Gib mir die Hand vor diesem heilgen M�nch. \\
+Ich bin dein Ehemann, wenn du mich willst. 
+\end{CLAUDIO}
+
+\begin{HERO}
+ \begin{Regie}nimmt die Maske ab\end{Regie}  Ich war dein erstes Weib, als ich noch lebte, \\
+Du warst mein erster Gatte, als du liebtest. 
+\end{HERO}
+
+\begin{CLAUDIO}
+Noch eine Hero! 
+\end{CLAUDIO}
+
+\begin{HERO}
+Nichts ist gewisser. \\
+Entehrt starb eine Hero, doch ich lebe, \\
+Und ich bin ohne Schuld, so wahr ich lebe. 
+\end{HERO}
+
+\begin{DONPEDRO}
+Dieselbe Hero! Hero, die schon starb! 
+\end{DONPEDRO}
+
+\begin{LEONATO}
+Tot war sie nur, solang Verleumdung lebte. 
+\end{LEONATO}
+
+\begin{MOENCH}
+Das Wunder kann ich euch ganz leicht erkl�ren. \\
+Sobald der heilge Bund geschlossen ist, \\
+Erz�hl ich lang und breit von ihrem Tod. \\
+Solange nehmt das Wunder ganz allt�glich \\
+Und lasst uns alle in die Kirche gehn. 
+\end{MOENCH}
+
+\begin{BENEDIKT}
+Mach langsam, M�nch. -- Wer ist hier Beatrice? 
+\end{BENEDIKT}
+
+\begin{BEATRICE}
+ \begin{Regie}nimmt die Maske ab\end{Regie}  
+Sie hat mich hergeschickt. Was wollen Sie? 
+\end{BEATRICE}
+
+\begin{BENEDIKT}
+Du liebst mich doch? 
+\end{BENEDIKT}
+
+\begin{BEATRICE}
+Ich? Nein, nicht �berm��ig. 
+\end{BEATRICE}
+
+\begin{BENEDIKT}
+Dann t�uschen sich der Prinz und Claudio und \\
+Deine Tante sehr, man schwur, dass du mich liebst. 
+\end{BENEDIKT}
+
+\begin{BEATRICE}
+Liebst du denn mich? 
+\end{BEATRICE}
+
+\begin{BENEDIKT}
+Ich? Nein, nicht �berm��ig. 
+\Seite{57}
+\end{BENEDIKT}
+
+\begin{BEATRICE}
+Dann t�uschen sich Margret und Ursula \\
+Und Hero sehr, man schwur, dass du mich liebst. 
+\end{BEATRICE}
+
+\begin{BENEDIKT}
+Die schworen mir, du w�rst fast krank um mich. 
+\end{BENEDIKT}
+
+\begin{BEATRICE}
+Sie schworen mir, du w�rst halb tot um mich. 
+\end{BEATRICE}
+
+\begin{BENEDIKT}
+O weit gefehlt. Du liebst mich also nicht? 
+\end{BENEDIKT}
+
+\begin{BEATRICE}
+Bewahre! Nur bei Gegenseitigkeit. 
+\end{BEATRICE}
+
+\begin{LEONATO}
+Los, Nichte. Komm, glaub mir, du liebst den Herrn. 
+\end{LEONATO}
+
+\begin{CLAUDIO}
+Und ich geb's schriftlich, dass auch er sie liebt, \\
+Denn hier hab ich ein Blatt mit seiner Handschrift, \\
+Ein stolpriges Sonett aus wirrem Kopf \\
+Auf seine Beatrice. 
+\end{CLAUDIO}
+
+\begin{HERO}
+Und hier ist eins \\
+Mit ihrer Schrift, stibitzt aus ihrer Tasche, \\
+Randvoller Liebesglut um Benedikt. 
+\end{HERO}
+
+\begin{BENEDIKT}
+Ein Gottesurteil! Die H�nde legen Zeugnis ab gegen die Herzen. Also komm, ich nehme dich, aber wei� Gott nur aus Mitleid. 
+\end{BENEDIKT}
+
+\begin{BEATRICE}
+Ich brings nicht �ber mich, dich zu entt�uschen, aber ich habe mich nur �berreden lassen, und au�erdem will ich dein Leben retten, man hat mir gesagt, du h�ttest die Schwindsucht. 
+\end{BEATRICE}
+
+\begin{BENEDIKT}
+ \begin{Regie}k�sst sie\end{Regie}  Friede, oder ich stopfe dir den Mund. 
+\end{BENEDIKT}
+
+\begin{DONPEDRO}
+Wie geht's denn immer so, Benedikt, du Geehelichter. 
+\end{DONPEDRO}
+
+\begin{BENEDIKT}
+Ich will Ihnen was sagen, Prinz: eine ganze Armee von Witzbolden kann mich nicht mehr aus der Fassung bringen. Wer nicht dulden kann, soll auch nicht heiraten. Was dich betrifft, Claudio, mit dir wollte ich mich schlagen, aber weil es so aussieht, als ob wir Verwandte w�rden, pflege deine Haut und liebe meine Kusine. 
+\end{BENEDIKT}
+
+\begin{CLAUDIO}
+Ach was, wir sind Freunde. Wir wollen vor der Hochzeit noch mal tanzen, damit uns die Herzen leichter werden und den Frauen die F��e. 
+\end{CLAUDIO}
+
+\begin{LEONATO}
+Getanzt wird sp�ter. 
+\end{LEONATO}
+
+\Setting{RockClockHaley laut}
+\begin{BENEDIKT}
+Nein, jetzt wird getanzt! \\
+ \begin{Regie}bringt \eLEONATO ~und \eDONPEDRO ~zusammen\end{Regie} 
+Prinz, Sie schauen so ernst? Heiraten Sie,
+heiraten Sie! Eine Prinzenkrone wird erst sch�n,
+wenn sie mit Horn besetzt ist.
+\begin{Regie}
+Alle tanzen, und zwar:
+\eCLAUDIO ~mit \eHERO, \eDONPEDRO ~mit \eLEONATO, \eBENEDIKT ~mit \eBEATRICE, \eMOENCH ~mit \eANTONIO, ~\\
+\eBORACHIO ~mit \eMARGARETHE, \eHOLZAPFEL ~mit \eSCHLEHWEIN, \eDONJUAN ~in Ketten mit \eURSULA ~\\
+\end{Regie}
+Musiker, anfangen!
+\end{BENEDIKT}
+\Setting{Yamaha Mischer sehr laut (3/4) aufdrehen}
+\Setting{Dunkel nach 15 Sekunden}
+\Setting{Dunkel}
+\Setting{Yamaha Mischer leise (1/4) drehen}
+\Setting{Hell}
+\begin{Regie}
+ENDE, Beifall
+\end{Regie}
+
+\begin{Regie}
+Verbeugungen
+\end{Regie}
+
+\begin{Regie}
+Verbeugungen
+\end{Regie}
+
+\Setting{Aufbau}
+\Setting{RockClockHaley aus}
+

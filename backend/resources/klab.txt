@@ -1,0 +1,1401 @@
+\begin{Regie}
+Vortrag von Hans-Peter
+\end{Regie}
+\Setting{HP}
+
+\Seite{1}
+
+\begin{Regie}
+Version vom \today
+\end{Regie}
+
+\begin{Regie}
+{\bf\LARGE KLAB} von Klarfried Hadtberg
+\end{Regie}
+
+\begin{Regie} Requisiten: Gartenbank, Bartisch, Truhe, beleuchtetes Bild \end{Regie}
+
+\Setting{Umbau}
+\Setting{Dunkel mit Musik}
+
+\vspace{1cm}
+
+\begin{Regie} \bf\Large Szene 1 \end{Regie}
+
+\Setting{Zwielicht}
+
+\begin{Regie}
+Ziemlich dunkle Szene.
+\end{Regie}
+
+\begin{WOLFHARD} 
+\begin{Regie} St�rmt mit Stuhlbein herein. \end{Regie}
+Jetzt habe ich sie gez�chtigt. Und jetzt bin ich der Rohling.
+Das war immer so. Sie ist die M�rtyrerin, und ich bin der Rohling.
+Aber ich habe es sieben Jahre lang ausgehalten; und es fragt sich,
+wer mich so roh machte. Meine Hand war von der Arbeit f�r sie zu
+m�de, als da� ich sie h�tte schlagen k�nnen.
+Sie hat immer einen Schmerz, wenn es mir gut geht.
+Sie z�hlt Geld, wenn ich trinke, und wenn ich Geld z�hle,
+dann weint sie. Aber so ist sie und so sind sie.
+Vom Tage seiner Hochzeit an ist man nicht mehr ein Tier,
+das einer Herrin dient, sondern ein Mensch, der einem
+Tier dient, und das ist etwas, was einen herunterbringt, bis man alles
+verdient.
+\end{WOLFHARD}
+
+\begin{KF} 
+\begin{Regie} Tritt w�hrend der letzten S�tze auf. \end{Regie}
+Was liegt an, Mr. V.?
+\end{KF}
+
+\begin{WOLFHARD}
+Ach, nichts Besonderes ... Ich wollte nur mit dir reden.
+\end{WOLFHARD} 
+\begin{Regie} Holt sich eine Zigarre raus. \end{Regie}
+
+\begin{KF}
+Klar.
+\end{KF}
+
+\begin{WOLFHARD}
+Wir haben n' paar Probleme mit der Firma.
+\end{WOLFHARD}
+
+\begin{KF}
+Ich wei�, was da l�uft.
+Wie k�nnten wir sie fortbringen. 
+\begin{Regie} im Hinblick auf das Publikum \end{Regie}
+Sie fressen, saufen, rauchen und schwatzen
+und wollen nicht fort! Schlie�lich ist es doch Ihr Fest.
+\end{KF} 
+\begin{Regie} KF z�ndet Wolfhard die Zigarre an. B�hnenbeleuchtung ganz aus.  \end{Regie}
+
+\begin{WOLFHARD}
+Also, erledige das. Ich will, da� das heute erledigt wird.
+\end{WOLFHARD}
+
+\begin{Regie} Wolfhard �bergibt das Stuhlbein. \end{Regie}
+
+\begin{KF}
+Ich k�mmere mich sofort darum.
+\end{KF}
+
+\begin{Regie}
+Wolfhard ab.
+\end{Regie}
+
+\vspace{1cm}
+
+\Seite{2}
+
+\begin{Regie} \bf\Large Szene 2 \end{Regie}
+
+\begin{Regie}
+Donatus tritt auf.
+\end{Regie}
+
+\begin{DONATUS}
+Ich m�chte mit Ihnen sprechen.
+\end{DONATUS}
+
+\begin{KF}
+Dann fa� dich kurz. In diesem Haus ist nur Platz f�r einen von uns.
+\end{KF}
+
+\begin{DONATUS}
+Ich danke Ihnen nochmals. F�r mich war es ein sch�ner Abend.
+\end{DONATUS}
+
+\begin{KF}
+Ich habe keine Zeit, dir zu antworten, denn au�erdem war es noch mein Stuhl.
+\end{KF}
+
+\begin{DONATUS}
+�h, es ist so komisch, wie Sie die Situation mi�deuten. 
+\begin{Regie} Lacht. \end{Regie}
+\end{DONATUS}
+
+\begin{KF}
+Die G�ste darfst Du nicht beleidigen.
+Geh zum Teufel.
+\end{KF}
+
+\begin{Regie}
+KF gibt zwei Sch�sse ab. Donatus f�llt mit einem Schrei
+vorn, zentral, getroffen auf die B�hne.
+\end{Regie}
+
+\begin{KF}
+Gott sei Dank mu� ich nie wieder diese Stimme h�ren.
+\end{KF}
+
+\begin{Regie}
+KF ab.
+\end{Regie}
+
+\vspace{1cm}
+
+\Seite{3}
+
+\begin{Regie} \bf\Large Szene 3 \end{Regie}
+
+\Setting{Hell}
+
+\begin{Regie}
+Beleuchtung hell. AngelikaB, AngelikaM und B�rbel treten auf.
+\end{Regie}
+
+\begin{AB}
+Das kann doch nicht wahr sein! Ich glaube, das war Schicksal, da� ich
+heute hier hereinkam.
+Und wo ist das Opfertier?
+\end{AB}
+
+\begin{BAERBEL}
+Was wird geschlachtet? Eine Kuh? Ein Hahn? Ein fettes Schaf?
+\end{BAERBEL}
+
+\begin{AM}
+Kein Tier. Wo denkt ihr hin?! 
+\begin{Regie} Zeigt auf Donatus. \end{Regie}
+\end{AM}
+
+\begin{AB}
+Welch eine Farbe, schaut! Das nenn' ich Opferblut. Seht nur, wie hell er str�mt.\end{AB}
+
+\begin{BAERBEL}
+Recht am�sant, ja, find' ich auch.
+\end{BAERBEL}
+
+\begin{AM}
+Ja, wer kann das denn sein?
+Du, Mensch? Du bist ja schon beinahe tot.
+\end{AM}
+
+\begin{AB}
+Er erinnert mich aber ganz bestimmt an jemand ... ich wei� nur nicht ...
+\end{AB}
+
+\begin{BAERBEL}
+Das war wie mit Johannes Segm�ller. Der hatte n�mlich ...
+\end{BAERBEL}
+
+\begin{AM} 
+\begin{Regie} auf Donatus deutend \end{Regie}
+Er versteht keinen Scherz.
+\end{AM}
+
+\begin{BAERBEL}
+Die Geschichte mit Johannes Segm�ller war sehr komisch.
+Ich k�nnte sie ganz kurz erz�hlen, in einigen Worten,
+es sind vielleicht sechs, sieben S�tze, nicht mehr ...
+\end{BAERBEL}
+
+\begin{AB}
+Ach, das kennen wir doch. Das ist doch so unanst�ndig!
+\end{AB}
+
+\begin{AM}
+Ahnt einer, was das hei�t?
+Da ist kein Haus mehr, hier und anderswo,
+das nicht um einen Toten trauerte.
+\end{AM}
+
+\begin{BAERBEL}
+Damals lagen st�ndig ein paar Leichen im Haus herum.
+\end{BAERBEL}
+
+\begin{AM}
+Und trotzdem geht das Leben weiter,
+als ob nichts geschehen sei.
+\end{AM}
+
+\begin{BAERBEL}
+Wir wissen ganz genau, was man in solchen F�llen tun mu�.
+\end{BAERBEL}
+
+\begin{Regie}
+Heike tritt mit Hans-Peter auf.
+\end{Regie}
+
+\begin{AM}
+Die M�nner fallen, aber andere, junge, wachsen nach.
+\end{AM}
+
+\begin{HEIKE}
+Bitte nicht. Nach den vielen jungen M�nnern.
+\end{HEIKE}
+
+\begin{BAERBEL} 
+\begin{Regie} bemerkt Heike \end{Regie}
+Wenn ich dich so auf der Schwelle sehe, das ist ein guter Anblick.
+\end{BAERBEL}
+
+\begin{AB}
+Und Br�ste hast du: Sch�n wie �pfelchen. Aug�pfelchen.
+\end{AB}
+
+\begin{BAERBEL}
+Als kleines M�dchen schon warst du ein guter Anblick. 
+\begin{Regie} eher abf�llig \end{Regie}
+Aber jetzt bl�hst du.
+\end{BAERBEL}
+
+\begin{HP}
+Wir M�nner altern auch. 
+\begin{Regie} Man reagiert schokiert. \end{Regie}
+\end{HP}
+
+\begin{BAERBEL}
+Dir t�te etwas Salbe gut, glaub' ich.
+\end{BAERBEL}
+
+\begin{HP}
+Ja ... Aber das m��te v�llig ungezwungen geschehen.
+\end{HP}
+
+\begin{HEIKE}
+Das kann doch nicht dein Ernst sein!
+Wei�t du denn nicht mehr, wer ich bin?
+\end{HEIKE}
+
+\begin{HP}
+Nein, aber ihr Gesicht kommt mir bekannt vor.
+Sie sind niemand, den ich zur Zeit kenne, aber sp�ter, auf
+meiner Jagdreise durch Afrika. Stimmt! Sie sehen aus wie jemand,
+dem ich im Dschungel begegnen werde.
+\end{HP}
+
+\begin{HEIKE} 
+\begin{Regie} schreit \end{Regie} Nein! Nein!
+Bist du v�llig verr�ckt geworden?
+\end{HEIKE}
+
+\begin{HP}
+Ist etwas kaputtgegangen? Jetzt bin ich in ausgezeichneter Stimmung.
+Ich kann noch viel: Bei mir steht's gut.
+\end{HP}
+
+\begin{AM}
+Er steht, sagst Du?
+\end{AM}
+
+\begin{HP}
+Ihr habt das Wort des Pr�sidenten der Vereinigten Staaten.
+Spielt es doch einfach mal durch.
+\end{HP}
+
+\begin{AM}
+Jawohl! Und wir, wir Frauen machen mit.
+\end{AM}
+
+\begin{HP}
+Da bin aber neugierig.
+\end{HP}
+
+\begin{AM}
+Der Einfall mit den nackten Busen �brigens
+war nicht von mir. Ich war dagegen, wurde aber �berstimmt.
+Sei's drum. Es hat gewirkt.
+\end{AM}
+
+\begin{HP}
+Ein Scheinangriff. Vorspiel. Mehr nicht.
+\end{HP}
+
+\begin{AB}
+Entfaltungsf�hig?
+Am Anfang winzig und am Ende riesengro� -- ein Rausch des Gl�cks.
+\end{AB}
+
+\begin{AM}
+Und ob!
+Singen Sie doch etwas, ich h�re so gern zu!
+\end{AM}
+
+\begin{HP} 
+\begin{Regie} geil, schw�rmerisch \end{Regie}
+\begin{verse}
+Und um sie nicht zu entweihen\\
+Ging er einst zu einer Hur\\
+Und sie lernte ihm das Speien\\
+Und die Feste der Natur.\\
+Immerhin ihr Leib war Lethe\\
+Bisher war er kein Askete\\
+Jetzt erst tat er einen Schwur.
+\end{verse}
+\end{HP}
+
+\begin{AM}
+Wollen Sie {\bf das} nicht mit Ihrer Braut tun, das erste Mal?
+\end{AM}
+
+\begin{HEIKE} 
+\begin{Regie} f�hrt w�tend dazwischen \end{Regie}
+Du bl�de Gans! An der Stelle denkt er an mich.
+Verstehst du denn �berhaupt nichts?
+\end{HEIKE}
+
+\begin{AM}
+Du stinkend-fauler Fisch.
+Das kommt auf den Mann an.
+Sie sollten immer an den Schwei� denken, der dran h�ngt!
+\end{AM}
+
+\begin{HP}
+Das ist sehr gut. Sonst hast du nicht soviel Geist!
+\end{HP}
+
+\begin{AM}
+Sagst du es in dem Ton? Du hast schon wieder zuviel getrunken!
+Ich will dir Wasser hineintun, du vertr�gst es nicht.
+\end{AM}
+
+\begin{BAERBEL}
+Prost! 
+\end{BAERBEL}
+
+\begin{AM}
+Unser Essen brennt inzwischen an.
+\end{AM}
+
+\begin{Regie}
+AngelikaM und B�rbel gehen ab.
+\end{Regie}
+
+\begin{HEIKE}
+Warum bin ich so nerv�s?
+\end{HEIKE}
+
+
+\vspace{1cm}
+
+\Seite{4}
+
+\begin{Regie} \bf\Large Szene 4 \end{Regie}
+
+\begin{Regie} Brigitte tritt w�hrend dieser Szene auch auf. \end{Regie}
+
+\begin{HP} 
+\begin{Regie} Sieht Donatus. \end{Regie}
+Was war hier los? Ein Kampf?
+Das sieht nach einem Schlachtfeld aus.
+Der Mann braucht Hilfe.
+\end{HP}
+
+\begin{HEIKE}
+Du bist r�hrend zu ihm. Ich glaube, er hat dich sehr gern.
+\end{HEIKE}
+
+\begin{DONATUS} 
+\begin{Regie} st�hnend \end{Regie}
+Ich glaube, es ist Zeit, da� {\bf du} ins Bett gehst.
+\end{DONATUS}
+
+\begin{HEIKE}
+... Na ... verstehst du denn den Wink mit dem Zaunpfahl nicht?
+\end{HEIKE}
+
+\begin{HP} 
+\begin{Regie} Kapiert nicht. Zu Donatus: \end{Regie}
+Wolltet noch mal den Kriegsheld spielen, wie?
+Die Frauen etwa?
+Und so was nennt sich: Mann!
+Kein Wunder, da� die Frauen immer dreister werden.
+\end{HP}
+
+\begin{HEIKE}
+Ich hab gewu�t, du wirst das sagen!
+Wenn wir erst verheiratet sind, hoffe ich nur, da� ich es �berhaupt mit dir
+aushalten kann. Aber ich bin durchaus nicht mehr �berzeugt davon, da�
+wir heiraten werden.
+\end{HEIKE}
+
+\begin{HP}
+Das reicht. Ich steig aus. Ich steig aus.
+\end{HP}
+
+\begin{HEIKE}
+Rei� dich zusammen.
+\end{HEIKE}
+
+\begin{HP}
+Das ist Wahnsinn. Nein, nein, ich halt es nicht mehr aus.
+\end{HP}
+
+\begin{HEIKE}
+Ja! Geh, holder Skorpion, geh!
+Dein Wassermann w�nscht
+dir f�r 
+\begin{Regie} giftig \end{Regie} {\bf immer} alles Gute. 
+\begin{Regie} Wendet
+sich von HP ab Richtung Donatus. \end{Regie}
+\end{HEIKE}
+
+\begin{HP} 
+\begin{Regie} St�rzt niedergeschmettert weg. \end{Regie}
+Mir ist schlecht ... ach, ist mir schlecht.
+\end{HP}
+
+\begin{BRIGITTE} 
+\begin{Regie} Hatte diese Szene beobachtet. \end{Regie}
+Schlagsahne esse ich f�r mein Leben gern.
+\end{BRIGITTE}
+
+\begin{AB} 
+\begin{Regie} Hatte diese Szene ebenfalls beobachtet und begleitet HP. \end{Regie}
+Das Leben ist eben nicht vollkommen.
+\end{AB}
+
+\begin{HP}
+Sie?
+\end{HP}
+
+\begin{AB}
+Und au�erdem ist es kurz.
+\end{AB}
+
+\begin{HP}
+Ihre Stimme ...
+\end{HP}
+
+\begin{AB} 
+Und wenn du das nicht kapierst, dann pack schnell dein Zeug und verschwinde
+wieder nach Pittsburgh.
+\end{AB}
+
+\begin{HP}
+Ihre Br�ste ...
+\end{HP}
+
+\begin{AB}
+Ja, die Leute sind ganz scharf drauf. 
+\end{AB}
+
+\begin{BRIGITTE}
+Ja, man mu� sich den ganzen Mund damit vollstopfen.
+Dann ist es, als ob man keine Z�hne mehr h�tte.
+\end{BRIGITTE} 
+
+\begin{HP}
+Die Qual der Liebe. Die Schwierigkeit der Beziehungen.
+\end{HP}
+
+\begin{AB}
+Schon gut.
+\end{AB}
+
+\begin{Regie}
+HP und AngelikaB gehen ab. 
+\end{Regie}
+
+
+
+\vspace{1cm}
+
+\Seite{5}
+
+\begin{Regie} \bf\Large Szene 5 \end{Regie}
+
+\begin{HEIKE} 
+\begin{Regie} sich Donatus zuwendend \end{Regie} 
+Ach, wer ist denn das? Bist du es, Teddy?
+\end{HEIKE}
+
+\begin{DONATUS} 
+\begin{Regie} zun�chst arg st�hnend, langsam zusichkommend, sich schlie�lich
+erhebend \end{Regie} 
+Hm ... du bist sehr attrak ... Oh, kleinen Augenblick ... Kleinen
+Augenblick.
+Bevor wir anfangen ...
+\end{DONATUS}
+
+\begin{HEIKE}
+m�chte ich Sie ein's fragen:
+Liebst du mich? Oder liebst du mich nicht?
+\end{HEIKE}
+
+\begin{DONATUS}
+Nicht, nein, nein, Liebling, nicht.
+Du bist ein wundersch�nes M�dchen,
+Aber ich gerate so sehr in Versuchung.
+Ich darf nicht mit dir gesehen werden.
+\end{DONATUS}
+
+\begin{HEIKE} 
+Ich mu� wissen, was passiert ist, es gibt doch nichts, was du mir nicht
+sagen k�nntest.
+\end{HEIKE}
+
+\begin{Regie}
+AngelikaM und B�rbel kommen dazu.
+\end{Regie}
+
+\begin{DONATUS}
+Oh, Gott, ich verhungere! Hast Du ein St�ck K�setorte oder ein
+W�rstchen oder so etwas?
+\end{DONATUS}
+
+\begin{AM}
+Das tut mir leid, wir haben nicht genug im Haus.
+\end{AM}
+
+\begin{HEIKE}
+Spielt gar keine Rolle. Ich bin nicht hungrig.
+\end{HEIKE}
+
+\begin{BAERBEL}
+Es ist aber ein ziemlich gro�er Schmorbraten.
+\end{BAERBEL}
+
+\begin{DONATUS}
+Schmorbraten!
+\end{DONATUS}
+
+\begin{BAERBEL}
+Das ist doch das wenigste, was wir tun k�nnen.
+\end{BAERBEL}
+
+\begin{DONATUS}
+Ja, gut. Sch�n. Dann tun wir das doch. Allerdings, ich habe
+einen gro�en Appetit. 
+\begin{Regie} dann zu Heike \end{Regie}
+Wollen wir nicht ... hier reingehen und uns etwas besser kennenlernen?
+\end{DONATUS}
+
+\begin{HEIKE}
+Das ist ja genial!
+\end{HEIKE}
+
+\begin{DONATUS} 
+\begin{Regie} mit Heike abgehend \end{Regie}
+Alles ist motiviert. Es hat Flu� ... Wunderbar.
+\end{DONATUS}
+
+\begin{HEIKE}
+Jetzt ist es nicht mehr lauwarm und konstruiert. Es ist so voller Leben.
+Es ist so voller Leidenschaft. Es knistert vor flammender Sexualit�t ...
+Endlich ist es fleischlich.
+\end{HEIKE}
+
+
+
+\vspace{1cm}
+
+\Seite{6}
+
+\begin{Regie} \bf\Large Szene 6 \end{Regie}
+
+\begin{ULLA} 
+\begin{Regie} rast auf die B�hne \end{Regie}
+Ich hab die Schnauze voll,
+ich hab die Schnauze voll,
+verstehst du mich? Du kannst deine Gorillas rumscheuchen, wie's dir
+pa�t, aber ich hab's bis hierhin.
+\end{ULLA}
+
+\begin{KF} 
+\begin{Regie} ihr hinterher, mit Stuhlbein und Wein \end{Regie}
+Hier ist der Wein. Was hast du denn?
+\end{KF}
+
+\begin{ULLA}
+Ich teil mir nicht mehr die Garderobe mit anderen, und ich habe es satt,
+da� man mich anrempelt und auf mir herumtrampelt.
+\end{ULLA}
+
+\begin{BAERBEL}
+Ach, halt die Klappe.
+\end{BAERBEL}
+
+\begin{AM}
+Die spinnt ja.
+\end{AM}
+
+\begin{ULLA}
+Das darf doch nicht wahr sein, du bist so ein Hornochse.
+\end{ULLA}
+
+\begin{KF}
+Und die M�bel und die Arbeit von f�nf Monaten. Daran denkst du nicht?
+Warum w�lzen sie sich herum vor Freude �ber die dreckigen Zoten, die sie
+singen, weil du mit ihnen tanzt wie im Puff, bis die besten St�hle
+kaputtgehen.
+\end{KF}
+
+\begin{ULLA}
+Keine von diesen Schnepfen kann tanzen.
+\end{ULLA}
+
+\begin{BAERBEL}
+Schnepfen? Du hast es gerade n�tig, guck dich doch selber an.
+\end{BAERBEL}
+
+\begin{AM}
+Ihr langweilt uns mit Hingebung.
+\end{AM}
+
+\begin{BAERBEL}
+Vielleicht gehen wir jetzt, um die anderen M�bel anzuschauen.
+\end{BAERBEL}
+
+\begin{Regie}
+Alle bis auf KF und Ulla gehen ab.
+\end{Regie}
+
+\begin{KF}
+Ja, jetzt sind sie drau�en, und jetzt beginnt unsere Hochzeitsnacht.
+Das ist sie.
+\end{KF}
+
+\begin{ULLA}
+Na, gut, okay, okay. Aber sag blo� nicht irgendwas Peinliches, ja? 
+\end{ULLA}
+
+\begin{KF}
+Nein! In der Hochzeitsnacht.
+\end{KF}
+
+\begin{ULLA} 
+\begin{Regie} aus der Rolle fallend \end{Regie}
+Frau Inspizientin! Ich kann den Text nicht sprechen. Er ist v�llig
+sinnlos. Er ist doof. Ich kapier ihn nicht. 
+\begin{Regie} schmollend \end{Regie}
+Und ich k�sse �berhaupt gar keinen.
+\end{ULLA}
+
+\begin{ASG}
+Wissen Sie das genau?
+\end{ASG}
+
+\begin{ULLA}
+Nein, kann ich nicht sagen. Und ich will es auch nicht sagen.
+Das ist nur ne Menge Kauzerwelsch.
+\end{ULLA}
+
+\begin{ASG}
+Ich mu� wirklich sagen, reizend!
+Kauderwelsch. Es hat keinen Sinn, sich dar�ber zu unterhalten.
+Stecken Sie Ihre Nase nicht in Sachen, die Sie nichts angehen.
+\end{ASG}
+
+\begin{KF}
+Es liegt an ihr, nur an ihr. Sie kann nicht spielen.
+\end{KF}
+
+\begin{ULLA} 
+\begin{Regie} zu KF \end{Regie}
+Und ich finde, du bist ein hirnrissiger Zombie. Halt's Maul. 
+\begin{Regie} wieder
+zu Angelika \end{Regie}
+Nein, ich mach mich doch nicht selber zum Idioten.
+\end{ULLA}
+
+\begin{ASG}
+Das wird nicht mehr viel n�tzen. Aber f�r dieses St�ck werden Sie
+viel Zeit haben.
+\end{ASG}
+
+\begin{ULLA}
+Wenn du mich fragst, ist es einfach schlecht geschrieben.
+\end{ULLA}
+
+\begin{KF} 
+\begin{Regie} zu Angelika \end{Regie}
+Ich finde, sie richtet mehr Schaden an als du denkst.
+\end{KF}
+
+\begin{ULLA} 
+\begin{Regie} schreiend zu KF \end{Regie}
+Was wei�t du denn? Du hast keine Ahnung! Halt's Maul.
+\end{ULLA}
+
+\begin{ASG}
+Verflucht nochmal, lassen Sie die Witze.
+\end{ASG}
+
+\begin{ULLA}
+Ach, sieh mal an! Frau Eingeschnappt! Sprechen kann ich ihn schon ...
+Er ist nur d�mlich. 
+Na, ja, das ist sehr schwer, mir f�llt die zweite H�lfte
+nie ein. 
+\begin{Regie} versucht wieder in die Rolle zu kommen \end{Regie}
+\end{ULLA}
+
+\begin{KF} 
+\begin{Regie} ihr auf die Spr�nge helfend \end{Regie}
+Sein ...
+\end{KF}
+
+\begin{ULLA} 
+\begin{Regie} jetzt wieder in der Rolle \end{Regie}
+... oder nicht sein! Ha!
+Das Herz ist labyrinthinisch, ein Irrgarten voll brutaler Fallgruben
+und h��licher Hindernisse.
+\end{ULLA}
+
+\begin{KF}
+So steht uns doch heute die Nacht bevor, ...
+\end{KF}
+
+\begin{ULLA}
+Heut nacht doch nit. Dat erledijen wir morjen oder �bermorjen.
+\end{ULLA}
+
+\begin{KF}
+wo wir unter den Augen der Familie in eigenen W�nden ...
+\end{KF}
+
+\begin{ULLA}
+Du schwitzt ja wie'n Schwein.
+\end{ULLA}
+
+\begin{KF}
+... uns vermehren sollten!
+\end{KF}
+
+\begin{ULLA}
+Du kannst in so was Nachhilfe brauchen.
+\end{ULLA}
+
+\begin{KF}
+Ein sozusagen heiliger Vorgang.
+\end{KF}
+
+\begin{ULLA}
+Schwachsinn!
+\end{ULLA}
+
+\begin{KF}
+H�re mein Flehen an. Ich halt's nicht mehr aus.
+\end{KF}
+
+\begin{ULLA}
+Warum nit, jetzt w�r et nit mehr jef�hrlich.
+\end{ULLA}
+
+\begin{KF}
+Komm Zauberhexchen, leg dich hin.
+\end{KF}
+
+\begin{ULLA}
+O.k. Dann tun wir et eben. Aber auf die schnelle Tour, wie damals in London.
+\end{ULLA}
+
+\begin{KF}
+Du bist h�bsch. Deine wei�e Brust.
+\end{KF}
+
+\begin{ULLA}
+Mach dir nicht in die Hosen.
+\end{ULLA}
+
+\begin{KF} 
+\begin{Regie} zu sich \end{Regie}
+Die tr�gt mir noch den Starrkrampf ein!
+\end{KF}
+
+\begin{ULLA}
+Wieso bist du so nerv�s, sag mal?
+\end{ULLA}
+
+\begin{KF}
+Ganz ruhig bleiben.
+\end{KF}
+
+\begin{ULLA}
+Und ob! Aber ich hab' da 'n paar Ideen, wie wir's aufm�beln k�nnen.
+\end{ULLA}
+
+\begin{KF}
+Wieso M�bel? Was meinst du? Was soll los sein?
+Nur weil der Leim schlecht war?
+Auf das Lumpenzeug in den L�den kann man sich ja nicht verlassen.
+\end{KF}
+
+\begin{ULLA}
+Was ist denn das f�r ne Andeutung? Ich kapier das nicht.
+\end{ULLA}
+
+\begin{KF}
+Gut, wenn du willst, Geliebte: Hol ein Bett. Es eilt zwar etwas,
+aber wenn du willst: Nun sch�n.
+\end{KF}
+
+\begin{ULLA}
+Wenn ich das Wort Bett h�re, wird mir ganz schwach.
+Es ist nicht zu fassen, heute nacht gibt es ein Bett. Kissen! Bettzeug!
+\end{ULLA}
+
+\begin{KF}
+Mit ihrem Bettzeug macht die mich noch wahnsinnig.
+Kissen? Haben wir noch nie gebraucht.
+\end{KF}
+
+\begin{ULLA}
+Mir kommt et vor, als wenn ich en wundervollen Traum h�tt.
+Hoffentlich bleibt et kein Traum!
+\end{ULLA}
+
+\begin{Regie}
+Wollen intim werden. HP geht mit der Trompete dazwischen.
+\end{Regie}
+
+
+\vspace{1cm}
+
+\Seite{7}
+
+\begin{Regie} \bf\Large Szene 7 \end{Regie}
+
+\begin{HP} 
+\begin{Regie} zum Publikum \end{Regie}
+Ich hab's in der Regel nicht so gern, wenn Fremde zuschauen,
+weil die Schauspieler so sensibel sind.
+\end{HP}
+
+\begin{Regie} Brigitte tritt auf. \end{Regie}
+
+\begin{BRIGITTE}
+Schade, da� kein Licht war, die Betten sind wirklich sehr sch�n.
+\end{BRIGITTE}
+
+\begin{KF} 
+\begin{Regie} verst�rt \end{Regie}
+Was? Wie war das gleich?
+\end{KF}
+
+\begin{HP}
+Dann kann ich Ihnen nur sagen, schwenken Sie Ihre Gesch�tze herum. 
+\begin{Regie} trompetet \end{Regie}
+\end{HP}
+
+\begin{ULLA}
+Das w�r prima. Isch hann so nen Hunger. Da is wat zum Saufen.
+\end{ULLA}
+
+\begin{Regie} Monika tritt mit B�rbel und AngelikaM auf.  \end{Regie}
+
+\begin{MONIKA}
+Was redet ihr denn immer miteinander, Kinder?
+\end{MONIKA}
+
+\begin{KF}
+Das ist auf dein Wohl, Mutter.
+\end{KF}
+
+\begin{MONIKA}
+Kn�pf das wieder zu. Das schickt sich nicht.
+\end{MONIKA}
+
+\begin{BRIGITTE}
+Ich m�chte die Sachen f�r die Weihnachtsfeier abholen.
+\end{BRIGITTE}
+
+\begin{Regie} Wolfhard und Christa treten auf. Beim Auftreten:\end{Regie}
+
+\begin{CHRISTA} 
+\begin{Regie} zu Wolfhard \end{Regie}
+Liebster, gibst du mir mein Stichwort im zweiten Akt bitte etwas
+fr�her? Du wei�t doch, du zitierst da in deiner Rolle Hamlet?
+\end{CHRISTA}
+
+\begin{WOLFHARD}
+Wer ist dieser Hamlet-Kerl? Wohnt der hier in der Gegend?
+\end{WOLFHARD}
+
+\begin{Regie} Christa geht auf Hans-Peter zu \end{Regie}
+
+\begin{CHRISTA}
+Ist das eine Freude? Ist das sch�n, dich zu sehen.
+Ich hab allen etwas mitgebracht.
+\end{CHRISTA}
+
+\begin{HP}
+Ach, wie r�cksichtsvoll.
+\end{HP}
+
+\begin{CHRISTA}
+Nur etwas Seife und h�bsch duftendes und etwas Weihrauch.
+\end{CHRISTA}
+
+\begin{WOLFHARD}
+Meine lieben Freunde ...
+\end{WOLFHARD}
+
+\begin{AM}
+Wenn du etwas halten willst, halte deinen Mund!
+\end{AM}
+
+\begin{WOLFHARD}
+Was darf ich denn hier �berhaupt? Nur f�r alles blechen?
+\end{WOLFHARD}
+
+\begin{Regie}
+Donatus tritt auf.
+\end{Regie}
+
+\begin{DONATUS} 
+\begin{Regie} zu Brigitte \end{Regie}
+Zwanzig Jahre bin ich weggewesen, aber ich habe nie aufgeh�rt,
+an dich zu denken. In Melbourne tr�umte ich einmal nachts von dir.
+Und als ich in San Franzisko landete, empfand ich eine seltsame
+Genugtuung. Nun war ich wieder im selben Land mit dir.
+\end{DONATUS}
+
+\begin{BRIGITTE}
+Einzig! Wie Sie reden! Wie ein Buch!
+\end{BRIGITTE}
+
+\begin{WOLFHARD}
+Es ist unbekannt, aber gesprochen war es gut.
+\end{WOLFHARD}
+
+\begin{BRIGITTE}
+Blo� ein bi�chen breit, finde ich.
+\end{BRIGITTE}
+
+\begin{AB}
+Es ist dicht, hat eine Botschaft, ist sozialkritisch.
+\end{AB}
+
+\begin{AM}
+Wenn M�nner etwas wollen, reden sie geschraubt.
+\end{AM}
+
+\begin{BRIGITTE}
+Ich mu� dir 
+\begin{Regie} zu Donatus \end{Regie} was gestehen. Wir haben ein Verh�ltnis.
+Er ist schon so lange Zeit hinter mir her.
+Eines Abends sind wir was trinken gegangen und haben angefangen, ...
+�ber Kunst und Literatur, Freud und Nietzsche zu reden. Und um eine
+Behauptung zu bekr�ftigen �ber griechische Ethymologie, ...
+fiel mir auf, da� er daf�r seinen Hosenschlitz aufgekn�pft hatte.
+\end{BRIGITTE}
+
+\begin{Regie} Schweigen \end{Regie}
+
+\begin{MONIKA}
+Warum redet denn niemand? 
+\begin{Regie} Pause \end{Regie} Ich wei� von nichts.
+\end{MONIKA}
+
+\begin{BRIGITTE}
+Er ging von selbst.
+\end{BRIGITTE}
+
+\begin{AB} 
+\begin{Regie} zu Brigitte \end{Regie}
+Das ist das sch�ndlichste heut. Jetzt hast du dich
+selbst �bertroffen. Jetzt ist nichts mehr heilig.
+\end{AB}
+
+\begin{BRIGITTE}
+Das �berrascht mich nicht.
+\end{BRIGITTE}
+
+\begin{HP}
+Nein, nein, nein, bitte, bitte, ich will nichts mehr h�ren.
+\end{HP}
+
+\begin{BAERBEL}
+Begreifst du nicht, sie lieben sich.
+\end{BAERBEL}
+
+\begin{KF}
+Ihr k�nnt doch nicht einfach solche Sachen machen.
+Ich wei� garnicht, wie ich es euch erkl�ren soll.
+Das ist nicht nur strafbar, das ist auch schlecht ...
+das ist v�llig unm�glich. Sowas geht einfach nicht.
+Kein Mensch w�rde das verstehen.
+\end{KF}
+
+\begin{CHRISTA}
+Ich kann Ihnen garnicht sagen, wie gl�cklich mich Ihr Urteil macht
+und wie dankbar ich daf�r bin.
+\end{CHRISTA}
+
+\begin{AM}
+Nie soll ein Hausfreund, nie ein Ehemann mir nahen mit gez�cktem Spie�.
+\end{AM}
+
+\begin{BRIGITTE}
+Ich bin der Meinung, es ist reziprok. F�r mich ist er ganz toll.
+Seine Technik ist sagenhaft.
+\end{BRIGITTE}
+
+\begin{BAERBEL}
+Sag blo�. Interessant. Rein mechanisch oder wie?
+\end{BAERBEL}
+
+\begin{HP}
+Ich bin ... es ist eine traurige Realit�t des Marktes ... das kann ich Ihnen
+sagen.
+\end{HP}
+
+\begin{KF}
+Ihr ... ihr redet alle an der Sache vorbei.
+\end{KF}
+
+\begin{BRIGITTE}
+Vielleicht sind dir meine Ansichten nicht intellektuell genug.
+Vielleicht sind sie dir zu einf�ltig.
+\end{BRIGITTE}
+
+\begin{Regie} Heike tritt auf. \end{Regie}
+
+\begin{HEIKE}
+Bitte verzeiht mir. Meine Fu�pflegerin hatte einen Schlaganfall.
+Sie kippte nach vorne auf ihre Polierfeile und rammte sie mir in die
+Zehe.
+Ach ist das sch�n, euch zu sehen.
+\end{HEIKE}
+
+\begin{ULLA}
+Tr�ume sind nur verkleidete Gef�hle. Je mehr man seine schmerzhaften
+Erlebnisse nicht als Handicap ansieht, desto leichter wird man damit fertig.
+\end{ULLA}
+
+\Setting{Dunkel}
+
+
+\vspace{1cm}
+
+\Seite{8}
+
+\begin{Regie} \bf\Large Szene 8 \end{Regie}
+
+\Setting{Hell}
+
+\begin{HEIKE}
+Welch ein Dialog! Das ist besser als Brecht, ... Walter Jens
+kommt nie an dich heran.
+Es ist so voller Leidenschaft, ... es ist so voller Leben.
+Welch ein Unterschied zur dieser ersten Fassung ... du
+hattest dich noch nicht gefunden. Die Idee war da, aber hatte sich noch
+nicht herauskristallisiert. Du mu�test es erst gestaltet sehen,
+und jetzt das!
+\end{HEIKE}
+
+\begin{HP}
+Ja, es ist gut. Besonders die Moral!
+\end{HP}
+
+\begin{AB}
+Ich bin B�hnenschriftstellerin.
+Das war eine Zote.
+\end{AB}
+
+\begin{WOLFHARD}
+Ja, es ist eine Sauerei.
+\end{WOLFHARD}
+
+\begin{DONATUS}
+Aber es ist Kraft darinnen.
+\end{DONATUS}
+
+\begin{BRIGITTE}
+Begie�t ihn Schwestern, da� er wieder bl�ht.
+\end{BRIGITTE}
+
+\begin{CHRISTA}
+Ich gratuliere. Endlich hat es Saft in den Eiern ... Huch?!
+\end{CHRISTA}
+
+\begin{WOLFHARD}
+Es ist also eine kraftvolle Sauerei.
+Das ist schlimmer als eine schwache.
+Wenn einer ein Talent zu Schweinereien hat,
+ist das etwa entschuldigend?
+Sie geh�ren �berhaupt nicht in so ein St�ck.
+\end{WOLFHARD}
+
+\begin{HEIKE}
+Die Szenenanweisungen waren sehr klar. Die besten, die ich je
+gelesen habe ... Und die Farbe des Einbands war sehr geschmackvoll.
+\end{HEIKE}
+
+\begin{BRIGITTE}
+Ach geh doch nicht gleich in die Defensive.
+\end{BRIGITTE}
+
+\begin{BAERBEL}
+Bei den Modernen wird das Familienleben so in den Schmutz
+gezogen. Und das ist doch das Beste, was wir Deutsche haben.
+\end{BAERBEL}
+
+\begin{HP}
+Das ist allerdings wahr.
+\end{HP}
+
+\begin{AB}
+Das glaube ich auch. Bei all den Trag�dien, die ich als Polizistin
+sehe. Sie haben keine Ahnung, was in Brooklyn so alles passiert.
+\end{AB}
+
+\begin{WOLFHARD}
+Und noch was. Ich will das Sagen bei diesen Broadway-Bonzen haben.
+\end{WOLFHARD}
+
+\begin{HP}
+Du meine G�te, das wird ein sch�ner Schreck f�r den General werden.
+\end{HP}
+
+\begin{ULLA}
+Ach du lieven Jott, aus den Theaterst�cken, die Sie sich laufend
+ankucken, lernen Se wohl jar nix?
+In den St�cken sind wenigstens halbwegs vern�nftige Leute.
+Dat kann man von Ihnen nich saren.
+\end{ULLA}
+
+\begin{AM}
+Nat�rlich, er schreibt entsetzliche Sachen.
+\end{AM}
+
+\begin{HP}
+Nein. Ich denke nur, ich hab vielleicht die Figur
+noch zu aseptisch aufgefa�t. Sie mu� doch auch eine
+sexuelle Seite haben, denn  sonst ...
+\end{HP}
+
+\begin{BRIGITTE}
+Nein ... nein. Nicht doch. Sie ist f�r mich die beste
+weibliche Rolle.
+\end{BRIGITTE}
+
+\begin{WOLFHARD}
+Fr�her hat sie mal in 'ner Bar mit dem Hintern gewackelt, wi�t ihr?
+\end{WOLFHARD}
+
+\begin{AB}
+Wir Frauen sind zu allem f�hig. Ja!
+\end{AB}
+
+\begin{ULLA}
+Titten und Arsch, Titten und Arsch, nichts anderes wollen die Leute.
+\end{ULLA}
+
+\begin{KF}
+Dichterischer Schwachsinn. Das Publikum glaubt erst, was es sieht,
+wenn die Schauspieler echt klingen.
+\end{KF}
+
+\begin{CHRISTA}
+Ich bedauere die ungl�ckliche Verbindung Ihres Neffen mit dem Theater.
+Er ist doch st�ndig
+dem Einflu� des Theaters ausgesetzt und manche bekommen schlie�lich
+wirklich ein Interesse daran.
+\end{CHRISTA}
+
+\begin{AM}
+Bei dem brauchen Sie keine Angst haben. Der ha�t das Theater.
+\end{AM}
+
+\begin{CHRISTA}
+Wirklich?
+\end{CHRISTA}
+
+\begin{BAERBEL}
+Ich hab's mir �berlegt. Dann lieber Krieg.
+\end{BAERBEL}
+
+\begin{CHRISTA}
+Nun, so lange er dabei gl�cklich ist und, was viel wichtiger ist,
+so lange Sie dabei gl�cklich sind.
+\end{CHRISTA}
+
+\begin{AM}
+Hhm. Hhm. Hhm. Jeder von den �rmsten, die Geld hinbl�ttern,
+um das St�ck zu sehen, tut mir m�chtig leid.
+\end{AM}
+
+\begin{KF}
+Ich schreibe keine Kassenschlager. Meine St�cke sind Kunst ...
+Sie sind bewu�t so geschrieben, da� sie keiner auff�hrt.
+\end{KF}
+
+
+
+
+
+\vspace{1cm}
+
+\Seite{9}
+
+\begin{Regie} \bf\Large Szene 9 \end{Regie}
+
+\begin{Regie}
+Alle haben ein Weinglas. Formieren sich w�hrend der Szene zum Halbkreis.
+\end{Regie}
+
+\begin{Regie} B�rbel und AngelikaM treten mit Wein auf. \end{Regie}
+
+\begin{HP}
+Und jetzt den Wein!
+\end{HP}
+
+\begin{Regie} Durcheinander: "Jawohl, prima, her damit ..."
+\end{Regie}
+
+\begin{DONATUS} 
+\begin{Regie} Donatus kommt dazu \end{Regie}
+Guten Morgen. 
+\begin{Regie} wendet sich an AngelikaM \end{Regie} W�re es f�rchterlich
+langweilig von mir, wenn ich nur ein warmes Wasser mit Zitrone n�hme?
+\end{DONATUS}
+
+\begin{AM}
+Aber ob es sich auch h�lt? Willst du nicht lieber trinken, als deine
+Weisheit zum besten geben. Sonst trinkst du doch auch so unm��ig. 
+\begin{Regie}
+Schenkt ihm Wein ein. \end{Regie}
+\end{AM}
+
+\begin{MONIKA} 
+\begin{Regie} nach hinten rufend \end{Regie}
+Schenk frisch ein, Jakob.
+\end{MONIKA}
+
+\begin{CHRISTA}
+Ich schenke aus. 
+\begin{Regie} Schenkt unterst�tzt von B�rbel und AngelikaM
+allen Wein ein. \end{Regie}
+\end{CHRISTA}
+
+\begin{AB}
+He! Nicht so viel! Bist du bei Trost?
+Wir wollen auch noch was.
+\end{AB}
+
+\begin{BAERBEL}
+Wir machen ihn selber. Es ist Holunderwein.
+\end{BAERBEL}
+
+\begin{CHRISTA}
+Holunderwein! Ach, ich habe keinen Holunderwein mehr getrunken, seit
+ich ein kleines M�dchen war.
+\end{CHRISTA}
+
+\begin{AM}
+Aus Samos. Und vom Besten. Rein und unvermischt. Kein Gr�mmchen
+Zusatz drin.
+\end{AM}
+
+\begin{BAERBEL} 
+\begin{Regie} f�r sich, zum Publikum \end{Regie}
+Es ist ja auch ganz einfach: Auf ein viertel Liter Holunderwein
+nehme ich einen Teel�ffel Arsenik, einen halben Teel�ffel Strychnin
+und ein paar K�rnchen Zyankali.
+\end{BAERBEL}
+
+\begin{KF} 
+\begin{Regie} kriegt das mit, zu sich, etwas psychopathisch  \end{Regie}
+Das d�rfte eine tolle Wirkung haben!
+\end{KF}
+
+\begin{BRIGITTE}
+Bei dieser Gelegenheit!
+\end{BRIGITTE}
+
+\begin{AB}
+Willst du nicht noch Wein holen?
+\end{AB}
+
+\begin{KF}
+Er ist im Keller! 
+\begin{Regie} zu B�rbel \end{Regie} Gib mir den Schl�ssel!
+\end{KF}
+
+\begin{BAERBEL}
+Ich werde unseren Keller nicht entweihen lassen!
+\end{BAERBEL}
+
+\begin{AM} 
+Der Keller ist �berf�llt!
+\end{AM}
+
+\begin{DONATUS}
+�berf�llt? Mit was?
+\end{DONATUS}
+
+\begin{HP}
+Die ganzen Leichen im Keller sind Malaria-Opfer.
+\end{HP}
+
+\begin{WOLFHARD}
+Jetzt halt die Luft an.
+\end{WOLFHARD}
+
+\begin{AM}
+Ja, und es ist nur noch ganz wenig Platz, den 
+\begin{Regie} mit Blick in die
+Runde \end{Regie} brauchen wir noch.
+\end{AM}
+
+\begin{KF}
+Jetzt trinken wir! Auf das Wohl der Gem�tlichkeit!
+\end{KF}
+
+
+\begin{HP} 
+\begin{Regie} riecht an dem Wein \end{Regie}
+Nein Danke.
+\end{HP}
+
+\begin{BRIGITTE}
+Ach wie herrlich und erfrischend!
+\end{BRIGITTE}
+
+\begin{HEIKE}
+Nicht sprechen ...
+\end{HEIKE}
+
+\begin{ULLA}
+Oh ja, sch�n, ... das wird ... vielleicht angenehm.
+\end{ULLA}
+
+\begin{HEIKE}
+Nein, nein, nicht sprechen. Bitte nicht sprechen.
+\end{HEIKE}
+
+\begin{AM} 
+\begin{Regie} hintergr�ndig \end{Regie}
+Und weil heute Festtag ist, alles umsonst.
+\end{AM}
+
+\begin{CHRISTA}
+Heute findet man nicht mehr viel Holunderwein.
+Ich dachte, ich h�tte mein letztes Glas l�ngst getrunken.
+\end{CHRISTA}
+
+\begin{AM}
+Aber nein.
+\end{AM}
+
+\begin{BAERBEL} 
+\begin{Regie} zu allen das Glas erhebend \end{Regie}
+Hier, {\bf das} ist das letzte.
+\end{BAERBEL}
+
+\begin{Regie} Alle heben ihr Glas an die Lippen. Vorhang.
+\end{Regie}
+
+\Setting{Dunkel mit Musik}
+
+\vspace*{3cm}
+
+
+\begin{Regie} Beifall.
+\end{Regie}
+
+
+\Setting{Hell}
+
+\begin{Regie} Wenn Beifall abebbt, dann Saallicht an und:
+\end{Regie}
+
+\Setting{Umbau}
+
+\Setting{Aufbau}
+

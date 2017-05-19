@@ -1,0 +1,4588 @@
+
+
+
+
+\Seite{3}
+\begin{Regie}Das Festkomitee
+
+
+DIE PERSONEN:
+
+HERMANN DILLMAIER RAY DIXON Karl-Friedrich Gebhardt
+BERTHOLD HALBRITTER DONALD EVANS Hans-Peter Baumeister
+SOPHIA DILLMAIER HELEN DIXON Angelika Mienert-Orians
+GRETCHEN BOLL SOPHIE BARTON Angelika Baur
+RUDI KROPFER ERIC COLLINS Donatus Thaer
+LEONORE HALBRITTER AUDREY EVANS Bärbel Raff
+CHARLOTTE MÜLLER LAWRENCE ADAMSON Christa Owusu
+HORST BOLL TIM BARTON Peter Schacht ELISABETH
+PHILIPPA Brigitte Mayer 
+MAX KIRKOV stumme Rolle
+
+
+
+Schauplatz eine Dekoration : Der Tanzsaal
+im "Hotel zum Schwan" in der deutschen Kleinstadt Kapellingen
+
+I. Akt 1. Szene: Sitzung am Mittwoch, den 3. November 2. Szene:
+Sitzung am Freitag, den 17. Dezember 3. Szene: Sitzung am Donnerstag,
+den 19. Mai II. Akt 1. Szene : Außerordentliche Sitzung am Sonntag,
+den 5. Juni 2. Szene : Am Tage des Festzuges "Die Zwölf von Kapellingen"
+Sonnabend, den 11. Juni
+
+
+Erster Akt Erste Szene Ein Tagungsraum. Eigentlich der Tanzsaal
+des Hotels "Zum Schwanen". Im Hintergrund eine Bühne, auf der
+vermutlich die Kapelle spielt, wenn der Saal zum Tanzen genutzt
+wird. Ein oder zwei glänzende Notenständer. Ein kleines - oder
+vielleicht auch normales Klavier. Auf der einen Seite der Notausgang
+zur Straße. Auf der anderen der Haupteingang vom Hotel aus. Der
+Saal ist in schlechtem Zustand. Schmutzige Vorhänge. Schmutzige,
+trübe Kronleuchter. In der Mitte des Saals, verlassen, der Konferenztisch
+mit zehn Stühlen - ein Stuhl an jedem Kopfende - und ein kleiner
+separater Tisch an einer Seite. Am Anfang ist es ziemlich düster,
+nur die Notbeleuchtung ist an. Im Halbdunkel kommt Hermann, ein
+dynamischer Mann Mitte Vierzig, herein. Er hat eine Aktentasche
+und ein halbleeres Glas Bier in der Hand.\end{Regie}
+
+
+
+\Einstellung{Dunkel}
+\begin{Regie}Etwa 5 Minuten vor Beginn der Vorstellung.\end{Regie}
+\Einstellung{Umbau mit Musik}
+\begin{Regie}Warten bis es los geht...\end{Regie}
+
+\begin{Regie}Es geht los:\end{Regie}
+
+\Einstellung{Dunkel}
+
+\Einstellung{Hell}
+
+\begin{Regie}Etwa 5 Sekunden warten, dann mit Schalterklicken:\end{Regie}
+
+\Einstellung{Licht aus!}
+
+\begin{Hermann} \begin{Regie}zu jemandem hinter sich im Off\end{Regie}
+Genau, danke. \begin{Regie}Er dreht sich um\end{Regie} Heh! Heh
+hallo. Hier ist ja gar kein Licht. Würden Sie bitte Licht machen?
+Licht. Ja, Licht ...\end{Hermann}
+\begin{Regie}Schalterklicken\end{Regie}
+\begin{Hermann}
+Nein ... Nein ... Nein ...\end{Hermann}
+ \begin{Regie}Das Licht geht an.\end{Regie}
+\SchnelleEinstellung{Licht an!}
+\begin{Hermann} Jawohl. \end{Hermann}
+ \begin{Regie}Das Licht geht aus.\end{Regie} 
+\SchnelleEinstellung{Licht aus!}
+\begin{Hermann} Nein, der andere. Nein, der davor. \end{Hermann}
+\SchnelleEinstellung{Licht an!}
+
+
+
+
+
+
+
+
+
+
+ \begin{Regie}Das Licht geht an.\end{Regie}
+\begin{Hermann} Jawohl. Prima. Danke. 
+\begin{Regie}Er geht zum Tisch hinüber,
+wählt den Stuhl am Kopfende und packt im Stehen seine Aktentasche
+aus\end{Regie} \begin{Regie}Kurz darauf erscheint Berthold, ein
+farbloser Mann in den Fünfzigern, im Türeingang.\end{Regie} \end{Hermann}
+
+\begin{Berthold} Ah. Guten Abend, Herr Dillmaier.\end{Berthold}
+
+\begin{Hermann} Guten Abend, Stadtrat Halbritter. \end{Hermann}
+
+\begin{Berthold} Hier findet also die Sitzung statt. \end{Berthold}
+
+\begin{Hermann} Ja, Ja, nehmen Sie doch bitte Platz. \end{Hermann}
+
+\begin{Berthold} Sofort. Ich hole nur noch eben meine Mutter.
+\begin{Regie}Er will gehen\end{Regie} \end{Berthold}
+
+\begin{Hermann} Sicher. Brauchen Sie vielleicht... ? \end{Hermann}
+
+\begin{Berthold} Nein, nein. Ich wollte bloß nachschauen, wo
+wir sind. Ich habe sie solange im Foyer gelassen. Um ihr ein
+paar Schritte zu ersparen. Dachte mir schon, daß wir hier sind.
+Wie immer, eigentlich. Die Versammlungen der Bürgerinitiative
+finden nämlich auch hier statt. \end{Berthold}
+
+\begin{Hermann} Ja, ein fieser Schuppen, leider. Aber dafür billig.
+Galaveranstaltungen finden hier wohl kaum noch statt. \end{Hermann}
+
+\begin{Berthold} Ja, das ist wohl wahr. Bin gleich zurück. \begin{Regie}Er
+geht in Richtung Ausgang\end{Regie} \begin{Regie}Sofia kommt
+und geht an Berthold vorbei.\end{Regie} Oh, guten Abend, Frau Dillmaier \end{Berthold}
+
+\begin{Sofia} Guten Abend. Schön sie zu sehen. \begin{Regie}Sie
+geben sich die Hand.\end{Regie} \end{Sofia}
+
+\begin{Berthold} Ich hole nur noch eben meine Mutter. \end{Berthold}
+
+\begin{Sofia} Ja, wir haben uns im Foyer kurz unterhalten. Richtig
+gut sieht sie aus. \end{Sofia}
+
+\begin{Berthold} Ja, ja. Wenn Sie mich jetzt bitte entschuldigen
+... \begin{Regie}Berthold geht.\end{Regie} \begin{Regie}Sofia
+geht auf den Tisch zu.\end{Regie} \end{Berthold}
+
+\begin{Sofia} Stell dir vor, er hat die arme alte Frau doch genau
+vors Herrenklo gesetzt. Bei dem Gedränge da wird sie dauernd
+angerempelt. Glaubst du eigentlich, sie steht das hier durch? \end{Sofia}
+
+\begin{Hermann} Wie meinst du das? \end{Hermann}
+
+\begin{Sofia} Na ja, sie wirkt ein bißchen schwach. Ich hatte
+fast den Eindruck, sie versteht mich gar nicht richtig. \end{Sofia}
+
+\begin{Hermann} Ach, so anstrengend wird es schon nicht werden.
+Ein kleines Protokoll. Ab und zu ein bißchen Tippen. \end{Hermann}
+
+\begin{Sofia} Für meine Begriffe hat sie das hinter sich. \end{Sofia}
+
+\begin{Hermann} Na, ich dachte ja nur, jetzt wo sie pensioniert
+ist, könnte sie vielleicht ein paar Groschen mehr gut gebrauchen.
+Ach, es wird schon gehen. In ihrem Brief klang sie jedenfalls sehr erfreut. \end{Hermann}
+
+\begin{Sofia} Mensch, ist das kalt hier. Ich hol mir noch grade meinen Mantel. \end{Sofia}
+
+\begin{Hermann} Sie muß doch auch mittlerweile schon weit über
+achtzig sein, vergiß das nicht. \end{Hermann}
+
+\begin{Sofia} Mit anderen Worten, wir müssen ziemlich langsam
+mit ihr sprechen, was? \begin{Regie}Gretchen kommt herein. Sie
+ist Anfang dreißig und ihr Gesicht ist von der frischen Luft
+noch ganz gerötet. Sie hat zwei große Einkaufstaschen bei sich.
+Direkt hinter ihr tritt Rudi ein, bärtig und mißtrauisch.\end{Regie} \end{Sofia}
+
+\begin{Sofia} Guten Abend, Gretchen. \end{Sofia}
+
+\begin{Gretchen} Guten Abend, Sofia. Guten Abend, Hermann. \end{Gretchen}
+
+\begin{Hermann} Guten Abend. \end{Hermann}
+
+\begin{Gretchen} \begin{Regie}deutet auf ihre Taschen\end{Regie}
+Wochenendeinkäufe. \end{Gretchen}
+
+\begin{Sofia} Ich sag dir nur eins, hol bloß deinen Mantel. Es
+ist eiskalt hier drin. Ich kann dir sagen ... \begin{Regie}sieht
+Rudi\end{Regie} Hallo, ich glaube, wir kennen uns noch nicht? Sofia Dillmaier. \end{Sofia}
+
+\begin{Rudi} Hallo. \begin{Regie}Rudi und Sofia geben sich die Hand\end{Regie} \end{Rudi}
+
+\begin{Gretchen} Rudi - Kropfer. \end{Gretchen}
+
+\begin{Sofia} Sind Sie mit Gretchen gekommen? \end{Sofia}
+
+\begin{Gretchen} Nein, nein. \end{Gretchen}
+
+\begin{Hermann} Nun mal langsam, Schatz, langsam. Fang nicht
+wieder so an, er ist ein verheirateter Mann. Sofia, du kennst
+Herrn Kropfer noch nicht? Herr Kropfer, darf ich vorstellen,
+meine Frau Sofia. Rudi Kropfer. Er unterrichtet an der Schule
+oben. Der Gesamtschule. \end{Hermann}
+
+\begin{Sofia} Ach was? An der Gesamtschule. Wie halten Sie das da nur aus? \end{Sofia}
+
+\begin{Rudi} Tja, es ist... \end{Rudi}
+
+\begin{Sofia} Ist es nicht furchtbar? Einfach scheußlich. Typisch
+sozialistischer Monsterbau. Unterrichtet Ihre Frau auch? \end{Sofia}
+
+\begin{Rudi} Wer? Oh, ja... \end{Rudi}
+
+\begin{Sofia} Nein sowas. Daß Lehrer immer paarweise auftreten.
+Ist Ihnen das auch schon aufgefallen? Fast so wie bei der Arche Noah. \end{Sofia}
+
+\begin{Rudi} Sie ist nicht meine Frau. \end{Rudi}
+
+\begin{Sofia} Wie bitte? \end{Sofia}
+
+\begin{Rudi} Sie ist nicht meine Frau. \end{Rudi}
+
+\begin{Sofia} Oh, tut mir leid, ich dachte ... \end{Sofia}
+
+\begin{Rudi} Wir leben nur zusammen. \end{Rudi}
+
+\begin{Sofia} Ach so. Na ja, ist auf alle Fälle praktisch. Wenn
+Sie entschuldigen, ich muß jetzt meinen Mantel holen, sonst erfrier ich noch. \end{Sofia}
+
+\begin{Gretchen} Ja, ich glaub, ich auch. Es ist wirklich ziemlich... \end{Gretchen}
+
+\begin{Sofia} Sag ich doch. Kalt. Eiskalt. \begin{Regie}Sofia
+und Gretchen gehen hinaus.\end{Regie} \end{Sofia}
+
+\begin{Hermann} Setzen Sie sich zu uns, Herr Kropfer. Ich freue
+mich sehr, daß Sie gekommen sind. Dabei fällt mir gerade ein,
+wir hätten Ihre - ehm - Ihre Elisabeth auch ins Komitee bitten
+sollen. Dann hätten Sie beide ... \end{Hermann}
+
+\begin{Rudi} \begin{Regie}setzt sich\end{Regie} Nein, sie - ist sehr beschäftigt. \end{Rudi}
+
+\begin{Hermann} Ach. Beruflich? \end{Hermann}
+
+\begin{Rudi} Babysitten. Sie liebt Babysitten über alles. Sie
+ist völlig versessen darauf. \end{Rudi}
+
+\begin{Hermann} Ah, ich verstehe. Also dann, wer wollte alles
+kommen? Sie, ich, Frau Halbritter, Stadtrat Halbritter, Sofia,
+Gretchen, Charlotte und Ludwig Müller - ehm - ich glaube, das
+sind alle? Ja. \begin{Regie}Berthold bringt Leonore, seine Mutter,
+herein, eine ältere Dame, die fast ununterbrochen lächelt.\end{Regie} \end{Hermann}
+
+\begin{Berthold} Da lang, Mutter. \end{Berthold}
+
+\begin{Hermann} Da sind sie ja. Geht's? \end{Hermann}
+
+\begin{Leonore} Diese Stufen. Diese vielen, vielen Stufen. \end{Leonore}
+
+\begin{Hermann} Ein paar sind's schon, ja. \end{Hermann}
+
+\begin{Leonore} Wenn nur diese Stufen nicht wären. \end{Leonore}
+
+\begin{Hermann} \begin{Regie}geht auf einen Stuhl zu\end{Regie}
+Möchte sie vielleicht hier sitzen? \end{Hermann}
+
+\begin{Berthold} \begin{Regie}geht zu dem kleinen separaten Tisch\end{Regie}
+Nein, ich glaube, ich setze sie lieber an das Ende, Herr Dillmaier.
+Sie hört nämlich nicht mehr so gut und von hier aus kann sie
+die meisten sehen. Solange sie die Mundbewegungen sieht, ist es gar kein Problem. \end{Berthold}
+
+\begin{Hermann} Aha, ich verstehe. \end{Hermann}
+
+\begin{Berthold} \begin{Regie}setzt Leonore hin\end{Regie} So, Mutter, da wären wir. \end{Berthold}
+
+\begin{Leonore} Da habe ich doch tatsächlich vorm Herrenklo gesessen. \end{Leonore}
+
+\begin{Hermann} \begin{Regie}lachend\end{Regie} Das ist nicht Ihr Ernst? \end{Hermann}
+
+\begin{Leonore} \begin{Regie}zu Rudi\end{Regie} Vorm Herrenklo.
+\begin{Regie}Rudi lächelt schwach.\end{Regie} \end{Leonore}
+
+\begin{Hermann} \begin{Regie}macht ein Zeichen\end{Regie} Ehm
+- Stadtrat Halbritter - ehm - \begin{Regie}Er will gerade anfangen
+zu sprechen, wendet sich dann von Leonore ab\end{Regie} - ehm
+- ich frage mich nur grade, sind Sie sicher, daß Ihre Frau Mutter
+dieser Sache auch gewachsen ist? \end{Hermann}
+
+\begin{Berthold} \begin{Regie}hat sich auch abgewendet\end{Regie}
+Nun ja, wie Sie sich vielleicht erinnern werden, habe ich Ihnen
+von Anfang an gesagt, daß - na ja - schließlich ist sie weit
+über achtzig, wissen Sie? \end{Berthold}
+
+\begin{Hermann} Ja, sicher. \begin{Regie}Leonore kramt eifrig
+in ihrer Tasche herum.\end{Regie} \end{Hermann}
+
+\begin{Berthold} Ich meine, sie ist noch immer sehr aktiv. Ab
+und zu gibt sie sogar noch Klavierunterricht. \end{Berthold}
+
+\begin{Hermann} Ach tatsächlich? \end{Hermann}
+
+\begin{Leonore} \begin{Regie}zu Rudi\end{Regie} Hole nur eben
+meinen Stift raus. \end{Leonore}
+
+\begin{Rudi} Ah. \end{Rudi}
+
+\begin{Leonore} So, es kann losgehen. \end{Leonore}
+
+\begin{Berthold} Da, sehen Sie ihre Hände. Die sind zwar nicht
+mehr ganz so geschickt wie früher - aber immer noch sehr beweglich.
+Sicher, die Fortgeschrittenen mußte sie natürlich abgeben. \end{Berthold}
+
+\begin{Hermann} Nun, wir werden sehen. \end{Hermann}
+
+\begin{Berthold} Ja, warten wir ab. \end{Berthold}
+
+\begin{Hermann} Ich weiß noch genau, sie hat früher ab und zu
+mal was für mich getippt und zwar sehr gut. Aber das ist jetzt
+schon eine ganze Weile her. \end{Hermann}
+
+\begin{Berthold} Oh ja, das ist wirklich schon eine Weile her.
+Sie hat seit zehn Jahren nicht mehr gearbeitet. \end{Berthold}
+
+\begin{Hermann} Was so lange? \end{Hermann}
+
+\begin{Leonore} Geht es schon los? \end{Leonore}
+
+\begin{Hermann} Äh - \begin{Regie}schaut zur Tür\end{Regie} -
+wir warten nur noch auf die anderen, Frau Halbritter. \end{Hermann}
+
+\begin{Leonore} Fangen wir jetzt an? \end{Leonore}
+
+\begin{Hermann} \begin{Regie}wendet sich mit übertriebenen Mundbewegungen
+zu ihr\end{Regie} Nein, wir warten noch auf die anderen. \end{Hermann}
+
+\begin{Leonore} Ah, wir warten auf die anderen. \end{Leonore}
+
+\begin{Hermann} Richtig. \end{Hermann}
+
+\begin{Leonore} Ja gut. Ist gut. Vielleicht sind die ja auf’m Klo. \end{Leonore}
+
+\begin{Hermann} \begin{Regie}lachend\end{Regie} Ja, genau. \end{Hermann}
+
+\begin{Leonore} Da schien sich doch alles versammelt zu haben. \end{Leonore}
+
+\begin{Hermann} \begin{Regie}lachend\end{Regie} Ja. Also, wer
+fehlt noch? Hat jemand von Ihnen die Müllers gesehen? \end{Hermann}
+
+\begin{Berthold} Nein, heute Abend noch nicht, Herr Dillmaier. \end{Berthold}
+
+\begin{Hermann} Hoffentlich haben sie's nicht vergessen. Ich
+habe sie ein paar Tage nicht gesehen. Eigentlich wollte ich noch
+anrufen und sie daran erinnern. \end{Hermann}
+
+\begin{Berthold} Ich dachte, Herr v. Hoffschmidt würde auch kommen heute Abend? \end{Berthold}
+
+\begin{Hermann} \begin{Regie}legt Rundschreiben und andere Unterlagen
+auf den Tisch\end{Regie} Ja, das ist richtig. Aber leider mußte
+er in letzter Minute absagen. Er läßt sich entschuldigen. Ich
+lese es Ihnen gleich vor. \end{Hermann}
+
+\begin{Rudi} Sie meinen doch nicht etwa Bernhard v. Hoffschmidt? \end{Rudi}
+
+\begin{Hermann} Genau den. Es ist sehr nützlich, so jemanden
+auf seiner Seite zu haben. Ihm gehören jede Menge Grundstücke
+hier in der Gegend. \end{Hermann}
+
+\begin{Rudi} \begin{Regie}grimmig\end{Regie} Ja, ich weiß. \begin{Regie}Berthold
+gleitet zu Rudi herüber und spricht während der folgenden Unterhaltung
+vertraulich mit ihm.\end{Regie} \end{Rudi}
+
+\begin{Berthold} \begin{Regie}zu Rudi, während diesem und dem
+nachfolgenden Gespräch\end{Regie} Sie müssen wissen, er hat früher
+nämlich auch an den Treffen unserer Bürgerinitiative teilgenommen. \end{Berthold}
+
+\begin{Rudi} Ah ja. \end{Rudi}
+
+\begin{Berthold} Wir treffen uns, ich würde mal sagen, im Schnitt
+ungefähr ein Dutzend Mal im Jahr. Unser Hauptanliegen besteht
+darin, die Lebensqualität in unserer Stadt zu verbessern - obwohl,
+wir kümmern uns auch um Gebäude, die unter Denkmalschutz stehen
+und so weiter. Einmal im Jahr organisieren wir eine Wohltätigkeitsveranstaltung.
+Immer für einen anderen Zweck. Letztes Jahr war es ein Skatturnier,
+das großen Anklang fand. Wir haben über achtzig Euro für unsere
+älteren Mitbürger eingenommen, und in diesem Jahr ist, soweit
+ich weiß, ein Tanzabend im Gespräch, der wahrscheinlich auch
+hier stattfinden soll. Ich bin mittlerweile schon seit zwölf
+Jahren Mitglied dieser Initiative. \end{Berthold}
+
+\begin{Rudi} Aha. \begin{Regie}Sofia und Gretchen kommen herein.\end{Regie}\end{Rudi}
+
+\begin{Sofia} Die sind wundervoll. Wo hast du die her? \end{Sofia}
+
+\begin{Gretchen} Oh, die sind schon sehr alt. \end{Gretchen}
+
+\begin{Berthold} Unser jetziger Vorsitzender, Stadtrat Hemberle,
+arbeitet seit vierzehn Jahren mit und zwei weitere Mitglieder,
+Frau Weissenfeld und Frau Friedensreich, sind sogar schon seit
+der Gründung vor vierundzwanzig Jahren dabei. Wie Sie sehen,
+herrscht bei uns eine gewisse Kontinuität. Meine Mutter war über
+achtzehn Jahre lang Schatzmeisterin bis sie sich die Hüfte brach
+und deswegen leider das Amt aufgeben musste.\end{Berthold}
+
+\begin{Sofia} \begin{Regie}in der Zwischenzeit\end{Regie} Die
+sind wundervoll. Ich will sie haben. Wo hast du die her? \end{Sofia}
+
+\begin{Gretchen} Och, das hab ich inzwischen vergessen. \end{Gretchen}
+
+\begin{Sofia} Jedenfalls nicht hier aus der Gegend, das steht
+fest. Wie geht es Horst? \end{Sofia}
+
+\begin{Gretchen} Ganz gut. \end{Gretchen}
+
+\begin{Sofia} Züchtet er immer noch wie ein Wilder? \begin{Regie}zu
+Rudi, während Berthold mit ihm spricht\end{Regie} Gretchen und
+ihr Bruder züchten nämlich so herrlich große Hunde, wie heißen
+sie noch gleich? Old English? \end{Sofia}
+
+\begin{Gretchen} Ja, genau. \end{Gretchen}
+
+\begin{Sofia} Einfach großartig. Hermann will ja keine im Haus.\end{Sofia}
+
+\begin{Hermann} Ist doch gar nicht wahr. Wer hat denn gesagt,
+die haaren den ganzen Teppich voll? \end{Hermann}
+
+\begin{Gretchen} Das tun sie auch ein bißchen. \begin{Regie}Berthold
+verstummt schließlich, weil ihm niemand zuhört.\end{Regie} \end{Gretchen}
+
+\begin{Sofia} So, wo setz ich mich denn hin. \begin{Regie}Sie
+setzen sich alle an den Tisch, Hermann nimmt am Kopfende Platz.\end{Regie}
+Also, können wir jetzt anfangen? \end{Sofia}
+
+\begin{Hermann} Wir müssen noch auf die Müllers warten. \end{Hermann}
+
+\begin{Sofia} Wo bleiben die denn? \end{Sofia}
+
+\begin{Hermann} Keine Ahnung. Vielleicht sind sie aufgehalten
+worden. \end{Hermann}
+
+\begin{Leonore} Würdest du sie bitten, etwas mehr in meine Richtung
+zu sprechen? \end{Leonore}
+
+\begin{Berthold} Mutter, wir haben noch nicht angefangen. \end{Berthold}
+
+\begin{Sofia} Keine Sorge, meine Liebe, wir haben noch nicht
+angefangen. \end{Sofia}
+
+\begin{Leonore} Noch nicht angefangen? \end{Leonore}
+
+\begin{Sofia} Nein, wir sagen Ihnen Bescheid, wenn's losgeht.
+Wir vergessen Sie schon nicht, keine Angst, \begin{Regie}zu den
+anderen\end{Regie} Ist Sie nicht süß? \end{Sofia}
+
+\begin{Hermann} Wir geben Ihnen noch fünf Minuten. \end{Hermann}
+
+\begin{Sofia} Komisch. Vielleicht ist Charlotte ja wieder umgekippt.\end{Sofia}
+
+\begin{Hermann} \begin{Regie}leise\end{Regie} Sofia ... \end{Hermann}
+
+\begin{Sofia} Ist das etwa so ausgeschlossen? Sie kippt doch
+dauernd um. \end{Sofia}
+
+\begin{Hermann} Ja, schon gut, Schatz. \end{Hermann}
+
+\begin{Sofia} Das weiß doch jeder, daß sie säuft... \end{Sofia}
+
+\begin{Hermann} Sofia, jetzt ist aber ... \end{Hermann}
+
+\begin{Sofia} \begin{Regie}gedämpft\end{Regie} Wie ein Loch ...
+\begin{Regie}Leonore versucht mühsam aufzustehen.\end{Regie}\end{Sofia}
+
+\begin{Berthold} Was ist los, Mutter? \end{Berthold}
+
+\begin{Leonore} Ist das heiß. Ist das heiß hier. \end{Leonore}
+
+\begin{Sofia} Heiß? \end{Sofia}
+
+\begin{Berthold} \begin{Regie}steht auf und hilft ihr aus dem
+Mantel\end{Regie} Einen Augenblick, Mutter, ich ... \end{Berthold}
+
+\begin{Sofia} Du lieber Himmel, die Frau ist ja der reinste Eskimo.\end{Sofia}
+
+\begin{Berthold} So, Mutter, bitte. \end{Berthold}
+
+\begin{Leonore} Danke. Ich ertrage es einfach nicht, wenn mir
+so heiß ist. \end{Leonore}
+
+\begin{Sofia} Wir haben hier drin ungefähr zehn Grad unter Null.\end{Sofia}
+
+\begin{Gretchen} Ihr fehlt doch hoffentlich nichts? \end{Gretchen}
+
+\begin{Berthold} Nein, Mutter hat nur eine extrem gute Durchblutung,
+das ist alles. Ich hänge den eben auf. Soll ich vielleicht kurz
+bei den Müllers anrufen, wenn ich schon mal draußen bin, Herr
+Dillmaier? \end{Berthold}
+
+\begin{Hermann} Oh, Herr Stadtrat, das wäre sehr freundlich von
+Ihnen ... \end{Hermann}
+
+\begin{Berthold} Keine Ursache. Schließlich wollen wir nicht
+noch länger untätig hier herumsitzen, oder? Hat jemand von Ihnen
+die Nummer? \end{Berthold}
+
+\begin{Hermann} Sie steht im Telefonbuch, Herr Stadtrat, unter
+L. Müller. Dreifaltigkeitsgasse - vierzehn - wenn ich mich nicht
+irre. \end{Hermann}
+
+\begin{Gretchen} Ja, vierzehn, glaube ich ... \begin{Regie}Berthold
+geht.\end{Regie} \begin{Regie}Leonore kramt eine Tüte Bonbons
+aus der Tasche und nimmt sich einen.\end{Regie} \end{Gretchen}
+
+\begin{Sofia} Kann mir vielleicht mal jemand verraten, was -
+\begin{Regie}blickt zu Leonore\end{Regie} - was dieser - kann
+sie mich hören?\end{Sofia}
+
+\begin{Hermann} Wenn du in diese Richtung sprichst, nicht. \end{Hermann}
+
+\begin{Sofia} Was dieser Widerling hier verloren hat?
+Dieser entsetzliche Langweiler. \end{Sofia}
+
+\begin{Hermann} Tja, er ist nun mal \begin{Regie}wendet sich
+ab\end{Regie} er ist nun mal im Kulturausschuß und wer weiß in
+welchen Ausschüssen noch und höchst wahrscheinlich kann er uns
+einen Zuschuß besorgen. \end{Hermann}
+
+\begin{Sofia} Na, dann ist er wenigstens zu etwas nutze. \end{Sofia}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\TextTeilEnde
+
+
+\TextTeilAnfang
+
+
+\begin{Leonore} \begin{Regie}bietet die Tüte an\end{Regie} Einen
+Bonbon? \end{Leonore}
+
+\begin{Gretchen} Nein, danke. \end{Gretchen}
+
+\begin{Leonore} \begin{Regie}zu Rudi\end{Regie} Sie? \end{Leonore}
+
+\begin{Rudi} Oh, danke. \begin{Regie}Er nimmt einen.\end{Regie}\end{Rudi}
+
+\begin{Sofia} Seht mal, sie hat sogar was zum Naschen dabei.
+Wie niedlich? \begin{Regie}laut zu Leonore\end{Regie} Nein, danke.
+Vielen Dank. Essen Sie sie nur. \begin{Regie}Hermann lehnt das
+Angebot winkend ab.\end{Regie} \begin{Regie}zur Seite\end{Regie}
+Sie will doch jetzt wohl nicht etwa die ganze Zeit auf diesen
+Bonbons rumkauen?\end{Sofia}
+
+\SchnelleEinstellung{Licht aus!}
+ \begin{Regie}Das Licht geht aus.\end{Regie}
+
+\begin{Gretchen} Heh! \end{Gretchen}
+
+\begin{Sofia} \begin{Regie}gleichzeitig mit Gretchen\end{Regie}
+Heh! \end{Sofia}
+
+\begin{Hermann} Hey - hey - hallo. Licht! Licht, bitte.\end{Hermann}
+
+\SchnelleEinstellung{Licht an!}
+ \begin{Regie}Das Licht geht an.\end{Regie} 
+
+
+
+
+\begin{Hermann} Haben Sie vielen Dank. \end{Hermann}
+
+\begin{Sofia} Was sollte das denn? \end{Sofia}
+
+\begin{Leonore} Das Licht war aus. \end{Leonore}
+
+\begin{Sofia} Ja, und jetzt ist es wieder an. \end{Sofia}
+
+\begin{Hermann} Ich glaube, dieser Manager steckt dahinter, typischer
+Betriebswirt. Dauernd schaltet er alles ab. \end{Hermann}
+
+\begin{Sofia} Wahrscheinlich die neusten Sparmaßnahmen des Hauses.\end{Sofia}
+
+\begin{Hermann} Ja so ungefähr. \end{Hermann}
+
+\begin{Sofia} Chemische Reinigung ist auf alle Fälle gestrichen.
+Hast du die Vorhänge draußen gesehen? Ekelhaft. Und wenn die
+hier weiter so heizen, werden wir uns noch alle zu Tode frieren.
+Das heißt, mit Ausnahme unserer Eskimofrau da drüben.
+
+
+\begin{Regie}Berthold kommt.\end{Regie} \end{Sofia}
+
+\begin{Berthold} Frau Müller ist da. Sie ist soeben eingetroffen.
+\begin{Regie}Er setzt sich hin\end{Regie} \end{Berthold}
+
+\begin{Hermann} Wie schön. \end{Hermann}
+
+\begin{Sofia} Na endlich. \begin{Regie}Charlotte, eine Frau Mitte
+Vierzig, kommt forsch herein. Eine stattliche Erscheinung. Kräftig.
+Verschlossen. Angespannt. Sie hat ein großes Glas Whisky in der
+Hand\end{Regie} \end{Sofia}
+
+\begin{Charlotte} Tut mir leid, Herrschaften, tut mir leid. \end{Charlotte}
+
+\begin{Hermann} Guten Abend, Charlotte, komm herein. \end{Hermann}
+
+\begin{Charlotte} Tut mir wirklich leid. \end{Charlotte}
+
+\begin{Hermann} Nimm doch bitte Platz. \end{Hermann}
+
+\begin{Charlotte} \begin{Regie}setzt sich hin\end{Regie} Sie
+müssen entschuldigen, Herr Vorsitzender, aber mein Mann Ludwig
+kann heute Abend leider nicht zum Treffen erscheinen. Er ist - unpäßlich. \end{Charlotte}
+
+\begin{Hermann} Oh, wie bedauerlich, Charlotte. Doch hoffentlich nichts Ernstes? \end{Hermann}
+
+\begin{Charlotte} Nein, nein. Na - jedenfalls nichts allzu Ernstes.\end{Charlotte}
+
+\begin{Hermann} Na gut. Also dann. Alle da. Ich heiße Sie herzlich
+willkommen. Bevor wir anfangen, möchte ich jedoch noch das Fernbleiben
+von Herr v. Hoffschmidt entschuldigen, der heute Abend leider
+kurzfristig nach München mußte. \end{Hermann}
+
+\begin{Sofia} Wie schade. \end{Sofia}
+
+\begin{Hermann} Er hat uns aber eine E-Mail geschickt. Ich werde
+sie Ihnen vorlesen. „Viel Erfolg bei der Planung wünscht Ihnen
+Bernhard v. Hoffschmidt. Freue mich schon jetzt auf Ihr zweites
+Treffen.“ \end{Hermann}
+
+\begin{Berthold} Sehr aufmerksam. \end{Berthold}
+
+\begin{Charlotte} Ja, wirklich sehr aufmerksam. \end{Charlotte}
+
+\begin{Hermann} Ich weiß, wie sehr wir uns alle darauf freuen,
+ihn zum gegebenen Zeitpunkt bei uns begrüßen zu dürfen. Dies
+ist ja erst eine Art Vorbesprechung. Ich hoffe, Sie haben alle
+mein Rundschreiben erhalten und wissen ungefähr, worum es heute
+geht. Dort auf dem Tisch liegen noch einige Kopien, falls Sie
+Ihr Gedächtnis auffrischen wollen. \begin{Regie}Alle außer Charlotte
+und Rudi nehmen sich eine Kopie. Gretchen gibt Leonore auch eine,
+die sie lächelnd annimmt.\end{Regie} \end{Hermann}
+
+\begin{Berthold} \begin{Regie}vertraulich zu Hermann\end{Regie}
+Dürfte ich vielleicht - äh ...\end{Berthold}
+
+\begin{Hermann} Ja, bitte, Herr Stadtrat. \end{Hermann}
+
+\begin{Berthold} \begin{Regie}sehr leise zu Hermann\end{Regie}
+Es ist nur, wir müßten vor Beginn der Sitzung - äh - ich meine,
+damit auch alles seine Ordnung hat - einen Vorsitzenden wählen
+... \end{Berthold}
+
+\begin{Hermann} Ach ja, richtig, Herr Stadtrat. Stadtrat Halbritter
+hat gerade korrekterweise darauf hingewiesen, daß wir vor Beginn
+der Sitzung - damit auch alles seine Ordnung hat - einen Vorsitzenden
+ernennen müssen. \end{Hermann}
+
+\begin{Charlotte} Hört! Hört! \end{Charlotte}
+
+\begin{Berthold} Damit auch alles seine Ordnung hat. \end{Berthold}
+
+\begin{Sofia} Ich dachte, du bist der Vorsitzende. \end{Sofia}
+
+\begin{Hermann} Ja, aber ich muß erst gewählt werden. \end{Hermann}
+
+\begin{Sofia} Na, dann wähl ich dich eben. \end{Sofia}
+
+
+
+
+
+
+
+
+\TextTeilEnde
+
+
+\TextTeilAnfang
+
+
+\begin{Berthold} Zuerst muß er vorgeschlagen werden. \end{Berthold}
+
+\begin{Sofia} Dann schlag‘ ich dich eben vor. \end{Sofia}
+
+\begin{Berthold} Ich bekräftige den Vorschlag. \end{Berthold}
+
+\begin{Hermann} Also gut. Wenn alle einverstanden sind? Bitte
+einmal diejenigen, die dafür sind, Hand hoch. \end{Hermann}
+
+\begin{Sofia} \begin{Regie}zu Leonore\end{Regie} Wir wählen ihn
+grade zum Vorsitzenden, meine Liebe. \end{Sofia}
+
+\begin{Leonore} Oh ja, ich bin auch dafür. \end{Leonore}
+
+\begin{Hermann} Also bitte einmal diejenigen, die dafür sind, Hand hoch. \end{Hermann}
+
+\SchnelleEinstellung{Licht aus!}
+
+\begin{Regie}Sie wollen gerade die Hand heben, als
+das Licht wieder ausgeht und ein Spot die verspiegelte Discokugel
+anstrahlt, die sich zu drehen beginnt. Lautes Protestgeschrei.\end{Regie}
+
+\begin{Sofia} El illuminatos, s'il vous plait. \end{Sofia}
+\SchnelleEinstellung{Licht an!}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\begin{Regie}Das Licht ist wieder normal.\end{Regie} 
+\begin{Sofia} Merci. Gracias vielmals. \end{Sofia}
+
+\begin{Hermann} \begin{Regie}geht zur Tür und schreit\end{Regie}
+Wären Sie bitte so freundlich und würden endlich den Lichtschalter
+in Ruhe lassen. Hier findet nämlich eine Versammlung statt. Danke.
+\begin{Regie}kommt zurück\end{Regie} Tut mir sehr leid. Ist die
+Abstimmung beendet? \end{Hermann}
+
+\begin{Sofia} Ja, du bist gewählt. \end{Sofia}
+
+\begin{Hermann} \begin{Regie}setzt sich\end{Regie} Gut. Fahren
+wir also fort... \end{Hermann}
+
+\begin{Berthold} \begin{Regie}zu Hermann, sehr leise\end{Regie}
+Herr Vorsitzender, wenn ich noch kurz auf eine winzige Abweichung
+aufmerksam machen dürfte. Ihnen ist nämlich ein Orthographiefehler
+unterlaufen, \begin{Regie}hält ein Rundschreiben hoch\end{Regie}
+Sehen Sie, hier müsste ein Doppel-T stehen.\end{Berthold}
+
+\begin{Hermann} Ah ja. meine Sekretärin ist beim Tippen leider
+ein bißchen unter Zeitdruck gewesen. Stadtrat Halbritter hat
+gerade darauf hingewiesen, daß in dem Wort ,Hütte' - eins, zwei,
+drei, vier, fünf, sechs Zeilen von oben - ein T fehlt. Wenn Sie
+das bitte abändern würden. \end{Hermann}
+
+\begin{Sofia} Ach, du lieber Himmel, tatsächlich. Gut beobachtet.\end{Sofia}
+
+\begin{Berthold} \begin{Regie}zu Hermann, sehr leise\end{Regie}
+Und - äh - ich vermute, dies hier soll ein Punkt und kein Komma
+sein. \end{Berthold}
+
+\begin{Charlotte} Du meine Güte ... \end{Charlotte}
+
+\begin{Hermann} Ja, und eins, zwei, drei - mehrere Zeilen von
+unten steht nach dem Wort ,es' ein Komma. Das muß natürlich ein
+Punkt sein. \end{Hermann}
+
+\begin{Berthold} Äh... \end{Berthold}
+
+\begin{Hermann} \begin{Regie}schnell\end{Regie} Und selbstverständlich
+wird dann der nächste Buchstabe, ein A, groß geschrieben. So
+und jetzt... \end{Hermann}
+
+\begin{Sofia} Mensch, ist das kalt hier. Eiskalt. \end{Sofia}
+
+\begin{Hermann} Also gut. Wir haben uns hier versammelt, um die
+Frage zu diskutieren, ob in Kapellingen erstmals ein Volksfest
+stattfinden soll. \end{Hermann}
+
+\begin{Sofia} Das ist doch wohl das Letzte. Schließlich sind
+wir hier in einem Drei-Sterne- Hotel. \end{Sofia}
+
+\begin{Hermann} Sofia. Darf ich? Danke. Also, als mir dieser
+Gedanke kam, fand ich ihn ... \end{Hermann}
+
+\begin{Sofia} \begin{Regie}murmelt vor sich hin\end{Regie} Drei
+Sterne. \end{Sofia}
+
+\begin{Hermann} Fand ich ihn aus verschiedenen Gründen sehr reizvoll.\end{Hermann}
+
+\begin{Berthold} Herr Vorsitzender, wären Sie vielleicht so freundlich
+und würden etwas mehr in Mutters Richtung sprechen. \end{Berthold}
+
+\begin{Hermann} Ach ja, tut mir leid. \end{Hermann}
+
+\begin{Berthold} Es ist nur, sie hat wohl ein wenig Schwierigkeiten... \end{Berthold}
+
+\begin{Hermann} Schon gut. Tut mir leid. Aus verschiedenen Gründen
+also. Erstens ist es etwas völlig Neues. Etwas, das jeden Bürger
+dieser Stadt ansprechen könnte, vorausgesetzt natürlich wir stellen
+es richtig an.
+Zweitens -- Der Zufall will es, dass sich das In-Existenz-Treten
+unseres Gemeinwesens zum achthundertsten Male jährt.
+Drittens -- \begin{Regie}Charlotte brummt zustimmend\end{Regie}
+Wenn wir ein Volksfest organisieren, uns also quasi auf unsere
+eigene Vergangenheit mit ihrem Handwerk, ihrer Tradition und
+ihren historischen Bräuchen konzentrieren, helfen wir Kapellingen,
+seine Identität wiederzufinden - die, so glaube ich, und ich
+bin sicher, daß Sie mir da zustimmen werden, in unserer heutigen
+Zeit immer mehr an Bedeutung verliert. \end{Hermann}
+
+\begin{Charlotte} Hört! Hört! \end{Charlotte}
+
+\begin{Hermann} Deshalb schlage ich vor, ein solches Fest im
+nächsten Juni zu veranstalten. Zu dieser Jahreszeit würden wir
+mit Sicherheit eine ganz beträchtliche Anzahl von Besuchern in
+die Stadt locken. Da es sich jedoch um unsere erste Veranstaltung
+dieser Art handelt, sollten wir nichts überstürzen, sondern Schritt
+für Schritt vorgehen. Lassen Sie uns also bescheiden anfangen.
+Wozu wir in Anbetracht der begrenzten Mittel, die uns zur Verfügung
+stehen, auch wohl oder übel gezwungen sind. Allerdings haben
+wir, das möchte ich an dieser Stelle unterstreichen, bei der
+Stadt bereits einen Antrag auf einen kleineren Zuschuß gestellt...\end{Hermann}
+
+\begin{Berthold} Herr Vorsitzender, ich möchte nur kurz anmerken,
+daß dieser Antrag auf der Tagesordnung der nächsten Sitzung des
+Kulturausschusses steht, dessen Mitglied ich bin. \end{Berthold}
+
+\begin{Hermann} Großartig. Also, wie ich schon sagte, fangen
+wir bescheiden an. Stellt sich nun die Frage wie? Und womit?\end{Hermann}
+
+\begin{Rudi} Also, ich schlage vor, wir ... \end{Rudi}
+
+\begin{Hermann} Entschuldigen Sie Herr Kropfer. Dürfte ich vielleicht...?
+Entschuldigen Sie, aber, wenn ich eben noch zu Ende sprechen
+dürfte. Also, wir verfügen nämlich in Kapellingen über die idealen
+Ausgangsvoraussetzungen. \begin{Regie}Charlotte brummt zustimmend\end{Regie}
+Ein Stück äußerst lebhafte Vergangenheit hat sich ausgerechnet
+in unserer Stadt zugetragen und würde eine ganz ausgezeichnete
+Grundlage für ein bescheidenes historisches Festspiel bilden.
+Ich berufe mich hier auf ein Ereignis, das angeblich als das
+Massaker der Zwölf von Kapellingen in die Geschichte eingegangen
+ist. \end{Hermann}
+
+\begin{Charlotte} Das Massaker der was? \end{Charlotte}
+
+\begin{Rudi} Noch nie gehört. \end{Rudi}
+
+\begin{Berthold} Ich auch nicht. \end{Berthold}
+
+\begin{Hermann} Liegt wohl schon ein paar Jahrhunderte zurück.
+Ich bin auch nur durch Zufall darauf gestoßen. \end{Hermann}
+
+\begin{Berthold} Also, das höre ich jetzt zum ersten Mal. Vielleicht
+weiß Mutter ja etwas davon. \end{Berthold}
+
+\begin{Sofia} Wahrscheinlich war sie sogar dabei. \end{Sofia}
+
+\Seite{17}
+
+\begin{Berthold} Das Massaker der Zwölf von Kapellingen, Mutter,
+sagt dir das etwas? \end{Berthold}
+
+\begin{Leonore} Der Zwölf von Kapellingen? War das jetzt kürzlich?\end{Leonore}
+
+\begin{Berthold} Nein, nein. Das ist schon länger her. \end{Berthold}
+
+\begin{Leonore} Dann muß das wohl vor meiner Zeit gewesen sein.\end{Leonore}
+
+\begin{Hermann} Na ja, jedenfalls habe ich in diesem Buch zufällig
+eine kurze Beschreibung der Ereignisse entdeckt. Soweit ich weiß,
+ist es heute auch gar nicht mehr erhältlich. Es heißt "Durch
+die Heimat von Wasserhuhn und Bisamratte" von einem Kerl namens
+E. A. Hutschinger. Wenn Sie erlauben, würde ich es Ihnen gerne
+vorlesen. Es klingt recht interessant. Ich habe ein paar Kopien
+machen lassen, die Sie mitnehmen können, wenn Sie möchten. Also
+... \begin{Regie}Er schlägt das Buch auf\end{Regie} \end{Hermann}
+
+\begin{Sofia} Liebling, ich finde, Frau Halbritter sollte ein
+Exemplar zum Mitlesen haben. Sonst kommt sie nachher nicht mit.\end{Sofia}
+
+\begin{Berthold} Ja, das wäre bestimmt besser. \begin{Regie}Hermann
+gibt Leonore eine Kopie.\end{Regie} \end{Berthold}
+
+\begin{Hermann} Also gut. Hier ist eine Kopie, Frau Halbritter.
+Eine Kopie, von dem, was ich jetzt gleich vorlesen werde. \end{Hermann}
+
+\begin{Leonore} Danke. \begin{Regie}Sie beginnt zu lesen\end{Regie}\end{Leonore}
+
+\begin{Hermann} Also, es geht los. \begin{Regie}liest\end{Regie}
+„Die Geschichte der Zwölf von Kapellingen ist es, so meine ich,
+wert, hier in aller Ausführlichkeit erzählt zu werden, was der
+Leser mir bitte verzeihen möge. In einer heftigen Welle der Empörung
+über den Erlaß der jüngsten Steuergesetze, begannen Franz Hartel
+und Hans-Ulrich Gämperlin, zwei Einheimische, die wachsende Unzufriedenheit
+in der Landbevölkerung durch eine ganze Reihe von Versammlungen
+zu schüren, wobei Hartel, einem damaligen Augenzeugenbericht zufolge,
+mit Leib und Seele auf die Menschen einredete, während Gämperlin
+die aufgebrachte Menge durch sein wüstes Aussehen und seine wilden
+Gesten im wahrsten Sinne des Wortes zum Kochen brachte. Diese
+beiden, die mehr oder weniger zufällig aufeinandergestoßen waren,
+müssen ein sehr ungleiches Paar gewesen sein. Bei Hartel habe
+es sich, so hieß es, um eine eher schmächtige Erscheinung mit
+geradezu cholerischem Wesen gehandelt - seine fast weiblichen
+Züge ließen vielmehr einen Gelehrten oder Kleriker vermuten,
+als jemand, der es gewohnt ist, seinen Lebensunterhalt auf dem
+Feld zu verdienen. Von Gämperlin, hingegen, wird behauptet, daß
+er alle anderen um mindestens einen Kopf überragte; ein wahrhafter
+Riese mit wüstem Bartwuchs und stark behaartem Körper, soweit
+das Auge reichte Dieser - Gämperlin - schleuderte häufig zur
+allgemeinen Belustigung für irgendwelche Wetten seine Kameraden
+in die Luft." \end{Hermann}
+
+\begin{Sofia} Scheinen ja nicht grade die angenehmsten Zeitgenossen
+gewesen zu sein. \end{Sofia}
+
+\begin{Charlotte} Hört! Hört! \end{Charlotte}
+
+\begin{Hermann} Sofia, laß mich bitte ... \end{Hermann}
+
+\begin{Sofia} Bah! Wie schrecklich! \end{Sofia}
+
+\begin{Hermann} \begin{Regie}liest weiter\end{Regie} "Die Obrigkeit..."\end{Hermann}
+
+\begin{Leonore} \begin{Regie}hat zu Ende gelesen\end{Regie} Nein,
+was für eine interessante Geschichte? Ob sie wohl wahr ist?\end{Leonore}
+
+\begin{Hermann} Ja, ich bin aber noch nicht ganz fertig, Frau
+Halbritter. \end{Hermann}
+
+\begin{Leonore} Nein? Oh, Entschuldigung. \end{Leonore}
+
+\begin{Sofia} Geht das jetzt etwa noch weiter mit diesen beiden
+häßlichen Typen? \end{Sofia}
+
+\begin{Rudi} Ich glaube nicht, daß sie einen großen Einfluß auf
+ihr Aussehen hatten. \end{Rudi}
+
+\begin{Sofia} Ach was. \end{Sofia}
+
+\begin{Rudi} Darf ich Sie daran erinnern, daß diese Männer sich
+dumm und dämlich geschuftet haben, um ihren Lebensunterhalt zu
+verdienen. \end{Rudi}
+
+\begin{Sofia} An diesem Tisch, mein Lieber, sitzen auch Leute,
+die sich - um ihre charmante Formulierung aufzugreifen - dumm
+und dämlich schuften, um ihren Lebensunterhalt zu verdienen.
+Ich zum Beispiel, aber deshalb renne ich noch lange nicht behaart
+wie ein Affe durch die Gegend und schleudere zum Spaß Leute in
+Luft. \end{Sofia}
+
+\begin{Rudi} Sie müssen bedenken, daß die beiden wahrscheinlich
+am Hungertuch nagten. \end{Rudi}
+
+\begin{Sofia} So ein Blödsinn. \end{Sofia}
+
+\begin{Rudi} Wieso Blödsinn? \end{Rudi}
+
+\begin{Sofia} Jetzt tun Sie doch nicht so. Haben Sie nicht gehört,
+was er gesagt hat. Die beiden waren Bauern. Es wäre also überhaupt
+kein Problem für sie gewesen, sich Nahrung anzubauen. \end{Sofia}
+
+\begin{Hermann} Sofia, darf ich jetzt... ? \end{Hermann}
+
+\begin{Sofia} Nein. Wissen Sie, die beiden hatten nur ein Problem
+und zwar, daß sie den ganzen Tag damit verplempert haben, große
+Reden zu schwingen. Sich zu besaufen. Oder irgendwelche Leute
+in die Luft zu schleudern. Geschah Ihnen ganz recht. \end{Sofia}
+
+\begin{Charlotte} Hört! Hört! \end{Charlotte}
+
+\begin{Rudi} Wie zum Teufel können Sie da sitzen in Ihrem ...\end{Rudi}
+
+\begin{Sofia} Die sind doch alle gleich. Schon seit Menschengedenken.
+Das einzige, was die können ist Jammern und Klagen. Mit diesen
+- na, wie heißen die noch gleich - diesen Trotzkisten ist das
+doch heutzutage ganz genauso. \end{Sofia}
+
+\begin{Rudi} Was wissen Sie denn schon davon, Sie verwöhnte dumme
+Kuh in Ihrem gottverdammten Perlenkette ... \end{Rudi}
+
+\begin{Hermann} Bitte, bitte. \end{Hermann}
+
+\begin{Sofia} Wie können Sie es wagen, so mit mir zu reden. \end{Sofia}
+
+\begin{Berthold} Herr Vorsitzender, wenn ich einen Vorschlag
+... \end{Berthold}
+
+\begin{Sofia} Wie können Sie es nur wagen, Sie miese kleine Ratte.
+Wie können Sie es wagen.\end{Sofia}
+
+\begin{Rudi} \begin{Regie}steht wütend auf\end{Regie} Ach verdammt.\end{Rudi}
+
+\begin{Gretchen} Wo gehen Sie hin? \end{Gretchen}
+
+\begin{Rudi} Tut mir leid, aber - ich kann - ich kann - Leute
+wie sie - geht mir voll auf die - tut mir leid. Ich gehe. \end{Rudi}
+
+\begin{Hermann} \begin{Regie}steht auf\end{Regie} Aber, aber,
+Herr Kropfer. Kommen Sie. Beruhigen Sie sich wieder. Wir haben
+uns doch alle ein wenig erhitzt. Jetzt beruhigen Sie sich erstmal.\end{Hermann}
+
+\begin{Charlotte} Hört! Hört! \end{Charlotte}
+
+\begin{Berthold} Herr Vorsitzender, wenn ich einen Vorschlag
+... \end{Berthold}
+
+\begin{Sofia} Tut mir leid, aber ich war nicht darauf vorbereitet,
+vollkommen friedlich hier zu sitzen und mich derart beschimpfen
+zu lassen. Ich verlange eine Entschuldigung. \end{Sofia}
+
+\begin{Rudi} Sie glauben doch wohl nicht im Ernst, daß ich mich
+bei Ihnen ... \end{Rudi}
+
+\begin{Hermann} \begin{Regie}schreit\end{Regie} Jetzt aber hinsetzen,
+alle beide. Dies ist keine politische Veranstaltung. Politik
+hat hier absolut nichts zu suchen, \begin{Regie}ruhiger\end{Regie}
+So, und jetzt hinsetzen. \begin{Regie}Hermann, Rudi und Sofia
+setzen sich.\end{Regie} Herr Kropfer, ich respektiere Ihre Ansichten.
+Ich teile Sie zwar nicht, aber ich respektiere sie. Lassen Sie
+uns also auch Sofias Standpunkt akzeptieren. Ich, persönlich,
+erlaube mir anderer Meinung zu sein. Und so weiter und so fort.\end{Hermann}
+
+\begin{Leonore} \begin{Regie}zu Hermann\end{Regie} Einen Bonbon?
+\begin{Regie}Hermann nimmt einen Bonbon.\end{Regie} \end{Leonore}
+
+\begin{Sofia} Aber eins sage ich euch. Solange Trotzkisten im
+Komitee sind, werden wir nie etwas Vernünftiges auf die Beine
+stellen. \end{Sofia}
+
+\begin{Rudi} Ich bin kein Trotzkist. Ich bin Marxist, wenn Sie
+es genau wissen wollen. \end{Rudi}
+
+\begin{Gretchen} Donnerwetter. \end{Gretchen}
+
+\begin{Sofia} Oh Gott, das ist ja noch schlimmer. Marxist. Das
+ist ja noch viel schlimmer. Die sind doch völlig übergeschnappt.\end{Sofia}
+
+\begin{Hermann} \begin{Regie}brüllt\end{Regie} Sofia, du wirst
+jetzt verdammt noch mal deinen Mund halten. \end{Hermann}
+
+\begin{Sofia} Gut, wie du willst. \begin{Regie}steht auf\end{Regie}
+Also dann, gute Nacht allerseits. \end{Sofia}
+
+\begin{Hermann} Was hast du denn nun schon wieder vor? \end{Hermann}
+
+\begin{Sofia} Ich laß mich doch nicht von allen Seiten beleidigen.
+Gute Nacht. \end{Sofia}
+
+\begin{Gretchen} Sofia ... \end{Gretchen}
+
+\begin{Sofia} Gute Nacht. \begin{Regie}Während sie hinausgeht\end{Regie}
+Mir ist es hier sowieso zu kalt. Russen sind ja an solche Temperaturen
+gewöhnt.
+
+\begin{Regie}Sofia geht.\end{Regie} \begin{Regie}Schweigen. Rudi
+kocht vor Wut. Hermann stützt seufzend den Kopf in die Hände.\end{Regie}\end{Sofia}
+
+\begin{Berthold} Herr Vorsitzender ... \end{Berthold}
+
+\begin{Hermann} \begin{Regie}scharf\end{Regie} Was ist? \begin{Regie}reißt
+sich zusammen\end{Regie} Entschuldigen Sie, Herr Stadtrat. Tut
+mir leid, Herr Halbritter, ja bitte. \end{Hermann}
+
+\begin{Berthold} Ich wollte nur kurz anmerken, daß - äh - im
+Ausschuß haben wir die Erfahrung gemacht - daß es im Allgemeinen
+sehr hilfreich ist, wenn sämtliche Beiträge zunächst an den Vorsitzenden
+gerichtet werden. Auf diese Weise kann man derartigen Konfrontationen
+aus dem Weg gehen. \end{Berthold}
+
+\begin{Hermann} Vielen Dank, Herr Halbritter, ich bin wirklich
+sehr dankbar für diesen Hinweis. So, und damit möchte ich die
+Sache jetzt gerne beenden, daß heißt, wenn Sie alle \end{Hermann}
+
+\begin{Gretchen} Ja, erzähl bitte weiter. \end{Gretchen}
+
+\begin{Hermann} Also, die beiden Männer werden noch etwas genauer
+beschrieben - das lasse ich erstmal weg und - ehm - na ja, jedenfalls
+... \begin{Regie}liest\end{Regie} "Die Aktivitäten des Paares"
+- gemeint sind natürlich Hartel und Gämperlin - "blieben nicht
+lange unbemerkt. \begin{Regie}Ein junger Mann tritt ein, geht
+auf die Bühne, nimmt die Trommel in die Hand und geht wieder
+hinaus.\end{Regie} Und so kam es, daß die Obrigkeit sich durch
+die Popularität dieser Vorgänge in zunehmendem Maße bedroht fühlte.
+Bereits mehrfach war die Miliz eingeschritten, um die Versammlungen
+gewaltsam aufzulösen, doch sie kam jedesmal zu spät. Als die
+Bewegung schließlich immer größer wurde, wurden Hartel und Gämperlin
+immer kühner. Noch im Juni desselben Jahres beriefen sie in Kapellingen
+eine Versammlung ein, die den Höhepunkt der Kampagne bilden sollte.
+An jenem Tag hatten die Protestierenden beschlossen, die Versammlung
+auf dem alten Marktplatz im unteren Teil der Stadt abzuhalten"
+- Das ist natürlich der große Platz genau vor dem Hotel - "Wie
+immer redete Hartel mehr als eine Stunde, bis sich genügend Leute
+versammelt hatten, und forderte dann die Menge zur tatkräftigen
+Unterstützung seiner Sache auf. Am anderen Ende der High Street
+tauchte schließlich die Miliz auf, die sich bislang verborgen
+gehalten hatte. Eine ganze Kompanie Soldaten marschierte nun
+mit geladenen und feuerbereiten Musketen geschlossen auf die
+Menge zu. An ihrer Spitze - \begin{Regie}Er steht auf\end{Regie}
+- der Kommandeur - keine Geringerer als der Graf von Wolkenstein,
+beritten und mit gezücktem Schwert. Beim Anblick der Streitkräfte
+löste sich die erschrockene Menge in Windeseile auf und floh,
+so daß der Marktplatz sich bis auf zwölf Männer leerte - unter
+ihnen auch Hartel und Gämperlin. Diese zwölf griffen dann zu primitivsten
+Waffen und waren fest entschlossen, Widerstand zu leisten. Drei
+Mal forderte der Graf sie auf, sich zu ergeben und drei Mal weigerten
+sie sich ...". Diese Stelle finde ich sehr gut. Sie sehen, wie
+ausgezeichnet sich das für ein Schauspiel eignet. "Daraufhin
+befahl der Graf seinen Soldaten, unverzüglich Feuer zu geben.
+Die meisten wurden dabei getötet, auch Hartel selbst. Gämperlin
+stürmte trotz schwerer Verwundung
+
+zusammen mit einigen Kumpanen auf die Soldaten los und schlug,
+bevor sie wieder laden konnten, solange mit Fäusten und Knüppeln
+auf sie ein, bis sie selbst schließlich völlig erschöpft der
+Überzahl ihrer Gegner erlagen. Ein paar Wochen später standen
+Gämperlin und sieben andere vor Gericht und wurden zum Tode verurteilt.
+Die Leichen der Zwölf verscharrte man draußen vor dem Gefängnis
+in namenlose Gräber. Im Laufe der Zeit wurden sie von allen natürlich
+nur noch die Zwölf von Kapellingen genannt." \begin{Regie}er
+setzt sich\end{Regie} \end{Hermann}
+
+\begin{Gretchen} Nein, wie entsetzlich traurig. \end{Gretchen}
+
+\begin{Charlotte} Hört! Hört! \end{Charlotte}
+
+\begin{Rudi} Entsetzlich. \end{Rudi}
+
+\begin{Berthold} Herr Vorsitzender, bevor wir weitermachen, hätte
+ich ganz gern gewußt, ob wir immer noch die Absicht hegen, uns
+als Verein zu konstituieren. \end{Berthold}
+
+\begin{Hermann} Ja, ich habe mich in dieser Sache bereits kundig
+gemacht und alles Erforderliche in die Wege geleitet. Also gut,
+dies ist unser Ausgangspunkt. Ich bin überzeugt, daß wir damit
+über das nötige Rüstzeug für ein großartiges Schauspiel verfügen.
+Stellen Sie sich doch nur einmal die beiden Kerle auf dem Marktplatz
+vor und dann die Miliz, wie sie die Hauptstrasse hinunterstürmt
+... \end{Hermann}
+
+\begin{Rudi} Ich hoffe, wir haben auch vor, diese Männer zu würdigen.
+Wir müssen die Sache auf jeden Fall ernst nehmen. \end{Rudi}
+
+\begin{Hermann} Aber natürlich. Ich meine, wir würden nie - ist
+doch klar. \end{Hermann}
+
+\begin{Rudi} Schließlich haben wir es hier mit wahren Menschen
+zu tun. Und womöglich kommen da so ein paar mittelständische
+Geschäftsleute daher, die sich nur aus Spaß an der Freude verkleiden
+und ein bißchen mit ihren Frauen auf der Straße rumhopsen wollen.\end{Rudi}
+
+\begin{Hermann} Nein, nein, Herr Kropfer. Nein. Auf gar keinen
+Fall. Das versteht sich doch von selbst. \end{Hermann}
+
+\begin{Berthold} Die Frage ist nur, Herr Vorsitzender, ob wir
+auch auf die volle Zustimmung der normalen arbeitenden Bevölkerung
+stoßen werden. \end{Berthold}
+
+\begin{Hermann} Ganz wesentlicher Punkt, ja. \end{Hermann}
+
+\begin{Rudi} Lassen Sie uns also bei der Wahrheit bleiben, okay?\end{Rudi}
+
+\begin{Charlotte} \begin{Regie}räuspert sich für eine wichtige
+Bemerkung\end{Regie} Herr Vorsitzender. \end{Charlotte}
+
+\begin{Hermann} Charlotte. \end{Hermann}
+
+\begin{Charlotte} Wäre es nicht vielleicht sinnvoll, noch weitere
+Recherchen in dieser Sache anzustellen. Ich meine, wenn, dann
+sollte es auch exakt sein. Das scheint mir jedenfalls das Wichtigste.
+\begin{Regie}Sie wird immer leiser, räuspert sich und murmelt
+vor sich hin\end{Regie} \end{Charlotte}
+
+\begin{Hermann} Nun, wir könnten ja jemanden bitten, sich darum
+zu kümmern. Vorschläge?\end{Hermann}
+
+\begin{Gretchen} Wie wär's denn mit Frau Halbritter? \end{Gretchen}
+
+\begin{Hermann} \begin{Regie}zweifelnd\end{Regie} Also, ich weiß
+nicht recht... \end{Hermann}
+
+\begin{Berthold} Das ist doch eine ausgezeichnete Idee, Herr
+Vorsitzender. Sie liest furchtbar gern und würde bestimmt ein
+paar nützliche Details für uns aufspüren. \end{Berthold}
+
+\begin{Hermann} Hervorragend. In Ordnung. Wären Sie also so nett,
+Frau Halbritter, und würden sich darum kümmern? \end{Hermann}
+
+\begin{Leonore} Hä? \end{Leonore}
+
+\begin{Hermann} Wir haben nur gerade überlegt, ob Sie nicht vielleicht
+Lust hätten, noch ein wenig für uns zu recherchieren? \end{Hermann}
+
+\begin{Leonore} Recherchieren? Ja, sicher, gern. Wenn Sie meinen.\end{Leonore}
+
+\begin{Hermann} Haben Sie herzlichen Dank. So, das wär's für
+heute. Sitzung geschlossen. \begin{Regie}Steht auf\end{Regie}
+Wer kommt noch mit auf ein Glas Wein? \end{Hermann}
+
+\begin{Berthold} Dürfte ich vorschlagen, Herr Vorsitzender, schon
+jetzt den Termin für unser nächstes Treffen festzulegen. Einige
+von uns haben vielleicht... \end{Berthold}
+
+\begin{Hermann} Aber ja doch. Selbstverständlich. Mal sehen.
+Hat jeder seinen Terminkalender dabei? Sagen wir in vierzehn
+Tagen? Wie wär's mit dem sechzehnten? Ist das allen recht? Dienstag,
+der sechzehnte, abends? \end{Hermann}
+
+\begin{Berthold} Äh - nein. Der sechzehnte geht nicht, Herr Vorsitzender.
+Kirchenratssitzung. Die findet jeden dritten Dienstag im Monat
+statt. \end{Berthold}
+
+\begin{Hermann} Dann vielleicht Montag, der zweiundzwanzigste?\end{Hermann}
+
+\begin{Rudi} Montags kann ich nicht. Jugendclub. \end{Rudi}
+
+\begin{Berthold} Vierundzwanzigster. Mittwoch, der vierundzwanzigste?\end{Berthold}
+
+\begin{Gretchen} Okay. \end{Gretchen}
+
+\begin{Charlotte} Wir können. Ich jedenfalls. \end{Charlotte}
+
+\begin{Hermann} Der vierundzwanzigste also. Nein, Augenblick
+mal. Da kann ich nicht. Da bin ich zum Essen eingeladen. \end{Hermann}
+
+\begin{Charlotte} Wie wär's denn mit dem fünfundzwanzigsten?\end{Charlotte}
+
+\begin{Hermann} Gut. \end{Hermann}
+
+\begin{Rudi} Von mir aus. \end{Rudi}
+
+\begin{Gretchen} Ja, kann ich verschieben. \end{Gretchen}
+
+\begin{Hermann} Halb acht, okay?\end{Hermann}
+
+\begin{Berthold} Auf gar keinen Fall früher, Herr Vorsitzender.
+Wir diskutieren im Verkehrsausschuß nämlich gerade ein sehr heikles
+Thema. Das kann eine Weile dauern. Wir beraten über den Bauaufschub
+der geplanten Umgehungsstraße und, wie ich uns kenne, wird sich
+das ziemlich in die Länge ziehen. \begin{Regie}Alle außer Leonore
+stehen auf.\end{Regie} \end{Berthold}
+
+\begin{Hermann} Na, Sie werden's schon schaffen. Also dann. Fünfundzwanzigster
+- neunzehn Uhr dreißig. Ich gehe jetzt besser mal zu meiner Frau
+in die Bar. \end{Hermann}
+
+\begin{Gretchen} Ich muss ganz nötig aufs Klo ... \begin{Regie}Gretchen
+stürzt nach draußen.\end{Regie} \begin{Regie}Berthold fängt Rudi
+ab und redet während des Folgenden mit ihm.\end{Regie} \end{Gretchen}
+
+\begin{Hermann} Charlotte, kommst du noch mit? \end{Hermann}
+
+\begin{Berthold} Wissen Sie, diese Versammlungen ufern manchmal
+ganz schön aus, das ist das Problem. Besonders im Verkehrsausschuß
+in letzter Zeit. \end{Berthold}
+
+\begin{Rudi} Ah ja. \end{Rudi}
+
+\begin{Berthold} Sie werden es kaum glauben, aber in den letzten
+fünf Wochen wurden sage und schreibe drei Krisensitzungen anberaumt,
+und das nur, um mit den üblichen Tagesordnungspunkten durchzukommen.
+Die letzten Krisensitzungen haben geschlagene sieben Stunden
+gedauert, so daß uns fürs Mittagessen nur noch knapp eine halbe
+Stunde blieb. \end{Berthold}
+
+\begin{Charlotte} \begin{Regie}währenddessen\end{Regie} Ich komm
+noch auf‘n Sprung mit. Offen gesagt - Ludwig und ich hatten heute
+Abend eine kleine Auseinandersetzung ... \end{Charlotte}
+
+\begin{Hermann} Oh je. \begin{Regie}Er beginnt seine Papiere
+einzusammeln\end{Regie} \end{Hermann}
+
+\begin{Charlotte} Es ging um die Kinder. Nichts Ernstes, hoffe
+ich wenigstens ... \end{Charlotte}
+
+\begin{Hermann} Na ja dann. \end{Hermann}
+
+\begin{Charlotte} Also, ich bin ja der Ansicht, daß man nicht
+mehr so energisch durchzugreifen braucht. Bei den Kindern von
+heute. \begin{Regie}Geht weg\end{Regie} Bis gleich in der Bar.\end{Charlotte}
+
+\begin{Leonore} Sind wir fertig? \end{Leonore}
+
+\begin{Hermann} Ja, das sind wir. Und jetzt, Frau Halbritter
+... \begin{Regie}Dreht sich zu Charlotte um\end{Regie} Charlotte,
+Verehrteste. Was ist denn mit meinem Licht? \end{Hermann}
+
+\begin{Charlotte} Deinem was? \end{Charlotte}
+
+\begin{Hermann} Du, das habe ich doch vor einem Monat bei Euch
+bestellt. Da hieß es eine Woche bis zehn Tage. \end{Hermann}
+
+\begin{Charlotte} Werd' mich morgen früh sofort drum kümmern.\end{Charlotte}
+
+\begin{Hermann} Das will ich auch hoffen. In meinem Laden ist
+es stockduster. Die Kunden stolpern schon über ihre eigenen Füße.
+\begin{Regie}Er lacht\end{Regie} \end{Hermann}
+
+\begin{Charlotte} Werd' mal nachhaken, mein Bester. \begin{Regie}Charlotte
+geht hinaus.\end{Regie} \end{Charlotte}
+
+\begin{Hermann} \begin{Regie}sieht Rudis Not und unterbricht
+Bertholds Redefluß\end{Regie} Entschuldigen Sie einen Augenblick,
+Herr Halbritter. Herr Kropfer, Sie sind doch nicht gleich schon
+wieder weg, oder? Trinken Sie noch ein Gläschen mit uns. \end{Hermann}
+
+\begin{Rudi} \begin{Regie}entfernt sich schnell von Berthold\end{Regie}
+Nein, danke. \end{Rudi}
+
+\begin{Berthold} \begin{Regie}will unbedingt noch zu Ende erzählen\end{Regie}
+- also können Sie sich sicher vorstellen ... \begin{Regie}Er
+geht zu Leonore herüber\end{Regie} \end{Berthold}
+
+\begin{Rudi} Ja. \end{Rudi}
+
+\begin{Berthold} \begin{Regie}hilft Leonore, die mühsam versucht
+aufzustehen\end{Regie} Gleich, Mutter. Einen Augenblick noch.\end{Berthold}
+
+\begin{Hermann} \begin{Regie}legt seine Unterlagen aus der Hand,
+um ihr zu helfen\end{Regie} Warten Sie. Ich - ehm - Wollen Sie
+nicht noch auf ein Gläschen mitkommen? \begin{Regie}Rudi schlendert
+zur Bühne.\end{Regie} \end{Hermann}
+
+\begin{Berthold} Ich fürchte nein. Mutter würde nicht... \end{Berthold}
+
+\begin{Hermann} Nein. \end{Hermann}
+
+\begin{Leonore} Bin ein bißchen steif geworden. \end{Leonore}
+
+\begin{Hermann} So, kommen Sie. \begin{Regie}Er versucht Leonore
+zu helfen\end{Regie} \end{Hermann}
+
+\begin{Leonore} Danke schön. Muß mich nur bewegen. Bleiben wir
+noch auf ein Glas Wein? \end{Leonore}
+
+\begin{Berthold} Nein, Mutter, heute Abend nicht. Paß auf. So,
+das hätten wir geschafft. Es geht schon, Herr Dillmaier, haben
+Sie vielen Dank. \end{Berthold}
+
+\begin{Hermann} Vergessen Sie ihren Mantel nicht. \end{Hermann}
+
+\begin{Berthold} Nein. \end{Berthold}
+
+\begin{Leonore} Nie bleiben wir auf ein Glas Wein. \begin{Regie}Berthold
+und Leonore gehen hinaus. Hermann folgt ihnen und trifft auf
+Gretchen, die gerade wieder hereinkommt.\end{Regie} \end{Leonore}
+
+\begin{Hermann} Kommst du noch mit, Gretchen? \end{Hermann}
+
+\begin{Gretchen} Nein, Hermann, nett von dir. \begin{Regie}Sie
+nimmt ihre Handtasche\end{Regie} Muß nach Hause und das Fleisch
+kleinschneiden für morgen früh. Sofia ist übrigens in der Bar.\end{Gretchen}
+
+\begin{Hermann} Dachte ich mir schon. Gute Nacht. \begin{Regie}Hermann
+geht.\end{Regie} \end{Hermann}
+
+\begin{Rudi} Soll ich Sie mitnehmen? \end{Rudi}
+
+\begin{Gretchen} Huch, ich hab Sie gar nicht gesehen. \end{Gretchen}
+
+\begin{Rudi} Wenn Sie wollen, nehm‘ ich Sie mit. \end{Rudi}
+
+\begin{Gretchen} Ich - also ich, ja, gern. \end{Gretchen}
+
+\begin{Rudi} \begin{Regie}geht in Richtung Tür\end{Regie} Okay.
+Ist allerdings nicht der Standard, den sie wahrscheinlich sonst
+so gewohnt sind. \end{Rudi}
+
+\begin{Gretchen} Ach, wissen Sie, ich bin an einen acht Jahre
+alten Landrover gewöhnt mit kaputtem Vordersitz, in dem es nach
+Hund riecht. Was fahren Sie? \end{Gretchen}
+
+\begin{Rudi} Jedenfalls nicht so eine Luxuslimousine. \end{Rudi}
+
+\begin{Gretchen} \begin{Regie}will ihre Einkaufstaschen holen\end{Regie}
+Das Fest wird bestimmt ein Mordsspaß. \end{Gretchen}
+
+\begin{Rudi} Schon möglich. Aber man könnte auch mehr daraus
+machen. Etwas wirklich Bedeutsames. Für jeden von uns. Eine großartige
+Geschichte. Fand ich jedenfalls. Bringt alles genau auf den Punkt.\end{Rudi}
+
+\begin{Gretchen} Sind Sie wirklich Marxist? \end{Gretchen}
+
+\begin{Rudi} Ja. Und? \end{Rudi}
+
+\begin{Gretchen} Find ich klasse! Wenn es Ihnen Spaß macht. \end{Gretchen}
+
+\begin{Rudi} Und was sind Sie? \end{Rudi}
+
+\begin{Gretchen} Ich glaube eigentlich an nichts. \end{Gretchen}
+
+\begin{Rudi} \begin{Regie}kommt näher\end{Regie} Ach ja. \end{Rudi}
+
+\begin{Gretchen} Warte nur darauf bekehrt zu werden - zu 'ner
+Sache, die auch was taugt. \end{Gretchen}
+
+\begin{Rudi} Wie war's denn mit meiner? \end{Rudi}
+
+\begin{Gretchen} Ach, ist mir im Moment zu anstrengend. \end{Gretchen}
+
+\begin{Rudi} \begin{Regie}lächelt\end{Regie} Muß ja nicht dauernd
+sein? \begin{Regie}Geht nah an Sie heran\end{Regie} Probieren
+Sie's doch einfach mal. Sie wären sicher überrascht. \end{Rudi}
+
+\begin{Gretchen} Nein danke, kein Bedarf im Augenblick. Sie wollen
+ja bestimmt auch gleich nach Hause zu Ihrer - Madame. \end{Gretchen}
+
+\begin{Rudi} Ja, richtig. \begin{Regie}Er wendet sich wieder
+von ihr ab\end{Regie} \end{Rudi}
+
+\begin{Gretchen} \begin{Regie}zeigt auf ihre Einkaufstaschen\end{Regie}
+Wären Sie vielleicht so freundlich?\end{Gretchen}
+
+\begin{Rudi} Ah. \begin{Regie}Er kommt zurück und nimmt sie\end{Regie}
+Mein Gott! Damit wollten Sie doch wohl nicht etwa zu Fuß nach
+Hause gehen? \end{Rudi}
+
+\begin{Gretchen} Jetzt sagen Sie bloß nicht, die sind schwer.
+Sport ist wohl nicht ihr Fach, was? \end{Gretchen}
+
+\begin{Rudi} Nein, Neuere Geschichte. \end{Rudi}
+
+\begin{Gretchen} Toll. \begin{Regie}Horst erscheint im Türeingang.
+Ein Mann Ende vierzig. Er trägt Gummistiefel, einen Schafsfellmantel
+und eine Mütze.\end{Regie} \end{Gretchen}
+
+\begin{Horst} Ach, da bist du ja. \end{Horst}
+
+\begin{Gretchen} Hallo Horst. \end{Gretchen}
+
+\begin{Horst} Bin grade zum Tanken runter gekommen. Dann brauch
+ich morgen früh nicht. \end{Horst}
+
+\begin{Gretchen} Horst, das ist Rudi. Kropfer, richtig? \end{Gretchen}
+
+\begin{Rudi} Ja, Kropfer. \end{Rudi}
+
+\begin{Gretchen} Darf ich vorstellen, mein Bruder Horst. \end{Gretchen}
+
+\begin{Horst} Hallo. \end{Horst}
+
+\begin{Rudi} Hallo. \end{Rudi}
+
+\begin{Gretchen} Rudi ist Lehrer. \end{Gretchen}
+
+\begin{Horst} Ach ja? \end{Horst}
+
+\begin{Rudi} Ja. \end{Rudi}
+
+\begin{Horst} Verstehe. \begin{Regie}Horst mustert Rudi. Er sieht
+nicht gerade begeistert aus. Rudi auch nicht. Schweigen.\end{Regie}\end{Horst}
+
+\begin{Gretchen} \begin{Regie}zu Rudi\end{Regie} Jedenfalls vielen
+Dank. Jetzt brauchen Sie mich ja nicht mehr mitzunehmen. \end{Gretchen}
+
+\begin{Rudi} Nein . . . Hier. \begin{Regie}Er reicht ihr die
+Taschen\end{Regie} \end{Rudi}
+
+\begin{Horst} \begin{Regie}dreht sich zu Gretchen\end{Regie}
+Ich glaube Queenie ist läufig, freut dich doch sicher. \end{Horst}
+
+\begin{Gretchen} Wurde auch Zeit. \end{Gretchen}
+
+\begin{Horst} Gute Nacht wünsch ich. \end{Horst}
+
+\begin{Rudi} Nacht. \end{Rudi}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\TextTeilEnde
+
+
+\TextTeilAnfang
+
+
+
+\begin{Gretchen} Bis dann. Und sagen Sie Ihrer Frau Madame einen
+schönen Gruß.\end{Gretchen}
+
+\begin{Horst} \begin{Regie}während sie gehen\end{Regie} Welcher
+Madame? \end{Horst}
+
+\begin{Gretchen} Na, seiner. \end{Gretchen}
+
+\begin{Horst} Was redest du denn da für einen ... ? \begin{Regie}Gretchen
+und Horst gehen.\end{Regie} \begin{Regie}Rudi starrt ihr noch
+eine Weile nach. Dann streift er gedankenverloren im Raum umher
+und bleibt schließlich vor Hermanns Stuhl am Kopfende des Tisches
+stehen. Er setzt sich. Er läßt seinen Blick bedeutungsvoll über
+die anderen Stühle schweifen. Dann erhebt er sich.\end{Regie}\end{Horst}
+
+\begin{Rudi} \begin{Regie}mit tiefer bebender Stimme\end{Regie}
+Brüder - ich - \end{Rudi}
+
+
+\SchnelleEinstellung{Licht aus!}
+
+\begin{Regie}Das Licht geht aus.\end{Regie} 
+\begin{Rudi}Mensch, verdammt. 
+\begin{Regie}Während er polternd den Ausgang sucht\end{Regie}
+Licht. Zum Teufel, nochmal. Verfluchte - Scheiße ...\end{Rudi}
+\begin{Regie}VORHANG\end{Regie}
+
+
+
+\Einstellung{Dunkel}
+
+\Einstellung{Umbau mit Musik}
+
+\Seite{29}
+
+\begin{Regie}
+Zweite Szene:
+
+Der gleiche Raum. Sitzung am Freitag, den 17. Dezember.
+Hermann kommt herein. Hinter ihm Charlotte mit einer Weihnachtstüte
+und einem halbleeren Glas Whisky in der Hand.\end{Regie}
+
+\Einstellung{Dunkel}
+
+\Einstellung{Hell}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\begin{Hermann} Hier rein, Charlotte. Wir sind ein bißchen früh
+dran. Wird wohl noch eine Weile dauern, bis die anderen kommen.\end{Hermann}
+
+\begin{Charlotte} Danke. \begin{Regie}Charlotte stellt die Tüte
+ab und geht nervös hin und her. Hermann beobachtet ihn.\end{Regie}\end{Charlotte}
+
+\begin{Hermann} Irgendwas nicht in Ordnung, Charlotte? Laufen
+die Vorbereitungen nicht nach deinen Vorstellungen? \end{Hermann}
+
+\begin{Charlotte} Doch, doch - äh - es hat nichts mit dem Komitee
+zu tun, gar nichts. Es ist - äh - wegen - äh - Ludwig - und mir.
+Weißt du, die Sache ist nämlich die - wir trennen uns ... \end{Charlotte}
+
+\begin{Hermann} Oh, ich verstehe. \end{Hermann}
+
+\begin{Charlotte} Ja. \end{Charlotte}
+
+\begin{Hermann} Tut mir leid, Charlotte, tut mir wirklich leid
+für dich ... \end{Hermann}
+
+\begin{Charlotte} Ja, es ist - traurig aber wahr. Bei mir läuft
+in letzter Zeit sowieso fast alles schief. Im Geschäft hat's
+auch Ärger gegeben. Die momentane Wirtschaftslage trifft uns
+kleine Firmen natürlich zu allererst. \end{Charlotte}
+
+\begin{Hermann} Ja, verstehe. \end{Hermann}
+
+\begin{Charlotte} Also trennen wir uns. Ludwig geht es auch gesundheitlich
+nicht so besonders. Das macht es nicht gerade leichter. Aber
+- wenn Sie wollen, daß wir weiter im Komitee bleiben, bleiben
+wir natürlich. \end{Charlotte}
+
+\begin{Hermann} Könnte das nicht ein bißchen unangenehm für euch
+werden? \end{Hermann}
+
+\begin{Charlotte} Nein, weißt du, wir dachten eigentlich daran
+- uns abzuwechseln. Verstehst du, ich komme zu diesem Treffen,
+er zum nächsten. Und so weiter. \end{Charlotte}
+
+\begin{Hermann} \begin{Regie}skeptisch\end{Regie} Nun, ich denke
+schon -ja - ich denke, das ... \end{Hermann}
+
+\begin{Charlotte} Also, offen gesagt - diese - diese Festgeschichte
+- das ist schon irgendwie was Besonderes. Wahrscheinlich das
+einzige, was uns im Moment aufrecht hält, wenn ich ehrlich sein
+soll. Damit wir auf andere Gedanken kommen, verstehen Sie, sonst
+drehen wir am Ende noch durch ...\end{Charlotte}
+
+\begin{Hermann} Ja, ja. \end{Hermann}
+
+\begin{Charlotte} Sicher, früher hatte Ludwig immer noch seine
+Theatergruppe. Aber in letzter Zeit hat er nicht mehr viel gespielt.
+Anscheinend gibt's heute keine anständigen Rollen mehr. Die werden
+aus irgend welchen Gründen nicht mehr geschrieben. \end{Charlotte}
+
+\begin{Hermann} Hm. \end{Hermann}
+
+\begin{Charlotte} Behalte die Sache aber für dich. Bis jetzt
+weiß noch niemand davon. \end{Charlotte}
+
+\begin{Hermann} Ja, natürlich. Ich meine, wenn du sicher bist,
+daß es das Beste für euch ist. Die Arbeit im Komitee kann nämlich
+... \begin{Regie}Sofia kommt herein.\end{Regie} \end{Hermann}
+
+\begin{Sofia} Oh, Entschuldigung. Ich hoffe, ich ...? \begin{Regie}Hermann
+fängt an ein paar Kopien zu korrigieren.\end{Regie} \end{Sofia}
+
+\begin{Charlotte} Nein, nein, Sofia, nein. Schon fertig. Hermann
+wird's dir erzählen, nehm‘ ich an, also will ich euch nicht länger
+aufhalten. Hol mir nur noch grade 'nen Whisky. Bin gleich wieder
+da. \begin{Regie}erblickt ihre Tüte\end{Regie} Oh, bring‘ ich
+eben in die Garderobe. Geschenke. Für die Mädchen. Die sind bei
+den Schwiegereltern. Ach, Hermann, hab mich übrigens um Ihre
+Lampen gekümmert. Müßten eigentlich jeden Tag eintreffen. Hab
+die heute Morgen ganz schön zusammen geschissen. Entschuldigen
+Sie mich. \begin{Regie}Beim Gehen ertönt Flaschenklirren aus
+ihrer Tüte\end{Regie} \begin{Regie}Charlotte geht hinaus.\end{Regie}\end{Charlotte}
+
+\begin{Sofia} Was machst du da? \end{Sofia}
+
+\begin{Hermann} Ich korrigiere nur schnell die Tippfehler im
+Bericht des Vorsitzenden. Sonst können wir uns nachher wieder
+anhören wie Halbritter sie alle aufzählt. \end{Hermann}
+
+\begin{Sofia} Also, ich finde ja immer noch, daß es ein Riesenfehler
+war, ihn als Schriftführer zu wählen. Jetzt wird keiner von uns
+mehr zu Worte kommen ... \end{Sofia}
+
+\begin{Hermann} Na ja ... \end{Hermann}
+
+\begin{Sofia} Und, was hast du grade mit Charlotte besprochen?\end{Sofia}
+
+\begin{Hermann} Sie und Ludwig trennen sich. \end{Hermann}
+
+\begin{Sofia} Na, das ist ja nichts Neues. Und hört sie auf?\end{Sofia}
+
+\begin{Hermann} Nein, sie will weitermachen. \end{Hermann}
+
+\begin{Sofia} Was ist mit ihm? \end{Sofia}
+
+\begin{Hermann} Anscheinend möchte er auch weitermachen. Sie
+wollen sich mit den Treffen abwechseln.\end{Hermann}
+
+\begin{Sofia} Das ist ja lächerlich. \end{Sofia}
+
+\begin{Hermann} Tja, könnte schwierig werden. \end{Hermann}
+
+\begin{Sofia} Das ist doch total lächerlich. Die sollten besser
+aufhören, alle beide. Sind sowieso nicht zu gebrauchen. Sie redet
+nur wirres Zeug und er pennt dauernd ein. Hast du die Dinger
+gesehen, die er schluckt? Ungefähr fünfzehn am Tag. Er isst die
+wie Brot. Irgendwann dreht er noch durch. \end{Sofia}
+
+\begin{Hermann} Ach, mal abwarten, wie's klappt. \end{Hermann}
+
+\begin{Sofia} Das kann ich dir jetzt schon sagen. \end{Sofia}
+
+\begin{Hermann} Wenn's sein muß werde ich die beiden schon los.
+Im Moment fände ich es nur ziemlich herzlos. \end{Hermann}
+
+\begin{Sofia} Na gut. Wie ich gehört habe, gehen sie sowieso
+bald pleite, \begin{Regie}sie geht umher\end{Regie} Mann, könnte
+dieser Raum nicht ein bißchen freundlicher sein. Die Bar mußte
+ich ja leider fluchtartig verlassen. Der örtliche Vertreter der
+Roten Armee kam hereinspaziert. Und rate mal mit wem? \end{Sofia}
+
+\begin{Hermann} Gretchen? \end{Hermann}
+
+\begin{Sofia} Horst macht sich mittlerweile schon große Sorgen
+um sie. \end{Sofia}
+
+\begin{Hermann} Ja, das sagtest du. \end{Hermann}
+
+\begin{Sofia} Er hat mich sogar angerufen deswegen. \end{Sofia}
+
+\begin{Hermann} Ja, ich weiß. \end{Hermann}
+
+\begin{Sofia} Stell dir vor, da sitzen die doch in der Bar und
+halten Händchen. \end{Sofia}
+
+\begin{Hermann} Ah ja... \end{Hermann}
+
+\begin{Sofia} Irgendwie kann ich Horst verstehen. Ich meine,
+ihr Leben ist ein einziges Chaos. Und er will nicht, daß ihr
+noch mal so was passiert. \end{Sofia}
+
+\begin{Hermann} Vielleicht passiert ja gar nichts. Warte doch
+erst mal ab. \end{Hermann}
+
+\begin{Sofia} Siehst du denn nicht, daß sie schon wieder haargenau
+dasselbe macht wie letztes Mal... Sicher, Horst ist schon ein
+merkwürdiger Typ. Aber irgendwie bewundere ich ihn auch. \end{Sofia}
+
+\begin{Hermann} Nun, er ist eben ein - er ist schon in Ordnung,
+unser Oberleutnant Boll. \end{Hermann}
+
+\begin{Sofia} Ich hab da so ein Gerücht gehört. Ich weiß zwar
+nicht, ob's stimmt, aber angeblich schläft er mit einem geladenen
+Revolver unterm Kopfkissen. Und nachts soll er sogar schon mal
+'ne Katze erschossen haben. \end{Sofia}
+
+\begin{Hermann} Na ja ...\end{Hermann}
+
+\begin{Sofia} Die von Frau Meisner. Aus Versehen. \begin{Regie}Berthold
+und Leonore kommen herein.\end{Regie} \end{Sofia}
+
+\begin{Berthold} Guten Abend. \end{Berthold}
+
+\begin{Sofia} Hallo, guten Abend. \end{Sofia}
+
+\begin{Hermann} Guten Abend, Herr Halbritter. \end{Hermann}
+
+\begin{Berthold} Und die besten Wünsche für die Festtage. Wieder
+hier, was? \end{Berthold}
+
+\begin{Leonore} Guten Abend. \end{Leonore}
+
+\begin{Sofia} Hallo, Frau Halbritter. Wie geht es Ihnen? \end{Sofia}
+
+\begin{Berthold} \begin{Regie}setzt Leonore an ihren gewohnten
+Platz\end{Regie} So, Mutter, da wären wir. Sie hat gerade noch
+Klavierunterricht gegeben. Deswegen haben wir uns leider ein
+wenig verspätet. \end{Berthold}
+
+\begin{Sofia} Aber nein, pünktlich auf die Minute. Wie immer.\end{Sofia}
+
+\begin{Berthold} \begin{Regie}sieht Hermanns Bericht\end{Regie}
+Ah, wie ich sehe haben Sie sie schon korrigiert, Herr Vorsitzender.
+Ich hätte sonst in der Sitzung darauf hingewiesen. \end{Berthold}
+
+\begin{Hermann} \begin{Regie}lacht\end{Regie} Nun, Herr Stadtrat,
+ich dachte, ich komme Ihnen mal zuvor. \end{Hermann}
+
+\begin{Berthold} Ah ja. \end{Berthold}
+
+\begin{Sofia} Was machen Ihre Recherchen, Frau Halbritter? \end{Sofia}
+
+\begin{Leonore} Meine Recherchen? Noch nicht sehr viel bisher.
+Aber wir suchen weiter. \end{Leonore}
+
+\begin{Sofia} Was, noch nichts gefunden? \end{Sofia}
+
+\begin{Leonore} Nein. \end{Leonore}
+
+\begin{Sofia} Du meine Güte! Na, solange Sie vor dem Stadtfest
+noch fündig werden. \end{Sofia}
+
+\begin{Leonore} Das werde ich, ganz bestimmt. \end{Leonore}
+
+\begin{Berthold} Sie ist schon eifrig am Lesen.. Manchmal liest
+sie ganze Nächte durch. Ich wünschte nur, ich hätte ihr Augenlicht.
+Aber ich komme da wohl eher auf meinen Vater, leider ... \begin{Regie}Rudi
+und Gretchen kommen herein. Sie halten nicht mehr Händchen, aber
+sie bleiben dicht beieinander. Rudi trägt einen Aktenordner.
+Charlotte schlendert hinter ihnen herein. Sie hat einen doppelten
+Whisky in der Hand\end{Regie}\end{Berthold}
+
+\begin{Berthold} Guten Abend. \end{Berthold}
+
+\begin{Gretchen} Hallo. \end{Gretchen}
+
+\begin{Rudi} 'N Abend. \end{Rudi}
+
+\begin{Charlotte} Bin wieder da. \end{Charlotte}
+
+\begin{Leonore} Guten Abend. Fröhliche Weihnachten. \begin{Regie}Sofia
+mustert Gretchen und Rudi. Alle setzen sich, Hermann nimmt am
+Kopfende Platz.\end{Regie} \end{Leonore}
+
+\begin{Hermann} An der Heizung hat sich leider noch nicht viel
+geändert. Der Direktor sagte, das hätte mit einer Luftblase im
+Heizkörper zu tun. Trotzdem, ich heiße Sie herzlich willkommen.
+Ich denke, wir können unser drittes Treffen heute ziemlich kurz
+machen. Es ist ja nur eine Art Zwischenbilanz. Gut. Irgendwelche
+Entschuldigungen wegen Abwesenheit, Stadtrat Halbritter? \end{Hermann}
+
+\begin{Berthold} Ja, Herr Vorsitzender. Zunächst von Herr v.
+Hoffschmidt, der sehr gehofft hatte an der heutigen Sitzung teilnehmen
+zu können, jedoch zu seinem großen Bedauern überraschend fort
+mußte. Allerdings möchte er, wie mir seine Frau vorhin am Telefon
+versicherte, sein anhaltendes Interesse an unserer Arbeit im
+Komitee bekunden. Herr Müller lässt sich ebenfalls entschuldigen.\end{Berthold}
+
+\begin{Charlotte} Unpäßlich, Herr Vorsitzender. \end{Charlotte}
+
+\begin{Hermann} Richtig, ja. So, ich denke, wir können das Protokoll
+überspringen, da Frau Halbritter augenblicklich noch daran arbeitet,
+und zu Punkt drei der Tagesordnung übergehen. Bericht des Vorsitzenden.
+Wenn Sie sich bitte alle eine Kopie nehmen wollen. Also, das
+Problem ist folgendes. Der Kulturausschuß sah in diesem Jahr
+leider keine Möglichkeit, uns eine finanzielle Unterstützung
+zu gewähren. \end{Hermann}
+
+\begin{Berthold} Dürfte ich Sie wohl einen Moment unterbrechen,
+Herr Vorsitzender ... \begin{Regie}Gretchen und Rudi flüstern
+während des Folgenden. Sofia starrt sie wütend an.\end{Regie}
+Ich war bei der besagten Sitzung zugegen und habe mich vehement
+für unseren Plan eingesetzt. Obwohl man unser Vorhaben mit außerordentlichem
+Interesse und Wohlwollen verfolgt, vertrat der Kulturausschuß
+leider die Ansicht, daß in Anbetracht der etwas angespannten
+Finanzlage, in der sich der Stadtrat momentan befindet, keinerlei
+Zuschuß bewilligt werden kann. \end{Berthold}
+
+\begin{Hermann} Danke, Herr Halbritter. \end{Hermann}
+
+\begin{Sofia} Hast du das mitbekommen, Gretchen?\end{Sofia}
+
+\begin{Gretchen} Was? Oh ja. \end{Gretchen}
+
+\begin{Sofia} Ich dachte, du hättest es vielleicht überhört.\end{Sofia}
+
+\begin{Gretchen} Nein. \end{Gretchen}
+
+\begin{Hermann} Das heißt also mit anderen Worten, wir müssen
+ein wenig in die eigene Tasche greifen - \begin{Regie}Charlotte
+räuspert sich.\end{Regie} - wenn's geht, und sollten auch über
+andere Finanzierungsmöglichkeiten nachdenken wie zum Beispiel
+Wohltätigkeitsbasare oder Kaffeekränzchen, um das nötige Geld
+zusammen zu kriegen. \end{Hermann}
+
+\begin{Leonore} \begin{Regie}zu Charlotte\end{Regie} Wo ist denn
+Ihr Mann? \end{Leonore}
+
+\begin{Charlotte} Wie bitte? \end{Charlotte}
+
+\begin{Leonore} Wo ist Ihr lieber Mann? Kommt er heute Abend
+nicht? \end{Leonore}
+
+\begin{Charlotte} \begin{Regie}murmelt\end{Regie} Nein, er ist
+- äh - unpäßlich. \end{Charlotte}
+
+\begin{Leonore} Er ist was? \end{Leonore}
+
+\begin{Hermann} Er ist unpäßlich, Frau Halbritter. \end{Hermann}
+
+\begin{Leonore} Unpäßlich? Oh je. Was fehlt ihm denn? \begin{Regie}Charlotte
+lächelt schwach. Sofia lacht trocken auf.\end{Regie} \end{Leonore}
+
+\begin{Rudi} \begin{Regie}mit Nachdruck\end{Regie} Herr Vorsitzender,
+gehe ich richtig in der Annahme, daß wir jetzt bei Punkt vier
+der Tagesordnung angelangt sind. \end{Rudi}
+
+\begin{Hermann} Ja, ganz recht. Ja. \end{Hermann}
+
+\begin{Rudi} Wobei es sich um den vorläufigen Bericht der Aktionsgruppe
+handelt, die wir beim letzten Mal gebildet haben ... \end{Rudi}
+
+\begin{Sofia} Die Sie beim letzten Mal gebildet haben ... \end{Sofia}
+
+\begin{Rudi} Und die unter Frau Bolls und meinem Vorsitz steht.
+Also, wir haben bereits einige Nachforschungen angestellt, die
+die Realisierbarkeit unseres Vorhabens betreffen und aus diesem
+Grund ein paar Außenstehende in die Gruppe gebeten, die uns sehr
+nützlich erschienen. Nun ... \end{Rudi}
+
+\begin{Sofia} Entschuldigen Sie, Herr Vorsitzender, aber dürften
+wir vielleicht erfahren, wer diese Personen sind? Wen genau Herr
+Kropfer ohne unser Wissen hinzu gebeten hat.\end{Sofia}
+
+\begin{Rudi} Selbstverständlich. Zum einen Herr Raimund Schnaith,
+Professor für Soziologie an der TH. Er will uns auch bei der
+Suche nach Freiwilligen für das Schauspiel behilflich sein. Dann
+noch Herr Platt, der an der Gesamtschule Kunst unterrichtet.
+Und Herr Roland Sauerbier, der bei Maschinenbau Foxton arbeitet
+... \end{Rudi}
+
+\begin{Berthold} Herr Sauerbier? Den Namen habe ich noch nie
+gehört. Eigentlich kenne ich die meisten Angestellten bei Foxton.\end{Berthold}
+
+\begin{Rudi} Ich kann Ihnen versichern, daß er dort schon seit
+mehreren Jahren tätig ist, unter anderem auch als Betriebsrat.\end{Rudi}
+
+\begin{Berthold} Ah, verstehe. \end{Berthold}
+
+\begin{Sofia} Ach, du lieber Himmel! \end{Sofia}
+
+\begin{Rudi} Und schließlich Frl. Sarah Prinz und Herr Max Kirkov,
+die beide zur Zeit noch studieren. \end{Rudi}
+
+\begin{Sofia} Herr was? \end{Sofia}
+
+\begin{Rudi} Herr Kirkov. \end{Rudi}
+
+\begin{Sofia} Russen, hab ich's nicht gleich gesagt. \end{Sofia}
+
+\begin{Rudi} Nein, Herr Kirkov kommt, soweit ich weiß, aus Vorderschellenbach,
+in Bayern. Er ist der geborene Sportler und ich finde ihn wie
+geschaffen für die Rolle des Hans-Ulrich Gämperlin. Zufällig
+hat er sogar einen Bart. \end{Rudi}
+
+\begin{Hermann} Nun, das ist ja wunderbar. \end{Hermann}
+
+\begin{Rudi} Das College, an das ich ebenfalls herangetreten
+bin, ist bereit, unsere Öffentlichkeitsarbeit zu unterstützen
+und will uns seine Druckmaschinen unentgeltlich zur Verfügung
+stellen. \end{Rudi}
+
+\begin{Hermann} Aber das ist ja großartig. Vielen Dank Herr Kropfer.
+Sie sind ja schon richtig aktiv gewesen. \end{Hermann}
+
+\begin{Sofia} Ja. \end{Sofia}
+
+\begin{Rudi} Herr Vorsitzender, ich würde dem Komitee an dieser
+Stelle gern einen Vorschlag machen. Ich denke, es wäre sinnvoll,
+wenn wir die Verantwortung für unsere Kundgebung in organisatorische
+Teilbereiche aufgliedern würden. \end{Rudi}
+
+\begin{Hermann} Ich kann Ihnen nicht ganz folgen, Herr Kropfer.\end{Hermann}
+
+\begin{Rudi} Nun, mir scheint, als würden sich innerhalb unserer
+Kundgebung zwei deutlich erkennbare Fraktionen herauskristallisieren
+... \end{Rudi}
+
+\begin{Sofia} Er soll aufhören, es eine Kundgebung zu nennen.\end{Sofia}
+
+\begin{Rudi} Tut mir leid. \end{Rudi}
+
+\begin{Sofia} Es ist nämlich ein Festspiel und keine Kundgebung.\end{Sofia}
+
+\begin{Rudi} Also gut, dann eben Festspiel. Und wo ist da der
+Unterschied? \end{Rudi}
+
+\begin{Sofia} Zwischen einem Festspiel und einer Kundgebung ist
+ein himmelweiter Unterschied, mein Lieber, und, wenn Sie nicht
+sofort... \end{Sofia}
+
+\begin{Rudi} Hören Sie zu, gnädige Frau, wenn Sie gern über semantische
+Spitzfindigkeiten diskutieren wollen, tun Sie das bitte hinterher,
+ja ... \end{Rudi}
+
+\begin{Sofia} Wie ich Sie kenne, sind Sie doch hinterher viel
+zu beschäftigt dafür. \end{Sofia}
+
+\begin{Hermann} Einen Moment mal bitte. Sofia, du fällst aus
+der Rolle, genug jetzt. \end{Hermann}
+
+\begin{Sofia} Wie meinst du das, ich fall aus der Rolle? Hör
+auf, so mit mir zu reden. \end{Sofia}
+
+\begin{Hermann} Nein, ich fürchte - wenn der Vorsitzende - wenn
+der Vorsitzende dich auffordert, still zu sein, dann mußt du
+dich auch daran halten, ob du willst oder nicht. Das habe ich
+dir schon mal gesagt. Tut mir leid, aber ... \end{Hermann}
+
+\begin{Sofia} Jetzt hör mir mal gut zu. Ich werde mich - weder
+von dir noch von irgend jemand anders - niedermachen oder tyrannisieren
+lassen. Du führst dich hier sowieso schon die ganze Zeit auf
+wie ein mieser kleiner Diktator ... \end{Sofia}
+
+\begin{Hermann} \begin{Regie}besänftigend\end{Regie} Würdest
+du Herrn Kropfer jetzt bitte ausreden lassen, Sofia. Bitte. \end{Hermann}
+
+\begin{Sofia} \begin{Regie}murmelt\end{Regie} Na schön, wenn
+du dich unbedingt auf seine Seite schlagen willst... \end{Sofia}
+
+\begin{Hermann} Herr Kropfer? In Funktionen aufteilen, sagten
+Sie. \end{Hermann}
+
+\begin{Rudi} Danke sehr, Herr Vorsitzender. In Fraktionen aufteilen.
+Unser Festspiel spaltet sich automatisch in zwei Fraktionen.
+Auf der einen Seite haben wir das Militär, auf der anderen das
+Proletariat, hier verkörpert durch die Zwölf. \end{Rudi}
+
+\begin{Hermann} Ja. \end{Hermann}
+
+\begin{Rudi} Wegen des erheblichen organisatorischen Aufwands
+würde ich mich glücklich schätzen, die Rekrutierung und die Proben
+der Zwölf sowie der gesamten Marktplatzgruppe übernehmen zu dürfen,
+sofern jemand anders dazu bereit wäre, sich um den militärischen
+Teil zu kümmern. \end{Rudi}
+
+\begin{Hermann} Aha, ich verstehe. Sie meinen wie zwei Mannschaftsführer.\end{Hermann}
+
+\begin{Rudi} Ganz genau, Herr Vorsitzender. Die selbstverständlich
+aufs engste zusammenarbeiten ... \end{Rudi}
+
+\begin{Hermann} Ich finde das einen sehr vernünftigen Vorschlag.\end{Hermann}
+
+\begin{Berthold} Ja. Ja ... \end{Berthold}
+
+\begin{Charlotte} Hört! Hört! \end{Charlotte}
+
+\begin{Sofia} Also, ich finde das ist ein schrecklicher Vorschlag.\end{Sofia}
+
+\begin{Hermann} Was paßt dir denn nun schon wieder nicht? \end{Hermann}
+
+\begin{Sofia} Wozu aufteilen? Wir sind doch ein Team? Wir greifen
+uns gegenseitig unter die Arme. Was soll das mit diesen Grüppchen,
+die einen hier, die anderen da, als ob sie Kriegsrat halten würden
+... \end{Sofia}
+
+\begin{Hermann} Aber, das hat doch rein organisatorische Gründe.\end{Hermann}
+
+\begin{Sofia} Nein, mit organisatorischen Gründen hat das überhaupt
+nichts zu tun. Er führt doch irgendwas im Schilde. Und das paßt
+ihm genau in seinen Kram. So arbeiten die doch. Genau so kommen
+die an die Macht. Indem sie Leute in klitzekleine Grüppchen aufspalten.\end{Sofia}
+
+\begin{Hermann} Also, Sofia, wirklich, jetzt red keinen Unsinn
+... \end{Hermann}
+
+\begin{Sofia} Schau ihn dir doch an. Er hat ja sogar schon sein
+eigenes Komitee gegründet mit dem halben organisierten Pöbel
+aus unserem Bezirk ... \end{Sofia}
+
+\begin{Rudi} Jetzt reicht's aber. Schluß jetzt. Wie kommen Sie
+dazu, derartige Behauptungen aufzustellen? \end{Rudi}
+
+\begin{Sofia} Es ist doch wohl nicht zu übersehen, daß dieser
+Mann unser Komitee für niederträchtigste Zwecke mißbrauchen will.\end{Sofia}
+
+\begin{Rudi} \begin{Regie}hält ein Blatt Papier hoch\end{Regie}
+Also gut, in Ordnung. Hier ist die Namensliste meiner Arbeitsgruppe.
+Sie sagen mir jetzt auf der Stelle, gegen wen Sie etwas einzuwenden
+haben und warum. \end{Rudi}
+
+\begin{Sofia} Weiß der Teufel, was er sich davon erhofft. \end{Sofia}
+
+\begin{Rudi} \begin{Regie}steht auf und pocht mit dem Finger
+auf das Blatt Papier\end{Regie} Gegen welche dieser Personen
+haben Sie etwas einzuwenden und warum? \end{Rudi}
+
+\begin{Berthold} \begin{Regie}steht auf\end{Regie} Herr Vorsitzender
+... \end{Berthold}
+
+\begin{Sofia} \begin{Regie}steht auf\end{Regie} Was weiß ich,
+was dieser Kerl sich davon verspricht, die Führung in unserem
+Komitee an sich zu reißen, wo es doch eigentlich nur unsere Aufgabe
+ist, ein bißchen Freude und Heiterkeit in diese Stadt zu bringen.\end{Sofia}
+
+\begin{Rudi} \begin{Regie}hält ihr das Blatt Papier genau unter
+die Nase\end{Regie} Gegen welche dieser Personen haben Sie etwas
+einzuwenden und warum? \end{Rudi}
+
+\begin{Sofia} \begin{Regie}stößt das Blatt weg\end{Regie} Würden
+Sie bitte aufhören, mir mit diesem Blatt im Gesicht herumzufuchteln.\end{Sofia}
+
+\begin{Berthold} Herr Vorsitzender ... \end{Berthold}
+
+\begin{Hermann} \begin{Regie}steht auf\end{Regie} Ruhe bitte!
+Ruhe! RUHE! \begin{Regie}Stille\end{Regie} Danke sehr. Also,
+bitte. Herr Kropfer. \begin{Regie}Sie setzen sich alle hin.\end{Regie}\end{Hermann}
+
+\begin{Rudi} \begin{Regie}ruhig\end{Regie} Darf ich fragen, Herr
+Vorsitzender, gegen welche dieser Personen Frau Dillmaier etwas
+einzuwenden hat und warum? \end{Rudi}
+
+\begin{Hermann} Also, Sofia? \end{Hermann}
+
+\begin{Sofia} Was? \end{Sofia}
+
+\begin{Hermann} Gegen welche dieser Personen hast du etwas einzuwenden
+und warum? \end{Hermann}
+
+\begin{Sofia} Nun ja. Ich weiß nicht. Aber, ich meine, nehmen
+wir nur mal diesen Betriebsrat von Foxton. Da ist doch irgendwas
+faul dran. Was hat der hier verloren? \end{Sofia}
+
+\begin{Rudi} Er hat Interesse, das ist alles. Ich wüßte nicht,
+warum ein Ingenieur kein Interesse haben sollte. \end{Rudi}
+
+\begin{Sofia} Nun, ich denke, er sollte besser Maschinen bauen.
+Oder sonst was. Schließlich ist er Ingenieur. Und hat absolut
+nichts mit Kunst zu tun. So ein Schwachsinn. Völliger Quatsch.\end{Sofia}
+
+\begin{Rudi} Herr Vorsitzender, um weiteren Streitigkeiten aus
+dem Weg zu gehen, schlage ich vor, wir stimmen darüber ab. Also,
+ist das Komitee damit einverstanden, wenn wir eine Aufteilung
+des Festspiels in zwei unabhängig voneinander organisierte aber
+eng miteinander koordinierte Gruppen vornehmen? \end{Rudi}
+
+\begin{Berthold} Das wollte ich auch gerade vorschlagen, Herr
+Vorsitzender. \end{Berthold}
+
+\begin{Hermann} Ja, das scheint wohl das Beste zu sein. Dann
+lassen Sie uns also abstimmen. Ist das Komitee damit einverstanden
+- und so weiter. Alle, die für eine Aufteilung der Verantwortung
+sind, bitte einmal Hand hoch. \begin{Regie}Berthold, Charlotte,
+Rudi und Gretchen heben die Hand\end{Regie} Gegenstimmen? \begin{Regie}Sofia
+hebt die Hand\end{Regie} Also, Vorschlag angenommen. \end{Hermann}
+
+\begin{Sofia} Moment mal, wir haben Frau Halbritter vergessen.\end{Sofia}
+
+\begin{Berthold} Ich bin nicht sicher, ob sie auch alles mitbekommen
+hat.\end{Berthold}
+
+\begin{Hermann} Ändert sowieso nichts am Ergebnis. \end{Hermann}
+
+\begin{Sofia} Na gut, ich hab getan, was ich konnte. Ihr habt
+es nicht anders gewollt. \end{Sofia}
+
+\begin{Charlotte} \begin{Regie}räuspert sich\end{Regie} Ehm ...\end{Charlotte}
+
+\begin{Hermann} Charlotte. \end{Hermann}
+
+\begin{Charlotte} \begin{Regie}steht auf\end{Regie} Herr Vorsitzender,
+es kommt zwar nicht häufig vor, daß ich mich bei solchen Anlässen
+zu Wort melde - weil ich nämlich der Auffassung bin, dass man
+zügig voran machen sollte. Aber ich finde einfach, jemand muß
+ein paar Worte zu Frau - ehm - Dillmaiers Verteidigung sagen,
+deren Argumente mich zutiefst gerührt haben, schienen sie mir
+doch - von ganzem Herzen zu kommen. \begin{Regie}Rudi rutscht
+tiefer in seinen Stuhl. Charlotte sieht ihn.\end{Regie} Sie können
+ruhig tiefer in Ihren Stuhl rutschen, junger Mann. Lassen Sie
+mich nur eins sagen. Sie hatten ja heute auch schon mehrfach
+Gelegenheit dazu. Also, ich finde es höchst selten, wenn in unserer
+heutigen Zeit, die so voller Zynismus und fehlendem Idealismus
+ist, jemand ganz offen und ehrlich sagt, was er denkt. Woran
+unsere Gesellschaft nämlich heute krankt, ist der Verlust dessen,
+was uns einst lieb und teuer war. Damit meine ich unter anderem
+auch unseren Begriff von Heim und Familie, der durch diesen ganzen
+wirtschaftlichen Druck langsam und allmählich verwässert wurde.
+Ich als Geschäftsfrau habe die Konsequenzen daraus am eigenen
+Leib zu spüren bekommen. Manchmal ist es leider unvermeidbar,
+daß auch das Privatleben in Mitleidenschaft gezogen wird, aber
+damit möchte ich Sie jetzt nicht weiter langweilen. Was ich nur
+sagen will ist, daß ich Frau Dillmaier bewundere. Ich bewundere
+Sie für Ihren Idealismus. Ich bewundere Sie als Frau und ich
+bewundere Sie als Mensch ... \end{Charlotte}
+
+\begin{Sofia} \begin{Regie}aus dem Mundwinkel\end{Regie} Was
+faselt die da? \end{Sofia}
+
+\begin{Charlotte} Das war's eigentlich schon. Mein Leben ist
+ruiniert, aber das ist allein meine Schuld. Man kann ja nicht
+die Regierung dafür verantwortlich machen, wenn einem das Haus
+über dem Kopf zusammenbricht. Das wäre zu schön um wahr zu sein.
+Bei Gott. Ich danke Ihnen. \begin{Regie}Charlotte setzt sich.
+Betretenes Schweigen.\end{Regie} \end{Charlotte}
+
+\begin{Hermann} \begin{Regie}schließlich\end{Regie} Ja, danke,
+Charlotte. Ich bin sicher, daß uns das allen zu denken geben
+wird. \end{Hermann}
+
+\begin{Berthold} Hört! Hört! \end{Berthold}
+
+\begin{Leonore} Heute Abend ist es schon viel wärmer hier, finden
+Sie nicht?\end{Leonore}
+
+\begin{Hermann} Ja. Wir haben also beschlossen, die Verantwortung
+aufzuteilen. Herr Kropfer übernimmt die Marktplatzgruppe. Wer
+von Ihnen wäre denn bereit, den militärischen Teil zu organisieren?
+\begin{Regie}Schweigen\end{Regie} Nun? \end{Hermann}
+
+\begin{Sofia} Ich. \end{Sofia}
+
+\begin{Hermann} Oh. Bist du sicher, Sofia? Ich meine, das ist
+eine ganz schöne Aufgabe. \end{Hermann}
+
+\begin{Sofia} Ich schaffe das schon. Wenn's sein muß, hol ich
+mir eben Hilfe. Genau wie Herr Kropfer. \end{Sofia}
+
+\begin{Hermann} Na gut, wenn du meinst. \end{Hermann}
+
+\begin{Sofia} Das Hauptproblem sind, denke ich, die Kostüme.
+Die Militäruniformen und das Ganze drum und dran. Die müssen
+wir uns irgendwo leihen oder zur Not auch klauen. Ich überlege
+nur gerade, Herr Vorsitzender, ob es nicht vielleicht möglich
+wäre, jemanden ins Komitee zu bitten, der mich bei meiner Arbeit
+unterstützt. \end{Sofia}
+
+\begin{Hermann} Also, ich glaube nicht, daß irgend jemand etwas
+dagegen hätte. Oder? \begin{Regie}Allgemeines Kopfschütteln.
+Rudi schaut mißtrauisch.\end{Regie} Vielleicht wäre Frau Pakenham
+... \end{Hermann}
+
+\begin{Sofia} Nein, keine Sorge. Ich finde schon eine geeignete
+Person. \end{Sofia}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\TextTeilEnde
+
+
+\TextTeilAnfang
+
+
+
+\begin{Hermann} Gut. Wunderbar. Also, sieht ganz danach aus,
+als würden wir Fortschritte machen. \end{Hermann}
+
+\begin{Sofia} Darf ich nur noch schnell hinzufügen, Herr Vorsitzender,
+daß wir von der Militärgruppe alles nur Erdenkliche tun werden,
+damit dieses Festspiel ein voller Erfolg wird. \end{Sofia}
+
+\begin{Rudi} Das Gleiche gilt auch für uns, Herr Vorsitzender.\end{Rudi}
+
+\begin{Berthold} Bravo! \end{Berthold}
+
+\begin{Hermann} Ja, das hört sich ja alles sehr vielversprechend
+an. Ich danke Ihnen beiden. War sonst noch was? Nein? \begin{Regie}steht
+auf\end{Regie} Gut. Ich wünsche Ihnen also fröhliche Weihnachten.
+Sollen wir uns noch ein bißchen nach nebenan vertagen? \begin{Regie}er
+geht zur Tür, dreht sich dann um\end{Regie} Ehm ... ?\end{Hermann}
+
+
+\begin{Regie}VORHANG\end{Regie}
+
+\Einstellung{Dunkel}
+
+
+\Einstellung{Umbau mit Musik}
+
+\Seite{42}
+
+
+\begin{Regie}
+Dritte Szene:\end{Regie}
+
+
+
+\Einstellung{Dunkel}
+
+\Einstellung{Hell}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\begin{Regie}
+Der gleiche Raum. Sitzung am Donnerstag, den 19. Mai. 
+Gretchen kommt herein. Sie trägt einen Ordner mit der Aufschrift
+,persönlich'. Sie legt ihn auf den Tisch und setzt sich. Kurz
+darauf erscheint Horst im Türeingang. Er ist genauso gekleidet
+wie beim letzten Mal und schaut sie prüfend an.\end{Regie} 
+
+\begin{Horst} Hör mal, Gretchen ... \end{Horst}
+
+\begin{Gretchen} \begin{Regie}schaut hoch\end{Regie} Ja was ist?\end{Gretchen}
+
+\begin{Horst} Gretchen, so kann das nicht weitergehen. Was zum
+Teufel wird hier eigentlich gespielt? Was soll dieser ganze Quatsch?\end{Horst}
+
+\begin{Gretchen} \begin{Regie}in ihre Unterlagen vertieft\end{Regie}
+Wie meinst du das? \end{Gretchen}
+
+\begin{Horst} Das weißt du ganz genau. Nach Hause kommst du wohl
+auch nicht mehr, was? Die Zwinger sehen mittlerweile schon aus
+wie Sau. Du hast nicht nur mich im Stich gelassen, sondern, was
+noch viel schlimmer ist, du vernachlässigst die Hunde. \end{Horst}
+
+\begin{Gretchen} Ich hab dir schon mal gesagt, daß ich sehr beschäftigt
+bin. Muß ne Menge für's Komitee tun. \end{Gretchen}
+
+\begin{Horst} Aber deshalb kannst du doch ... \begin{Regie}Vom
+Stockwerk darüber ertönt lautes Hämmern.\end{Regie} Verdammt,
+was ist das denn? \end{Horst}
+
+\begin{Gretchen} \begin{Regie}zieht den Mantel aus\end{Regie}
+Keine Ahnung. Wahrscheinlich irgendwelche Handwerker. \begin{Regie}Sie
+trägt ein FRANZ BARTL T-Shirt. Vorne ist ein Bild, vermutlich
+von Hartel, das Rudi sehr stark ähnelt, mit der Aufschrift FRANZ
+BARTL. Auf der Rückseite steht: GÄMPERLIN LEBE HOCH\end{Regie}\end{Gretchen}
+
+\begin{Horst} Was zum Teufel trägst du da? \end{Horst}
+
+\begin{Gretchen} Unser Zwölf-von-Kapellingen-T-Shirt. Gefällt
+es dir? Die wollen wir verkaufen. Hat das College für uns gemacht.\end{Gretchen}
+
+\begin{Horst} Der Typ da vorne drauf - ist das nicht? \end{Horst}
+
+\begin{Gretchen} Franz Hartel. \end{Gretchen}
+
+\begin{Horst} Nein, dieser Kerl, mit dem - du arbeitest ... \end{Horst}
+
+\begin{Gretchen} Rudi Kropfer? Ja, gewissermaßen. Wir haben ihn
+als Vorbild genommen. Schließlich existieren von Hartel keine
+Bilder. Und weil Rudi ihn ja auch spielt, haben wir uns gedacht
+...\end{Gretchen}
+
+\begin{Horst} Das gefällt mir ganz und gar nicht. Ich hab dir
+schon mal gesagt... \begin{Regie}Erneutes Hämmern. Er wartet,
+bis es aufhört.\end{Regie} Und ich sag's dir jetzt noch mal.
+Was ich von ihm gehört habe, gefällt mir ganz und gar nicht.
+Und es gefällt mir auch nicht, daß du mit ihm verkehrst. \end{Horst}
+
+\begin{Gretchen} Pech. \end{Gretchen}
+
+\begin{Horst} Wenn ich mich nicht irre, hat er doch auch sowas
+ähnliches wie ne Frau, oder? \end{Horst}
+
+\begin{Gretchen} Ja. \end{Gretchen}
+
+\begin{Horst} Na also. \end{Horst}
+
+\begin{Gretchen} Elisabeth und ich verstehen uns zufällig sehr
+gut. Ich hab sie gern, na und? \end{Gretchen}
+
+\begin{Horst} Das mag ja auch alles sein - aber begreifst du
+denn nicht, Gretchen, früher oder später ... \begin{Regie}Erneutes
+Hämmern. Er wartet, bis es aufhört.\end{Regie} Früher oder später
+wird er dir wehtun. Sobald er von dir bekommen hat, was er wollte,
+wird er dich sitzenlassen. Genau wie dieser andere Kerl. Dieser
+Sören. \end{Horst}
+
+\begin{Gretchen} Sören war total selbstsüchtig und egozentrisch.
+Er hat nie wirklich mit dem Gedanken gespielt, seine Frau wegen
+mir zu verlassen. Dafür war er viel zu spießig und zu bequem.\end{Gretchen}
+
+\begin{Horst} Aber dieser Rudi würde es tun, wie? \end{Horst}
+
+\begin{Gretchen} Nein. Aber er behauptet es auch nicht. Und außerdem
+liebt er seine Elisabeth. \end{Gretchen}
+
+\begin{Horst} Aber ... \end{Horst}
+
+\begin{Gretchen} Da ist für uns beide Platz. \end{Gretchen}
+
+\begin{Horst} Aber ich - ich - ich ... \begin{Regie}Wieder Hämmern.
+Er geht hin und her, bis das Hämmern aufhört.\end{Regie} Und
+was ist mit ihr? Was sagt sie dazu? \end{Horst}
+
+\begin{Gretchen} Elisabeth? Sie scheint ganz glücklich dabei
+zu sein. Hör zu, Horst, ich muß vor der Sitzung noch ein paar
+Dinge erledigen. Tut mir leid. \end{Gretchen}
+
+\begin{Horst} Also, ich weiß nicht. Ich weiß wirklich nicht.
+Ich hoffe nur, daß du weißt, was du tust, Gretchen. Ich komm
+nachher vorbei und hol dich ab. \end{Horst}
+
+\begin{Gretchen} Nein, ist nicht nötig.\end{Gretchen}
+
+\begin{Horst} Dann brauchst du nicht laufen. \end{Horst}
+
+\begin{Gretchen} Kann sein, daß ich länger bleibe. Hängt davon
+ab, was Rudi vorhat. \end{Gretchen}
+
+\begin{Horst} Verstehe. Ich komm trotzdem vorbei. Für alle Fälle.
+\begin{Regie}Er will gehen\end{Regie} \begin{Regie}Elisabeth
+kommt mit einigen derben Lederwämsern und Nähzeug unter dem Arm
+herein und stößt fast mit Horst zusammen. Sie ist eine liebenswürdige,
+unentschlossene Frau, die äußerst schüchtern wirkt. Ihre Stimme
+ist, vor allem in Gegenwart Fremder, oft kaum zu verstehen.\end{Regie}
+\begin{Regie}Zieht seinen Hut, als er fast mit ihr zusammenstoßt\end{Regie}
+Oh, entschuldigen Sie bitte. \end{Horst}
+
+\begin{Elisabeth} \begin{Regie}leise\end{Regie} Macht doch nichts.
+\begin{Regie}Horst geht hinaus.\end{Regie} \begin{Regie}Elisabeth
+legt ihr Nähzeug neben Gretchen ab.\end{Regie} \end{Elisabeth}
+
+\begin{Gretchen} \begin{Regie}schaut auf\end{Regie} Oh, Elisabeth.
+Hallo. \end{Gretchen}
+
+\begin{Elisabeth} Hallo. \begin{Regie}Elisabeth zieht ihren Mantel
+aus und ein weiteres Franz Hartel T-Shirt kommt zum Vorschein.
+Erneutes Hämmern. Elisabeth schaut hoch.\end{Regie} \end{Elisabeth}
+
+\begin{Gretchen} Furchtbar, dieser Krach, nicht? Ich glaube,
+da oben werden neue Teppiche verlegt, \begin{Regie}zeigt auf
+eine Liste\end{Regie} Ich schaue grade nach, ob wir auch niemand
+doppelt haben. Bisher sind es über achtzig Namen, wenn alle kommen.\end{Gretchen}
+
+\begin{Elisabeth} Gut. \begin{Regie}Elisabeth setzt sich. Beide
+fangen an zu arbeiten. Elisabeth summt das "Franz Hartel Lied"
+dabei leise vor sich hin. Nach einer Weile stimmt Gretchen mit
+ein.\end{Regie} \end{Elisabeth}
+
+\begin{Gretchen} Ein richtiger Ohrwurm, was? \begin{Regie}fängt
+an zu singen\end{Regie} Wacht auf, ihr Freunde von Franz Hartel,
+\begin{Regie}Beide:\end{Regie} daß stets ihr noch den Sieg erringt!
+Franz Hartel hebt ihr in den Sattel, der mit Macht zum Durchbruch
+dringt. \end{Gretchen}
+
+\begin{Sofia} \begin{Regie}Sofia kommt währenddessen herein.\end{Regie}
+Ach, du lieber Himmel. Tut mir leid, aber ich müßte eure Totenklage
+mal eben kurz unterbrechen. Meine liebe Elisabeth. \end{Sofia}
+
+\begin{Elisabeth} Ja. \end{Elisabeth}
+
+\begin{Sofia} Haben Sie schon mit meinen Uniformen angefangen?\end{Sofia}
+
+\begin{Elisabeth} \begin{Regie}schüttelt den Kopf\end{Regie}
+Leider noch nicht. \end{Elisabeth}
+
+\begin{Sofia} Was um alles in der Welt machen Sie ... ? \begin{Regie}Sieht
+Elisabeths Nähzeug\end{Regie} Das darf doch wohl nicht wahr sein.
+Sie sind ja immer noch bei diesen Lederschürzen. Verdammt, wie
+viele wollen Sie denn davon machen? \end{Sofia}
+
+\begin{Gretchen} Sie muß jede Menge nähen, Sofia. Ein paar Duzend.\end{Gretchen}
+
+\begin{Sofia} Ich dachte immer das Stück heißt die Zwölf von
+Kapellingen. Und nicht die Versorgung der Fünftausend. \end{Sofia}
+
+\begin{Gretchen} Du darfst das Volk nicht vergessen. \end{Gretchen}
+
+\begin{Sofia} Schön und gut. Ich meine, ihr braucht euch ja nur
+um zwölf zu kümmern. Ich, dagegen, um eine ganze Kompanie Soldaten.
+Inklusive Graf. Ihr seid ziemlich egoistisch. Schließlich hab
+ich Elisabeth ins Komitee geholt, damit sie mir hilft ... \end{Sofia}
+
+\begin{Gretchen} Wir wissen, warum du Elisabeth ins Komitee geholt
+hast. \end{Gretchen}
+
+\begin{Sofia} Könnt ihr nicht diese gräßlichen Hemden ausziehen?
+Wir veranstalten hier doch kein Pop Festival. \end{Sofia}
+
+\begin{Gretchen} \begin{Regie}swingt ein wenig\end{Regie} Wacht
+auf ... \end{Gretchen}
+
+\begin{Sofia} \begin{Regie}geht zur Tür\end{Regie} Na gut, dann
+werde ich es eben bei der nächsten Sitzung zur Sprache bringen.
+Ich hab sowieso noch ein paar Hühnchen mit jemandem zu rupfen.
+\begin{Regie}Berthold und Leonore kommen herein. Rauscht an ihnen
+vorbei\end{Regie} Guten Abend. Entschuldigen Sie mich. \begin{Regie}Sofia
+geht hinaus.\end{Regie} \begin{Regie}Hämmern.\end{Regie} \end{Sofia}
+
+\begin{Berthold} Guten Abend. \end{Berthold}
+
+\begin{Leonore} \begin{Regie}gleichzeitig mit Berthold hinter
+ihr her\end{Regie} Guten Abend. \end{Leonore}
+
+\begin{Leonore} Sie haben die ganzen Teppiche raus gerissen.\end{Leonore}
+
+\begin{Berthold} \begin{Regie}führt sie zu ihrem gewohnten Platz\end{Regie}
+Ja, Mutter, ich glaube sie verlegen neue. \end{Berthold}
+
+\begin{Leonore} Wurde auch langsam Zeit. \end{Leonore}
+
+\begin{Berthold} Oh, guten Abend, die Damen.\end{Berthold}
+
+\begin{Elisabeth} Guten Abend. \end{Elisabeth}
+
+\begin{Gretchen} \begin{Regie}gleichzeitig mit Elisabeth\end{Regie}
+Guten Abend. \end{Gretchen}
+
+\begin{Berthold} So, Mutter, da wären wir. \end{Berthold}
+
+\begin{Leonore} \begin{Regie}zu den Frauen\end{Regie} Guten Abend.
+Sie sehen ja aus wie Groupies. \begin{Regie}zu Berthold\end{Regie}
+Findest du nicht? \end{Leonore}
+
+\begin{Berthold} Wie was, Mutter? \end{Berthold}
+
+\begin{Leonore} Wie Groupies, hab ich gesagt. \end{Leonore}
+
+\begin{Berthold} Groupies. Ich glaube nicht, daß wir diesen Ausdruck
+kennen, Mutter. \end{Berthold}
+
+\begin{Gretchen} Doch, Groupies. Ist schon richtig, Frau Halbritter.\end{Gretchen}
+
+\begin{Berthold} Und wie kommen Sie mit unseren Uniformen voran,
+junge Frau? Haben Sie schon damit angefangen? \end{Berthold}
+
+\begin{Elisabeth} \begin{Regie}schüttelt den Kopf\end{Regie}
+Nein. \end{Elisabeth}
+
+\begin{Berthold} Oh je, oh je! Nur noch drei Wochen. Wie ich
+gehört habe, hat Frau Dillmaier meinen Rat befolgt und einige
+Schauspieler der Kappelinger Theatergruppe für unser Fest gewonnen.
+Das ist eine ganz ausgezeichnete Truppe. Ich habe selbst eine
+Weile für sie gearbeitet. \end{Berthold}
+
+\begin{Gretchen} \begin{Regie}nicht sonderlich interessiert\end{Regie}
+Ach tatsächlich? \end{Gretchen}
+
+\begin{Berthold} Allerdings hinter den Kulissen. In einem Jahr
+habe ich sogar die Pistolenschüsse für sie gemacht. Erinnerst
+du dich noch, Mutter? Wie ich die Schüsse gemacht habe? \end{Berthold}
+
+\begin{Leonore} Die Schüsse? Ja, bei Bullets over Broadway. \end{Leonore}
+
+\begin{Berthold} Stimmt. Bei Bullets over Broadway. \end{Berthold}
+
+\begin{Gretchen} Was, die Kapellinger Theatergruppe hat Bullets
+over Broadway gespielt? \end{Gretchen}
+
+\begin{Berthold} Ja, diese Geschichte mit der Mafia. War ein
+großer Erfolg. Viele fanden das Stück sogar besser als den Film.
+\begin{Regie}Ohrenbetäubendes Hämmern von oben.\end{Regie} \begin{Regie}Hermann
+und Sofia kommen herein.\end{Regie} \end{Berthold}
+
+\begin{Hermann} Guten Abend, allerseits. \begin{Regie}„Guten
+Abend" von allen Seiten.\end{Regie}
+
+\begin{Regie}Rudi tritt direkt hinter Hermann ein. Er trägt auch
+ein Franz Hartel T-Shirt und hat diesmal noch mehr Ordner und
+Papiere dabei als sonst.\end{Regie} \end{Hermann}
+
+\begin{Rudi} \begin{Regie}nickt lebhaft\end{Regie} 'N Abend.
+\begin{Regie}Sie setzen sich alle hin: Hermann an einem Kopfende,
+Sofia genau gegenüber, Rudi zwischen Elisabeth und Gretchen.\end{Regie}\end{Rudi}
+
+\begin{Leonore} Noch so'n Groupie. \end{Leonore}
+
+\begin{Rudi} Wie bitte? \begin{Regie}Der Krach hält während des
+ersten Teils von Hermann s Rede unvermindert an.\end{Regie} \end{Rudi}
+
+\begin{Hermann} \begin{Regie}während des Vorigen\end{Regie} Entschuldigen
+Sie bitte den Lärm. Ich habe vorhin kurz mit dem Direktor gesprochen.
+Offenbar müssen neue Teppiche verlegt werden und, um die Hotelgäste
+zu schonen, muß das leider zu dieser unchristlichen Zeit hier
+geschehen. Er hat mir allerdings versichert, daß sie versuchen
+werden, so wenig Lärm wie möglich zu machen. Gut, sind alle da?
+Nein, von den Müllers scheint einer zu fehlen. Wer ist heute
+Abend dran, Herr Stadtrat? \end{Hermann}
+
+\begin{Berthold} Heute Abend ist Herr Müller an der Reihe, Herr
+Vorsitzender. \end{Berthold}
+
+\begin{Sofia} Mein Gott, sowieso einer schlimmer als der andere
+... \end{Sofia}
+
+\begin{Berthold} Herr Müller lässt sich wie gewöhnlich entschuldigen.
+\begin{Regie}Mit sehr gedämpfter Stimme\end{Regie} Und natürlich
+- äh ... \begin{Regie}Er gibt Hermann einen Brief\end{Regie}\end{Berthold}
+
+\begin{Hermann} Ach ja. Und eine sehr traurige Nachricht, leider.
+Uns erreichte soeben folgendes Schreiben von Herrn v. Hoffschmidt.
+Haben Sie vielen Dank, Herr Schriftführer, \begin{Regie}liest\end{Regie}
+"Sehr geehrter Herr Dillmaier, In der letzten Zeit war ich häufig
+dienstlich verhindert und konnte von daher nicht annähernd so
+vielen Sitzungen Ihres bewundernswerten und wohlwollenden Vereins
+beiwohnen wie ich es mir gewünscht hätte ..." \end{Hermann}
+
+\begin{Sofia} Er war noch kein einziges Mal da. \end{Sofia}
+
+\begin{Hermann} Nun, er ist eben ein vielbeschäftigter Mann.
+Vielleicht hat er das unterschätzt. \begin{Regie}liest weiter\end{Regie}
+"Und so wie es aussieht, werde ich auch in Zukunft sehr wahrscheinlich
+nicht in der Lage sein, noch weiteren Sitzungen beizuwohnen."
+\begin{Regie}Der Krach fängt wieder an.\end{Regie} "Unter den
+genannten Umständen -" Mein Gott, können die nicht endlich aufhören!
+"möchte ich Sie und die übrigen Mitglieder um Nachsicht ersuchen
+und bitte Sie höflichst, mein Amt im Komitee niederlegen zu dürfen.
+Als Entschädigung für meine Abwesenheit füge ich eine kleine
+Geldspende bei. Ich wünsche Ihnen viel Erfolg bei Ihrem Fest
+und verbleibe mit freundlichen Grüßen, Ihr Bernhard v. Hoffschmidt."\end{Hermann}
+
+\begin{Rudi} Wie viel hat er denn geschickt? \end{Rudi}
+
+\begin{Hermann} Ehm - fünf Euro. \end{Hermann}
+
+\begin{Rudi} Da hab ich ja bei Foxton in der Kantine noch mehr
+gekriegt, als ich mittags den Hut rumgehen ließ. \end{Rudi}
+
+\begin{Sofia} Die haben wahrscheinlich auch mehr Geld als Bernhard
+v. Hoffschmidt. \end{Sofia}
+
+\begin{Hermann} \begin{Regie}schnell\end{Regie} Ja. Also. Dann
+lassen Sie uns schnell weitermachen, bevor der Krach wieder von
+vorn losgeht. Auf Herrn Müller können wir nicht länger warten.
+Entschuldigungen - bereits erledigt - Protokoll der letzten -
+nun, damit sind wir ein wenig in Verzug, macht nichts - Bericht
+des Vorsitzenden. Gut. Also. Wie besprochen, habe ich dafür gesorgt,
+daß das Bankett aus dem achtzehnten Jahrhundert an unserem Festabend
+hier in diesem Raum stattfindet. Das Hotel hat sich bereit erklärt,
+es zu einen fairen Preis auszurichten. Eintrittskarten sind in
+Kürze erhältlich - sie sind bereits in Auftrag gegeben - und
+wie ich hörte, wird unter anderem Rehrücken oder zumindest etwas
+Ähnliches serviert... \end{Hermann}
+
+\begin{Sofia} Wohl eher letzteres. \end{Sofia}
+
+\begin{Hermann} Und dann habe ich diesen Raum noch für den ganzen
+Tag gemietet, weil er so außerordentlich günstig gelegen ist
+und genau auf den Marktplatz hinausgeht. Wie Sie sich vielleicht
+erinnern werden, mußte der geplante Sturm die Hauptstrasse hinunter
+wegen der momentanen Einbahnstraßenregelung ja leider wieder
+verworfen werden. Und das, wenn ich hinzufügen darf, trotz Stadtrat
+Halbritters nachdrücklichem Gesuch an die Polizei und ... \end{Hermann}
+
+\begin{Berthold} Ich habe wirklich mein Bestes getan, Herr Vorsitzender,
+doch es hieß, wenn man erstmal eine Ausnahme mache ... \end{Berthold}
+
+\begin{Hermann} Ja, und trotz seines anschließenden Appells an
+den Verkehrsausschuß. \end{Hermann}
+
+\begin{Berthold} Der leider einen ähnlichen Standpunkt vertrat.\end{Berthold}
+
+\begin{Hermann} Also, statt des geplanten ... \begin{Regie}Von
+oben ertönt wieder lautes Hämmern.\end{Regie} Herrgottnochmal.
+\begin{Regie}Das Hämmern hört auf.\end{Regie} Statt des geplanten
+Sturms auf der Hauptstrasse werden sich die Soldaten also an
+verschiedenen, strategisch günstigen Punkten um den Marktplatz
+verstecken - wobei sich dieser Raum hier ideal als Hauptquartier
+und Umkleideraum eignen würde, \begin{Regie}zeigt\end{Regie}
+Der Notausgang dort drüben führt nämlich direkt auf den Marktplatz.
+So, das war's, glaube ich. Dürfte ich jetzt um die Berichte der
+Gruppenführer bitten ...\end{Hermann}
+
+\begin{Berthold} Bevor wir weitermachen, Herr Vorsitzender. -
+Um noch einmal auf das Bankett zurückzukommen ... \end{Berthold}
+
+\begin{Hermann} Ja, Herr Stadtrat. \end{Hermann}
+
+\begin{Berthold} Was würde denn das Komitee von dem Vorschlag
+meiner Mutter, Frau Halbritter, halten, an diesem Abend für ein
+paar kleine musikalische Einlagen zu sorgen. Ihnen ist sicher
+schon allen aufgefallen, daß hier ein Klavier steht. Und wie
+Sie vielleicht auch wissen, ist meine Mutter gelernte Pianistin,
+und also - sie hat sich angeboten, etwas für uns zu spielen.
+\begin{Regie}Eine kleine Pause\end{Regie} \end{Berthold}
+
+\begin{Sofia} Oh. \end{Sofia}
+
+\begin{Hermann} Oh. Also, das ist wirklich eine sehr nette Geste
+von Frau Halbritter, Herr Stadtrat \end{Hermann}
+
+\begin{Sofia} Ja, will Sie denn nicht mit uns zusammen essen?
+Sie kann sich ihren Rehrücken doch schlecht am Flügel servieren
+lassen. \end{Sofia}
+
+\begin{Berthold} Ach, wissen Sie, Mutter ist eigentlich keine
+sehr große Esserin. Sie werden sicher noch feststellen, daß sie
+sich nicht besonders viel macht aus diesen ganzen kleinen Schlemmereien.\end{Berthold}
+
+\begin{Rudi} Brauchen wir denn überhaupt Musik? \end{Rudi}
+
+\begin{Hermann} Nun - ehm ... \end{Hermann}
+
+\begin{Berthold} Ich könnte mir vorstellen, daß es dem Ganzen
+noch eine besondere Note verleihen würde, Herr Vorsitzender.
+Aber, wenn das Komitee der Meinung ... \end{Berthold}
+
+\begin{Hermann} Nein, nein. Wir sind überaus dankbar für Ihren
+Vorschlag. Ich denke also, wir sind uns darüber einig, daß Frau
+Halbritter während des Banketts eine kleine musikalische Einlage
+geben wird. Die natürlich auch dazu passen ...? \end{Hermann}
+
+\begin{Berthold} Oh ja, sie verfügt über ein ganz beachtliches
+Repertoire. \end{Berthold}
+
+\begin{Hermann} Gut. Einverstanden. Kommen wir nun zu den Berichten
+der Gruppenführer. Sofia? \end{Hermann}
+
+\begin{Sofia} Also, ich muß hier mal ein paar ernsthafte Dinge
+zur Sprache bringen. Erstens, die Kostüme. Ich habe doch Elisabeth
+ins Komitee gebeten, damit sie mir - das heißt meiner Gruppe
+- bei den Militäruniformen und einigen Damenkostümen hilft. Sie
+ist nun schon seit zwei Monaten bei uns und hat nichts als diese
+Lederschürzen genäht. Von denen sowieso nur die Hälfte gebraucht
+wird. \end{Sofia}
+
+\begin{Hermann} Warum hast du denn nicht Frau Pakenham gefragt,
+wie ich es dir gesagt habe. Sie steht mit der Nadel bewaffnet
+auf Abrufbereit. Warum hast du sie nicht gefragt?\end{Hermann}
+
+\begin{Sofia} Weil ich Frau Pakenham nicht will. Ich mag Frau
+Pakenham nämlich nicht besonders. Wir verstehen uns nicht. Ganz
+und gar nicht. Ich habe Elisabeth gefragt und ich wüßte nicht,
+warum sie mir nicht helfen sollte. \end{Sofia}
+
+\begin{Gretchen} Elisabeth hat wahnsinnig viel zu tun, Sofia.\end{Gretchen}
+
+\begin{Sofia} Ja, und das ist auch so eine Sache ... \end{Sofia}
+
+\begin{Hermann} Moment. Einen Moment mal. Elisabeth, stimmt es,
+daß Sie alle Hände voll zu tun haben? \end{Hermann}
+
+\begin{Elisabeth} \begin{Regie}völlig unhörbar\end{Regie} Ja,
+ich habe wirklich ziemlich viel zu tun. Ich muß noch diese Ärmel
+hier einnähen und die ganzen Kragen am Hals machen. \end{Elisabeth}
+
+\begin{Hermann} \begin{Regie}beugt sich nach vorn, um sie besser
+zu verstehen\end{Regie} Wie bitte? \begin{Regie}Erneutes Hämmern\end{Regie}\end{Hermann}
+
+\begin{Elisabeth} \begin{Regie}ein bißchen lauter, wird aber
+übertönt\end{Regie} Es sind vor allem die Kragen und Manschetten.\end{Elisabeth}
+
+\begin{Hermann} Tut mir leid, Verehrteste, ich habe Sie nicht richtig
+... Und dann auch noch dieses Gehämmer, es ... \end{Hermann}
+
+\begin{Sofia} Jetzt sprechen Sie doch mal was lauter, Elisabeth.
+Ich weiß ja wie schüchtern Sie sind und wir fühlen auch bestimmt
+alle mit Ihnen, aber es will Sie hier niemand auffressen, verdammt
+nochmal. \end{Sofia}
+
+\begin{Hermann} Sofia, laß Sie zufrieden ... \end{Hermann}
+
+\begin{Sofia} Ich mein ja nur. Schließlich ist sie Lehrerin,
+oder etwa nicht? Wie um Himmels Willen macht sie es denn mit
+den Kindern. So können die doch unmöglich was lernen. \end{Sofia}
+
+\begin{Rudi} Elisabeth kann zufälligerweise sehr gut mit Kindern
+umgehen. \end{Rudi}
+
+\begin{Sofia} Wahrscheinlich lebt sie deshalb mit Ihnen zusammen.\end{Sofia}
+
+\begin{Rudi} Manche Männer ziehen eben ruhigere Frauen vor. \end{Rudi}
+
+\begin{Hermann} Bitte, bitte. \end{Hermann}
+
+\begin{Elisabeth} \begin{Regie}unhörbar\end{Regie} Ich bin gar
+nicht so schüchtern. \end{Elisabeth}
+
+\begin{Rudi} Entschuldige, Liebling, was war das? \end{Rudi}
+
+\begin{Leonore} Sie hat gesagt, daß sie gar nicht so schüchtern
+ist. \end{Leonore}
+
+\begin{Elisabeth} \begin{Regie}zu Leonore\end{Regie} Danke. \end{Elisabeth}
+
+\begin{Hermann} Gut. Bericht der Gruppenführer. Wie sieht's bei
+Ihnen aus, Herr Kropfer?\end{Hermann}
+
+\begin{Sofia} Einen Moment. Ich bin noch nicht ganz fertig. Zweitens
+hätt‘ ich gern mal gewußt, wieviele sie von diesen Lederschürzen
+noch nähen will? \end{Sofia}
+
+\begin{Gretchen} Es sind Wämser. \end{Gretchen}
+
+\begin{Sofia} Wie auch immer. Jedenfalls sollten es zwölf werden
+und nicht mehr. \end{Sofia}
+
+\begin{Rudi} Das Volk ist auch noch da. \end{Rudi}
+
+\begin{Sofia} Ich, dagegen, muß eine ganze Kompanie Soldaten
+einkleiden. Inklusive Frauen. Und den Graf von Wolkenstein samt
+seinem Pferd. Und dann soll das Ganze auch noch nach was aussehen.
+Die anderen können ruhig alte Sachen tragen, das ist ja nicht
+so schlimm. \end{Sofia}
+
+\begin{Hermann} Also gut. Dann lassen Sie uns mal gemeinsam überlegen.
+Wieviele Personen hast du denn insgesamt, Sofia, die Kostüme
+benötigen? \end{Hermann}
+
+\begin{Sofia} Ja, und das ist auch schon der nächste Punkt. Praktisch
+niemanden. Ich hatte ursprünglich an mindestens dreißig Soldaten
+gedacht. Schließlich soll es ja glaubhaft wirken, aber jedesmal,
+wenn ich jemanden anspreche, kann ich mir anhören, daß die andere
+Seite ihn schon geködert hat. \end{Sofia}
+
+\begin{Rudi} Das möchte ich von mir weisen, Herr Vorsitzender.\end{Rudi}
+
+\begin{Hermann} Hm, also. Schatz, wir haben ja beide schon mal
+darüber gesprochen. Und so ganz sicher weißt du das doch gar
+nicht, oder? \end{Hermann}
+
+\begin{Berthold} Geködert, Herr Vorsitzender? Was genau meint
+Frau Dillmaier denn mit geködert? \end{Berthold}
+
+\begin{Sofia} Das werde ich Ihnen sagen. Mit den übelsten Tricks.
+Gestern Abend, zum Beispiel, hatte ich für zwölf sehr nette Jungs
+vom Gymnasium eine Kostümprobe organisiert. Ganze zwei davon
+sind erschienen. Und hatten überhaupt kein Interesse. Der Rest
+von ihnen wurde mit Freibier und irgendwelchen knalligen T-Shirts
+geködert. \end{Sofia}
+
+\begin{Rudi} Sie hat keinerlei Beweise dafür, Herr Vorsitzender.\end{Rudi}
+
+\begin{Sofia} Und ob ich die habe. Schauen Sie sich doch an,
+Sie tragen sie ja alle. \end{Sofia}
+
+\begin{Rudi} Die sind Teil unserer Werbekampagne, weiter nichts.
+Warum tragen Sie eigentlich keines? \end{Rudi}
+
+\begin{Sofia} Lieber würde ich krepieren ... \end{Sofia}
+
+\begin{Hermann} Also bitte, ich muß doch bitten. Lassen Sie uns
+versuchen, eine Lösung zu finden. Sofia, ganz offensichtlich
+brauchst du zu allererst mal Hilfe in puncto Personal. Wieviele
+Personen hast du denn bis jetzt? \end{Hermann}
+
+\begin{Sofia} Also. Dich, mich - Herr Müller, wenn er kommt,
+Frau Müller, falls sie sich blicken läßt und Stadtrat Halbritter.
+
+\begin{Regie}Schweigen, das von lautem Hämmern unterbrochen wird\end{Regie}\end{Sofia}
+
+\begin{Hermann} Sind das alle? \end{Hermann}
+
+\begin{Sofia} \begin{Regie}den Tränen nahe\end{Regie} Ja. Sag
+ich doch die ganze Zeit. \end{Sofia}
+
+\begin{Hermann} \begin{Regie}tröstend\end{Regie} Schon gut, Schatz,
+ist ja schon gut. \end{Hermann}
+
+\begin{Sofia} Das ist nicht fair. Das ist einfach nicht fair.
+Ich habe geschuftet wie eine Verrückte. Du solltest mal mein
+Kleid sehen. Wochenlang hab ich daran gesessen ... \end{Sofia}
+
+\begin{Hermann} Aber ja, Schatz. Ich habe es doch gesehen, dein
+Kleid. Es ist wunderschön. \end{Hermann}
+
+\begin{Sofia} \begin{Regie}weint\end{Regie} Die ganzen Rüschen
+hier sind mit der Hand genäht. Ich hab mir so viel Mühe gegeben.\end{Sofia}
+
+\begin{Hermann} Ja, schon gut, schon gut... \begin{Regie}Hämmern.\end{Regie}
+Ruhe, verdammt nochmal. \begin{Regie}Das Hämmern hört auf.\end{Regie}
+Herr Kropfer, sehen Sie irgendeine Möglichkeit, wie Ihre Gruppe
+meiner Frau helfen könnte? \end{Hermann}
+
+\begin{Rudi} Tut mir wirklich sehr leid, Herr Vorsitzender, aber
+wir sind völlig ausgelastet. \end{Rudi}
+
+\begin{Hermann} Na ja. Aber immerhin bekommst du schon mal dein
+Pferd für den Grafen von Wolkenstein. Ich habe eins ausgeliehen.\end{Hermann}
+
+\begin{Berthold} Ehm, Herr Vorsitzender ... \end{Berthold}
+
+\begin{Hermann} Einen Augenblick noch, Herr Stadtrat. Sofia,
+an wen hattest du denn bei dem Grafen von Wolkenstein gedacht?\end{Hermann}
+
+\begin{Sofia} Also. Eigentlich dachte ich, Herr Müller ... \end{Sofia}
+
+\begin{Hermann} Herr Müller? Meinst du denn er kann sich überhaupt
+halten auf einem Pferd? Ich will ja nichts sagen, aber ... \end{Hermann}
+
+\begin{Sofia} Na, wer denn sonst? Stadtrat Halbritter können
+wir wohl kaum fragen. \end{Sofia}
+
+\begin{Berthold} Oh nein, nein. \end{Berthold}
+
+\begin{Sofia} Und du kannst auch nicht reiten. Das wär’ viel zu gefährlich. \end{Sofia}
+
+\begin{Berthold} Herr Vorsitzender ... \end{Berthold}
+
+\begin{Hermann} Herr Stadtrat?\end{Hermann}
+
+\begin{Berthold} Ich habe da leider noch eine schlechte Nachricht.
+Es mißfällt mir zwar, daß immer ich der Überbringer schlechter
+Neuigkeiten bin, aber - während meiner Unterredung mit der Polizei
+in dieser anderen Sache, hatte ich auch Gelegenheit, den Oberinspektor
+auf Ihr Vorhaben anzusprechen, ein Pferd über den Marktplatz
+reiten zu lassen. Man war der Ansicht, daß ein ungeschultes Pferd
+mit einem ungeschulten Reiter an einem Samstag, wo vermutlich
+viele ältere Leute in der Stadt einkaufen gehen, ein nicht kalkulierbares
+Risiko darstellen würde. \end{Berthold}
+
+\begin{Sofia} Wollen Sie damit etwa sagen, ich kann mein Pferd nicht behalten? \end{Sofia}
+
+\begin{Berthold} Ich fürchte, die Polizei ist der Überzeugung... \end{Berthold}
+
+\begin{Sofia} Aber dieses Pferd ist doch alles, was ich habe.\end{Sofia}
+
+\begin{Berthold} Nun. \end{Berthold}
+
+\begin{Hermann} Ach du liebe Zeit. \end{Hermann}
+
+\begin{Rudi} Wie wär's denn mit einem Fahrrad? \end{Rudi}
+
+\begin{Sofia} Jetzt werden Sie bloß nicht albern. \begin{Regie}Sie
+steht auf\end{Regie} So, das war's dann wohl. Wir können die
+ganze Sache abblasen. Schluß. Aus. Alles rückgängig machen. \end{Sofia}
+
+\begin{Hermann} Nun aber mal langsam, mal langsam. \end{Hermann}
+
+\begin{Sofia} Also, die Frau kann ja wohl schlecht zu Fuß kommen,
+oder? Sie ist die Gräfin von Wolkenstein, Herrgott noch mal ...\end{Sofia}
+
+\begin{Hermann} Vielleicht fällt uns ja noch ein anderes Transportmittel
+ein. \end{Hermann}
+
+\begin{Rudi} Sag ich doch. Ein Fahrrad. \end{Rudi}
+
+\begin{Sofia} Halten Sie Ihren Mund, Mann. \end{Sofia}
+
+\begin{Berthold} Herr Vorsitzender, wenn ich vielleicht einen
+Vorschlag machen dürfte. Wie wäre es mit einer Art Pferdeattrappe?\end{Berthold}
+
+\begin{Sofia} Wie zum Teufel sieht denn eine Pferdeattrappe aus?\end{Sofia}
+
+\begin{Berthold} Nun, lassen Sie mich doch erstmal aussprechen.
+Wenn ich mich recht entsinne, hatte die Kapellinger Theatergruppe
+damals großen Erfolg mit der Aufführung eines Maskenspiels im
+Park der Marienkirche. Dabei wurde auch sowas ähnliches wie ein
+Steckenpferd benutzt. Und soweit ich weiß, haben sie es noch.
+Denn eigentlich bewahren sie solche Sachen immer auf. \end{Berthold}
+
+\begin{Sofia} Lächerlich. Dann können wir ja gleich eins mimen.\end{Sofia}
+
+\begin{Berthold} Das wäre natürlich auch eine Möglichkeit. \end{Berthold}
+
+\begin{Leonore} Hoppe-hoppe Reiter, wenn er fällt, dann schreit
+er.\end{Leonore}
+
+\begin{Hermann} Ja, eine Attrappe ist doch gar keine schlechte
+Idee. \end{Hermann}
+
+\begin{Sofia} Und ob das eine schlechte Idee ist. \end{Sofia}
+
+\begin{Hermann} Schließlich ist es nur ein Festspiel. Und wir
+waren uns von Anfang an darüber einig, daß es nicht allzu realistisch
+zu sein braucht. Sonst müßte ja auch der ganze Marktplatz mit
+Leichen übersät sein, oder? \begin{Regie}Er lacht\end{Regie}\end{Hermann}
+
+\begin{Sofia} Lassen wir uns überraschen. \end{Sofia}
+
+\begin{Hermann} Ich werde mir das auf jeden Fall notieren und
+der Sache persönlich nachgehen. Trotzdem schon mal herzlichen
+Dank für diesen Tip, Herr Stadtrat. \end{Hermann}
+
+\begin{Berthold} Glauben Sie mir, ich habe wirklich meine ganze
+Überredungskunst aufgeboten. Doch die Polizei blieb in puncto
+lebende Tiere vollkommen eisern. \end{Berthold}
+
+\begin{Gretchen} Na ja, schließlich ist es auch ein Marktplatz.\end{Gretchen}
+
+\begin{Berthold} Der alte Marktplatz. \end{Berthold}
+
+\begin{Hermann} Ja, gut. Wie steht's mit der anderen Gruppe?
+Herr Kropfer? \end{Hermann}
+
+\begin{Rudi} Ja, es scheint, als würde alles ... \begin{Regie}Erneutes
+Hämmern.\end{Regie} \begin{Regie}als es aufhört\end{Regie} ...
+sehr zufriedenstellend verlaufen, Herr Vorsitzender. Wie Sie
+ja grade selbst gehört haben, arbeitet Elisabeth angestrengt
+an unseren Kostümen. Gretchen kümmert sich jetzt ausschließlich
+um Werbung und Rekrutierung. Die Musikkapelle der Foxton-Werke
+hat versprochen, vor der Kundgebung etwas für uns zu spielen.
+Neben den T-Shirts, die Sie hier sehen, erwarten wir in Kürze
+auch noch Anstecknadeln, Autoaufkleber und Fähnchen. Schon bald
+wird der Name Franz Hartel in aller Munde sein. \end{Rudi}
+
+\begin{Sofia} Nichts gegen Franz Hartel, aber was ist mit der
+Gräfin von Wolkenstein? \end{Sofia}
+
+\begin{Rudi} Ich denke, sie kann für sich selbst sorgen, oder?\end{Rudi}
+
+\begin{Berthold} Ich hoffe nur, Herr Vorsitzender, daß wir Herrn
+Hans-Ullrich Gämperlin nicht völlig aus den Augen verlieren.
+Ich halte ihn nämlich für eine ausgesprochen schillernde Persönlichkeit...\end{Berthold}
+
+\begin{Rudi} Hans-Ulrich Gämperlin war nur ein Gefolgsmann, Herr
+Vorsitzender. Herr Max Kirkov wird ihn zwar spielen, aber im
+Grunde genommen war er nichts weiter als ein Werkzeug von Hartels
+Intellekt. Der eigentliche Drahtzieher, Herr Vorsitzender, ist
+Franz Hartel. An ihm müssen wir unser Festspiel ausrichten. Hartel
+verkörpert sämtliche Ideale, die dahinter stehen. Er war der
+große Mann. Ein wahrhafter Riese, der seine Zeitgenossen um Längen
+überragte. Ein Visionär, wenn Sie so wollen. Ein Mann, der sah,
+daß diese Erde von allen Menschen bewohnt wird und folglich auch
+allen gehört. Allen.
+
+\begin{Regie}Anhaltendes Hämmern, das Rudi veranlasst immer lauter
+zu sprechen, bis er schließlich brüllt wie bei einer Massenkundgebung.\end{Regie}
+Daß jeder Mann, jede Frau und jedes Kind von Geburt an, ein Recht
+darauf hat, Land zu bebauen und genau das zu ernten, was er auch
+gesät hat. Und zwar ungestört und uneingeschränkt. Das Land gehört
+nicht nur einigen Privilegierten, sondern allen. Daß sich Begriffe
+wie Grundbesitzer, Pächter, Eigentum und Landspekulation über
+kurz oder lang in ebenso leere Worthülsen verwandeln würden wie
+die gesamte kapitalistische Philosophie, die ihnen zugrunde liegt.
+Und zu guter Letzt, daß jedes Kind, und mag es auch noch so klein
+-ja, ich sage, noch so klein, und noch so arm sein, die Möglichkeit
+haben muß, seine Hände in die rohe Erde unter seinen Füßen zu
+graben, sie in die Faust zu schließen und zu rufen „Ja. Auch
+die gehört mir ..." \begin{Regie}Der Krach hört auf Schweigen.\end{Regie}
+Ich danke Ihnen, Herr Vorsitzender. Wenn Sie mich jetzt bitte
+entschuldigen würden, wir haben noch ein weiteres Treffen. Entschuldigen
+Sie uns bitte. \begin{Regie}Er steht auf\end{Regie} \begin{Regie}Gretchen
+und Elisabeth stehen auf und sammeln ihre Sachen zusammen.\end{Regie}\end{Rudi}
+
+\begin{Hermann} Ja - ehm ... \end{Hermann}
+
+\begin{Rudi} Danke sehr, Herr Vorsitzender. Seid ihr soweit,
+Mädels? \begin{Regie}Rudi marschiert hinaus, Gretchen und Elisabeth
+sind direkt hinter ihm.\end{Regie} \begin{Regie}Im Gehen\end{Regie}
+Gute Nacht. \end{Rudi}
+
+\begin{Gretchen} Gute Nacht. \end{Gretchen}
+
+\begin{Elisabeth} \begin{Regie}unhörbar\end{Regie} Gute Nacht.
+\begin{Regie}Schweigen. Hämmern.\end{Regie} \end{Elisabeth}
+
+\begin{Hermann} Also. Dann würde ich sagen, Sitzung geschlossen.\end{Hermann}
+
+\begin{Sofia} Der Kerl ist größenwahnsinnig. Der hat ja wohl
+einen Knall. Der ist - geistesgestört. \end{Sofia}
+
+\begin{Berthold} Er ist offenbar mit Begeisterung bei der Sache.\end{Berthold}
+
+\begin{Sofia} Ich würde eher sagen, die Begeisterung steigt ihm
+allmählich zu Kopfe. \end{Sofia}
+
+\begin{Hermann} Also, er scheint sich ziemlich in die Sache reingesteigert
+zu haben. Und ich muß zugeben, ein bißchen besorgniserregend
+fand ich es schon . . . Ich weiß nicht recht, irgendwie finde
+ich, hat die Sache an Spaß verloren. Vielleicht liegt es ja auch
+an mir, aber . . . \begin{Regie}Er steht auf\end{Regie} Kommt
+noch jemand mit auf ein Glas Wein?\end{Hermann}
+
+\begin{Leonore} \begin{Regie}schnell\end{Regie} Ein Glas Wein?
+Ja, gerne. \end{Leonore}
+
+\begin{Berthold} Oh. Meinst du wirklich, Mutter? \begin{Regie}will
+Leonore helfen\end{Regie} Wir müssen doch noch \end{Berthold}
+
+\begin{Leonore} Ach, bitte. Nur eins ! \begin{Regie}Sie geht
+zur Tür\end{Regie} \begin{Regie}Berthold folgt ihr.\end{Regie}\end{Leonore}
+
+\begin{Hermann} Gut. Sofia? \end{Hermann}
+
+\begin{Sofia} Gleich. \end{Sofia}
+
+\begin{Hermann} Kommst du? \end{Hermann}
+
+\begin{Sofia} Gleich. \end{Sofia}
+
+\begin{Berthold} Mutter, pass‘ auf, wo du hin trittst. \begin{Regie}Berthold
+und Leonore gehen hinaus.\end{Regie} \end{Berthold}
+
+\begin{Hermann} \begin{Regie}von der Tür aus\end{Regie} Jetzt
+mach dir mal keine Sorgen, Schatz. Wir stehen dir doch alle bei.
+Keine Angst. \end{Hermann}
+
+\begin{Sofia} Nein. \begin{Regie}Hermann geht hinaus.\end{Regie}
+\begin{Regie}Sofia sitzt da. Nach einer Weile fängt sie leise
+an zu weinen.\end{Regie} \begin{Regie}Horst kommt herein.\end{Regie}\end{Sofia}
+
+\begin{Horst} Ah. Hallo. \end{Horst}
+
+\begin{Sofia} \begin{Regie}reißt sich zusammen\end{Regie} Oh
+hallo, Horst. \end{Sofia}
+
+\begin{Horst} Stimmt irgendwas nicht? \end{Horst}
+
+\begin{Sofia} Nein - ich ... \end{Sofia}
+
+\begin{Horst} Eigentlich such ich Gretchen. \end{Horst}
+
+\begin{Sofia} Sie ist schon weg. \end{Sofia}
+
+\begin{Horst} Weg? Komisch. Ich hab die ganze Zeit in der Bar
+gesessen, ich ... \end{Horst}
+
+\begin{Sofia} Sie ist mit diesem Kerl und seiner Frau weggegangen.\end{Sofia}
+
+\begin{Horst} Ach du Schande. \begin{Regie}Er geht unruhig hin
+und her\end{Regie} Wissen Sie, Sofia, ich mach mir große Sorgen.
+Ich weiß nicht mehr, was ich tun soll. \end{Horst}
+
+\begin{Sofia} Sie müssen auf jeden Fall was unternehmen, Horst.
+Dieser Kerl ist unberechenbar.\end{Sofia}
+
+\begin{Horst} Wer? Kropfer? \end{Horst}
+
+\begin{Sofia} Ja. \begin{Regie}sie steht auf\end{Regie} Ich brauche
+dringend Hilfe, verstehen Sie. \end{Sofia}
+
+\begin{Horst} Was? Wieso das denn? \end{Horst}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\TextTeilEnde
+
+
+\TextTeilAnfang
+
+
+
+\begin{Sofia} Ich habe weder Soldaten, noch Uniformen, noch ein
+Pferd, einfach nichts ... \end{Sofia}
+
+\begin{Horst} Stehe zu Ihren Diensten. \end{Horst}
+
+\begin{Sofia} Oh, Horst. Ist das wahr? \end{Sofia}
+
+\begin{Horst} Ehm - ja. Ich müßte nur von Zeit zu Zeit mal ein
+Auge auf die Hunde werfen, aber ... Gut. Sagen Sie mir einfach
+Bescheid. Ich weiß allerdings nicht, ob ich eine große Hilfe
+sein werde. \end{Horst}
+
+\begin{Sofia} \begin{Regie}geht auf ihn zu\end{Regie} Oh, Sie
+ahnen nicht. Sie ahnen ja nicht, wie sehr wir Sie brauchen. Wir
+alle. Wie sehr dieses Land Sie braucht, Horst ... \end{Sofia}
+
+\begin{Regie}Horst
+sieht erschrocken aus. Die Bühnenbeleuchtung für die Band flackert
+erst rot, dann weiß, dann blau auf während der VORHANG fällt.\end{Regie}
+
+
+\Einstellung{Dunkel}
+
+\Einstellung{Umbau mit Musik}
+
+\begin{Regie}Pause \end{Regie}
+
+
+
+\Seite{59}
+
+\begin{Regie}Zweiter Akt:
+
+Erste Szene:
+
+Der gleiche Raum. Krisensitzung am Sonntag, den 5. Juni. Sofia,
+Charlotte, Hermann und Berthold sind um den Tisch versammelt.
+Leonore hat ihren gewohnten Platz eingenommen. Schweigen. Sie
+warten. Charlotte ist sehr schläfrig.\end{Regie} 
+
+\Einstellung{Dunkel}
+
+\Einstellung{Hell}
+
+
+
+
+
+
+
+
+
+
+
+
+\begin{Hermann} Ich hoffe, er kommt, Sofia. \end{Hermann}
+
+\begin{Sofia} Wenn er sagt, er kommt, dann kommt er auch. \begin{Regie}Der
+junge Mann kommt mit der Trommel herein, legt sie zurück auf
+die Bühne und geht wieder.\end{Regie} \end{Sofia}
+
+\begin{Hermann} Also, ich muß schon sagen, mir ist nicht gerade
+wohl dabei - ich meine, hier so eine geheime Sitzung abzuhalten.
+Ohne die anderen davon zu unterrichten. \end{Hermann}
+
+\begin{Berthold} Das ist auch nicht korrekt, Herr Vorsitzender.\end{Berthold}
+
+\begin{Sofia} Warum denn nicht? Die haben doch genau dasselbe
+getan. Mit ihrer Aktionsgruppe. \end{Sofia}
+
+\begin{Hermann} Und du meinst also wirklich, er hat eine Lösung
+für uns? \end{Hermann}
+
+\begin{Charlotte} Ein komischer Kauz. Man sagt, daß er mit einem
+Schwert unter dem Kopfkissen schläft. \end{Charlotte}
+
+\begin{Sofia} Er hat ne Menge Ideen. Und er hat den Vorteil,
+daß er bei der Armee gewesen ist. \end{Sofia}
+
+\begin{Hermann} Ja, stimmt. Oberleutnant. \end{Hermann}
+
+\begin{Berthold} Ich habe auch kurze Zeit gedient, Herr Vorsitzender.
+Allerdings bei der Luftwaffe. \end{Berthold}
+
+\begin{Sofia} Tja, da es aber wohl kaum dazu kommen wird, daß
+wir Bomben werfen, nützt uns das nicht viel. \end{Sofia}
+
+\begin{Berthold} Bei den Luftangriffen war ich auch leider nicht
+dabei. Ich gehörte zur Bodentruppe. \end{Berthold}
+
+\begin{Hermann} Ah. \begin{Regie}Horst marschiert herein. Er
+hat eine aufgerollte Karte und einen Rucksack bei sich.\end{Regie}\end{Hermann}
+
+\begin{Horst} Tschuldigung für die Verspätung. Ärger mit den
+Hunden, leider. \end{Horst}
+
+\begin{Hermann} Wir hatten schon fast nicht mehr mit ihnen gerechnet, Herr Oberleutnant.\end{Hermann}
+
+\begin{Horst} N´abend. \begin{Regie}Alle:\end{Regie} Guten Abend.\end{Horst}
+
+\begin{Regie}Leonore nimmt Papier und Bleistift heraus.\end{Regie}
+
+\begin{Hermann} Nun, da wir es hier mit einer außerordentlichen
+Sitzung zu tun haben, halte ich es für besser, kein Protokoll
+zu führen ... Kein Protokoll, Frau Halbritter. \end{Hermann}
+
+\begin{Leonore} \begin{Regie}hört auf zu schreiben\end{Regie}
+Kein Protokoll. In Ordnung. \begin{Regie}Sie legt den Stift aus
+der Hand\end{Regie} \end{Leonore}
+
+\begin{Hermann} In Anbetracht der Tatsache, daß wir hier nicht
+vollständig versammelt sind, können wir, denke ich, direkt zum
+Thema kommen. Wie Sie sicher alle wissen, hat Oberleutnant Boll sich
+großzügigerweise als Ratgeber für unser kleines Festspiel angeboten
+und uns ferner seine volle Unterstützung bei der Militärgruppe
+zugesagt. Die leider ein wenig ins Hintertreffen geraten ist.\end{Hermann}
+
+\begin{Sofia} Was nicht allein meine Schuld ist. \end{Sofia}
+
+\begin{Hermann} Nein, nein, nein. Wir wollen hier keine Schuldzuweisungen
+betreiben. Andererseits können wir auch nicht leugnen, daß die
+Aktivitäten der Zwölf wesentlich besser organisiert und erheblich
+weiter fortgeschritten sind. Vielleicht durch Umstände, die einigen
+von uns ein wenig zweifelhaft erscheinen mögen. Unser Ziel ist
+es also, denke ich, das ursprüngliche Gleichgewicht wiederherzustellen.
+Ich richte nun das Wort an Sie, Herr Oberleutnant, und frage Sie,
+ob Sie direkt einen Vorschlag machen wollen. \end{Hermann}
+
+\begin{Horst} Danke, Herr Vorsitzender. \begin{Regie}Er steht
+auf\end{Regie} Also, gut. Ich habe natürlich schon ein paar längere
+Gespräche, vor allem mit Frau Dillmaier, geführt und bin von
+daher so ziemlich im Bilde, was die Lage betrifft. Wenn ich einmal
+zusammenfassen darf, haben wir also auf der einen Seite eine
+völlig desorganisierte Gruppe mit prinzipiell guten Absichten,
+auf der anderen Seite dagegen eine perfekt organisierte Gruppe
+mit ganz offensichtlich bösen Absichten. Ist das richtig? \end{Horst}
+
+\begin{Hermann} Nun, ich denke, böse ist ein sehr harter Ausdruck
+für ... \end{Hermann}
+
+\begin{Horst} Tut mir leid, Dillmaier, aber sehen Sie denn nicht,
+das ist doch der letzte Abschaum. Miese kleine Leute mit miesen
+kleinen Ansichten. Machen Sie sich da bloß nichts vor, die benutzen
+uns nur. Ist doch klar. Der letzte Dreck ist das. Ungeziefer.
+Im Krieg hätten sie Kropfer schon längst aufgehängt. Und genau
+da sollten wir ansetzen. \end{Horst}
+
+\begin{Hermann} Ah.\end{Hermann}
+
+\begin{Horst} Wie gehen wir also vor? Folgendes. Ich habe hier
+eine Karte vom Marktplatz \begin{Regie}Er rollt sie auf\end{Regie}
+Wenn Sie entschuldigen? Die einigermaßen auf dem neusten Stand
+ist. Jedenfalls für unsere Zwecke reicht's. Darf ich? Danke.
+\begin{Regie}Charlotte schläft während des Folgenden ein.\end{Regie}
+Zunächst einmal müssen wir uns darüber im Klaren sein, daß wir
+diesen Kampf zahlenmäßig kaum noch gewinnen können. Wenn wir
+mehr Zeit zur Verfügung hätten, würden wir sicher Verstärkung
+finden, aber dafür ist es jetzt zu spät. Bleibt uns also nur
+eine gute Strategie. Alle, die nichts mit der Sache zu tun haben
+und wegrennen, wenn's Ärger gibt, müssen wir in Ruhe lassen.
+Und Ärger wird es geben, das kann ich Ihnen jetzt schon prophezeien.\end{Horst}
+
+\begin{Hermann} Meinen Sie nicht, Oberleutnant Boll, das Ganze könnte
+verhindert werden, wenn wir ... \end{Hermann}
+
+\begin{Horst} Hören Sie zu, Dillmaier, dieser Kerl hat alles
+bis ins Kleinste durchorganisiert. Ich hab mich mal ein bißchen
+umgehört. Und das Schlimmste ist, einer von ihnen wohnt auch
+noch unter meinem Dach. Das heißt, wenn sie überhaupt nach Hause
+kommt. Glauben Sie mir, ich weiß, wovon ich rede. Womit wir es
+hier zu tun haben, ist ein Horde wild gewordener Jugendlicher
+und Randalierer, die es nur darauf angelegt hat, sich mit Ihnen
+zu prügeln. Sie werden schon noch sehen, sobald Ihre Drei-Mann-Armee
+zum Angriff übergeht, wird man Sie in Stücke reißen. \end{Horst}
+
+\begin{Berthold} Ach du lieber Himmel. \end{Berthold}
+
+\begin{Sofia} Hab ich's nicht gleich gesagt? \end{Sofia}
+
+\begin{Hermann} Sind Sie sicher? Das klingt alles ziemlich ...
+Warum sollten sie das tun? \end{Hermann}
+
+\begin{Horst} Na, weil der Kerl diese Versammlung für sich haben
+will, so einfach ist das, weil er eine eigene Kundgebung braucht,
+um seine Ziele ganz ungestört weiterzuverfolgen. Und, wenn er
+dann erstmal im Rampenlicht steht und diesen Schwachsinn verzapft,
+dürfte es wohl ziemlich schwer werden, ihn da wieder wegzukriegen.
+Ihre Frau hat ganz recht, langsam aber sicher dreht er durch.
+Er hält sich mittlerweile schon selbst für diesen Wartl. \end{Horst}
+
+\begin{Sofia} Hartel. \end{Sofia}
+
+\begin{Horst} Hartel. Er verschafft sich Gehör und wenn es sein
+muß mit Gewalt. Also, ich kann für Samstag höchstwahrscheinlich
+ein Duzend Leute organisieren. Das heißt, wenn sie nicht Golf
+spielen gehen. Ich hab ein bißchen rumtelefoniert, aber noch
+keine festen Zusagen bekommen. Beten wir also, daß es regnet.
+Jedenfalls kreuzt dann von diesem Schlägertrupp auch nur die
+Hälfte auf. Der Raum hier wird zu unserem Hauptquartier ... \begin{Regie}erblickt
+Charlotte\end{Regie} Hört dieses Weib da überhaupt zu? \end{Horst}
+
+\begin{Sofia} Sie ist eingeschlafen. \end{Sofia}
+
+\begin{Horst} Nicht grade der geborene Soldat, wie? \end{Horst}
+
+\begin{Sofia} Sie ist die Gräfin von Wolkenstein.\end{Sofia}
+
+\begin{Horst} Mein Beileid für den Herrn Gemahl! Dieser Raum
+wird also unser Hauptquartier, von hier aus gehen wir vor. \begin{Regie}Er
+geht zu den Innentüren und schaut nach, ob niemand da ist\end{Regie}
+Werfen Sie kurz einen Blick auf die Karte. Im Moment sind wir
+genau da, sehen Sie. Der Notausgang dort ist ungefähr hier. Das
+ist also unser erstes Versteck. In der Bibliothek können weitere
+Truppen untergestellt werden. Wie Sie wissen, hat man vom Lesesaal
+aus einen hervorragenden Blick über den gesamten Platz ... \end{Horst}
+
+\begin{Berthold} Wenn es draußen kalt ist, Herr Vorsitzender,
+machen recht viele Leute, vor allem ältere Herrschaften, regelmäßigen
+Gebrauch vom Lesesaal. Meinen Sie nicht, daß der Anblick von
+Militäruniformen sie unnötig in Angst und Schrecken versetzen
+könnte? \end{Berthold}
+
+\begin{Sofia} Welche Uniformen? \end{Sofia}
+
+\begin{Horst} \begin{Regie}antwortet auf Bertholds Frage\end{Regie}
+Daran hab ich auch schon gedacht. Aber sie können ja Regenmäntel
+überziehen und ihre Hüte verstecken, bis wir das Zeichen zum
+Angriff geben. Dann runter damit und los. \end{Horst}
+
+\begin{Sofia} Normalerweise müßten sie auch Perücken tragen.\end{Sofia}
+
+\begin{Horst} Das geht auf gar keinen Fall. Die Jungs können
+nicht noch mit Perücken durch den Lesesaal spazieren. Die Leute
+werden sich zu Tode erschrecken. \end{Horst}
+
+\begin{Hermann} Bei dem Tempo, mit dem wir da reinstürmen, brauchten
+wir eigentlich gar keine Uniformen. Die gehen in dem allgemeinen
+Gedränge doch sowieso unter. \end{Hermann}
+
+\begin{Horst} Natürlich brauchen wir Uniformen. Sonst schlagen
+wir nachher noch die eigenen Leute zusammen statt den Feind.\end{Horst}
+
+\begin{Berthold} Wer genau ist denn unser Feind, Herr Oberleutnant?
+Woran erkennt man ihn? \end{Berthold}
+
+\begin{Horst} Jeder, der einen Wams trägt, kriegt eine in die
+Fresse. Fragen können nachher gestellt werden. Also. In dieser
+kleinen Gasse hier sind noch mehr Verstecke. \begin{Regie}zeigt
+auf die Karte\end{Regie} Hier an der Bushaltestelle und da hinter
+dem Kriegerdenkmal können sich auch noch ein paar von den Jungs
+postieren ... Ich mache jetzt einen genauen Einsatzplan. Wer
+wann wo ist und was er zu tun hat, wenn ich das Zeichen gebe.
+Im Grunde genommen müssen wir nur Kropfer von seinem Podest runterholen.
+Wenn wir den Anführer erstmal geschnappt haben, wird der Rest
+ganz schnell den Mut verlieren. Mitten rein ins Herz also. Und
+deshalb brauchen wir ein Ablenkungsmanöver. Hier war doch von
+einem Pferd die Rede. Was ist damit? \end{Horst}
+
+\begin{Hermann} Nun, ich hab ein Pferd besorgt, ja. \end{Hermann}
+
+\begin{Horst} Großartig. \end{Horst}
+
+\begin{Hermann} Es ist aber kein richtiges Pferd. \end{Hermann}
+
+\begin{Horst} Was dann? Ein ausgestopftes? \end{Horst}
+
+\begin{Hermann} Nein, irgendwie ist es ... tja, es ist schwer
+zu beschreiben. So eine Art Attrappe.\end{Hermann}
+
+\begin{Horst} Ach, das wird schon gehen. Soll ja nur n bisschen
+Aufmerksamkeit erregen. \end{Horst}
+
+\begin{Berthold} Wissen Sie, die Polizei war sehr ... \end{Berthold}
+
+\begin{Horst} Auf die Polizei ist kein Verlaß. \begin{Regie}Er
+geht zum Notausgang und schlägt gegen den Vorhang.\end{Regie}
+Schon beim kleinsten Ärger ziehen die sich doch genauso in die
+Hauseingänge zurück wie alle andern auch. Wer soll dieses Pferd
+reiten? \end{Horst}
+
+\begin{Sofia} Die Gräfin von Wolkenstein. \end{Sofia}
+
+\begin{Horst} \begin{Regie}blickt auf Charlotte\end{Regie} Was,
+die da? \end{Horst}
+
+\begin{Hermann} Ja. \end{Hermann}
+
+\begin{Horst} Wahrscheinlich ist sie da oben auch besser aufgehoben
+als hier unten, wenn ich sie mir so ansehe ... Sie ist jedenfalls
+unser Ablenkungsmanöver. Sie geht als erste raus. Auf sie können
+wir am ehesten verzichten. Hinter ihrer Rückendeckung stürzt
+sich der Rest von uns dann auf Kropfer. \end{Horst}
+
+\begin{Sofia} Und die Frauen, was machen die? \end{Sofia}
+
+\begin{Horst} Ihr haltet euch da verdammt nochmal raus, ja! Entschuldigen
+Sie den Ausdruck. Kümmern Sie sich einfach um die Verwundeten.
+Dann wäre da noch diese Sache mit den Uniformen. \end{Horst}
+
+\begin{Sofia} Eine Katastrophe. \end{Sofia}
+
+\begin{Horst} Also, wir müssen uns da irgendwas einfallen lassen.
+Es braucht ja nicht perfekt sein. Schließlich machen wir hier
+keine Militärparade. Und Waffen? Was haben wir für Waffen? \end{Horst}
+
+\begin{Sofia} Musketen. \end{Sofia}
+
+
+
+
+
+
+
+
+
+\TextTeilEnde
+
+
+\TextTeilAnfang
+
+
+
+
+\begin{Horst} Hervorragend. \end{Horst}
+
+\begin{Hermann} Aber aus Holz. \end{Hermann}
+
+\begin{Horst} Einfach umdrehen und als Knüppel benutzen. \end{Horst}
+
+\begin{Berthold} Wenn Sie bitte entschuldigen würden, Herr Vorsitzender,
+aber mir scheint, unsere Planung nimmt mittlerweile etwas kriegerische
+Formen an. Ich bin immer noch der festen Überzeugung, daß wir
+Herrn Kropfer Unrecht tun und die Aufführung ohne den geringsten
+Zwischenfall vonstatten gehen wird. \end{Berthold}
+
+\begin{Horst} Dann wenden wir auch keine Gewalt an. Und alles
+verläuft so wie bei einem netten kleinen Festspiel. Unser Plan
+funktioniert nämlich in beide Richtungen. Je nachdem, friedlich
+oder auch nicht... Wir greifen jedenfalls nicht an. Den ersten
+Schlag überlassen wir ihnen, wohlgemerkt den ersten. Dafür ist
+ja auch das Weib auf dem Pferd da. Die jagen wir einfach rein
+in die Menge und dann sehen wir schon was passiert. Also, wenn
+Sie alle einverstanden sind, geh ich jetzt nach Haus und mach
+noch´n bisschen weiter. Dann treffen wir uns wieder. Wieviel
+Zeit haben wir noch? Ne Woche?\end{Horst}
+
+\begin{Sofia} Sechs Tage. \end{Sofia}
+
+\begin{Horst} Dann sollten wir uns aber ranhalten. Also Leute,
+nur keine unnötige Aufregung. Wie gesagt, es kann auch alles
+vollkommen friedlich ablaufen ... \end{Horst}
+
+\SchnelleEinstellung{Licht aus!}
+
+\begin{Regie}Das Licht geht
+aus.\end{Regie} 
+
+\begin{Hermann} Heh! Licht... \end{Hermann}
+
+\begin{Horst} \begin{Regie}brüllt in die Dunkelheit\end{Regie}
+In Deckung! Alle Mann in Deckung! \end{Horst}
+\begin{Regie}Ein unterdrückter Schrei von Sofia.Nach einer Weile:\end{Regie}
+
+\SchnelleEinstellung{Licht an!}
+
+\begin{Regie} Das Licht geht wieder an. Leonore hat sich
+nicht von der Stelle gerührt. Charlotte ist mit einem Schlag
+wach geworden und starrt jetzt entsetzt auf Horst, der mit einem
+Armeerevolver herumfuchtelt. Sofia, Hermann und Berthold sind
+noch geduckt. Berthold hält schützend ein Gebetbuch hoch.\end{Regie}
+
+\begin{Charlotte} Oh, mein Gott. \end{Charlotte}
+
+\begin{Sofia} \begin{Regie}sieht die Waffe\end{Regie} Oh. \end{Sofia}
+
+\begin{Berthold} Ah. \end{Berthold}
+
+\begin{Hermann} Oh. \begin{Regie}lächelt schwach\end{Regie} Schon
+wieder dieser Betriebswirt. \end{Hermann}
+
+\begin{Leonore} Das ist ja ein Revolver. \end{Leonore}
+
+\begin{Horst} \begin{Regie}steckt die Pistole etwas verlegen
+wieder in die Tasche\end{Regie} Tut mir leid. Ich wollte Sie
+nicht erschrecken. Kleines Kriegssouvenir. Zum Schutz vor Einbrechern,
+Dieben und so. \end{Horst}
+
+\begin{Hermann} \begin{Regie}versucht zu lachen\end{Regie} Ich
+hoffe, Herr Oberleutnant, Sie haben nicht vor, an unserem Festtag
+davon Gebrauch zu machen. \end{Hermann}
+
+\begin{Horst} \begin{Regie}packt seine Sachen zusammen\end{Regie}
+Ich hoffe nicht, daß es dazu kommen wird, Dillmaier. Ich hoffe
+nicht. Gute Nacht allerseits. \begin{Regie}Horst marschiert heraus.\end{Regie}\end{Horst}
+
+
+
+
+
+
+
+
+
+\TextTeilEnde
+
+
+\TextTeilAnfang
+
+
+
+\begin{Hermann} Also, ich bin davon überzeugt, daß unser Festspiel,
+im Endeffekt, ohne jeden Zwischenfall verlaufen wird. \end{Hermann}
+
+\begin{Berthold} Das glaube ich auch, Herr Vorsitzender. \end{Berthold}
+
+\begin{Sofia} Ja. \end{Sofia}
+
+\begin{Charlotte} Hört! Hört! \end{Charlotte}
+
+\begin{Leonore} \begin{Regie}lebhaft\end{Regie} Noch n’ kleinen
+Drink zum Abschluß? 
+ \end{Leonore}
+
+\begin{Regie}VORHANG \end{Regie}
+
+\Einstellung{Dunkel}
+
+
+
+\Einstellung{Umbau mit Musik}
+
+\Seite{66}
+
+\begin{Regie}
+Jetzt brauchen wir etwa zwei Minuten zum Umziehen.
+
+Zweite Szene:
+
+ Der gleiche Raum. Tag des Stadtfests. Der Konferenztisch
+ist auseinander gestellt und die ursprünglichen Einzeltische
+sind überall im Raum verteilt. Neben einem Tisch steht eine Kostümkiste.
+Gretchen sitzt auf der Kiste. Sie ist als entsprechend einfache
+Dienstmagd verkleidet. Sie schaut ängstlich auf Rudi. Rudi schreitet
+in seinem groben Hartel-Kostüm durch den Raum und geht in Gedanken
+noch einmal seine bevorstehende Festrede durch. Es handelt sich
+offensichtlich um eine sehr leidenschaftliche Rede. Rudi deutet
+mit leichten Handbewegungen die großen Gesten an, die er später
+vermutlich einsetzen wird. Beide sind sehr angespannt. Draußen
+spielt die Musikkapelle der Foxton-Werke unpassende Lieder. Hinter
+dem Notausgang hört man gleichzeitig das immer lauter werdende
+Grölen einer betrunkenen Menge. Rudi beendet seine Rede und bleibt
+stehen.\end{Regie}
+
+\Einstellung{Dunkel}
+
+\Einstellung{Hell}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\begin{Gretchen} Bist du nervös? \end{Gretchen}
+
+\begin{Rudi} \begin{Regie}bissig\end{Regie} Was denkst du denn?\end{Rudi}
+
+\begin{Gretchen} Entschuldige. \end{Gretchen}
+
+\begin{Rudi} Entschuldige. Verdammt... \end{Rudi}
+
+\begin{Gretchen} Du wirst großartig sein. \end{Gretchen}
+
+\begin{Rudi} Ja. Sie ist gar nicht so schlecht, was? Meine Rede?\end{Rudi}
+
+\begin{Gretchen} Sie ist super. Einfach super. \begin{Regie}Pause\end{Regie}
+Und vor allem so überzeugend. \begin{Regie}Pause\end{Regie} Besonders
+wie du Sachen wiederholst. Und dann dieses einerseits und andererseits
+... \end{Gretchen}
+
+\begin{Rudi} Sowas nennt man Rhetorik. \end{Rudi}
+
+\begin{Gretchen} Schon beeindruckend. \end{Gretchen}
+
+\begin{Rudi} Wie spät ist's? \end{Rudi}
+
+\begin{Gretchen} Zehn vor drei. Noch zehn Minuten. Hör dir die
+Leute an. Ne ganze Menge, was? Hast du schon mal rausgeguckt?\end{Gretchen}
+
+\begin{Rudi} Ja. \end{Rudi}
+
+\begin{Gretchen} Sie scheinen sich wirklich gut zu amüsieren.\end{Gretchen}
+
+\begin{Rudi} Findest du nicht, daß es etwas viele sind? Ich meine,
+nicht, daß das Ganze außer Kontrolle gerät. Ein paar von den
+Jungs lassen sich schon seit elf Uhr früh volllaufen. \end{Rudi}
+
+\begin{Gretchen} Ach was. Die sind eben in Bombenstimmung ...\end{Gretchen}
+
+\begin{Rudi} Max Kirkov wirkt jetzt schon ziemlich wackelig auf
+den Beinen. \end{Rudi}
+
+\begin{Gretchen} Ach ja, Max ... \end{Gretchen}
+
+\begin{Rudi} Er war letzten Endes doch nicht die richtige Wahl.
+Jedenfalls nicht für Hans-Ulrich Gämperlin. \begin{Regie}Die
+Blaskapelle verstummt. Das Grölen hält an.\end{Regie} \end{Rudi}
+
+\begin{Gretchen} Gut sieht er aus. \end{Gretchen}
+
+\begin{Rudi} Ja, stimmt. Er sieht toll aus. Aber er ist nicht
+mit ganzem Herzen bei der Sache. Im Grunde genommen ist er ein
+- Fußballrowdy. Er kommt doch nur her, weil's Freibier gibt.
+Und, ich meine, das Letzte, was wir hier gebrauchen können, ist
+ein betrunkener Gämperlin. \end{Rudi}
+
+\begin{Gretchen} Ich steh dir schon bei. \end{Gretchen}
+
+\begin{Rudi} Klaro. \end{Rudi}
+
+\begin{Gretchen} Willst du noch ein Halsbonbon? \end{Gretchen}
+
+\begin{Rudi} Nein, geht schon. Geht schon. Hast du Elisabeth
+gesagt, sie soll herkommen? \end{Rudi}
+
+\begin{Gretchen} Ja, sie kommt gleich. \begin{Regie}Steht auf\end{Regie}
+Sie ist im Moment auf dem Damenklo und hilft Sofia mit ihrem
+Kostüm. \end{Gretchen}
+
+\begin{Rudi} Bestimmt total aufgedonnert, die Dillmaier, oder?\end{Rudi}
+
+\begin{Gretchen} Ein hübsches Kleid hat sie. Ist ihr wirklich
+gut gelungen. Sie muß stundenlang dran gesessen haben. \begin{Regie}Elisabeth
+kommt herein. Sie ist als Zofe verkleidet und trägt ein etwas
+besseres Kostüm als Gretchen. Sie hat einige Militäruniformen
+und einen großen Federhut bei sich.\end{Regie} \end{Gretchen}
+
+\begin{Elisabeth} Hallo. \end{Elisabeth}
+
+\begin{Rudi} Ah, Elisabeth. Komm doch mal her -ja. Na, wieviel
+sind denn von ihren Leuten aufgetaucht? Ich meine, mal abgesehen
+von denen aus dem Komitee. \end{Rudi}
+
+\begin{Elisabeth} Zwei.\end{Elisabeth}
+
+\begin{Rudi} Hah! Gut, hör zu. \begin{Regie}Er geht zum Notausgang
+und zieht die Vorhänge zurück\end{Regie} Ich habe ein Vorhängeschloß
+vor diese Tür gemacht. Hier ist der Schlüssel. Gretchen wird
+draußen in der Halle warten und sobald ihr alle hier drin seid
+wird sie euch einschließen. Den Schlüssel hab ich an der Rezeption
+mitgehen lassen. Achte aber drauf, daß auch alle drin sind, Gretchen.\end{Rudi}
+
+\begin{Gretchen} Ja. \end{Gretchen}
+
+\begin{Rudi} Und du, Elisabeth, gib ihnen den Schlüssel ja nicht
+bevor ich fertig bin mit meiner Rede. Verstanden? \end{Rudi}
+
+\begin{Elisabeth} Ja. \end{Elisabeth}
+
+\begin{Rudi} Gut, dann versteck‘ ihn irgendwo. \begin{Regie}Elisabeth
+legt den Schlüssel in ihr Nähkästchen.\end{Regie} \end{Rudi}
+
+\begin{Gretchen} Ich begreif‘ nicht, warum du das alles machst.
+Sie sind doch nur so wenige. \end{Gretchen}
+
+\begin{Rudi} Weil dein verrückter Bruder irgendwas ausgeheckt
+hat, darum. Er will um jeden Preis verhindern, daß ich zu Wort
+komme. Die Jungs scheinen Streit zu suchen. Gut. Können sie von
+mir aus auch haben. Aber erst hinterher, wenn ich fertig bin
+mit meiner Rede. So eine Chance bekommt man nur einmal im Leben.
+\begin{Regie}Er hält inne\end{Regie} \begin{Regie}Die Menge grölt
+eine gelallte Version des ,Hartel-Lieds'.\end{Regie} Ist es so
+weit? \end{Rudi}
+
+\begin{Gretchen} Oh ja. Entschuldige. Du mußt gehen. \begin{Regie}Gibt
+ihm einen Kuß\end{Regie} Viel Glück, Schatz. \end{Gretchen}
+
+\begin{Elisabeth} \begin{Regie}küßt ihn auch\end{Regie} Ja, viel
+Glück. \end{Elisabeth}
+
+\begin{Rudi} \begin{Regie}stößt sie beiseite\end{Regie} Schon
+gut, schon gut. \begin{Regie}Zu Gretchen\end{Regie} Und schließ
+die Tür ab. \end{Rudi}
+
+\begin{Gretchen} Ja. \begin{Regie}Rudi geht zur Tür. Gretchen
+folgt ihm. Elisabeth beginnt an einer Kniebundhose zu nähen.\end{Regie}
+\begin{Regie}Horst kommt herein. Er hat einen Hut, eine Perücke,
+eine Jacke und ein Hemd an, aber keine Hose. Er trägt seine Stiefel
+unter dem Arm.\end{Regie} \begin{Regie}Horst und Rudi stehen
+sich Auge in Auge gegenüber. Sie starren sich einen Moment lang
+an.\end{Regie} \end{Gretchen}
+
+\begin{Horst} Würden Sie freundlicherweise hier verschwinden.
+Dieser Raum ist privat. \end{Horst}
+
+\begin{Rudi} Schon unterwegs.\end{Rudi}
+
+\begin{Horst} Und vergessen Sie ja Ihre - Busenfreundin nicht.\end{Horst}
+
+\begin{Rudi} Gretchen, du weißt, was du zu tun hast. \begin{Regie}Rudi geht hinaus.
+Gretchen folgt ihm und wirft Horst einen eisigen Blick zu.\end{Regie}\end{Rudi}
+
+\begin{Horst} Wo bleibt denn verdammt nochmal meine Hose, Mädchen?\end{Horst}
+
+\begin{Elisabeth} Ich ändere sie gerade noch, sonst ... \end{Elisabeth}
+
+\begin{Horst} Tut mir leid, für sowas hab ich jetzt keine Zeit
+mehr. \end{Horst}
+
+\begin{Elisabeth} Tja, aber ohne diese Verschlüsse wird die Hose
+oben wohl nicht richtig ... \end{Elisabeth}
+
+\begin{Horst} Geben Sie her. \begin{Regie}Er reißt sie ihr aus
+der Hand\end{Regie} Danke. \begin{Regie}Zwängt sich hinein\end{Regie}
+Paßt doch ausgezeichnet. Ich weiß gar nicht, was Sie haben. \begin{Regie}Elisabeth
+schaut ängstlich zu. Horst setzt sich mit der Hose hin und zieht
+seine Stiefel an. Elisabeth nutzt die Gelegenheit, kniet sich
+neben ihn und näht weiter.\end{Regie} Sind die andern schon fertig?\end{Horst}
+
+\begin{Elisabeth} Ja. \end{Elisabeth}
+
+\begin{Horst} Was haben Sie gesagt? \end{Horst}
+
+\begin{Elisabeth} Ja. \end{Elisabeth}
+
+\begin{Horst} Und wieviel Soldaten sind aufgekreuzt für Kostüme?\end{Horst}
+
+\begin{Elisabeth} Zwei. \end{Elisabeth}
+
+\begin{Horst} Was? \end{Horst}
+
+\begin{Elisabeth} Zwei. \end{Elisabeth}
+
+\begin{Horst} Zwei? Du meine Güte, dass heißt also wir sind allein.
+Hören Sie sich mal diese Horde von Besoffenen da draußen an.
+Der letzte Abschaum. Das Land wollen sie zwar zerstören, aber
+unser Bier, das trinken sie. \begin{Regie}Sofia kommt herein.
+Sie hat ein wunderschönes Kleid an. Es mag zwar nicht genau in
+die Zeit passen, aber sie weiß sehr wohl, was ihr steht. Die
+Wirkung wird durch ihr unpassendes Schuhwerk, das gelegentlich
+zum Vorschein kommt, und ihre Handtasche, die sie mit sich herumträgt,
+leicht beeinträchtigt.\end{Regie} \end{Horst}
+
+\begin{Horst} \begin{Regie}steht auf\end{Regie} Oh, gnädige Frau.
+Sie sehen hinreißend aus.\end{Horst}
+
+\begin{Sofia} Danke. Alles mit der Hand genäht. Hören Sie sich
+mal diesen Pöbel da draußen an. \end{Sofia}
+
+\begin{Horst} Grauenhaft. \begin{Regie}Das Singen draußen verstummt
+langsam.\end{Regie} \end{Horst}
+
+\begin{Sofia} \begin{Regie}sieht Elisabeth bei der Arbeit\end{Regie}
+Oh, gibt's noch was auszubessern? \end{Sofia}
+
+\begin{Horst} Keine Ahnung, was die da macht. Sie fummelt schon
+die ganze Zeit... \begin{Regie}schiebt Elisabeth zur Seite\end{Regie}
+So, das reicht jetzt, Mädchen. Das reicht. \end{Horst}
+
+\begin{Elisabeth} \begin{Regie}schüttelt den Kopf\end{Regie}
+Ich bin noch nicht ganz fertig. \end{Elisabeth}
+
+\begin{Horst} Sie sehen doch, die Hose hält, oder? Also, was
+soll das Ganze? \begin{Regie}Er breitet die Karte auf dem Tisch
+aus\end{Regie} \end{Horst}
+
+\begin{Elisabeth} \begin{Regie}zuckt mit den Achseln\end{Regie}
+Na gut. Ist ja Ihre Hose. \begin{Regie}Elisabeth zieht ein Gesicht,
+geht in eine Ecke und beginnt am Federhut zu arbeiten.\end{Regie}\end{Elisabeth}
+
+\begin{Horst} Also dann ... \begin{Regie}vertraulich\end{Regie}
+Hat sie ihre Stimme verloren oder was? \end{Horst}
+
+\begin{Sofia} Nein, sie spricht immer so. \end{Sofia}
+
+\begin{Horst} Würd‘ mir ganz schön auf die Nerven gehen. Wo sind
+die andern? \begin{Regie}Er stellt einige Schachfiguren auf die
+Karte.\end{Regie} \end{Horst}
+
+\begin{Sofia} Hermann holt grade das Pferd aus dem Kombi. Charlotte
+ist natürlich in der Bar, wo sonst. Gottseidank machen die gleich
+zu. Herr Halbritter hat gestern Abend seine Uniform mit nach
+Hause genommen. Ich glaube, er bringt Frau Halbritter mit. Sie
+will sich diesen Spaß nicht entgehen lassen. \end{Sofia}
+
+\begin{Horst} Spaß? Wir sind doch nicht zum Vergnügen hier, Menschenskind.
+Die haben uns den Krieg erklärt. \end{Horst}
+
+\begin{Sofia} Also, ich weiß nicht recht. \end{Sofia}
+
+\begin{Horst} Doch, Sofia, Sofia - egal, was ich den andern gesagt
+habe, es wird Krieg geben, glauben Sie mir. \begin{Regie}Berthold
+bringt Leonore herein. Er ist als Soldat verkleidet. Seine Uniform
+paßt nicht besonders gut - vor allem die Hose, die viel zu kurze
+Beine hat und im Schritt so lang ist, daß der Hosenboden herunterbaumelt.
+Er hat einige Schwierigkeiten zu gehen. Er trägt immer noch seine
+Brille. Unter dem einen Arm hat er einen Stapel Noten. Mit der
+anderen Hand stützt er Leonore, die einfach aber passend gekleidet
+ist.\end{Regie}\end{Horst}
+
+\begin{Berthold} So, Mutter, da wären wir. \end{Berthold}
+
+\begin{Sofia} Hallo. Oh, sieht sie nicht bezaubernd aus. Wirklich
+sehr hübsch, Frau Halbritter. \end{Sofia}
+
+\begin{Leonore} Sie sehen hübsch aus. \end{Leonore}
+
+\begin{Sofia} Danke. \end{Sofia}
+
+\begin{Leonore} Oh, schauen Sie mal ... \begin{Regie}Sie zeigt
+auf Horst, der kurz lächelt\end{Regie} \begin{Regie}Horst geht
+während des Folgenden hinaus ins Hotel.\end{Regie} \end{Leonore}
+
+\begin{Berthold} Wenn es allen recht ist, würde Mutter ganz gerne
+vor Beginn des Festspiels die Gelegenheit nutzen und Ihre musikalische
+Einlage für heute Abend einstudieren. \end{Berthold}
+
+\begin{Sofia} Eine gute Idee. \end{Sofia}
+
+\begin{Berthold} Ja, fand ich auch. Deshalb habe ich ihre Noten
+schon mal mitgebracht, sehen Sie. Laß uns hochgehen, Mutter.
+\begin{Regie}Berthold hilft Leonore auf die Bühne und setzt sie
+auf den Klavierschemel.\end{Regie} \end{Berthold}
+
+\begin{Sofia} Elisabeth, Liebes, können wir Stadtrat Halbritters
+Hose nicht noch irgendwie ändern? Er scheint Schwierigkeiten
+damit zu haben. \begin{Regie}Elisabeth nähert sich Berthold mit
+einer Nadel.\end{Regie} \end{Sofia}
+
+\begin{Berthold} \begin{Regie}als Elisabeth an seiner Hose herumzupft\end{Regie}
+Oh, hallo. Kann ich Ihnen vielleicht behilflich sein? \end{Berthold}
+
+\begin{Elisabeth} Nein, schon gut. Ich will nur schnell ... \begin{Regie}Horst
+kommt aus dem Hotel zurück und hat ein Leinenbündel bei sich,
+in das einige Musketen eingewickelt sind.\end{Regie} \end{Elisabeth}
+
+\begin{Horst} Hätt‘ ich beinah vergessen. Unsere Waffen. \begin{Regie}Er
+legt sie auf den Boden\end{Regie} \end{Horst}
+
+\begin{Sofia} \begin{Regie}zu Horst, verweist dabei auf Berthold\end{Regie}
+Die Jacken sind ja toll geworden, aber die Hosen sind wirklich
+das Letzte. \begin{Regie}Berthold hilft Leonore, die Noten zu
+sortieren.\end{Regie} \end{Sofia}
+
+\begin{Horst} Ja - das seh‘ ich. Ich hab übrigens grade im Salon
+mal aus dem Fenster geschielt. Da draußen braut sich ganz schön
+was zusammen. Im Moment sind die Jungs ja noch guter Dinge, aber
+wenn die Kneipen erst mal dicht machen, kann sich das ganz schnell
+ändern.\end{Horst}
+
+\begin{Sofia} Ist dieser stämmige Russe mit dem Bart noch da
+draußen? Der den Hans-Ulrich Gämperlin spielen soll? \end{Sofia}
+
+\begin{Horst} Oh ja, in voller Lebensgröße. \end{Horst}
+
+\begin{Sofia} Schrecklich. \end{Sofia}
+
+\begin{Horst} Ist er Russe? \end{Horst}
+
+\begin{Sofia} Also angeblich ist er ja in Vorderschellingen geboren.
+Dabei sieht er überhaupt nicht danach aus. \end{Sofia}
+
+\begin{Horst} Ist ganz schön kräftig, betrunken und gefährlich,
+dieser Kerl. Wir warten mit unserem Angriff besser bis er auf
+der anderen Seite vom Marktplatz ist. Haben Sie Ihre Waffe, Stadtrat?\end{Horst}
+
+\begin{Berthold} Ich werde offenbar gerade in meine Hose eingenäht.\end{Berthold}
+
+\begin{Horst} Na. Da wär'n Sie nicht der erste. Weiß auch nicht,
+wer ihr das eingetrichtert hat. \end{Horst}
+
+\begin{Sofia} Hört mal ... \begin{Regie}Die Menge draußen ist
+ruhiger geworden. In einiger Entfernung ist Rudis Stimme zu hören.
+Die Worte sind unverständlich, aber er spricht mit viel Leidenschaft
+und Überzeugung.\end{Regie} \end{Sofia}
+
+\begin{Horst} Also gut, Leute, es geht los. An die Arbeit. Greifen
+Sie zu den Waffen. \begin{Regie}Horst fängt an die Waffen auszupacken.
+Leonore beginnt zu spielen. Hauptsächlich leichte Operettenmelodien,
+gelegentlich auch ein paar flotte Schlager aus den 20er Jahren.
+Sie konnte früher offenbar ziemlich gut spielen. Aber das Alter
+macht sich bemerkbar.\end{Regie} Was zum Teufel ... \begin{Regie}Er
+richtet sich auf und starrt Leonore an\end{Regie} \begin{Regie}Leonore
+schenkt ihnen ein strahlendes Lächeln, dreht sich dann um und
+konzentriert sich wieder auf ihr Spiel, das während des Folgenden
+anhält, ohne die geringste Notiz davon zu nehmen, was um sie
+herum geschieht. Die Geräusche draußen werden immer leiser.\end{Regie}
+Muß sie jetzt unbedingt Klavierspielen? \end{Horst}
+
+\begin{Sofia} Sie übt für nachher.\end{Sofia}
+
+\begin{Horst} Nicht grade passend, die Musik. Aber egal. Vielleicht
+hilft es ja den Feind zu vergraulen, \begin{Regie}zieht eine
+nicht gerade sehr überzeugende, silbern angemalte Theatermuskete
+heraus\end{Regie} Menschenskind! Was besseres war nicht aufzutreiben?\end{Horst}
+
+\begin{Sofia} Leider nicht. \end{Sofia}
+
+\begin{Horst} Ich könnte wetten, die ist von der Kapellinger
+Theatergruppe. \end{Horst}
+
+\begin{Sofia} Ja. \end{Sofia}
+
+\begin{Horst} Die konnt ich noch nie leiden. Ne ganz miese Truppe.
+Die Aufführung von Lady Windermeres Fächer war total daneben.
+Hier, Stadtrat, schnappen Sie. \begin{Regie}Horst wirft Berthold
+eine Muskete zu, die er nur mit Mühe auffängt. Elisabeth näht
+immer noch an Bertholds Hose. Berthold hält seine Muskete so
+wie ein Laie sie halten würde.\end{Regie} \end{Horst}
+
+\begin{Berthold} Und wie sehe ich aus? \end{Berthold}
+
+\begin{Horst} Nein, nein, nicht so. Andersrum. \end{Horst}
+
+\begin{Berthold} \begin{Regie}dreht sie herum\end{Regie} So,
+meinen Sie? \end{Berthold}
+
+\begin{Horst} Genau. Jetzt schwingen Sie sie mal über'm Kopf.\end{Horst}
+
+\begin{Berthold} \begin{Regie}schwingt sie unsicher über dem
+Kopf\end{Regie} So? \end{Berthold}
+
+\begin{Horst} Ganz genau! \end{Horst}
+
+\begin{Berthold} Ist das nicht ein bißchen gefährlich? \end{Berthold}
+
+\begin{Horst} Schon ... \end{Horst}
+
+\begin{Hermann} \begin{Regie}Hermann kommt auf seinem Pferd herein.
+Er trägt eine Soldatenuniform. Das Pferd rollt auf vier Rädern
+und muß vom Reiter mit den Füßen vorwärts bewegt werden, so wie
+Hermann es jetzt tut. Das Tier ist mit einigen Insignien geschmückt,
+die Sofia in aller Eile befestigt hat. Es hat einen langen, buschigen
+Schwanz und große hervorstehende Glotzaugen am Kopf der um ungefähr
+45 Grad verdreht ist als wollte er über die Schulter blicken.\end{Regie}
+Guten Tag. \end{Hermann}
+
+\begin{Horst} Oh mein Gott! \end{Horst}
+
+\begin{Sofia} Mehr war leider nicht drin in der kurzen Zeit.\end{Sofia}
+
+\begin{Horst} Na, für Ablenkung ist jedenfalls gesorgt, würd'
+ich sagen.\end{Horst}
+
+\begin{Hermann} Ich kam mir ein bißchen komisch vor, als ich damit
+durchs Foyer geritten bin. \end{Hermann}
+
+\begin{Sofia} Was ist denn mit dem Kopf passiert? Das war doch
+heute Morgen noch nicht so. \end{Sofia}
+
+\begin{Hermann} Ich glaube, ich bin vorhin beim Ausladen dagegengeknallt.
+Er läßt sich nicht mehr drehen, habe ich schon probiert. \end{Hermann}
+
+\begin{Sofia} Du Schande. Wie sieht das denn jetzt aus? \end{Sofia}
+
+\begin{Horst} Also los Leute. Wir müssen uns ranhalten. Schieben
+Sie es zum Notausgang rüber. \end{Horst}
+
+\begin{Hermann} Jawohl. \begin{Regie}Er rollt herüber\end{Regie}
+\begin{Regie}Horst sortiert die Waffen.\end{Regie} \end{Hermann}
+
+\begin{Sofia} \begin{Regie}als Hermann an ihr vorbei rollt\end{Regie}
+Deine Hose scheint in Ordnung zu sein. \end{Sofia}
+
+\begin{Hermann} Ja. Aber dafür kann ich meine Arme nicht heben.
+Die Jacke ist viel zu eng. Das ist sehr hübsch, Frau Halbritter.\end{Hermann}
+
+\begin{Sofia} Sie kann dich nicht hören. \end{Sofia}
+
+\begin{Berthold} Ja, sie spielt sehr gut, nicht wahr? \begin{Regie}zu
+Elisabeth, die immer noch am Nähen ist\end{Regie} Sind Sie bald
+soweit, meine Liebe? \end{Berthold}
+
+\begin{Elisabeth} Ja, so gut wie. \end{Elisabeth}
+
+\begin{Berthold} Wir müssen nämlich jetzt gehen, wissen Sie.\end{Berthold}
+
+\begin{Horst} Dillmaier? Hier, Ihre Muskete. \begin{Regie}Er
+wirft Hermann eine Muskete zu\end{Regie} \end{Horst}
+
+\begin{Hermann} Danke. \end{Hermann}
+
+\begin{Horst} Und eine für mich. So, wo ist denn unser Ablenkungsmanöver?
+Wo verdammt nochmal ist unser Ablenkungsmanöver? \end{Horst}
+
+\begin{Sofia} Schon gut. Da kommt sie ja. \begin{Regie}Charlotte
+kommt steifbeinig herein marschiert. Sie trägt ein sehr damenhaftes
+Kostüm, das ihr am Körper hängt. Sie ist offensichtlich so gekleidet
+wie sich jemand die damalige Gräfin von Wolkenstein vorgestellt
+hat.\end{Regie} \begin{Regie}Als Elisabeth Charlotte sieht, hört
+sie auf an Bertholds Hose zunähen und holt Charlottes Hut. Von
+draußen ertönt einstimmiger Gesang.\end{Regie} \end{Sofia}
+
+\begin{Charlotte} Tut mir leid, Leute, tut mir leid. Bin aufgehalten
+worden.\end{Charlotte}
+
+\begin{Horst} Schon gut. Jetzt aber rauf mit ihr. Rauf aufs Pferd,
+los. Es ist schon fünf nach drei. \end{Horst}
+
+\begin{Hermann} \begin{Regie}immer noch in der Nähe des Notausgangs\end{Regie}
+Hört sich fast so an, als würden sie den guten Herrn Kropfer
+da draußen anfeuern. \end{Hermann}
+
+\begin{Horst} Einfach ignorieren. Von der Sorte sind immer welche
+dabei. Wahrscheinlich irgend so'n Studentenpack. \begin{Regie}Berthold
+und Horst führen Charlotte zum Pferd. Hermann hält es fest.\end{Regie}\end{Horst}
+
+\begin{Charlotte} Ich kann Ihnen sagen - mir ist da vielleicht
+was Trauriges passiert - das macht mich ganz schön fertig. \begin{Regie}Sie
+helfen ihr aufs Pferd Elisabeth läuft mit Charlottes Hut hinterher,
+stülpt ihn ihr auf den Kopf und beginnt dann Ausbesserungen am
+Pferd vorzunehmen.\end{Regie} \begin{Regie}währenddessen\end{Regie}
+Ich weiß nicht, ob Sie sich noch daran erinnern, aber ich hatte
+Ihnen doch von dieser klitzekleinen Chance erzählt, daß mein
+Mann Ludwig und ich wieder zusammenkommen. Na jedenfalls, er
+hat mich heute morgen angerufen und mir gesagt, daß es nun endgültig
+aus ist zwischen uns. \end{Charlotte}
+
+\begin{Horst} Los jetzt - rauf mit ihr auf den verdammten Gaul.\end{Horst}
+
+\begin{Charlotte} Er will nicht zu mir zurückkommen. Nie mehr.\end{Charlotte}
+
+\begin{Sofia} Und, sitzen Sie bequem, Charlotte? \end{Sofia}
+
+\begin{Charlotte} Wenn es mich mal nur nicht abwirft. \begin{Regie}Sie
+lacht.\end{Regie} Nein, jetzt aber ganz im Ernst, das war wirklich
+meine letzte Hoffnung. Meine allerletzte Hoffnung. \end{Charlotte}
+
+\begin{Horst} \begin{Regie}während des Vorigen\end{Regie} Gut.
+So, Dillmaier, jetzt öffnen Sie den Notausgang. Wir starten das
+Ablenkungsmanöver. Achtung! \end{Horst}
+
+\begin{Hermann} Scheint abgeschlossen zu sein. \end{Hermann}
+
+\begin{Horst} Abgeschlossen? \end{Horst}
+
+\begin{Hermann} Ja, verriegelt. \end{Hermann}
+
+\begin{Horst} Hab ich's mir doch gedacht. Diese Schweine. Typischer
+Marxistentrick. Aber so leicht geben wir uns nicht geschlagen,
+nein. Wir nehmen einfach die Vordertür. Und rollen sie da raus.
+\begin{Regie}Horst und Hermann drehen Charlotte um.\end{Regie}\end{Horst}
+
+\begin{Sofia} Seid vorsichtig!
+
+\begin{Regie}Hermann und Horst rollen sie mit ziemlichem Tempo
+zur anderen Tür. Berthold eilt ihnen voraus.\end{Regie} \end{Sofia}
+
+\begin{Charlotte} Brr! Mein Prachtstück. \end{Charlotte}
+
+\begin{Horst} Los, Stadtrat, machen Sie die Tür auf! \end{Horst}
+
+\begin{Berthold} Ich fürchte, die hier ist leider auch abgeschlossen.\end{Berthold}
+
+\begin{Sofia} Oh je, wir sitzen in der Falle. \end{Sofia}
+
+\begin{Hermann} Oh. \end{Hermann}
+
+\begin{Sofia} Hilfe! Zu Hilfe! \end{Sofia}
+
+\begin{Horst} Nur keine Panik, ja. Das haben wir gleich. Keine
+Panik, verdammt nochmal. Los, bringen Sie sie wieder her. Mir
+nach. \begin{Regie}Horst rennt zum Notausgang und fummelt in
+seiner Jackentasche herum. Berthold und Hermann schieben Charlotte
+wieder zurück. Elisabeth, die immer noch am Pferd herum flickt,
+ist gleich dahinter.\end{Regie} \end{Horst}
+
+\begin{Charlotte} Ho! \end{Charlotte}
+
+\begin{Berthold} Es ist leider immer noch sehr schwer in dieser
+Hose zu laufen. \end{Berthold}
+
+\begin{Horst} \begin{Regie}zückt seinen Revolver\end{Regie} Los,
+weg da! Weg da! Ich schieß das Schloß auf. \end{Horst}
+
+\begin{Hermann} Aber, Herr Oberleutnant, Sie hatten doch versprochen
+das Ding nicht mitzubringen \end{Hermann}
+
+\begin{Horst} Weg da! \begin{Regie}Ein lauter Knall. Er schießt
+das Schloß auf\end{Regie} So, das wäre geschafft. Sie beide,
+halten Sie jetzt die Tür fest. Und wenn ich das Kommando gebe,
+stoßen Sie sie auf. \begin{Regie}Hermann und Berthold nehmen
+jeweils eine Nottür.\end{Regie} \begin{Regie}Rennt hinter Charlotte\end{Regie}
+Weg da, Mädchen! \begin{Regie}Elisabeth weicht zurück\end{Regie}
+Und jetzt. Öffnen! \begin{Regie}Hermann und Berthold öffnen die
+Tür, Sonnenlicht flutet herein.\end{Regie} \begin{Regie}gibt
+dem Pferd einen Klaps auf den Hintern\end{Regie} Und ab die Post,
+mein Schatz! \begin{Regie}Horst tritt zurück. Charlotte, die
+schließlich dem Alkohol erliegt, rutscht fast im Zeitlupentempo
+seitlich vom Pferd und stöhnt dabei tief.\end{Regie}\end{Horst}
+
+\begin{Charlotte} Oooooooooooooooooooohhhhhh! \begin{Regie}Sie
+landet seitlich unter dem Pferd. Entschuldigend\end{Regie} Tut
+mir leid. Hat mich abgeworfen. \end{Charlotte}
+
+\begin{Sofia} Ach du lieber Himmel! \end{Sofia}
+
+\begin{Horst} Also. Die Gräfin von Wolkenstein können wir schon
+mal vergessen. Jetzt hängt alles von uns ab. Los Männer, ran
+an die Musketen! \end{Horst}
+
+\begin{Sofia} Sie wollen sie doch wohl nicht so da liegen lassen?\end{Sofia}
+
+\begin{Horst} Wir hab'n keine Zeit zu verliern. \begin{Regie}zu
+Berthold\end{Regie} Los, Mann, Brille ab, Brille ab, sag ich.\end{Horst}
+
+\begin{Berthold} Oh, ich fürchte, das geht nicht. Ich kann nichts
+sehen ohne Brille. \end{Berthold}
+
+\begin{Horst} Ein Schlag ins Gesicht und Sie sind blind, Mann
+... \end{Horst}
+
+\begin{Berthold} Ohne Brille bin ich jedenfalls auch blind wie
+ein Maulwurf. \end{Berthold}
+
+\begin{Horst} \begin{Regie}reißt Berthold die Brille aus dem
+Gesicht\end{Regie} Ach was, runter damit. Hier, halten Sie die
+solange. \begin{Regie}Horst wirft Sofia die Brille zu, die sie
+auf der Bühne ablegt.\end{Regie} \end{Horst}
+
+\begin{Berthold} Oh je. \end{Berthold}
+
+\begin{Hermann} Dieser Riese von Gämperlin war gerade da draußen.\end{Hermann}
+
+\begin{Horst} Machen Sie n’ Bogen um den. Gut. Alles klar? Attacke!
+\begin{Regie}Horst und Hermann stürzen hinaus. Berthold tastet
+sich hinter ihnen her.\end{Regie} \begin{Regie}Draußen hört man
+Krawall. Elisabeth hilft Charlotte auf die Bühne, wo sie während
+des Folgenden sitzenbleibt und nach und nach die Klaviermelodie
+mit summt. Sofia steht am Notausgang und beobachtet das Geschehen.\end{Regie}\end{Horst}
+
+\begin{Sofia} \begin{Regie}während sie ihre Helden anfeuert wird
+ihr Kreischen immer lauter\end{Regie} Los, Mann ... na los, Hermann
+... Jetzt mach schon, geh hin. Los ... Ja, gut so ... Gib's ihm
+... Prima ... Paß auf... Schlagen Sie zu, Stadtrat, schlagen
+Sie doch zu ... Gut... Weiter so ... Na los, ihr Schlappschwänze,
+nur keine Müdigkeit vorschützen ... Los, macht sie kalt, macht
+sie kalt... Ja, besser so. Das gefällt mir schon besser ... etc.
+\begin{Regie}Hinter ihr wird die Hoteltür unter lautem Krachen
+aufgebrochen. Nur Elisabeth dreht sich um.\end{Regie}
+
+\begin{Regie}Ein sehr kräftig aussehender Mann in einem zerrissenen
+Lederwams, mit wüster schwarzer Haarmähne und einem dichten schwarzen
+Bart kommt naßgeschwitzt und keuchend herein. Er blickt sich
+lüstern um. Es ist Max Gämperlin Kirkov. Als er Sofia bei ihrem
+Kriegstanz entdeckt, steuert er auf sie zu.\end{Regie} \end{Sofia}
+
+\begin{Elisabeth} \begin{Regie}läuft zu Sofia, um sie zu warnen\end{Regie}
+Entschuldigen Sie, Gämperlin ist da. Gämperlin. Gämperlin kommt...\end{Elisabeth}
+
+\begin{Sofia} \begin{Regie}gereizt\end{Regie} Was ist los, Mädchen?
+Sprechen Sie doch um Himmels Willen lauter ... \begin{Regie}Elisabeth
+zeigt hektisch nach hinten. Sofia dreht sich zu spät um.\end{Regie}
+\begin{Regie}Steht Gämperlin Auge in Auge gegenüber\end{Regie}
+Oh nein ... Oh mein Gott, die Russen sind da. \begin{Regie}Gämperlin
+stürzt sich mit lautem Gebrüll auf sie und hebt sie mühelos hoch.
+Sofia schreit vergeblich.\end{Regie} \begin{Regie}Gämperlin trägt
+sie durch die Eingangstür fort und singt dabei lallend das Hartel-Lied.\end{Regie}
+\begin{Regie}Beim Gehen\end{Regie} Hiiiiiiiilfe ... \begin{Regie}Elisabeth
+tippt Leonore auf die Schulter, um ihre Aufmerksamkeit zu erregen.\end{Regie}\end{Sofia}
+
+\begin{Leonore} \begin{Regie}deutlich zu ihr\end{Regie} Eine
+lustige Melodie, nicht? \end{Leonore}
+
+\begin{Charlotte} Ja wirklich, eine sehr lustige Melodie. \begin{Regie}Hermann
+erscheint blutend im Notausgang. Er sieht übel zugerichtet aus
+und hat immer noch seine Muskete in der Hand, deren Lauf jetzt
+verbogen ist.\end{Regie} \end{Charlotte}
+
+\begin{Hermann} Die taugt nichts. Wusst ich's doch. Ist aufgerissen
+am Rücken, Verehrteste. Als ich das erste Mal die Arme hochheben
+wollte. Sehen Sie mal. \end{Hermann}
+
+\begin{Elisabeth} Oh je ... \begin{Regie}Sie holt Nadel und Faden\end{Regie}\end{Elisabeth}
+
+\begin{Hermann} Wo ist Sofia denn hin? \end{Hermann}
+
+\begin{Elisabeth} Sie wurde weggetragen. \end{Elisabeth}
+
+\begin{Hermann} \begin{Regie}hört sie nicht\end{Regie} Ach so.
+Habe mich nur gewundert. Verehrteste, könnten Sie das vielleicht
+eben provisorisch nähen? \begin{Regie}Elisabeth geht um Hermann
+herum und fängt an zu nähen. Das macht sie eine ganze Weile.\end{Regie}
+
+\begin{Regie}Horst erscheint kurz im Notausgang.\end{Regie} \end{Hermann}
+
+\begin{Horst} Los, kommen Sie, Mann. Wir hätten diesen Kropfer
+grade beinah geschnappt. Wenn wir den Wartl erst mal haben, ist
+die Sache so gut wie gebongt. \end{Horst}
+
+\begin{Hermann} Ich komm schon, Herr Oberleutnant, ich komme ...
+\begin{Regie}Horst geht. Berthold stolpert durch den Hoteleingang
+herein und schwingt seine Muskete über dem Kopf\end{Regie} \end{Hermann}
+
+\begin{Berthold} Ich weiß leider überhaupt nicht, wo ich hier
+bin. Ich habe vollkommen die Orientierung verloren. \end{Berthold}
+
+\begin{Hermann} \begin{Regie}schubst ihn in Richtung Notausgang\end{Regie}
+Da lang, Stadtrat Halbritter. \end{Hermann}
+
+\begin{Berthold} Oh, danke sehr, Herr Vorsitzender ... \begin{Regie}Berthold
+wirbelt hinaus.\end{Regie} \end{Berthold}
+
+\begin{Leonore} Es geht doch nichts über die guten alten Lieder,
+was? \end{Leonore}
+
+\begin{Charlotte} Ja, da sagen Sie was. \end{Charlotte}
+
+\begin{Hermann} Ganz recht, Frau Halbritter. \end{Hermann}
+
+\begin{Charlotte} Die haben Ärger mit der Linken bekommen, sehen
+Sie mal ... \begin{Regie}Draußen hört man Pistolenschüsse, lautes
+Grölen und die Sirene eines Krankenwagens mit dem üblichen Verkehrslärm.\end{Regie}\end{Charlotte}
+
+\begin{Hermann} Was zum Teufel ist da los? \begin{Regie}Ruft
+durch den Notausgang\end{Regie} Oberleutnant Boll! \begin{Regie}Ein
+Schrei. Rudi stürzt herein, macht sich an den Nottüren zu schaffen
+und versucht sie zu schließen.\end{Regie} \end{Hermann}
+
+\begin{Rudi} \begin{Regie}brüllt\end{Regie} Haltet ihn! Haltet
+ihn! Der läuft Amok, dieser Irre! Dieses verdammte Faschistenschwein!
+\begin{Regie}Horst erscheint mit einem Revolver in der Hand im
+Türeingang und hält ihn Rudi genau unter die Nase. Rudi weicht
+zurück.\end{Regie} \end{Rudi}
+
+\begin{Horst} Komm doch her, Wartl, du Verräter. Ich knall dich
+ab, du verfluchter Hund! \end{Horst}
+
+\begin{Hermann} Also Herr Boll, jetzt ist aber Feierabend, das
+geht zu weit ... \end{Hermann}
+
+\begin{Horst} Los, komm doch. \begin{Regie}Er fuchtelt bedrohlich
+mit seinem Revolver\end{Regie} \end{Horst}
+
+\begin{Rudi} \begin{Regie}macht einen panischen Satz auf die
+Bühne\end{Regie} Hilft mir denn niemand! \begin{Regie}Horst schießt.
+Rudi schreit auf, hält sich das Bein und fällt hinter dem Klavier
+zu Boden.\end{Regie}\end{Rudi}
+
+\begin{Hermann} Oh mein Gott! \begin{Regie}Elisabeth läuft zu
+Rudi herüber. Rudi stößt sie weg. Sie setzt sich neben ihn auf
+die Bühne und wartet geduldig.\end{Regie} \end{Hermann}
+
+\begin{Horst} \begin{Regie}steht am Notausgang, schäumend vor
+Wut\end{Regie} So, wer ist der Nächste? Meine Munition ist noch
+längst nicht verschossen. \begin{Regie}Er lacht\end{Regie} \end{Horst}
+
+\begin{Hermann} Um Himmels Willen, Herr Oberleutnant... \begin{Regie}Eine
+schwingende Muskete erscheint im Notausgang. Sie trifft Horst
+am Hinterkopf. Er taumelt ein paar Schritte, bricht dann zusammen
+und feuert, während er fällt, einen Schuß in die Luft.\end{Regie}
+\begin{Regie}Berthold kommt durch den Notausgang herein und schwenkt
+die besagte Muskete.\end{Regie} \end{Hermann}
+
+\begin{Berthold} Oh, tut mir schrecklich leid. War das etwa ein
+Kopf? \end{Berthold}
+
+\begin{Hermann} Schon gut, Herr Stadtrat, schon gut, ich kümmer
+mich um ihn. \begin{Regie}Hermann sieht nach Horst.\end{Regie}\end{Hermann}
+
+\begin{Berthold} Könnte mir bitte mal jemand meine Brille reichen?
+Ich würde mich damit erheblich sicherer fühlen. \end{Berthold}
+
+\begin{Hermann} \begin{Regie}zu Elisabeth\end{Regie} Verehrteste,
+geben Sie dem Herrn Stadtrat doch bitte seine Brille, ja? Sie
+liegt dort drüben. \begin{Regie}Elisabeth reicht Berthold seine
+Brille.\end{Regie} Wir bringen den Oberleutnant besser nach draußen
+in den Salon. Da kann er sich hinlegen. Es hat ihn böse am Kopf
+erwischt. \begin{Regie}Er hilft Horst auf Beine\end{Regie} \end{Hermann}
+
+\begin{Berthold} Warten Sie, ich helfe Ihnen, Herr Vorsitzender.
+\begin{Regie}Berthold und Hermann gehen, Horst stützend, zum
+Hoteleingang hinaus.\end{Regie} \begin{Regie}Rudi versucht aufzustehen,
+indem er sich stöhnend am Klavier hochzieht. Sein Gesicht erscheint
+über dem Klavierdeckel, Leonore genau gegenüber.\end{Regie} \end{Berthold}
+
+\begin{Rudi} \begin{Regie}über das Klavier hinweg\end{Regie}
+Aaaaaaaah-aaaaaaaah-aah ... \end{Rudi}
+
+\begin{Leonore} \begin{Regie}schaut auf\end{Regie} Was ist denn
+mit Ihnen los? Kennen Sie etwa den Text nicht? \end{Leonore}
+
+\begin{Rudi} Aaaaaaah ...
+
+\begin{Regie}Leonore singt, um ihm ein wenig auf die Sprünge
+zu helfen.\end{Regie} \begin{Regie}Gretchen stürzt durch den
+Notausgang herein\end{Regie} . \end{Rudi}
+
+\begin{Gretchen} Rudi, Rudi, ist alles in Ordnung? Ich konnte
+nicht früher kommen, Liebling. Es war einfach kein Durchkommen.
+Überall ist Polizei. Wie geht es dir? \end{Gretchen}
+
+\begin{Rudi} \begin{Regie}schiebt sie und Elisabeth zur Seite\end{Regie}
+Mir geht's gut. Jetzt laßt mich. Laßt mich in Ruhe. Dieses elende
+Faschistenpack. Immer das gleiche mit denen. Immer wieder schaffen
+sie's, das Volk zum Schweigen zu bringen. \begin{Regie}Der Lärm
+läßt langsam nach.\end{Regie} \end{Rudi}
+
+\begin{Gretchen} Aber, Liebling, schau mal, du ... \end{Gretchen}
+
+\begin{Rudi} \begin{Regie}knurrend\end{Regie} Los haut ab. Alle
+beide. Laßt mich in Ruhe. Was wißt ihr denn schon ... ihr ...
+ihr verwöhnten Hausfrauen. Aber noch haben sie nicht gewonnen,
+hört ihr. Noch nicht. Franz Hartel hat sein letztes Wort noch
+nicht gesprochen. \begin{Regie}Rudi humpelt durch den Notausgang
+hinaus.\end{Regie} \begin{Regie}Gretchen steht völlig desillusioniert
+da. Draußen hört man undeutlich eine Durchsage der Polizei.\end{Regie}\end{Rudi}
+
+\begin{Elisabeth} \begin{Regie}packt ihre Sachen zusammen\end{Regie}
+Ich gehe mit ihm. Er wird sich schon wieder beruhigen. \begin{Regie}Elisabeth
+folgt Rudi nach draußen.\end{Regie} \begin{Regie}Gretchen bleibt
+nachdenklich stehen.\end{Regie} \begin{Regie}Sofia kommt durch
+die Hoteltür herein gekrochen. Sie ist schmutzig. Ihr Kleid ist
+zerrissen.\end{Regie} \end{Elisabeth}
+
+\begin{Gretchen} Sofia... \end{Gretchen}
+
+\begin{Sofia} Oh Gott. Oh Gott... \end{Sofia}
+
+\begin{Gretchen} Was ist passiert? \end{Gretchen}
+
+\begin{Sofia} Hans-Ulrich Gämperlin hat mich grade in die Luft
+geschleudert. \end{Sofia}
+
+\begin{Gretchen} Was, Max? Bist du hingefallen? Hast du dir wehgetan?\end{Gretchen}
+
+\begin{Sofia} Ich mach mir eigentlich eher Sorgen über das, was
+danach passiert ist... \begin{Regie}Sofia kichert. Gretchen fängt
+leise an zu weinen.\end{Regie} Haben wir gewonnen? Ist unsere
+Gruppe Sieger? \end{Sofia}
+
+\begin{Gretchen} Nein. Eigentlich hat keiner richtig gewonnen.
+
+\begin{Regie}Hermann kommt vom Hotel herein.\end{Regie} \end{Gretchen}
+
+\begin{Hermann} Ich glaube, ich muß ... \begin{Regie}erblickt
+Sofia\end{Regie} Du meine Güte, Schatz, was ist denn mit dir
+passiert? \end{Hermann}
+
+\begin{Sofia} Ach, nichts weiter. Bring mich einfach nur nach
+Hause, ja? \end{Sofia}
+
+\begin{Hermann} \begin{Regie}hilft ihr\end{Regie} Ja, mache ich,
+Schatz, mache ich, sofort. Ich muß hier nur noch kurz ein paar Dinge erledigen.
+Gretchen, dein Bruder. Es kann sein, daß er eine leichte Gehirnerschütterung hat.
+Weißt du, wer der Hausarzt deines Bruders ist? \end{Hermann}
+
+\begin{Gretchen} Ja, Doktor Grauer. Soll ich ... ? \end{Gretchen}
+
+\begin{Hermann} Ach, Grauer? \end{Hermann}
+
+\begin{Gretchen} Soll ich ihn holen? \end{Gretchen}
+
+\begin{Hermann} Nein, nicht nötig. Er ist im Moment sowieso bewußtlos.
+Außerdem stehen jede Menge Polizisten um ihn herum. Ansonsten
+geht's ihm aber gut. \begin{Regie}Berthold kommt herein.\end{Regie}
+Oh, Herr Stadtrat, wären Sie bitte so freundlich und würden Sofia
+zum Wagen bringen? Er steht gleich hier vorn auf dem Parkplatz.
+Der rote Kombi, Sie wissen schon. Hier ist der Schlüssel. \end{Hermann}
+
+\begin{Berthold} Sicher, sicher. \end{Berthold}
+
+\begin{Hermann} Und sagen Sie der Polizei, Grauer ist sein Hausarzt.\end{Hermann}
+
+\begin{Berthold} Ja sicher, gut. Sind Sie soweit, Frau Dillmaier?\end{Berthold}
+
+\begin{Sofia} Ja, tut mir leid. Ich weiß, ich müßte eigentlich
+hier bleiben, aber ... \end{Sofia}
+
+\begin{Hermann} Ist schon in Ordnung, Schatz. \end{Hermann}
+
+\begin{Sofia} Aber, ich glaub, ich hab heute Nachmittag schon
+genug für unser Vaterland getan. \begin{Regie}Berthold bringt
+Sofia hinaus. Leonore beendet ihre Darbietung mit einem furiosen
+Finale.\end{Regie} \end{Sofia}
+
+\begin{Leonore} Na. Wie war das? \end{Leonore}
+
+\begin{Hermann} Oh, sehr gut, Frau Halbritter, wirklich. \end{Hermann}
+
+\begin{Leonore} Eine hübsche Auswahl, nicht? Ist es denn auch
+abwechslungsreich genug? \begin{Regie}sieht Charlotte, die immer
+noch singt\end{Regie} Ende der Vorstellung, Frau Müller. Schluß.\end{Leonore}
+
+\begin{Charlotte} Oh je. Zeit nach Hause zu gehen, was?\end{Charlotte}
+
+\begin{Hermann} Ganz recht, Charlotte. Auf geht's. \end{Hermann}
+
+\begin{Charlotte} Wenn man es überhaupt ein Zuhause nennen kann.
+Es gibt ja nur noch mich dort. Und niemand anders. Keinen Mann.
+Keine Kinder, nur mich und sonst niemand, weißt du. \begin{Regie}Charlotte
+geht durch das Hotel hinaus.\end{Regie} \end{Charlotte}
+
+\begin{Leonore} \begin{Regie}steht auf\end{Regie} Das Pferd ist
+umgekippt. \end{Leonore}
+
+\begin{Hermann} Oh ja, das müssen wir noch aufheben. \end{Hermann}
+
+\begin{Leonore} Ich packe nur eben meine Noten zusammen. \end{Leonore}
+
+\begin{Hermann} Ja. Ich hoffe, beim Festbankett heute abend ist
+genauso großer Andrang. \begin{Regie}Die Sirene eines davonfahrenden
+Streifenwagens.\end{Regie} \begin{Regie}Leonore sammelt ihre
+Noten ein und läßt dabei einige Blätter zu Boden fallen.\end{Regie}
+Alles in Ordnung, Gretchen? \end{Hermann}
+
+\begin{Gretchen} Ja. \end{Gretchen}
+
+\begin{Hermann} Dein Freund Kropfer ist wohl schon gegangen.\end{Hermann}
+
+\begin{Gretchen} Ja. \end{Gretchen}
+
+\begin{Hermann} Mit Elisabeth. \end{Hermann}
+
+\begin{Gretchen} Ja. \end{Gretchen}
+
+\begin{Hermann} Ich habe gesehen, wie sie mit der Polizei gesprochen
+haben. \end{Hermann}
+
+\begin{Gretchen} Oh. \end{Gretchen}
+
+\begin{Hermann} Gehst du nicht mit? \end{Hermann}
+
+\begin{Gretchen} Nein, nein, ich glaube nicht ... \begin{Regie}Gretchen
+geht in Richtung Hoteltür.\end{Regie} \end{Gretchen}
+
+\begin{Hermann} Ach. Und was machst du dann? \end{Hermann}
+
+\begin{Gretchen} Ich glaub, ich gehe jetzt erstmal die Hunde
+füttern. Bis wieder irgendwas ansteht. Wiedersehen. \end{Gretchen}
+
+\begin{Hermann} Also dann, auf Wiedersehen. \begin{Regie}Gretchen
+geht hinaus.\end{Regie}
+
+\begin{Regie}Hermann dreht sich um und sieht Leonore, die mühsam
+ihre Noten einsammelt und dabei immer neue Blätter fallen läßt.\end{Regie}
+Warten Sie, Frau Halbritter, ich helfe Ihnen dabei. \end{Hermann}
+
+\begin{Leonore} \begin{Regie}läßt auch die übrigen Notenblätter
+fallen\end{Regie} Oh, vielen herzlichen Dank. Wenn es Ihnen nichts
+ausmacht. \begin{Regie}Hermann geht zu ihr herüber.\end{Regie}
+Wann beginnt denn die Aufführung? \end{Leonore}
+
+\begin{Hermann} Oh, die ist leider schon vorbei, Frau Halbritter.
+Die ist schon vorbei. \end{Hermann}
+
+\begin{Leonore} Was, schon vorbei? Du lieber Himmel. Ich muß
+wohl völlig das Zeitgefühl verloren haben. Wenn ich erstmal anfange
+zu spielen ... Dann habe ich also alles verpaßt? \end{Leonore}
+
+\begin{Hermann} Ich fürchte ja. \end{Hermann}
+
+\begin{Leonore} Ach Gott. Wie schade. Dabei hätte ich so gerne
+das Pferd gesehen. Ist denn alles zufriedenstellend verlaufen?\end{Leonore}
+
+\begin{Hermann} Dafür, daß es das erste Mal war, ja. Dafür war
+es gar nicht schlecht. \end{Hermann}
+
+\begin{Leonore} Wird es wieder ein Festspiel geben? \end{Leonore}
+
+\begin{Hermann} Schon möglich, ja. Wenn wir Unterstützung bekommen.\end{Hermann}
+
+\begin{Leonore} Ach, übrigens - im nächsten Jahr - falls es tatsächlich
+dazu kommen sollte, würde ich auf keinen Fall mehr diese Hartel-und-Gämperlin-Geschichte
+nehmen. \end{Leonore}
+
+\begin{Hermann} Nein, das werden wir auch nicht. \end{Hermann}
+
+\begin{Leonore} Denn, wissen Sie, ich kann über diese beiden
+einfach nichts finden. Ich habe sogar extra eine Freundin nach
+Stuttgart ins Museum geschickt, damit sie dort mal nachschaut.
+Und sie hat auch nichts gefunden. Gar nichts. Ich glaube mittlerweile,
+daß Elisabeth Anna Hutchinger sich diese ganze Geschichte einfach
+ausgedacht hat. Ist das nicht ungeheuerlich? \end{Leonore}
+
+\begin{Hermann} \begin{Regie}hilft ihr die Stufen herunter\end{Regie}
+Ach ja, wirklich? \end{Hermann}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\TextTeilEnde
+
+
+\TextTeilAnfang
+
+
+
+\begin{Leonore} Einfach ungeheuerlich sowas. Aber dafür bin ich
+auf was anderes interessantes gestoßen. Bei meinen Recherchen.
+Wußten Sie eigentlich, daß die Römer, als sie das erste Mal nach
+Süddeutschland kamen, hier in der Gegend auf ein sehr starkes
+Widerstandsnest gestoßen sind? Von Schwaben. Genau am Stadtrand
+von Kapellingen. Deshalb hat man hier auch nie Überreste von
+Römern gefunden. Schade eigentlich, so können wir jetzt nur unser
+achthundertjähriges Jubiläum feiern. \end{Leonore}
+
+\begin{Hermann} \begin{Regie}begleitet sie zur Hoteltür herüber,
+interessiert\end{Regie} Wirklich schade.\end{Hermann}
+
+\begin{Leonore} \begin{Regie}beim Hinausgehen\end{Regie} Hat
+wohl ein ziemliches Blutbad gegeben. \end{Leonore}
+
+\begin{Hermann} Klingt wirklich sehr interessant. Römer, sagten Sie? \end{Hermann}
+
+\begin{Leonore} Römer, ja. Und die alten Schwaben ... \end{Leonore}
+
+\begin{Regie}Leonore und Hermann gehen hinaus ins Hotel während
+der VORHANG fällt.\end{Regie}
+
+\Einstellung{Dunkel}
+
+\begin{Regie} Applaus \end{Regie}
+
+\Einstellung{Hell}
+
+\begin{Regie} Verbeugungen \end{Regie}
+

@@ -1,0 +1,2060 @@
+
+\Seite{1}
+
+\begin{Regie}
+Der nackte Wahnsinn --
+von Michael Frayn
+
+Etwa 20 Minuten vor Beginn:
+Musik mit Windows Media Player CafeParis
+eher leise  anschalten. 
+\end{Regie}
+\Setting{Dunkel}
+\Setting{Windows Media Player CafeParis}
+\Seite{2}
+\begin{Regie}
+Zuschauer nehmen Platz.
+
+Jetzt geht es los:
+Musik ganz laut stellen. 
+Licht im Saal ausschalten.
+\end{Regie}
+
+\Setting{Aufbau}
+\Setting{Windows Media Player Musik aus}
+\begin{Regie}
+Ansprache Donatus
+
+Dann Musik Akkordeonclub ganz laut.
+\end{Regie}
+\Setting{Windows Media Player AkkordeonClub 1}
+\Setting{B�hne hell}
+\begin{Regie}
+Musik etwa 10 (heute 20!!!) Sekunden ganz laut laufen lassen.
+\end{Regie}
+\Setting{Windows Media Player Musik aus}
+\Setting{Telefon}
+\begin{Regie}
+... bis sie abhebt.
+\end{Regie}
+
+
+\Seite{2}
+
+\begin{Regie}
+1. Akt l�uft.
+\end{Regie}
+
+\Seite{47}
+
+\begin{CLAUS}
+Und Vorhang (oder Black)!
+\end{CLAUS}
+
+\begin{LISA}
+\begin{Regie} Begreift, schluchzt. \end{Regie} Ach ja.
+\begin{Regie} L�uft eilig von der B�hne. \end{Regie}
+\end{LISA}
+\Setting{Schnell Dunkel}
+
+\begin{Regie}
+Ende 1. Akt
+Beginn Pause
+Licht im Saal anschalten.
+\end{Regie}
+
+\Setting{Windows Media Player CafeParis}
+\begin{Regie}
+Musik eher leise stellen.
+\end{Regie}
+\Setting{Umbau}
+
+\begin{Regie}
+Ende Pause
+Beginn 2. Akt
+Licht im Saal ausschalten.
+\end{Regie}
+
+\Seite{49}
+
+\Setting{Dunkel}
+\Setting{Windows Media Player Musik aus}
+
+\Setting{B�hne hell}
+
+\begin{Regie} ZWEITER AKT
+CARMEN, im Smoking, l�uft nerv�s auf und ab.
+LISA spricht in der Souffleurecke ins Mikrophon.
+\end{Regie}
+
+\begin{LISA}
+	Zum Ersten Akt auf die B�hne bitte: Frau Winterfeld, 
+Frau Lautrach, Herr Hecht, Herr Unruh und Frau Morani. Zum Ersten Akt 
+bitte auf die B�hne.
+\end{LISA}
+
+\begin{CARMEN}
+	Und vielleicht kriegen wir sie zum Ersten Akt auf die B�hne. Was meinst du?
+\end{CARMEN}
+
+\begin{LISA}
+ Ach, Heide wird sich schon zusammenrei�en, jetzt, wo wir 
+eingel�utet haben. Wo sie wei�, dass sie in f�nf Minuten drau�en sein 
+muss. Meinst du nicht?
+\end{LISA}
+
+\begin{CARMEN}
+ 	Meinst du?
+\end{CARMEN}
+
+\begin{LISA}
+	Du kennst doch Heide.
+\end{LISA}
+
+\begin{CARMEN}
+	Wir sind erst einen Monat unterwegs! Wir sind erst in Ergenzingen! Wie 
+wird's erst sein, wenn wir in Albstadt-Ebingen sind?
+\end{CARMEN}
+
+\begin{LISA}
+	Wenn sie nur antworten w�rde!
+\end{LISA}
+
+\begin{CARMEN}
+	Wenn sie nur ihre Garderobe aufsperren w�rde! H�r zu, wenn Heide 
+nicht auftritt...
+\end{CARMEN}
+
+\begin{LISA}
+	Nicht auftritt?
+\end{LISA}
+
+\begin{CARMEN}
+	Ich sagte, wenn.
+\end{CARMEN}
+
+\begin{LISA}
+	Sie wird aber auftreten.
+\end{LISA}
+
+\begin{CARMEN}
+	Ja, nat�rlich.
+\end{CARMEN}
+
+\begin{LISA}
+	Oder?
+\end{LISA}
+
+\begin{CARMEN}
+	Sicher wird sie auftreten. Aber wenn nicht...
+\end{CARMEN}
+
+\begin{LISA}
+	Sie muss!
+\end{LISA}
+
+\begin{CARMEN}
+	Wird sie ja auch, wird sie ja auch. Aber wenn nicht...
+\end{CARMEN}
+
+\begin{LISA}
+	Dann h�tte ich f�nf Minuten Zeit, mich umzuziehen. Vier Minuten.
+\end{LISA}
+
+\begin{CARMEN}
+	Wenn sie nur etwas sagen w�rde!
+Die Durchgangst�r zum Zuschauerraum wird vorsichtig ge�ffnet, und CLAUS 
+steckt den Kopf herein. Als er LISA sieht, macht er sie schnell wieder zu.
+\end{CARMEN}
+
+\begin{LISA}
+	Ich versuch's nochmal. Lenkt einen wenigstens von den eigenen 
+Problemen ab.
+Ab in Richtung der Garderoben. CLAUS steckt wieder den Kopf zur T�r herein. 
+\end{LISA}
+
+\begin{CLAUS}
+	Ist sie weg?
+\end{CLAUS}
+
+\begin{CARMEN}
+	Claus! Ich wusste gar nicht, dass du heute kommen wolltest!
+CLAUS kommt herein. Er hat eine Whiskyflasche in der Hand.
+\end{CARMEN}
+
+\begin{CLAUS}
+	Wollte ich auch nicht. Bin ich auch nicht. 
+\end{CLAUS}
+
+\begin{CARMEN}
+	Na, jedenfalls, ein Gl�ck, dass du da bist!
+\end{CARMEN}
+
+\begin{CLAUS}
+	Ich bin nicht da. Ich bin in Villingen-Schwenningen. Ich stecke in den 
+Proben zu Richard III.
+\end{CLAUS}
+
+\begin{CARMEN}
+	Heide und Gunther...
+\end{CARMEN}
+
+\begin{CLAUS}
+	Es darf niemand wissen, dass ich hier bin.
+\end{CLAUS}
+
+\begin{CARMEN}
+	Nein, aber Heide und Gunther...
+\end{CARMEN}
+
+\begin{CLAUS}
+	Ich m�chte nur zwischen den Vorstellungen zwei Stunden allein und 
+ungest�rt mit Vanessa in ihrer Garderobe sein, bevor ich die 7 Uhr 25 
+Maschine zur�ck nach Wales nehme. 
+Die ist 
+f�r Vanessa. Versteck sie irgendwo, damit Gerda sie nicht entdeckt.
+\end{CLAUS}
+
+\begin{CARMEN}
+	Alles klar. Sie hatten anscheinend Krach miteinander...
+\end{CARMEN}
+
+\begin{CLAUS}
+	Ja, ja. Schr�g gegen�ber vom B�hnenausgang ist ein kleiner Blumenladen. Besorg mir 
+irgendwelche sehr gro�en und teuer aussehenden Blumen.
+\end{CLAUS}
+
+\begin{CARMEN}
+	Alles klar. Jetzt hat sich Heide in ihrer Garderobe eingeschlossen...
+\end{CARMEN}
+
+\begin{CLAUS}
+	Pass auf, dass Lisa sie nicht sieht. Sie sind nicht f�r Lisa.
+\end{CLAUS}
+
+\begin{CARMEN}
+	Nein. Und sie will mit niemandem sprechen...
+\end{CARMEN}
+
+\begin{CLAUS}
+	Die erste Vorstellung endet kurz nach f�nf, ja? Die zweite beginnt um 
+neunzehn Uhr drei�ig?
+\end{CLAUS}
+
+\begin{CARMEN}
+	Claus, ich versuche die ganze Zeit dir zu sagen, dass vielleicht gar keine 
+Vorstellung stattfindet.
+\end{CARMEN}
+
+\begin{CLAUS}
+	Sie ist doch nicht etwa schon ausgestiegen?
+\end{CLAUS}
+
+\begin{CARMEN}
+	Man wird nicht aus ihr schlau! Sie hat sich in ihrer Garderobe 
+eingeschlossen! Sie ist nicht ansprechbar!
+\end{CARMEN}
+
+\begin{CLAUS}
+	Hast du schon zum Ersten Akt gerufen? 
+\end{CLAUS}
+
+\begin{CARMEN}
+	Ja!
+\end{CARMEN}
+
+\begin{CLAUS}
+	Ich kann eine komplette Liebesszene nicht in f�nf Minuten spielen. Das 
+w�re geschludert.
+\end{CLAUS}
+
+\begin{CARMEN}
+	Ist nat�rlich nicht das erste Mal, dass sie mit Gunther Zoff hat.
+\end{CARMEN}
+
+\begin{CLAUS}
+	Vanessa hat Zoff mit Gunther? 
+\end{CLAUS}
+
+\begin{CARMEN}
+	Vanessa? Nicht Vanessa - Heide! 
+\end{CARMEN}
+
+\begin{CLAUS}
+	Ach, Heide.
+\end{CLAUS}
+
+\begin{CARMEN}
+	Ich meine, sie hatten doch diesen Mordszoff in der vorvorigen Woche, als 
+wir in Nehren gespielt haben.
+\end{CARMEN}
+
+\begin{CLAUS}
+	Ja, ja, das hast du mir am Telefon erz�hlt.
+\end{CLAUS}
+
+\begin{CARMEN}
+	Weil sie mit diesem Zeitungsmenschen ausgegangen ist. . .
+\end{CARMEN}
+
+\begin{CLAUS}
+	Zeitungsmenschen - ja, ja...
+\end{CLAUS}
+
+\begin{CARMEN}
+	Aber wei�t du, dass Gunther gedroht hat, ihn umzubringen?
+\end{CARMEN}
+
+\begin{CLAUS}
+	Ihn umzubringen, ja, ich wei�. H�r mal, mach dir keine Sorgen wegen 
+Heide. Sie hat Geld in der Produktion.
+\end{CLAUS}
+
+\begin{CARMEN}
+	Ja, aber jetzt ist es schon wieder passiert! Heut fr�h um zwei werde ich 
+wach, weil jemand mir fast die T�r einschl�gt. Es ist Gunther. Ob ich 
+w�sste, wo Heide ist. Sie war nicht nach Hause gekommen.
+\end{CARMEN}
+
+\begin{CLAUS}
+	Carmen, jetzt will ich dir mal erz�hlen, wie mein Leben zur Zeit aussieht. 
+Jeden Abend nach der Probe habe ich den Herzog von Buckingham an 
+der Strippe und muss mir eine Stunde lang anh�ren, dass der Herzog 
+von Gloucester w�hrend seiner gro�en Passagen Bonbons lutscht. Der 
+Herzog von Clarence f�llt die ganze Woche aus, da er einen Werbespot 
+am Bodensee macht. Richard selbst - ob du's glaubst oder nicht - 
+Richard III  hat sich von heut auf morgen einen 
+Bandscheibenschaden zugezogen. Ich finde tagt�glich Nachrichten von 
+Vanessa vor, dass sie hier todungl�cklich ist, und jetzt hat sie sich ein 
+�rztliches Attest beschafft, dass sie auf einen Nervenzusammenbruch 
+zusteuert - mit anderen Worten, sie will aussteigen! Ich habe weder die 
+Zeit, eine andere Vicki zu finden, noch, mit ihr zu proben. Ich habe 
+gerade mal einen Nachmittag, w�hrend Richard sein St�tzkorsett 
+angepasst bekommt, um Vanessa vor ihrem Nervenzusammenbruch zu 
+bewahren, und das mit Hilfe von ein paar Gl�schen Whisky - du hast den 
+Whisky? - ein paar Blumen - du hast das Geld f�r die Blumen? - und 
+einem gewissen verblichenen Charme. Ich bin also nicht hierher 
+gekommen, um mir die Probleme anderer Leute anzuh�ren. Ich bin 
+gekommen, um abzuschalten und nach M�glichkeit nicht wieder 
+angeschaltet zu werden.
+\end{CLAUS}
+
+\begin{CARMEN}
+	Ja, aber Claus...
+\end{CARMEN}
+
+\begin{CLAUS}
+ 	Hast du das Klingelzeichen gegeben?
+\end{CLAUS}
+
+\begin{CARMEN}
+ 	Ach ja, das Klingelzeichen!
+ \begin{Regie}Eilt zum Mikro in der Souffleurecke, noch immer mit dem Geld und dem Whisky 
+in der Hand.\end{Regie} 
+\end{CARMEN}
+
+\begin{CLAUS}
+	Und lass Lisa ja die Blumen nicht sehen! Ab durch die Durchgangst�r.
+\end{CLAUS}
+
+\begin{CARMEN}
+	Meine Damen und Herren, w�rden Sie bitte Ihre Pl�tze 
+einnehmen. Die Vorstellung beginnt in drei Minuten.
+\end{CARMEN}
+
+\begin{LISA}
+	Wir werden nicht p�nktlich anfangen k�nnen! 
+\end{LISA}
+
+\begin{CARMEN}
+	Nix?
+\end{CARMEN}
+
+\begin{LISA}
+	Lilly versucht es gerade. Ich glaube, ich warte noch mit dem 
+Klingelzeichen... Geld? Wof�r ist denn das?
+\end{LISA}
+
+\begin{CARMEN}
+	Nichts, nichts! 
+ \begin{Regie}Versteckt das Geld hinterm R�cken und f�rdert mit der 
+anderen Hand automatisch die Whiskyflasche zutage.\end{Regie} 
+\end{CARMEN}
+
+\begin{LISA}
+	Whisky!
+\end{LISA}
+
+\begin{CARMEN}
+	H�h? Nanu.
+\end{CARMEN}
+
+\begin{LISA}
+	Wo hast du die gefunden?
+\end{LISA}
+
+\begin{CARMEN}
+	�h...
+\end{CARMEN}
+
+\begin{LISA}
+	Hier oben? Soll das hei�en, Gerda versteckt sie jetzt schon hinter der 
+B�hne?  \begin{Regie}Nimmt den Whisky\end{Regie} 
+\end{LISA}
+
+\begin{CARMEN}
+ 	�h. . .
+\end{CARMEN}
+
+\begin{LISA}
+	Ich tu sie ins Herrenklo. Da geht sie wenigstens nicht rein. Nix?
+\end{LISA}
+
+\begin{LILLY}
+	Du wei�t doch, wie Heide ist, wenn sie so ist. 
+Robbie versucht's gerade... Oh nein!
+\end{LILLY}
+
+\begin{LISA}
+	Jetzt versteckt sie sie schon auf der B�hne. Nix?
+\end{LISA}
+
+\begin{ROBERT}
+	Nix.
+\end{ROBERT}
+
+\begin{LILLY}
+	Sehr lange hast du's aber nicht versucht, mein Herz!
+\end{LILLY}
+
+\begin{ROBERT}
+	Nein, weil... Oh je.
+\end{ROBERT}
+
+\begin{LILLY}
+	Jetzt versteckt sie sie schon auf der B�hne.
+\end{LILLY}
+
+\begin{ROBERT}
+	Nein, Gunther kam total aufgel�st aus seiner Garderobe gest�rzt. Ich 
+konnte nicht genau verstehen, was er sagte. Ich hab bei Gunther oft das 
+Gef�hl, irgendwas nicht ganz mitbekommen zu haben - du wei�t ja, wie 
+schwer ich mich mit so was tue. Aber ich glaube, er hat gesagt, er will 
+mich umbringen.
+\end{ROBERT}
+
+\begin{LILLY}
+	Oh, mein armer Schatz!
+\end{LILLY}
+
+\begin{ROBERT}
+	Ich dachte, ich verzieh mich lieber, damit er sich nicht noch mehr aufregt. 
+Hat er sich wieder beruhigt?
+\end{ROBERT}
+
+\begin{LILLY}
+	Angeh�rt hat sich's nicht so. Im Gegenteil. 
+\end{LILLY}
+
+\begin{ROBERT}
+	Ich meine, tritt er auf?
+\end{ROBERT}
+
+\begin{CARMEN}
+	Gunther? Gunther tritt auf. Nat�rlich tritt er auf. Wie kommst du darauf, 
+dass Gunther nicht auftritt?
+\end{CARMEN}
+
+\begin{LILLY}
+	Ja, weil, wenn du f�r Gunther �bernehmen musst, Lisa nicht f�r Heide 
+�bernehmen kann, denn wenn Lisa f�r Heide �bernimmt, wirst du 
+soufflieren m�ssen!
+\end{LILLY}
+
+\begin{CARMEN}
+	Alles klar.
+\end{CARMEN}
+
+\begin{LILLY}
+	Was wedelst du denn da mit Scheinen rum?
+\end{LILLY}
+
+\begin{CARMEN}
+	Ach, das ist f�r... Oh Gott...!
+\end{CARMEN}
+
+\begin{ROBERT}
+	Komisches M�dchen, unsere Heide. Heute so, morgen so. Gestern 
+Abend war sie v�llig normal.
+\end{ROBERT}
+
+\begin{LILLY}
+	Gestern Abend?
+\end{LILLY}
+
+\begin{ROBERT}
+ 	Ja, sie hat mich nach der Vorstellung noch in irgendeine Bar 
+mitgeschleppt, von der sie geh�rt hat
+\end{ROBERT}
+
+\begin{LILLY}
+	Sie war mit dir...? Du warst mit ihr... ?
+\end{LILLY}
+
+\begin{ROBERT}
+	Sie hatte unheimlich viel Verst�ndnis f�r meine ganzen Probleme.
+\end{ROBERT}
+
+\begin{LILLY}
+	Dich wird sie mir nicht mit Haut und Haar auffressen! Das lasse ich nicht 
+zu!
+\end{LILLY}
+
+\begin{ROBERT}
+	Nein, nein, sie war unheimlich nett. Sie ist sogar danach noch auf einen 
+Kaffee zu mir rauf gekommen und hat mir von ihren Problemen erz�hlt. 
+Bis drei Uhr morgens ist sie geblieben. Ich m�chte nicht wissen, was 
+meine Wirtin sich gedacht hat!
+\end{ROBERT}
+
+\begin{LISA}
+	Und noch was.
+\end{LISA}
+
+\begin{LILLY}
+ 	Nicht noch was, mein Herz! 
+\end{LILLY}
+
+\begin{LISA}
+ 	Wo ist Gerda?
+\end{LISA}
+
+\begin{LILLY}
+	Es scheint, dass der gute Robbie der Grund f�r das ganze... Gerda?
+\end{LILLY}
+
+\begin{LISA}
+	Sie ist nicht in ihrer Garderobe.
+\end{LISA}
+
+\begin{LILLY}
+	Oh je - das h�tt' ich mir denken k�nnen!
+\end{LILLY}
+
+\begin{LISA}
+	Oh je - das Klingelzeichen!
+\end{LISA}
+
+\begin{LILLY}
+	Gib du das Klingelzeichen. Ich suche Gerda.
+\end{LILLY}
+
+\begin{ROBERT}
+ 	Und was tu ich?
+\end{ROBERT}
+
+\begin{LILLY}
+ 	Du tust �berhaupt nichts. 
+\end{LILLY}
+
+\begin{ROBERT}
+ 	Okay.
+\end{ROBERT}
+
+\begin{LILLY}
+ 	Du hast schon gerade genug getan, mein Schatz. Ab zu den Garderoben.
+\end{LILLY}
+
+\begin{LISA}
+ 	 Meine Damen und Herren, w�rden Sie bitte Ihre Pl�tze 
+einnehmen. Die Vorstellung beginnt in drei Minuten.
+\end{LISA}
+
+\begin{Regie}
+Auftritt CARMEN von den Garderoben, mit einem gro�en Blumenstrau�.
+\end{Regie}
+
+\begin{CARMEN}
+	Wo ist Gerda? 
+\end{CARMEN}
+
+\begin{LISA}
+	Sie ist verschwunden. 
+\end{LISA}
+
+\begin{CARMEN}
+	Nein, nicht schon wieder! 
+\end{CARMEN}
+
+\begin{LISA}
+	Blumen!
+\end{LISA}
+
+\begin{CARMEN}
+	 Ach... �h... Die sind blo�, wei�t du...
+\end{CARMEN}
+
+\begin{LISA}
+	 Ach, Carmen, das ist aber s�� von dir! 
+\end{LISA}
+
+\begin{CARMEN}
+	Ach... �h ...
+\end{CARMEN}
+
+\begin{LISA}
+	 Ist das nicht s�� von ihr?  Ich 
+schau mal eben in der Kneipe nach.  Halt mal.  \begin{Regie}Ab zu den Garderoben.\end{Regie} 
+\end{LISA}
+
+\begin{CARMEN}
+	Ich nehm die schon.  Ach, das Klingelzeichen! Halt mal! 
+\end{CARMEN}
+
+\begin{ROBERT}
+	Ich glaube, Lisa hat es schon gegeben.
+\end{ROBERT}
+
+\begin{CARMEN}
+	Sie hat zwei Minuten gesagt, ja? Ich werde eine Minute sagen. 
+ Meine Damen und Herren, w�rden Sie bitte Ihre Pl�tze 
+einnehmen. Die Vorstellung beginnt in einer Minute.  \begin{Regie}Nimmt ROBERT die Blumen wieder ab.\end{Regie}  
+\end{CARMEN}
+
+\begin{ROBERT}
+	Oh je, ich glaube, sie hat gesagt, drei Minuten.
+\end{ROBERT}
+
+\begin{CARMEN}
+	Drei Minuten? Ich hab gesagt, drei Minuten! Sie hat gesagt, drei Minuten?
+\end{CARMEN}
+
+\begin{ROBERT}
+	Ich glaube ja.
+\end{ROBERT}
+
+\begin{CARMEN}
+	Halt mal.  Meine Damen und 
+Herren, w�rden Sie bitte Ihre Pl�tze einnehmen. Die Vorstellung beginnt 
+in zwei Minuten.
+\end{CARMEN}
+
+\begin{Regie}
+Auftritt LILLY, mit der Whiskyflasche, von den Garderoben.
+\end{Regie}
+
+\begin{ROBERT}
+ 	Was erreicht?
+\end{ROBERT}
+
+\begin{LILLY}
+ 	Nein, aber ich hab noch eine Flasche gefunden,
+\end{LILLY}
+
+\begin{ROBERT}
+ 	Oh je.
+\end{ROBERT}
+
+\begin{CARMEN}
+	Oh...
+\end{CARMEN}
+
+\begin{LILLY}
+	Und zwar im Herrenklo, ist das zu glauben. 	
+\end{LILLY}
+
+\begin{ROBERT}
+	Oh mein Gott. 
+\end{ROBERT}
+
+\begin{CARMEN}
+	 Die Caritas! Ich bring sie zur Caritas!
+\end{CARMEN}
+
+\begin{Regie}
+LISA kommt von den Garderoben gerannt. 
+\end{Regie}
+
+\begin{LISA}
+ 	In der Kneipe ist sie nicht...
+\end{LISA}
+
+\begin{LILLY}
+	 Nein, sie h�ngt in Herrenklos rum.
+\end{LILLY}
+
+\begin{CARMEN}
+	Dann zieh ich mal besser die Extramontur an. 
+ \begin{Regie}Mit dem Whisky ab zu den Garderoben.\end{Regie} 
+\end{CARMEN}
+
+\begin{LISA}
+	 Meine Damen und Herren, w�rden Sie bitte Ihre Pl�tze 
+einnehmen. Die Vorstellung beginnt in zwei Minuten.
+\end{LISA}
+
+\begin{ROBERT}
+	Oh je. Carmen hat bereits gesagt, zwei Minuten.
+\end{ROBERT}
+
+\begin{LISA}
+	Sie hat zwei Minuten gesagt?  Meine Damen und Herren, 
+w�rden Sie bitte Ihre Pl�tze einnehmen. Die Vorstellung beginnt in einer 
+Minute.
+\end{LISA}
+
+\begin{CLAUS}
+  \begin{Regie}Auftritt durch die Durchgangst�r.\end{Regie}  Himmelarsch, was geht hier vor? 
+\end{CLAUS}
+
+\begin{LILLY}
+ 	Claus!
+\end{LILLY}
+
+\begin{ROBERT}
+ 	Gro�er Gott! 
+\end{ROBERT}
+
+\begin{LISA}
+ 	Ich wusste nicht, dass du hier bist!
+\end{LISA}
+
+\begin{CLAUS}
+	Ich bin auch nicht hier! Ich bin in Villingen-Schwenningen! Aber ich kann 
+nicht da drau�en stehen und mir das mit anh�ren! 'Zwei Minuten... drei 
+Minuten... eine Minute... zwei Minuten'!
+\end{CLAUS}
+
+\begin{LILLY}
+	Sch�tzchen, hinten in den Garderoben spielen sich Dramen ab!
+\end{LILLY}
+
+\begin{CLAUS}
+	Was meinst du, das sich vorne im Parkett abspielt?!  Das ist 
+eine Nachmittagsvorstellung, Schnuckiputz! Da drau�en sitzen lauter 
+Rentner! 'Die Vorstellung beginnt in drei Minuten1. Alles st�rzt zu den 
+Toiletten. 'Die Vorstellung beginnt in einer	Minute' - alles kommt wieder 
+rausgest�rzt. Chaos total!
+\end{CLAUS}
+
+\begin{LISA}
+	Claus, ich muss mit dir sprechen.
+\end{LISA}
+
+\begin{CLAUS}
+	 Nat�rlich, Sch�tzchen, nat�rlich. Nachher, okay?
+\end{CLAUS}
+
+\begin{LISA}
+	Hast du meine Nachricht bekommen?
+\end{LISA}
+
+\begin{CLAUS}
+	Sicher, S��e. Wahnsinnig gefreut.
+\end{CLAUS}
+
+\begin{LISA}
+	Warum hast du nicht reagiert?
+\end{LISA}
+
+\begin{CLAUS}
+	Hab ich doch! Hab ich doch! Ich bin hier!
+\end{CLAUS}
+
+\begin{LISA}
+	Claus, es gibt etwas, das ich dir sagen muss.
+\end{LISA}
+
+\begin{CLAUS}
+	Ich h�re.
+\end{CLAUS}
+
+\begin{LISA}
+	Also... Ich war heute beim Arzt...
+\end{LISA}
+
+\begin{Regie}
+Auftritt VANESSA von den Garderoben, mit dem Whisky.
+\end{Regie}
+
+\begin{LILLY}
+	Vanessa! 
+\end{LILLY}
+
+\begin{CLAUS}
+	 Sp�ter, sp�ter. Okay?
+\end{CLAUS}
+
+\begin{Regie}
+VANESSA h�lt den Whisky in die H�he. 
+\end{Regie}
+
+\begin{LILLY}
+	Nein! Nicht noch einer! 
+\end{LILLY}
+
+\begin{VANESSA}
+	In meiner Garderobe!
+\end{VANESSA}
+
+\begin{LILLY}
+	In deiner Garderobe?  Es ger�t v�llig au�er Kontrolle.
+\end{LILLY}
+
+\begin{ROBERT}
+ 	 Ich gebe ihn der Caritas, zusammen mit dem anderen.
+\end{ROBERT}
+
+\begin{CLAUS}
+ 	 Ich mach das schon. Danke.
+\end{CLAUS}
+
+\begin{VANESSA}
+ 	Claus!  Claus? 
+\end{VANESSA}
+
+\begin{CLAUS}
+ 	Auf Anhieb richtig. 
+\end{CLAUS}
+
+\begin{VANESSA}
+ 	Du hast meine Nachricht bekommen?
+\end{VANESSA}
+
+\begin{CLAUS}
+ 	W�re ich sonst herbeigeeilt, Sch�tzchen? W�re ich sonst herbeigeeilt??
+\end{CLAUS}
+
+\begin{VANESSA}
+	Claus, wir m�ssen miteinander reden.
+\end{VANESSA}
+
+\begin{CLAUS}
+	Wir werden miteinander reden, mein Schatz.
+\end{CLAUS}
+
+\begin{VANESSA}
+	Wann?
+\end{VANESSA}
+
+\begin{CLAUS}
+	Sp�ter, ja? Sp�ter. Blumen? 
+\end{CLAUS}
+
+\begin{ROBERT}
+ 	Ach ja, Verzeihung.
+\end{ROBERT}
+
+\TextTeilEnde
+\TextTeilAnfang
+
+\begin{Regie}
+Gibt LISA die Blumen.
+\end{Regie}
+
+\begin{LISA}
+	Hat Carmen mir geschenkt.
+\end{LISA}
+
+\begin{Regie}
+Legt sie aufs Pult in der Souffleurecke.
+\end{Regie}
+
+\begin{CLAUS}
+ 	Carmen? Dir?
+\end{CLAUS}
+
+\begin{LISA}
+	Um mir eine Freude zu machen.  Claus...
+\end{LISA}
+
+\begin{CLAUS}
+ 	Ein andermal, sei so lieb. Ein andermal.  Wenn du Carmen 
+siehst, erdrossele sie f�r mich, ja?
+\end{CLAUS}
+
+\begin{ROBERT}
+	Okay.
+\end{ROBERT}
+
+\begin{Regie}
+CLAUS geht zur Durchgangst�r. 
+\end{Regie}
+
+\begin{LILLY}
+	Und was ist mit Heide? 
+\end{LILLY}
+
+\begin{CLAUS}
+ 	Verschont mich bitte mit Heide. 
+\end{CLAUS}
+
+\begin{ROBERT}
+	Und mit Gunther? 
+\end{ROBERT}
+
+\begin{CLAUS}
+ 	Mit Gunther ebenfalls. 
+\end{CLAUS}
+
+\begin{LILLY}
+	Was ist mit Gerda?
+\end{LILLY}
+
+\begin{CLAUS}
+ 	H�rt zu, ich glaube, an dieser Vorstellung sollte ein Regisseur nicht mehr 
+r�hren. Spielt einfach drauflos. Ich werde da drau�en im Dunkeln mit 'ner 
+T�te Toffees sitzen und mich am�sieren. Okay? 'In einer Minute', hie� 
+das letzte Zeichen, falls euer Ged�chtnis so weit zur�ckreicht.
+\end{CLAUS}
+
+\begin{VANESSA}
+ 	Claus! 
+\end{VANESSA}
+
+\begin{LISA}
+ 	Warte!
+\end{LISA}
+
+\begin{Regie}
+CLAUS durch die Durchgangst�r ab. LISA und VANESSA wollen ihm gleichzeitig 
+nachst�rzen.
+\end{Regie}
+
+\begin{VANESSA}
+ 	 Entschuldigung! 
+\end{VANESSA}
+
+\begin{LISA}
+ 	Ich muss mit ihm reden! 
+\end{LISA}
+
+\begin{ROBERT}
+	 M�dchen, M�dchen!
+\end{ROBERT}
+
+\begin{LILLY}
+	 Vanessa, setz dich hin und mach deine Meditations�bungen. 
+Lisa, geh und sieh nach, was sich bei Heide und Gunther tut.
+\end{LILLY}
+
+\begin{Regie}
+VANESSA setzt sich widerstrebend auf den Stuhl. LISA ab zu den Garderoben.
+Auftritt GERDA, eilig, durch die Durchgangst�r.
+\end{Regie}
+
+\begin{GERDA}
+ 	Wo ist Carmen?
+\end{GERDA}
+
+\begin{LILLY}
+	Gerda! Mein Engel! Wo warst du? 
+\end{LILLY}
+
+\begin{ROBERT}
+	Alles okay?
+ \begin{Regie}Streckt ihr herzlich die Hand entgegen, merkt dann, dass er in dieser die 
+Whiskyflasche h�lt.\end{Regie}  Oh je.
+ \begin{Regie}Versteckt sie eilig hinter dem R�cken.\end{Regie} 
+\end{ROBERT}
+
+\begin{LILLY}
+	Wir haben dich �berall gesucht!
+\end{LILLY}
+
+\begin{GERDA}
+ 	Oh ja, �berall. Im Parkett - im B�ro - in der Bar - nirgends eine Spur von ihr.
+\end{GERDA}
+
+\begin{LILLY}
+ 	Jetzt sucht er dich in den Garderoben.
+\end{LILLY}
+
+\begin{GERDA}
+ 	Genau! Da hinten ist der Teufel los. Ich meine, Carmen sollte Bescheid wissen.
+\end{GERDA}
+
+\begin{LILLY}
+ 	Sch�tzchen, ich nehme an, sie hat davon geh�rt.
+\end{LILLY}
+
+\begin{GERDA}
+ 	Oh ja, jedes Wort! Mann, sie hat's ihm vielleicht gegeben! Er darauf: 'Ich 
+wei�, wenn du auf jemanden scharf bist! '
+\end{GERDA}
+
+\begin{ROBERT}
+ 	Oh je, Heide ist auf jemanden scharf, ja?
+\end{ROBERT}
+
+\begin{GERDA}
+ 	Und dann sacht er noch: �Hab doch gesehen, wie du dich mit dem 
+Bl�dmann in dunkle Ecken verdr�ckst.� 
+\end{GERDA}
+
+\begin{ROBERT}
+ 	Mit welchem Bl�dmann?
+\end{ROBERT}
+
+\begin{LILLY}
+ 	Ist doch ganz wurscht, mein Schatz.
+\end{LILLY}
+
+\begin{ROBERT}
+ 	Aber wer ist sonst noch da? Au�er mir?
+\end{ROBERT}
+
+\begin{LISA}
+ 	Ich glaube, sie kommen. 
+\end{LISA}
+
+\begin{LILLY}
+ 	Sie kommen! 
+\end{LILLY}
+
+\begin{ROBERT}
+ 	Sie kommen.
+\end{ROBERT}
+
+\begin{LISA}
+	Okay.  Meine Damen und Herren, w�rden Sie bitte Ihre Pl�tze 
+einnehmen. Die Vorstellung beginnt.
+\end{LISA}
+
+\begin{CARMEN}
+  \begin{Regie}im Einbrecherkost�m, von den Garderoben.\end{Regie} 	Sie kommen.
+\end{CARMEN}
+
+\begin{LILLY}
+	Und wir haben Gerda gefunden.
+\end{LILLY}
+
+\begin{CARMEN}
+ 	 Meine Damen und Herren, w�rden Sie bitte Ihre Pl�tze einnehmen.
+\end{CARMEN}
+
+\begin{LISA}
+ 	Ich hab schon!
+\end{LISA}
+
+\begin{CARMEN}
+ 	 Die Vorstellung ... 
+\end{CARMEN}
+
+\begin{LISA}
+ 	Ich hab schon, ich hab schon!
+\end{LISA}
+
+\begin{CARMEN}
+ 	 Du hast schon? Hast schon gesagt ,beginnt'?
+\end{CARMEN}
+
+\begin{LISA}
+ 	Ja! Beginnt, beginnt, beginnt! 
+\end{LISA}
+
+\begin{CARMEN}
+ 	 ...beginnt... beginnt... jeden Moment.
+\end{CARMEN}
+
+\begin{LILLY}
+ 	Armer Claus! Seine Toffees werden ihm im Halse stecken bleiben.
+\end{LILLY}
+
+\begin{GERDA}
+	Nein, die W�nde sind sehr d�nn, wei�t du. ,Ich hab's so was von satt', 
+schreit sie...  Nanu, ich bin wohl so eine Art Trendsetter?
+\end{GERDA}
+
+\begin{CARMEN}
+ 	 Oh...
+\end{CARMEN}
+
+\begin{LILLY}
+	 Probe f�r die zweite Besetzung, mein Schatz.
+\end{LILLY}
+
+\begin{GERDA}
+	Hat sie damit Gunther gemeint, oder ...
+\end{GERDA}
+
+\begin{LILLY}
+ 	Pscht! Gunther, mein Engel! 
+\end{LILLY}
+
+\begin{GERDA}
+	Ach, da ist er ja. 
+\end{GERDA}
+
+\begin{ROBERT}
+ 	 Alles okay?
+ \begin{Regie}Nimmt den Karton und die Flugtasche vom Requisitentisch und h�lt sie 
+GUNTHER l�chelnd hin, der sie ihm w�tend entrei�t.\end{Regie} 
+\end{ROBERT}
+
+\begin{GERDA}
+	Was hat er gesagt?
+\end{GERDA}
+
+\begin{LILLY}
+	Er hat gar nichts gesagt, Sch�tzchen.
+\end{LILLY}
+
+\begin{GERDA}
+	Sehr gescheit. Nur nicht in der Wunde r�hren. Ich seh doch, wie du ihm 
+immerfort zunickst', hat er gesagt.
+\end{GERDA}
+
+\begin{Regie}
+Auftritt HEIDE von den Garderoben. 
+\end{Regie}
+
+\begin{LILLY}
+	Heidelein!
+\end{LILLY}
+
+\begin{GERDA}
+	Ach, sie ist wieder aufgetaucht. Los, M�dchen! Dein Typ wird verlangt!
+\end{GERDA}
+
+\begin{ROBERT}
+ 	 Alles okay?
+\end{ROBERT}
+
+\begin{GERDA}
+	 Alles okay?
+\end{GERDA}
+
+\begin{Regie}
+HEIDE seufzt nur tief, l�chelt und dr�ckt leicht LILLYs Arm. Sie bezieht ihre 
+Position am Eingang des Personaltrakt - eine Frau, der bitteres Unrecht 
+widerfahren ist. GUNTHER wendet sich ostentativ ab.
+\end{Regie}
+
+\begin{LILLY}
+ 	 Sie ist okay.
+\end{LILLY}
+
+\begin{CARMEN}
+	Was ist? K�nnen wir?
+\end{CARMEN}
+
+\begin{GERDA}
+	Hier ein K�sschen, da ein K�sschen.
+\end{GERDA}
+
+\begin{LILLY}
+	Pscht, Sch�tzchen.
+\end{LILLY}
+
+\begin{LISA}
+	Vorhang auf?
+\end{LISA}
+
+\begin{Regie}
+ALLE blicken gespannt von HEIDE zu GUNTHER und wieder zu HEIDE. Beide 
+ignorieren die Blicke und ignorieren einander. Dann drehen sich beide im selben 
+Augenblick um und werfen einen pr�fenden Blick in die kleinen Spiegel, die hinter 
+der B�hne angebracht sind.
+\end{Regie}
+
+\begin{ROBERT}
+ 	H�r mal, Heide... H�r mal, Gunther... Ich will keine gro�e Rede halten, 
+aber Tatsache ist, wir m�ssen da raus und eine Vorstellung zustande 
+bringen, und...�h...
+\end{ROBERT}
+
+\begin{LILLY}
+	Das k�nnen wir nicht schweigend tun, meine S��en! Wir m�ssen schon 
+miteinander sprechen!
+\end{LILLY}
+
+\begin{Regie}
+Pause. Weder HEIDE noch GUNTHER scheinen es geh�rt zu haben.
+\end{Regie}
+
+\begin{HEIDE}
+ 	 Wie ist's besucht? 
+\end{HEIDE}
+
+\begin{LILLY}
+ 	So ist's recht, Sch�tzchen! 
+\end{LILLY}
+
+\begin{ROBERT}
+ 	Bravo, Heide!
+\end{ROBERT}
+
+\begin{CARMEN}
+ 	Nicht schlecht. Ich meine, f�r 'ne Nachmittagsvorstellung.
+\end{CARMEN}
+
+\begin{LISA}
+ 	Die vorderen von den hintersten Reihen sind ziemlich voll.
+\end{LISA}
+
+\begin{GERDA}
+ 	 Los, M�dchen, zieh den Lappen hoch! Ein paar von den guten 
+Leuten da drau�en haben nicht mehr viel Zeit.
+\end{GERDA}
+
+\begin{LISA}
+ 	Also dann - Ruhe, bitte...
+\end{LISA}
+
+\begin{ROBERT}
+ 	Ein Wort h�tte ich gern noch gesagt... Moment, Lisa...
+\end{ROBERT}
+
+\begin{GERDA}
+ 	Zwei Worte h�tte ich gern noch gesagt. Die Sardinen! 
+\end{GERDA}
+
+\begin{LILLY}
+ 	Die Sardinen! 
+\end{LILLY}
+
+\begin{ROBERT}
+ 	Die Sardinen!
+\end{ROBERT}
+
+\begin{Regie}
+Lilly eilt zum Requisitentisch, um den Sardinenteller f�r HEIDEs ersten Auftritt zu 
+holen.
+\end{Regie}
+
+\begin{LISA}
+ 	 Ruhe bitte. Ton ab, die Eins...
+\end{LISA}
+
+\Seite{59}
+
+\begin{CLAUS}
+  \begin{Regie}durch die Durchgangst�r. \end{Regie} 	Was soll denn das? 
+\end{CLAUS}
+
+\begin{CARMEN}
+ 	Wir wollen gerade anfangen.
+\end{CARMEN}
+
+\begin{CLAUS}
+ 	Wir sitzen seit einer Stunde da und warten! Sie sind schon ganz still 
+geworden! Sie denken, es sei jemand gestorben.
+\end{CLAUS}
+
+\begin{ROBERT}
+	Entschuldige, Claus. Meine Schuld. Ich musste noch jemandem kurz was sagen.
+\end{ROBERT}
+
+\begin{CLAUS}
+	Robbi, hast du mal daran gedacht, 
+dich einer Gehirntransplantation zu unterziehen?
+\end{CLAUS}
+
+\begin{ROBERT}
+ 	Verzeihung, Verzeihung. Falscher Moment. Seh' ich ein.
+\end{ROBERT}
+
+\begin{CLAUS}
+	Sonst noch jemand, der glaubt, seine Gedanken kundtun zu m�ssen?
+\end{CLAUS}
+
+\begin{LISA}
+ 	Also, nat�rlich nicht jetzt, aber...
+\end{LISA}
+
+\begin{CLAUS}
+ 	Was?
+\end{CLAUS}
+
+\begin{LISA}
+ 	Ich meine, �h, sp�ter...
+\end{LISA}
+
+\begin{CLAUS}
+	Und du hast diese Blumen f�r Lisa gekauft?
+\end{CLAUS}
+
+\begin{CARMEN}
+	Nein.  Das hei�t... ja.
+\end{CARMEN}
+
+\begin{CLAUS}
+ 	Und f�r mich hast du keine Blumen gekauft? 
+\end{CLAUS}
+
+\begin{CARMEN}
+	Nein. Das hei�t... nein...
+\end{CARMEN}
+
+\begin{CLAUS}
+	Carmen, hast du schon mal von so etwas wie einem Eifersuchtsdrama geh�rt?
+\end{CLAUS}
+
+\begin{CARMEN}
+ 	Ja. Das hei�t... ja...
+\end{CARMEN}
+
+\begin{CLAUS}
+	Dann nimm zehn Pfund aus deiner eigenen Tasche, Carmen, und geh in 
+den Blumenladen und kauf Blumen f�r mich!
+Hat sie f�r Lisa gekauft! Ihr zwei k�nntet Freddies altes Gehirn haben. Ihr 
+k�nntet's euch teilen.
+ \begin{Regie}Durch die Durchgangst�r ab. LISA schluchzt.\end{Regie}  
+\end{CLAUS}
+
+\begin{ROBERT}
+	Oh je.
+\end{ROBERT}
+
+\begin{LILLY}
+	Nicht weinen, Lisalein. 
+\end{LILLY}
+
+\begin{GERDA}
+ 	Du wirst gebraucht, M�dchen.
+\end{GERDA}
+
+\begin{LISA}
+ 	 Alles bereit, bitte. Technik bitte bereit.
+GUNTHER: 	 Schei�e! 
+\end{LISA}
+
+\begin{LISA}
+	Ruhe hinter der B�hne!
+\end{LISA}
+
+\begin{LILLY}
+	Schsch, mein Schatz.
+\end{LILLY}
+
+\begin{LISA}
+\begin{Regie} �ber Lautsprecher, unter Tr�nen. \end{Regie}
+ Musikeinsatz ein - jetzt.
+\end{LISA}
+
+\Setting{Schnell Dunkel}
+\Setting{Windows Media Player AkkordeonClub 1}
+\begin{Regie} Musik laut. \end{Regie}
+\Seite{60}
+\Setting{Hinter-Vorder-B�hne}
+\begin{Regie}
+Nach etwa 10 (heute 20!!!) Sekunden  ...
+\end{Regie}
+\Setting{Windows Media Player Musik aus}
+\begin{Regie}
+Auftritt HEIDE
+Auftritt MRS.CLACKETT vom Personaltrakt, mit einem Teller Sardinen
+\end{Regie}
+\Setting{Telefon}
+\begin{Regie}
+... bis sie abhebt.
+\end{Regie}
+
+\begin{MRSC}
+	Ja, ja, bimmel du nur...
+Ich kann nicht gleichzeitig Sardinen �ffnen und das Telefon 
+beantworten. Ich habe nur ein Paar F��e.
+\end{MRSC}
+
+\begin{Regie}
+Stellt die Sardinen auf den Telefontisch neben dem Sofa 
+und nimmt den H�rer ab
+GERDA, LILLY und ROBERT dr�cken stumm ihre Erleichterung dar�ber aus, 
+dass die Vorstellung endlich begonnen hat. Sie lassen sich auf den St�hlen 
+nieder.
+CARMEN zieht seinen Regenmantel an, nimmt seine Brieftasche heraus, wirft 
+einen Blick auf seine Barschaft und geht ab zu den Garderoben.
+LILLY macht die anderen darauf aufmerksam, dass GUNTHER mit dem Kopf 
+beharrlich gegen die Kulissenr�ckwand h�mmert.
+ROBERT stellt den Whisky auf den Stuhl und geht hin�ber zu GUNTHER. LILLY 
+beobachtet besorgt, wie ROBERT teilnahmsvoll GUNTHERs Arm dr�ckt und 
+l�chelnd den Finger auf die Lippen legt, um ihn zu ermahnen, leise zu sein. 
+GUNTHER sch�ttelt ihn entr�stet ab.
+\end{Regie}
+
+\begin{MRSC}
+	Hallo... Ja, aber es ist niemand hier, Herzchen... Nein, 
+Mr.Brent ist nicht hier... 
+\end{MRSC}
+
+\begin{Regie}
+LILLY eilt hin�ber, um ROBERT wegzuziehen.
+ROBERT begreift nicht, womit er �rgernis erregt haben soll. Er demonstriert, was 
+er getan hat, indem er GUNTHERs Arm noch einmal freundschaftlich dr�ckt.
+GUNTHER l�sst seine Requisiten fallen und bedroht ROBERT mit den F�usten. 
+ROBERT verbirgt sich hinter VANESSA, die auf ihren Auftritt wartet. GUNTHER 
+jagt ihm um sie herum hinterher.
+ROBERT h�lt sich eiligst ein Taschentuch vor die Nase.
+\end{Regie}
+
+\begin{MRSC} Er wohnt hier, ja, aber jetzt wohnt er nicht hier, weil er in 
+Spanien wohnt... Mr.Philip Brent, richtig... Der, wo die St�cke 
+schreibt, genau, blo� jetzt schreibt er sie in Spanien... Nein, 
+die ist auch in Spanien, sie sind alle in Spanien, es ist niemand 
+hier... Ob ich in Spanien bin? Nein, ich bin nicht in Spanien, 
+Herzchen...
+\end{MRSC}
+
+\begin{Regie}
+Gunter holt aus und Robert h�lt sich die Nase, dann
+\end{Regie}
+\Setting{Schnell Dunkel}
+\begin{Regie}
+Nach etwa 3 Sekunden:
+\end{Regie}
+\Setting{Umbau}
+\begin{Regie}
+Wie lange? Bis Donatus durch die T�re abgegangen ist.
+\end{Regie}
+\Setting{Schnell HVB}
+
+\Seite{61}
+
+
+\begin{Regie}
+HEIDE tr�stet ROBERT. LILLY gie�t �l ins Feuer, indem sie HEIDEs Kopf, der 
+sich nah an Roberts Kopf  befindet, in eine unverf�nglichere Position zu schieben 
+versucht.
+\end{Regie}
+
+\begin{VICKI}
+ 	Spitze! und welches ist das...?
+\end{VICKI}
+
+\begin{ROGER}
+	Was?
+\end{ROGER}
+
+\begin{VICKI}
+	Du wei�t schon...
+\end{VICKI}
+
+\begin{ROGER}
+	Ach so. Hier durch.
+\end{ROGER}
+
+\begin{Regie}
+GUNTHER geht ab.
+�ffnet ihr die T�r zum unteren Bad.
+und st�rzt auf ROBERT und HEIDE zu.
+LILLY schiebt ihn zur�ck auf die B�hne.
+\end{Regie}
+
+\begin{VICKI}
+	Spitze!
+\end{VICKI}
+
+\begin{Regie}
+Ab ins Bad.
+LILLY gelingt es mit knapper Not, HEIDE von ihren Hilfeleistungen wegzulotsen 
+und f�r ihren Auftritt auf die B�hne zu bugsieren.
+Auftritt MRS.C. aus dem Arbeitszimmer, ohne Zeitung.
+\end{Regie}
+
+\begin{MRSC}
+ 	Jetzt hab ich die Sardinen verlegt...
+\end{MRSC}
+
+\begin{Regie}
+LILLY versucht, ROBERT zu erkl�ren, dass HEIDE Gefallen an ihm gefunden 
+hat. ROBERT versteht kein Wort.
+Beiderseitige �berraschung. ROGER schlie�t die T�r 
+zum Bad und steckt den Champagner schnell zur�ck in 
+die Tasche
+\end{Regie}
+
+\begin{ROGER}
+ 	Verzeihung. Ich dachte, es sei niemand hier.
+\end{ROGER}
+
+\begin{MRSC}
+	...Ich bin nicht hier. Ich bin schon weg, blo� ist doch jetzt das 
+Begr�bnis von Sie wissen schon, der, wo aufgebahrt ist im 
+Musol�um, und wer sind Sie?
+\end{MRSC}
+
+\begin{Regie}
+LILLY muss abbrechen, um VANESSA daran zu erinnern...
+\end{Regie}
+
+\begin{ROGER}
+	Ich bin von der Agentur. Ich bin nur vorbeigekommen, um... ein 
+paar Dinge zu begutachten.
+...die Badezimmert�r aufzusto�en.--
+	Einige Ma�e zu �berpr�fen... 
+\end{ROGER}
+
+\begin{Regie}
+LILLY macht pl�tzlich darauf aufmerksam, dass GERDA den Whisky entdeckt 
+hat, den ROBERT auf dem. Stuhl stehen gelassen hatte.
+	Ach ja, und ich habe eine Interessentin f�r das Haus dabei
+GERDA �ffnet die Flasche, riecht daran, schlie�t sie und geht damit ab zu den 
+Garderoben.
+Die Badezimmert�r �ffnet sich. 
+\end{Regie}
+
+\begin{VICKI}
+ 	Was ist denn mit dieser T�r los?
+\end{VICKI}
+
+\Seite{62}
+
+\begin{Regie}
+ROGER schlie�t sie.
+ROBERT will GERDA folgen. LILLY bedeutet ihm, hier zu warten - ruhig sitzen zu 
+bleiben - �berhaupt nichts zu tun - w�hrend sie GERDA hinterher rennen wird...
+\end{Regie}
+
+\begin{ROGER}
+ 	Ich glaube, sie wird es mieten. Sie ist Feuer und Flamme.
+\end{ROGER}
+
+\begin{Regie}
+VICKI wird von Donatus aus dem Bad gezogen. D.h. Vicki
+verschwindet nach hinten auf die B�hne.
+\end{Regie}
+
+\Setting{Schnell Dunkel}
+\begin{Regie}
+Nach etwa 3 Sekunden:
+\end{Regie}
+\Setting{Umbau}
+\begin{Regie}
+Robert mit Karton links. Vicki und Donatus rechts. Heide in der Mitte.
+Dann:
+\end{Regie}
+\Setting{Schnell HVB}
+
+
+\begin{Regie}
+LILLY kommt aus der Garderobe gerannt, mit der Whiskyflasche. Sie schnappt 
+sich die Flugtasche, schafft es gerade noch, HEIDE den Whisky zu geben und...
+\end{Regie}
+
+\begin{PHILIP}
+ Ja, aber heute ist Mrs. 
+Clacketts freier Nachmittag, wie du wei�t.
+\end{PHILIP}
+
+\begin{Regie}
+Auftritt FLAVIA, mit einer Flugtasche, die aussieht wie die 
+von GUNTHER.
+\end{Regie}
+
+\begin{FLAVIA}
+	Daheim!
+\end{FLAVIA}
+
+\begin{PHILIP}
+ 	Home, sweet home!
+\end{PHILIP}
+
+\begin{Regie}
+Auftritt GERDA von den Garderoben.
+\end{Regie}
+
+\begin{FLAVIA}
+	In unseren eigenen vier W�nden!
+\end{FLAVIA}
+
+\begin{Regie}
+Er bittet HEIDE um den Whisky.
+\end{Regie}
+
+\begin{PHILIP}
+ 	Die nur darauf gewartet haben, dass wir zur�ckkommen!
+\end{PHILIP}
+
+\begin{Regie}
+HEIDE jedoch wird durch GUNTHER abgelenkt, der ihr leise aber mit Nachdruck 
+erkl�rt, dass er diese heimlichen Zusammenk�nfte mit ROBERT nicht l�nger 
+dulden wird.
+\end{Regie}
+
+\begin{FLAVIA}
+ 	Trotzdem, es ist ein komisches Gef�hl, sich so 
+hereinzuschleichen - an unserem Hochzeitstag!
+\end{FLAVIA}
+
+\begin{Regie}
+PHILIP nimmt Tasche und Karton und geleitet FLAVIA 
+zur Treppe.
+GERDA ist verzweifelt bem�ht, GUNTHER und HEIDE den Whisky zu entwinden, 
+w�hrend sie sich streiten.
+\end{Regie}
+
+\begin{PHILIP}
+	Es hat doch was f�r sich, ein Steuerfl�chtling zu sein.
+\end{PHILIP}
+
+\begin{Regie}
+GUNTHER und HEIDE fahren ihn beide w�tend an.
+\end{Regie}
+
+\begin{FLAVIA}
+	Lass die hier!
+\end{FLAVIA}
+
+\begin{Regie}
+Er stellt Tasche und Karton ab und k�sst FLAVIA. Sie 
+fl�chtet lachend die Treppe hinauf. Er folgt ihr.
+GUNTHER beschw�rt HEIDE, von ROBERT zu lassen - kniet - weint - klammert 
+sich an ihren Sardinenteller.
+\end{Regie}
+
+\begin{PHILIP}
+	Pscht!
+\end{PHILIP}
+
+\begin{FLAVIA}
+	Was ist?
+\end{FLAVIA}
+
+\begin{PHILIP}
+	Das Finanzamt k�nnte uns h�ren!
+\end{PHILIP}
+
+\Seite{63}
+
+\begin{Regie}
+HEIDE rei�t sich von GUNTHER los und geht, um aufzutreten.
+Sie schleichen zur Schlafzimmert�r.
+GERDA weist darauf hin, dass Heide immer noch den Whisky in der Hand hat.
+GUNTHER nimmt ihn ihr ab, w�hrend sie auftritt.
+Auftritt MRS.CLACKETT vom Personaltrakt, mit einem 
+frischen Sardinenteller.
+\end{Regie}
+\begin{HEIDE}
+	Was ich mit den ersten Sardinen gemacht habe, ist mir schleierhaft.
+\end{HEIDE}
+\begin{Regie}
+Gerda geht mit Wiskey von der B�hne, dann gleich:
+\end{Regie}
+
+\Setting{Schnell Dunkel}
+\begin{Regie}
+Nach etwa 3 Sekunden:
+\end{Regie}
+\Setting{Umbau}
+\begin{Regie}
+Robert, Lilly, Vanessa und Lisa auf der B�hne.
+Dann:
+\end{Regie}
+\Setting{Schnell HVB}
+
+
+\begin{Regie}
+Auftritt CARMEN von den Garderoben, mit einem zweiten, kleineren 
+Blumenstrau�. Sie zieht ihren Regenmantel aus.
+Beginnt, die Treppe hinunterzugehen.
+\end{Regie}
+
+\begin{ROGER}
+	Mrs.Blackett...
+\end{ROGER}
+
+\begin{MRSC}
+ 	Clackett, Herzchen, Clackett.
+\end{MRSC}
+
+\begin{Regie}
+LILLY erkl�rt CARMEN hastig gestikulierend die Situation,
+dass Gerda s�uft und geht ab zu den Garderoben.
+Stellt die einen Sardinen neben die anderen.
+CARMEN fragt ROBERT, wo sie hingeht.
+\end{Regie}
+
+\begin{ROGER}
+ 	Mrs.Clackett. Ist sonst noch jemand im Haus, Mrs.Clackett?
+ROBERT gibt es ihm durch ein Anheben des Ellenbogen zu verstehen.
+\end{ROGER}
+
+\begin{MRSC}
+ 	Ich hab niemand nich' gesehen, Herzchen.
+\end{MRSC}
+
+\begin{Regie}
+Auftritt LILLY von den Garderoben. Sie veranschaulicht, dass GERDA sich 
+irgendwo eingeschlossen hat.
+\end{Regie}
+
+\begin{ROGER}
+ 	Ich dachte, ich h�tte Stimmen geh�rt.
+\end{ROGER}
+
+\begin{MRSC}
+ 	Stimmen? Hier gibt's keine Stimmen, junger Mann.
+\end{MRSC}
+
+\begin{ROGER}
+ 	Dann muss ich's mir eingebildet haben.
+\end{ROGER}
+
+\begin{Regie}
+ROBERT unterbricht das Gespr�ch, um zu sagen:
+\end{Regie}
+
+\begin{PHILIP}
+	Oh, mein Gott!
+\end{PHILIP}
+
+\begin{Regie}
+CARMEN �bergibt LILLY die Blumen und st�rzt hinaus zu den Garderoben.
+ROGER, mit dem R�cken zu MRS.C, nimmt beide Sardinenteller.
+\end{Regie}
+
+\begin{ROGER}
+	Wie bitte?
+\end{ROGER}
+
+\begin{Regie}
+LILLY gibt ROBERT die Blumen, nimmt die Brandaxt von der Wand und mimt mit 
+dieser das Zertr�mmern einer T�r.
+\end{Regie}
+
+\begin{MRSC}
+ 	Oh, mein Gott, die T�r zum Arbeitszimmer ist offen!
+\end{MRSC}
+
+\begin{Regie}
+Geht hin�ber und schlie�t sie. ROGER sieht aus dem Fenster.
+\end{Regie}
+
+
+\begin{Regie}
+LILLY will gerade mit der Axt zu den Garderoben laufen, als LISA sie an ihren 
+Auftritt erinnert. LILLY l�uft zum Steg hinauf, merkt, dass sie immer noch die 
+Brandaxt in der Hand hat und gibt sie VANESSA.
+Geht mit beiden Sardinentellern durch die Haust�r ab.
+Aber noch ehe sie VANESSA erkl�ren kann, was diese mit der Axt tun soll, muss 
+LILLY auftreten.
+Auftritt FLAVIA vom oberen Bad. Im Vorbeigehen sieht 
+sie, dass die W�schekammert�r aufsteht, st��t sie zu 
+und dreht den Schl�ssel herum.
+GUNTHER geht drohend auf ROBERT zu und zeigt argw�hnisch auf die Blumen, 
+die dieser in den H�nden h�lt.
+\end{Regie}
+
+\begin{FLAVIA}
+ 	Immer diese offenen T�ren hier im Haus.
+\end{FLAVIA}
+
+\begin{Regie}
+Ab ins Schlafzimmer.
+ROBERT muss GUNTHER die Blumen geben, um aufzutreten.
+Auftritt PHILIP aus dem Arbeitszimmer, mit einem 
+Steuerbescheid samt Umschlag.
+VANESSA kommt vom Steg herunter und fragt GUNTHER, was sie mit der Axt 
+machen soll. GUNTHER nimmt sie ihr hilfreich ab und gibt ihr die Blumen in die 
+Hand. LILLY, die vom Steg herunterkommt und auf der Suche nach GERDA 
+abgehen will, stutzt, als sie GUNTHER sieht, der die Klinge der Axt zu pr�fen 
+scheint. Er blickt zur T�r, durch die ROBERT abgehen wird. LILLY blickt ebenfalls 
+zur T�r. GUNTHER blickt wieder auf die Axt. LILLY blickt wieder auf die Axt. 
+GUNTHER beginnt, boshaft zu l�cheln. Entsetzt nimmt LILLY VANESSA schnell 
+die Blumen weg und schickt sie fort, um an ihrer Stelle GERDA zu suchen, dann 
+versucht sie, GUNTHER die Axt wegzunehmen. GUNTHER versteckt sie hinter 
+dem R�cken. LILLY, immer noch die Blumen haltend, legt die Arme um 
+GUNTHER, um an die Axt zu gelangen.
+\end{Regie}
+
+\begin{PHILIP}
+	'... letzte Mahnung... Schritte unternommen werden... 
+Pf�ndung... ... gerichtliche Vorladung...
+\end{PHILIP}
+
+\begin{MRSC}
+ 	Ach ja, da f�llt mir ein, �n Herr is' gekommen wegen dem Haus.
+\end{MRSC}
+
+\begin{PHILIP}
+	Ich will nichts h�ren. Ich bin nicht hier.
+\end{PHILIP}
+
+\begin{MRSC}
+ 	Gut, dann setz ich mich jetzt hin und stell den... Die Sardinen, 
+ich hab die Sardinen vergessen! Ich wei� nicht - wenn ich mir 
+nich' 'n Knoten mache, vergess� ich noch, wo mir der Kopf 
+steht.
+\end{MRSC}
+
+\Seite{64}
+
+\begin{Regie}
+HEIDE erscheint 
+MRS.C. ab in den Personaltrakt.
+genau rechtzeitig, um zu sehen, wie Lilly Gunter umarmt.
+Heide schaut auf Lilly und Gunter. Dann:
+\end{Regie}
+
+\Setting{Schnell Dunkel}
+\begin{Regie}
+Nach etwa 3 Sekunden:
+\end{Regie}
+\Setting{Umbau}
+\begin{Regie}
+Warten bis nur Gunter hinten auf der B�hne ist. Alle anderen sind
+vorn. Dann:
+\end{Regie}
+\Setting{Schnell HVB}
+
+\Seite{65}
+
+\begin{ROGER}
+Was geht hier vor?
+\end{ROGER}
+
+\begin{LILLY}
+  \begin{Regie}will ihm folgen, merkt aber dann, dass ...
+Stellt den einen Sardinenteller auf den Telefontisch, wo 
+er vorher war, den anderen in die N�he der Haust�r und 
+geht in Richtung Arbeitszimmer...
+...es nicht klopft -
+weil VANESSA immer noch nicht da ist.\end{Regie} 
+	Was ist denn das f�r ein Gebummer? 
+\end{LILLY}
+
+\begin{ROGER}
+  \begin{Regie}wiederholt auf der B�hne den Satz.\end{Regie} 
+Was ist denn das f�r ein Gebummer da dr�ben?
+\end{ROGER}
+
+\begin{Regie}
+LILLY begreift, was los ist und h�mmert mit einem Requisitenteil gegen die Wand.
+	Klopfen.
+L�uft hinauf.
+\end{Regie}
+
+\begin{FLAVIA}
+	Oh mein Gott, das kommt ja aus der W�schekammer!
+ \begin{Regie}Schlie�t diese auf und �ffnet sie.
+VANESSA tritt nicht auf,
+FLAVIA sieht sich nach VICKI um.
+weil sie noch immer in den Garderoben ist.\end{Regie} 
+Ach, du bist's.  
+\end{FLAVIA}
+
+\begin{Regie}
+GUNTHER kommt durch die T�r der W�schekammer, um VANESSA zu suchen.
+\end{Regie}
+
+\begin{ROGER}
+	Bist das du...? Ich meine,
+\end{ROGER}
+\begin{Regie}
+Auftritt Claus von links wie ein Wirbelwind. Erverlangtschweigend zu wissen,
+was vorgeht.
+ROBERT versucht, es ihm zu erkl�ren.
+\end{Regie}
+\begin{ROGER}
+	das da, wei�t du, was unter all dem Bettzeug und den 
+Handt�chern versteckt ist... Du, ich kann nicht, wei�t du, hier 
+rumstehen bis in alle Ewigkeit...
+\end{ROGER}
+
+\begin{Regie}
+LILLY bedeutet LISA, VANESSAs Rolle aus dem Buch zu lesen. 
+LILLY gibt ROBERT die Blumen und l�uft, immer noch mit der Axt, zu den 
+Garderoben.
+\end{Regie}
+
+\begin{LISA}
+ 	Nat�rlich, wer sonst! Du hast mich doch hier reinbugsiert! In dieses 
+Loch! Zu lauter schwarzen Bett�chern und so Zeugs!
+\end{LISA}
+
+\begin{ROGER}
+ 	Aber Darling, warum hast du die T�r abgeschlossen?
+\end{ROGER}
+
+\begin{LISA}
+ 	Warum ich die T�r abgeschlossen habe? Warum hast du die T�r 
+abgeschlossen! 
+\end{LISA}
+
+\begin{ROGER}
+	 Ich hab die T�r nicht abgeschlossen!
+\end{ROGER}
+\begin{CLAUS}
+	 (Gleichzeitig) Ich hab die T�r nicht abgeschlossen!
+\end{CLAUS}
+
+\begin{LISA}
+ 	Irgend jemand hat die T�r abgeschlossen!
+\end{LISA}
+
+\begin{ROGER}
+	Jedenfalls, so k�nnen wir hier nicht rumstehen.
+ROBERT gibt CLAUS die Blumen, um f�r seinen Auftritt bereit zu sein.
+\end{ROGER}
+
+\begin{LISA}
+ 	Wie denn?
+\end{LISA}
+
+\begin{ROGER}
+	Na, halbnackt, wie du bist.
+\end{ROGER}
+
+\begin{LISA}
+ 	Okay, ich zieh mich ganz aus.
+\end{LISA}
+\begin{Regie}
+Claus gibt der entsetzten LISA zu verstehen, 
+dass sie f�r VANESSA einspringen muss, und rei�t ihr den Rock runter.
+\end{Regie}
+
+\begin{ROGER}
+ 	Hier rein, hier rein!  \begin{Regie}Ab ins Schlafzimmer.\end{Regie} 
+\end{ROGER}
+
+
+\begin{Regie}
+Auftritt PHILIP aus dem Arbeitszimmer mit dem 
+Steuerbescheid, dem Umschlag und einer Tube Klebstoff.
+\end{Regie}
+\Seite{67}
+\begin{Regie}
+Auftritt LILLY mit VANESSA von den Garderoben, gerade rechtzeitig um zu 
+sehen, wie CLAUS LISA den Rock herunterrei�t. VANESSA ist emp�rt.
+\end{Regie}
+
+\begin{PHILIP}
+	Darling, dieser Alleskleber... Ist das der, den man nie wieder 
+abkriegt...? Oh, Mrs.Clackett hat uns Sardinen gebracht.
+ \begin{Regie}Ab ins Arbeitszimmer mit Steuerbescheid, Umschlag, 
+Klebstoff und einem der Sardinenteller vom Telefontisch.\end{Regie} 
+\end{PHILIP}
+
+\begin{Regie}
+GUNTHER steht halb auf der B�hne, halb drau�en und wartet auf VANESSA.
+Auftritt ROGER aus dem Schlafzimmer. Er sieht sich auf der Galerie um.
+Bei VANESSAs Anblick l�sst CLAUS LISA stehen und dr�ngt VANESSA die 
+Treppe hinauf f�r die n�chste Szene, zu der sie allerdings zu sp�t kommt. Sie 
+wehrt CLAUS ab.
+Claus, Heide, Lilly, Carmen trinken Whiskey und �bergehen dabei Gerda.
+\end{Regie}
+
+\begin{ROGER}
+	Hast du nicht, �h,
+ \begin{Regie}improvisiert.\end{Regie} 
+hast du nicht Gespenster gesehen?
+\end{ROGER}
+
+\begin{Regie}
+VANESSA tritt durch die W�schekammert�r auf... 
+...und beginnt die vorangegangene Szene, die sie vers�umt hat, zu spielen.
+\end{Regie}
+
+\begin{VICKI}
+ 	Nat�rlich, wer sonst! Du hast mich doch hier reinbugsiert! In 
+dieses Loch! Zu den schwarzen Bett�chern und lauter so 
+Zeugs!
+\end{VICKI}
+
+\begin{Regie}
+CLAUS verzweifelt �ber VANESSAs Mangel an Flexibilit�t.
+\end{Regie}
+
+\Setting{Schnell Dunkel}
+\begin{Regie}
+Nach etwa 3 Sekunden:
+\end{Regie}
+\Setting{Umbau}
+\begin{Regie}
+Claus, mit Whiskey, und Lisa sitzen auf den St�hlen. Alle anderen sind hinten auf
+der B�hne. Dann:
+\end{Regie}
+\Setting{Schnell HVB}
+
+\begin{SCHEICH}
+Ah! Ein Haus des himmlischen Friedens! Allah sei Dank! Ich miete es!
+\end{SCHEICH}
+\begin{ROGER}
+Moment! Moment! Ich kenne dieses Gesicht!
+Das ist kein Scheich! Das ist ein Sittenstrolch!
+\end{ROGER}
+\begin{GERDA}
+Und, was sie da unten in Basingstoke mit meinem kleinen M�dchen
+vorhaben, will ich gar nicht erst fragen. Aber eins sag ich dir, Vicki ...
+\end{GERDA}
+\begin{Vicki}
+Was denn, Paps?
+\end{Vicki}
+\begin{GERDA}
+Wenn ringsumher die Welt in St�cke bricht, geht nichts �ber einen ...
+\end{GERDA}
+\begin{LISA}
+\begin{Regie} Claus trinkt gerade Whiskey \end{Regie} Ich bin auch schwanger!
+\end{LISA}
+\begin{CLAUS}
+\begin{Regie} Claus setzt Whiskey ab \end{Regie} Uuh!
+\end{CLAUS}
+\begin{Regie}
+Alle erscheinen in den T�ren und Fenstern, begierig, mehr zu erfahren.
+3 Sekunden Standbild.
+\end{Regie}
+\Setting{Schnell Dunkel}
+\begin{Regie}
+Ende 2. Akt
+\end{Regie}
+
+\Setting{Windows Media Player SpikeJones 13}
+\begin{Regie}
+Musik eher leise.
+\end{Regie}
+\Setting{Aufbau}
+\begin{Regie}
+B�hne wird umgebaut. Danach geht es mit 3. Akt weiter.
+\end{Regie}
+\Setting{Dunkel}
+\Setting{Windows Media Player Musik aus}
+\Setting{Carmen falsch}
+\begin{Regie}
+Carmen tritt auf. Beleuchtung ist aber falsch, also jetzt richtig:
+\end{Regie}
+\Setting{Carmen richtig}
+\begin{Regie}
+Carmen macht Ansage.
+Carmen geht ab.
+\end{Regie}
+\Setting{Dunkel}
+\Setting{Windows Media Player AkkordeonClub 1}
+\begin{Regie}
+Musik laut stellen
+\end{Regie}
+\Setting{B�hne hell}
+\begin{Regie}
+Musik etwa 10 (heute 20!!!) Sekunden laufen lassen
+\end{Regie}
+\Setting{Musik aus}
+\begin{Regie}
+Heide beginnt zu spielen.
+Wenn sie das Telefon abgehoben hat, dann erst ...
+\end{Regie}
+\Setting{Telefon}
+\begin{Regie}
+... bis sie abwinkt.
+
+Und jetzt l�uft der Akt zu Ende ohne Beleuchtung bis ...
+\end{Regie}
+\begin{ALLE:}
+Sardinen! ... BLACK!
+\end{ALLE}
+\begin{Regie}
+Nichts r�hrt sich - ein lebendes Bild.
+Dann rennt Carmen eilig ab.
+\end{Regie}
+
+\Setting{Schnell Dunkel}
+ \begin{Regie}Ende. Beifall\end{Regie}
+\Setting{Umbau}
+
+\begin{Regie}
+Alle Schauspieler kommen auf die B�hne.
+\end{Regie}
+
+\Setting{B�hne hell}
+
+\begin{Regie}Beifall\end{Regie}
+
