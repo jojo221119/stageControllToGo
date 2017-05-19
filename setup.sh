@@ -1,17 +1,25 @@
 #!/bin/sh
 
-path=$GOPATH
+path="$GOPATH"
 
-if [ "path" = "" ]; then 
-    cd $path/src
+if [ "$path" = "" ]; then 
+    path=~/go/src
 else 
-    cd ~/go/src
+    path="$path"/src
 fi
+
+cd "$path"
+
+if [ ! -d "kfgo" ]; then
+    echo "kfgo folder not in place. add kfgo to your gopath in order to run setup.sh"
+    exit 127
+fi
+
 
 echo "get project from github"
 
 go get github.com/jojo221119/stageControllToGo/latex-parser/latex
-go get github.com/gnampfelix/Dionysos/middleware
+go get github.com/gnampfelix/Dionysos
 
 cd github.com/jojo221119/stageControllToGo
 
@@ -39,8 +47,10 @@ fi
 echo "install node dependacies"
 npm install
 
-echo "install go dependencies"
 
 
 echo "all dependencies installed project can be build with build.sh"
+
+echo "go to the project folder -- cd $path/github.com/jojo221119/stageControllToGo"
+
 
