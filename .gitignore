@@ -1,5 +1,5 @@
 *.exe
 *.exe~
 
-webserver/assets/*
-!webserver/assets/.gitkeep
+backend/assets/*
+!backend/assets/.gitkeep
