@@ -31,8 +31,8 @@ cd backend
 echo "Start webserver"
 
 if [[ "$OSTYPE" == "msys" ]]; then
-    ./webserver.exe
+    ./backend.exe
 else 
-    ./webserver
+    ./backend
 fi
 

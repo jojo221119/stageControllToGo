@@ -36,7 +36,7 @@ else
 fi
 	
 
-cd stageControlToGoFrontend
+cd frontend
 
 if [ "$(which ng)" ]; then 
     echo "angular cli allready installed"
