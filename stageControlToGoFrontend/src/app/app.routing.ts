@@ -43,10 +43,6 @@ const appRoutes: Routes = [
     component: SelectPlayComponent
   },
   {
-    path: 'play',
-    redirectTo: ''
-  },
-  {
     path: 'play/new',
     component: NewPlayComponent
   },
