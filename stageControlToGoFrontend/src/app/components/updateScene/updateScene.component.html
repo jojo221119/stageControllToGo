@@ -1,0 +1,23 @@
+<div class="row">
+    <div class="col-sm-12">
+        <ol class="breadcrumb">
+            <li><a [routerLink]="['/plays']">Startseite</a></li>
+            <li><a [routerLink]="['/play/edit/', playName]">Einstellungen</a></li>
+            <li class="active">Szene bearbeiten</li>
+        </ol>
+    </div>
+</div>
+<div class="row">
+    <div class="col-sm-12">
+        <h1>Szene <i>{{sceneName}}</i> bearbeiten</h1>
+    </div>
+</div>
+<br />
+<div class="row">
+    <div class="col-sm-12">
+        <label for="brightness">Master-Helligkeit: {{ brightness }}%</label>
+        <input type='range' orient='vertical' id='brightness' min='0' max='100' step='1' [(ngModel)]='brightness' style="width: 20px; height: 200px; -webkit-appearance: slider-vertical; writing-mode: bt-lr;">
+    </div>
+</div>
+<br />
+<button class="btn btn-default" (click)="updateScene(brightness)">Speichern</button>
