@@ -8,7 +8,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/jojo221119/stageControllToGo/latex-parser/latex"
+	"github.com/jojo221119/stageControllToGo/backend/latex-parser/latex"
 	"github.com/julienschmidt/httprouter"
 )
 

@@ -8,7 +8,7 @@ import (
 	"github.com/gnampfelix/Dionysos/api"
 	"github.com/gnampfelix/Dionysos/middleware"
 	"github.com/gnampfelix/Dionysos/storage"
-	"github.com/jojo221119/stageControllToGo/theaterTextHandler"
+	"github.com/jojo221119/stageControllToGo/backend/theaterTextHandler"
 	"github.com/julienschmidt/httprouter"
 )
 
