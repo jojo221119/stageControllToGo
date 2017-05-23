@@ -81,9 +81,10 @@ export class UpdateChannelComponent implements OnInit {
 
         let i = 0;
         let channelExists = false;
+        let cn = +this.channelNumber;
 
         while(!channelExists && (i < this.deviceChannels.length)) {
-          if(this.deviceChannels[i].Name == this.channelName) {
+          if((this.deviceChannels[i].Name == this.channelName) && (this.deviceChannels[i].ChannelNumber == cn)) {
             channelExists = true;
           }
           i++;
