@@ -53,6 +53,13 @@
   padding: 0.5em;
 }
 
+.anchor {
+  display: block;
+  position: relative;
+  top: -60px;
+  visibility: hidden;
+}
+
 .side-menu {
     background-color: #545454;
     padding-left: 0;
