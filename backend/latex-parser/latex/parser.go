@@ -85,8 +85,13 @@ func (p *Parser) parse() ([]TopElement, error) {
 			}
 			topElement.Body = body
 
-			if len(topElement.Body) == 1 && topElement.Name == TYPE_REGIE && topElement.Body[0].Type == TYPE_TEXT {
-				topElement.Body[0].Type = TYPE_REGIE
+			if len(topElement.Body) >= 1 && topElement.Name == TYPE_REGIE {
+				for index, element := range topElement.Body {
+					if element.Type == TYPE_TEXT {
+						log.Print(element.Type)
+						topElement.Body[index].Type = TYPE_REGIE
+					}
+				}
 			}
 
 			// add element to the document
