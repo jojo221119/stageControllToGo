@@ -1,68 +1,69 @@
 <div class="row">
-<div class="side-menu col-xs-3 col-sm-3 col-md-3 col-lg-3">
-  <app-side-menu scriptName={{scriptName}}></app-side-menu>
-</div>
-<div class="col-xs-9 col-sm-9 col-md-9 col-lg-9">
-  
-<div *ngFor="let element of script" class="content-container">
-
-  <div *ngIf="element.Name" class="text-head">
-    {{element.Name}}:
+  <div class="side-menu col-xs-3 col-sm-3 col-md-3 col-lg-3">
+    <app-side-menu scriptName={{scriptName}}></app-side-menu>
   </div>
+  <div class="col-xs-9 col-sm-9 col-md-9 col-lg-9">
 
-  <ng-container *ngFor="let typedElement of element.Body">
-    <ng-container [ngSwitch]="typedElement.Type">
-      <template ngSwitchCase="Text" style="display: inline-block">
-        <div class="text content">
-          {{typedElement.Body}}
-        </div>
-      </template>
-      <template ngSwitchCase="Seite" style="display: inline-block">
-        <a id={{typedElement.Body}}></a>
-        
-        <!--
+    <div *ngFor="let element of script" class="content-container">
+
+      <div *ngIf="element.Name" class="text-head">
+        {{element.Name}}:
+      </div>
+
+      <ng-container *ngFor="let typedElement of element.Body">
+        <ng-container [ngSwitch]="typedElement.Type">
+          <template ngSwitchCase="Text" style="display: inline-block">
+            <div class="text content">
+              {{typedElement.Body}}
+            </div>
+          </template>
+          <template ngSwitchCase="Seite" style="display: inline-block">
+            <a id={{typedElement.Body}}></a>
+            <span class="text-head"> Seite:</span> {{typedElement.Body}}
+
+            <!--
         <div class="text content">
           {{typedElement.Body}}
         </div>
 -->
-      </template>
-      <template ngSwitchCase="AudioEinstellung">
-        <div class="setting content" >
-          Bitte Setting anstelle von AudioEinstellung verwenden
-        </div>
-      </template>
-      <template ngSwitchCase="Einstellung">
-        <div class="setting content" >
-          Bitte Setting anstelle von Einstellung verwenden
-        </div>
-      </template>
-      <template ngSwitchCase="LangsameEinstellung">
-        <div class="setting content" >
-          Bitte Setting anstelle von LangsameEinstellung verwenden
-        </div>
-      </template>
-      <template ngSwitchCase="SchnelleEinstellung">
-        <div class="setting content" >
-          Bitte Setting anstelle von SchnelleEinstellung verwenden
-        </div>
-      </template>
-      <template ngSwitchCase="Regie">
-        <div class="regie content">
-          {{typedElement.Body}}
-        </div>
-      </template>
-      <template ngSwitchCase="Setting">
-        <div class="setting content" (click)="activateSetting($event, typedElement.Body)">
-          {{typedElement.Body}}
-        </div>
-      </template>
-      <div *ngSwitchDefault class="content">
-        Unbekannter Elementtyp.
-      </div>
-    </ng-container>
-  </ng-container>
+          </template>
+          <template ngSwitchCase="AudioEinstellung">
+            <div class="setting content">
+              Bitte Setting anstelle von AudioEinstellung verwenden
+            </div>
+          </template>
+          <template ngSwitchCase="Einstellung">
+            <div class="setting content">
+              Bitte Setting anstelle von Einstellung verwenden
+            </div>
+          </template>
+          <template ngSwitchCase="LangsameEinstellung">
+            <div class="setting content">
+              Bitte Setting anstelle von LangsameEinstellung verwenden
+            </div>
+          </template>
+          <template ngSwitchCase="SchnelleEinstellung">
+            <div class="setting content">
+              Bitte Setting anstelle von SchnelleEinstellung verwenden
+            </div>
+          </template>
+          <template ngSwitchCase="Regie">
+            <div class="regie content">
+              {{typedElement.Body}}
+            </div>
+          </template>
+          <template ngSwitchCase="Setting">
+            <div class="setting content" (click)="activateSetting($event, typedElement.Body)">
+              {{typedElement.Body}}
+            </div>
+          </template>
+          <div *ngSwitchDefault class="content">
+            Unbekannter Elementtyp.
+          </div>
+        </ng-container>
+      </ng-container>
 
-</div>
-</div>
+    </div>
+  </div>
 
 </div>
