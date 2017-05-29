@@ -11,7 +11,7 @@ const INITIAL_LIST_SIZE = 0
 
 // specify the names that are defined for a specific latex snippet
 const TYPE_TEXT = "Text"
-const COMPLEX_TYPE = "Complex"
+const TYPE_REGIE = "Regie"
 
 // struct to represent the Abstract Syntax Tree (AST) of the result
 type Document struct {
@@ -84,6 +84,11 @@ func (p *Parser) parse() ([]TopElement, error) {
 				return nil, error
 			}
 			topElement.Body = body
+
+			if len(topElement.Body) == 1 && topElement.Name == TYPE_REGIE && topElement.Body[0].Type == TYPE_TEXT {
+				topElement.Body[0].Type = TYPE_REGIE
+			}
+
 			// add element to the document
 			elementList = append(elementList, *topElement)
 			break

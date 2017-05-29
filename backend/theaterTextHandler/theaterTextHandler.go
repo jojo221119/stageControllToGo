@@ -149,7 +149,6 @@ func TheaterTextPaginationHandler(w http.ResponseWriter, r *http.Request, p http
 				if body == pg {
 					keep = true
 				} else {
-					log.Print(element.Name + subelement.Type + subelement.Body)
 					keep = false
 					break
 				}
