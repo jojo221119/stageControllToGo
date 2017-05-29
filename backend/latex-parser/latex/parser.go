@@ -88,7 +88,6 @@ func (p *Parser) parse() ([]TopElement, error) {
 			if len(topElement.Body) >= 1 && topElement.Name == TYPE_REGIE {
 				for index, element := range topElement.Body {
 					if element.Type == TYPE_TEXT {
-						log.Print(element.Type)
 						topElement.Body[index].Type = TYPE_REGIE
 					}
 				}
