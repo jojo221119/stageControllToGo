@@ -13,8 +13,7 @@
       <ng-container *ngFor="let typedElement of element.Body">
         <ng-container [ngSwitch]="typedElement.Type">
           <template ngSwitchCase="Text" style="display: inline-block">
-            <div class="text content">
-              {{typedElement.Body}}
+            <div class="text content">{{typedElement.Body}}
             </div>
           </template>
           <template ngSwitchCase="Seite" style="display: inline-block">
@@ -48,13 +47,11 @@
             </div>
           </template>
           <template ngSwitchCase="Regie">
-            <div class="regie content">
-              {{typedElement.Body}}
+            <div class="regie content">{{typedElement.Body}}
             </div>
           </template>
           <template ngSwitchCase="Setting">
-            <div class="setting content" (click)="activateSetting($event, typedElement.Body)">
-              {{typedElement.Body}}
+            <div class="setting content" (click)="activateSetting($event, typedElement.Body)">{{typedElement.Body}}
             </div>
           </template>
           <div *ngSwitchDefault class="content">
