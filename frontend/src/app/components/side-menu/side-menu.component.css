@@ -15,3 +15,19 @@ span {
     overflow-y: scroll;
     height: 93%;
 }
+ 
+.side-list {
+  list-style: none;
+  font-size: 1.5em;
+  padding-left: 0;
+}
+
+.side-element {
+  padding-left: 25px;
+  padding-right: 1em;
+}
+
+.side-element a:hover {
+    color: #5fb200;
+    cursor: pointer;
+}
