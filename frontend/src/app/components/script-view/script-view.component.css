@@ -53,22 +53,6 @@
   padding: 0.5em;
 }
 
-/deep/ ul {
-  list-style: none;
-  font-size: 1.5em;
-  padding-left: 0;
-}
-
-/deep/ li {
-  padding-left: 25px;
-  padding-right: 1em;
-}
-
-/deep/ li:hover {
-    background-color: #5fb200;
-    cursor: pointer;
-}
-
 .side-menu {
     background-color: #545454;
     padding-left: 0;
