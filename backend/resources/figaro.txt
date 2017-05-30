@@ -45,7 +45,7 @@ Musik ab Titel 2 leise (ST auf etwa 1/8, etwa 8 Uhr-Stellung) anschalten.
 
 \Seite{9}
 
-\Setting{Telefon}
+\AudioSetting{Telefon}
 \Setting{Dunkel mit Musik leise}
 \begin{Regie}
 Zuschauer nehmen Platz.

@@ -39,4 +39,9 @@ export class ScriptViewComponent implements OnInit {
     this.settingsService.activateSetting(this.scriptName, sceneName).subscribe(res => res, err => console.log(<any>err));
   }
 
+  activateAudioSetting(event, sceneName:String) {
+    event.target.className += " visited";
+    this.settingsService.activateAudioSetting(this.scriptName, sceneName).subscribe(res => res, err => console.log(<any>err));
+  }
+
 }
