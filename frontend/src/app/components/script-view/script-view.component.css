@@ -24,6 +24,13 @@
   display: inline-block;
 }
 
+.page {
+  font-weight: bold;
+  text-transform: uppercase;
+  display: inline-block;
+  color: #00e500;
+}
+
 .setting{
   height: 2em;
   background-color: #545454;
@@ -61,4 +68,9 @@
     padding-left: 0;
     padding-right: 0;
     border-radius: 0em 0.5em 0.5em 0em;
+}
+
+/deep/ .jumbotron {
+  color: #f2f2f2;
+  background-color: #778899;
 }
