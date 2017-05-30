@@ -18,8 +18,8 @@ fi
 
 echo "get project from github"
 
-go get github.com/jojo221119/stageControllToGo/backend
-go get github.com/gnampfelix/Dionysos
+go get -u github.com/jojo221119/stageControllToGo/backend
+go get -u github.com/gnampfelix/Dionysos
 
 cd github.com/jojo221119/stageControllToGo
 
