@@ -63,7 +63,7 @@ export class UpdateTransmissionComponent implements OnInit  {
           return true;
         },
         error => {
-          console.log('Error updating transmission ' + name + ': ' + error);
+          alert(error._body);
         }
       )
     } else {

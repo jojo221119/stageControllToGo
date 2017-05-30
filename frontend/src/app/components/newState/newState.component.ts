@@ -85,7 +85,7 @@ export class NewStateComponent implements OnInit  {
         return true;
       },
       error => {
-        console.log('Error creating state: ' + error);
+        alert(error._body);
       }
     )
   }

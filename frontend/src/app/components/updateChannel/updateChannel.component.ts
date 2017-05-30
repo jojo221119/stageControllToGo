@@ -95,7 +95,7 @@ export class UpdateChannelComponent implements OnInit {
         }
       },
       error => {
-        console.log('Error getting channels: ' + error);
+        alert(error._body);
       }
     )
   }
@@ -111,7 +111,7 @@ export class UpdateChannelComponent implements OnInit {
           return true;
         },
         error => {
-          console.log('Error updating Channel: ' + error);
+          alert(error._body);
         }
       )
     } else {

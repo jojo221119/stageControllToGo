@@ -112,7 +112,7 @@ export class ListEffectsComponent implements OnInit {
         return true;
       },
       error => {
-        console.log('Error deleting Effect: ' + error);
+        alert(error._body);
       }
     )
   }

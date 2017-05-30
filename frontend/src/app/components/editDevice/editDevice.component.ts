@@ -86,7 +86,7 @@ export class EditDeviceComponent implements OnInit {
         this.isChannelOk = false;
       }
     }
-    
+
     if(this.isChannelOk) {
       for(let j = 0; j < this.numChannels; j++) {
         let channel = {Name: this.channels[j].name, Type: this.channels[j].type, ChannelNumber: (j+1) };
@@ -97,7 +97,7 @@ export class EditDeviceComponent implements OnInit {
           },
           error => {
             httpSuccess = false;
-            console.log('Error creating Channels: ' + error);
+            alert(error._body);
           }
         )
       }

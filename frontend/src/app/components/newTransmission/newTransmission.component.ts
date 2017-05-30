@@ -50,7 +50,7 @@ export class NewTransmissionComponent implements OnInit  {
           return true;
         },
         error => {
-          console.log('Error creating transmission ' + name + ': ' + error);
+          alert(error._body);
         }
       )
     } else {

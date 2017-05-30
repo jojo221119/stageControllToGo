@@ -67,7 +67,7 @@ export class NewDeviceComponent implements OnInit  {
           return true;
         },
         error => {
-          console.log('Error creating device: ' + error);
+          alert(error._body);
         }
       )
     } else {

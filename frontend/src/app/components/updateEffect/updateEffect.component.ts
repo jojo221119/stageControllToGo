@@ -130,7 +130,7 @@ export class UpdateEffectComponent implements OnInit  {
           return true;
         },
         error => {
-          console.log('Error creating effect: ' + error);
+          alert(error._body);
         }
       )
     } else {

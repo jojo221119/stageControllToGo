@@ -48,7 +48,7 @@ export class NewSceneComponent implements OnInit  {
           return true;
         },
         error => {
-          console.log('Error creating scene: ' + error);
+          alert(error._body);
         }
       )
     } else {

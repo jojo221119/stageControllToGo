@@ -93,7 +93,7 @@ export class UpdateSceneComponent implements OnInit  {
         return true;
       },
       error => {
-        console.log('Error updating scene: ' + error);
+        alert(error._body);
       }
     )
 
