@@ -7,7 +7,7 @@ span {
     font-weight: bold;
     padding-left: 25px;
     font-size: 1.5em;
-    color: #5fb200;
+    color: #00e500;
 }
 
 .fixed {
@@ -28,6 +28,6 @@ span {
 }
 
 .side-element a:hover {
-    color: #5fb200;
+    color: #00e500;
     cursor: pointer;
 }

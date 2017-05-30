@@ -1,0 +1,16 @@
+html {
+    position: relative;
+    min-height: 101%;
+}
+
+body {
+  margin-top: 30px;
+}
+
+table {
+  text-align: center;
+}
+
+th {
+  text-align: center;
+}

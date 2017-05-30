@@ -1,5 +1,6 @@
 body, div {
   font-family: Arial, "Helvetica New", Helvetica, sans-serif;
+  padding-left: 15px;
 }
 
 .container-fluid {
@@ -18,10 +19,8 @@ body, div {
   border-radius: 0px !important;
   margin-bottom: 0px !important;
   padding-bottom: 0;
-  padding-left: 0 !important;
+  padding-left: 35px !important;
   padding-top: 0;
-  color: #f2f2f2;
-  background-color: #778899;
 }
 
 .container-bottom {
