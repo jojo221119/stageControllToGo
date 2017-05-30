@@ -56,8 +56,7 @@ func main() {
 	apiRouter.POST("/api/plays/:play/scenes/:scene/activate", api.ActivateScene)
 	apiRouter.DELETE("/api/plays/:play/scenes/:scene", api.RemoveScene)
 
-	//Mock request for play activation
-	//apiRouter.POST("/api/plays/:play/scenes/:scene/activate", ActivateSetting)
+	apiRouter.POST("/api/plays/:play/audioScenes/:scene/activate", ActivateAudioSetting)
 
 	middleware := middleware.Middleware{}
 
@@ -77,15 +76,18 @@ func Log(handler http.Handler) http.Handler {
 	})
 }
 
-//ActivateSetting activates the setting specified in the request
-func ActivateSetting(w http.ResponseWriter, r *http.Request, p httprouter.Params) {
+//ActivateAudioSetting activates the audioSetting specified in the request
+func ActivateAudioSetting(w http.ResponseWriter, r *http.Request, p httprouter.Params) {
 
+	//name des theaterstücks
 	playName := p.ByName("play")
-	settingName := p.ByName("scene")
 
-	//Hier Eventhandler aufrufen
-	//evef.ActivateSetting(settingName)
-	log.Printf("Activate scene: " + settingName + " in play: " + playName + "\n")
+	//name der audio einstellung --> name der auf buttons angezeigt ist.
+	audioSettingName := p.ByName("scene")
+
+	//Hier Eventhandler aufrufen um audio abzuspielen
+	//evef.ActivateAudioSetting(settingName)
+	log.Printf("Activate audioScene: " + audioSettingName + " in play: " + playName + "\n")
 
 	w.WriteHeader(http.StatusOK)
 

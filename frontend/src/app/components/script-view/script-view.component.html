@@ -28,9 +28,15 @@
           </template>
           <template ngSwitchCase="AudioEinstellung">
             <div class="setting content">
-              Bitte Setting anstelle von AudioEinstellung verwenden
+              Bitte AudioSetting anstelle von AudioEinstellung verwenden
             </div>
           </template>
+
+          <template ngSwitchCase="AudioSetting">
+            <div class="setting content" (click)="activateAudioSetting($event, typedElement.Body)">{{typedElement.Body}}
+            </div>
+          </template>
+
           <template ngSwitchCase="Einstellung">
             <div class="setting content">
               Bitte Setting anstelle von Einstellung verwenden

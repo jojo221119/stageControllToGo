@@ -15,5 +15,14 @@ export class SettingsService {
     return this.http.post(url, {}, options);
 
   }
+  activateAudioSetting(playName:String, settingName:String) {
+    let url = '/api/plays/' + playName + '/audioScenes/' + settingName + '/activate'
+
+    let headers = new Headers({ 'Content-Type': 'application/json' });
+    let options = new RequestOptions({ headers: headers });
+
+    return this.http.post(url, {}, options);
+
+  }
 
 }
