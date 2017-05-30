@@ -24,7 +24,7 @@ export class SelectPlayComponent implements OnInit  {
         this.plays = plays;
       },
       error => {
-        console.log('Fehler beim Laden der Theaterstücke: ' + error);
+        alert(error._body);
       })
   }
 
@@ -34,7 +34,7 @@ export class SelectPlayComponent implements OnInit  {
         window.location.reload();
       },
       error => {
-        console.log('Error sending configuration: ' + error);
+        alert(error._body);
       }
     )
   }

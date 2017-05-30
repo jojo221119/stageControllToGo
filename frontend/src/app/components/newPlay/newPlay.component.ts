@@ -24,7 +24,7 @@ export class NewPlayComponent  {
           return true;
         },
         error => {
-          console.log('Error creating play ' + name + ': ' + error);
+          alert(error._body);
         }
       )
     } else {

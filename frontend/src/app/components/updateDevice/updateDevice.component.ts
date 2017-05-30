@@ -79,7 +79,7 @@ export class UpdateDeviceComponent implements OnInit  {
           return true;
         },
         error => {
-          console.log('Error updating device: ' + error);
+          alert(error._body);
         }
       )
     } else {

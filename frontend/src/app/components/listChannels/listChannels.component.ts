@@ -89,7 +89,7 @@ export class ListChannelsComponent implements OnInit {
         }
       },
       error => {
-        console.log('Error getting Channels: ' + error);
+        alert(error._body);
       }
     )
   }
@@ -101,7 +101,7 @@ export class ListChannelsComponent implements OnInit {
         this.router.navigate([url]);
       },
       error => {
-        console.log('Error deleting Channel: ' + error);
+        alert(error._body);
       }
     )
   }

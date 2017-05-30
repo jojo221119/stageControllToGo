@@ -66,7 +66,7 @@ export class EditTransmissionComponent implements OnInit {
         }
       },
       error => {
-        console.log('Error getting Devices: ' + error);
+        alert(error._body);
       }
     )
   }
@@ -78,7 +78,7 @@ export class EditTransmissionComponent implements OnInit {
           this.devices.push(data);
         },
         error => {
-          console.log('Error getting Devices: ' + error);
+          alert(error._body);
         }
       )
     }
@@ -103,7 +103,7 @@ export class EditTransmissionComponent implements OnInit {
         return true;
       },
       error => {
-        console.log('Error deleting state: ' + error);
+        alert(error._body);
       }
     )
   }

@@ -83,11 +83,11 @@ export class EditPlayComponent implements OnInit  {
         }
       },
       error => {
-        console.log('Error loading information for play: ' + error);
+        alert(error._body);
       }
     )
   }
-  
+
   sortStates() {
     for(let i = 0; i < this.states.length; i++) {
       if(this.states[i].Type == 'DimmerState') {
@@ -120,7 +120,7 @@ export class EditPlayComponent implements OnInit  {
         this.deleteFromArray(name, this.transmissions, this.isTransmission);
       },
       error => {
-        console.log('Error deleting transmission: ' + error);
+        alert(error._body);
       }
     )
   }
@@ -134,7 +134,7 @@ export class EditPlayComponent implements OnInit  {
         }
       },
       error => {
-        console.log('Error deleting state: ' + error);
+        alert(error._body);
       }
     )
   }
@@ -145,7 +145,7 @@ export class EditPlayComponent implements OnInit  {
         this.deleteFromArray(name, this.scenes, this.isScene);
       },
       error => {
-        console.log('Error deleting scene: ' + error);
+        alert(error._body);
       }
     )
   }
@@ -172,7 +172,7 @@ export class EditPlayComponent implements OnInit  {
         return true;
       },
       error => {
-        console.log('Error playing scene: ' + error);
+        alert(error._body);
       }
     )
   }

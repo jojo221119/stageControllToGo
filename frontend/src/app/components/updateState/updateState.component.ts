@@ -72,10 +72,10 @@ export class UpdateStateComponent implements OnInit  {
     if(brightness !== null) {
       this.brightness = brightness;
     }
-    
+
     let state = {Name: this.stateName, Brightness: this.brightness, Type: type};
     this.updateState(state);
-    
+
   }
 
   updateByteObject(value: number, type: string) {
@@ -97,7 +97,7 @@ export class UpdateStateComponent implements OnInit  {
         return true;
       },
       error => {
-        console.log('Error updating state: ' + error);
+        alert(error._body);
       }
     )
   }
