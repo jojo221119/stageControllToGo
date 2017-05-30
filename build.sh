@@ -2,6 +2,7 @@
 
 backend () {
     cd backend
+    go get -u github.com/gnampfelix/Dionysos
     echo "build backend"
     go build
     cd ..  

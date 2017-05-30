@@ -18,13 +18,13 @@ fi
 
 echo "get project from github"
 
-go get github.com/jojo221119/stageControllToGo/backend
-go get github.com/gnampfelix/Dionysos
+go get -u github.com/jojo221119/stageControllToGo/backend
+go get -u github.com/gnampfelix/Dionysos
 
 cd github.com/jojo221119/stageControllToGo
 
 if [ "$(which node)" ]; then 
-    echo "node allready installed"
+    echo "node already installed"
 else
     if [ "$OSTYPE" == "darwin"* ]; then
 	echo "OS type OSX installing latest Node.js"
@@ -39,7 +39,7 @@ fi
 cd frontend
 
 if [ "$(which ng)" ]; then 
-    echo "angular cli allready installed"
+    echo "angular cli already installed"
 else
     echo "installing angular cli"
     npm install -g @angular/cli
