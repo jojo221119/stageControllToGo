@@ -11,7 +11,7 @@ frontend () {
     cd frontend
     echo "build frontend"
     ng build
-    cp dist/* ../backend/assets/ -r
+    cp -r dist/* ../backend/assets/
     cd ..
 }
 
