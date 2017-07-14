@@ -2,6 +2,7 @@ package main
 
 import (
 	"net/http"
+	"os"
 
 	"log"
 
@@ -57,6 +58,7 @@ func main() {
 	apiRouter.DELETE("/api/plays/:play/scenes/:scene", api.RemoveScene)
 
 	apiRouter.POST("/api/plays/:play/audioScenes/:scene/activate", ActivateAudioSetting)
+	apiRouter.GET("/api/stop", ShutdownServer)
 
 	middleware := middleware.Middleware{}
 
@@ -91,4 +93,12 @@ func ActivateAudioSetting(w http.ResponseWriter, r *http.Request, p httprouter.P
 
 	w.WriteHeader(http.StatusOK)
 
+}
+
+func ShutdownServer(w http.ResponseWriter, r *http.Request, p httprouter.Params) {
+	log.Println("Server was successfully shutdown")
+
+	//Here you can insert the cleanup and gracefull shutdown for other things
+
+	os.Exit(1)
 }
